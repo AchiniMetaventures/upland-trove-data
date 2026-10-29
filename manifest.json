@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
- "dataVersion": "2026.10.29-2",
- "generatedAt": "2026-10-29T08:57:12Z",
+ "dataVersion": "2026.10.29-3",
+ "generatedAt": "2026-10-29T13:42:38Z",
  "counts": {
   "troves": 372,
   "buildings": 358,
@@ -10,8 +10,8 @@
  },
  "files": {
   "troves.json": {
-   "bytes": 175496,
-   "sha256": "6bc7633a86a4fe4007db1fb371bda8213cb5d161e949327845adcc7687272c34"
+   "bytes": 181594,
+   "sha256": "df853780dc904959623f5cd64f7f678f66e6cf3b32b9dfc08a13762145459a68"
   },
   "buildings.json": {
    "bytes": 174679,
