@@ -1,0 +1,499 @@
+[
+ {
+  "species": "Apple Tree",
+  "troves": [
+   "Apple",
+   "Friendly Wave",
+   "Geode",
+   "Grin",
+   "Heart",
+   "Invite Card",
+   "Rake"
+  ],
+  "source": "catalog"
+ },
+ {
+  "species": "Avocado Tree",
+  "troves": [
+   "Avocado",
+   "Deep Breath",
+   "Friendly Wave",
+   "Geode",
+   "Glee",
+   "Grin",
+   "Heart",
+   "Honey",
+   "Kind Word",
+   "Knowing Nod",
+   "Rake",
+   "Sunlight",
+   "Thumbs Up"
+  ],
+  "source": "catalog"
+ },
+ {
+  "species": "Begonia Rex",
+  "troves": [
+   "Air Kiss",
+   "Bouquet",
+   "Deep Breath",
+   "Friendly Wave",
+   "Geode",
+   "Glee",
+   "Grin",
+   "Heart",
+   "Honey",
+   "Kind Word",
+   "Shy Giggle",
+   "Soft Heart",
+   "Sunlight"
+  ],
+  "source": "catalog"
+ },
+ {
+  "species": "Birch Tree",
+  "troves": [
+   "Deep Breath",
+   "Friendly Wave",
+   "Gather Round",
+   "Geode",
+   "Grin",
+   "High Five",
+   "Hooray",
+   "Knowing Nod",
+   "Mushroom",
+   "Peace Sign",
+   "Rake",
+   "Sunlight",
+   "Warm Hug"
+  ],
+  "source": "catalog"
+ },
+ {
+  "species": "Bird Of Paradise",
+  "troves": [
+   "Air Kiss",
+   "Bouquet",
+   "Deep Breath",
+   "Friendly Wave",
+   "Geode",
+   "Glee",
+   "Grin",
+   "Heart",
+   "Honey",
+   "Kind Word",
+   "Shy Giggle",
+   "Soft Heart",
+   "Sunlight"
+  ],
+  "source": "catalog"
+ },
+ {
+  "species": "Blueberry",
+  "troves": [
+   "Blueberry",
+   "Deep Breath",
+   "Gather Round",
+   "Geode",
+   "Grin",
+   "Hooray",
+   "Rake"
+  ],
+  "source": "catalog"
+ },
+ {
+  "species": "Bougainvillea",
+  "troves": [
+   "Air Kiss",
+   "Bouquet",
+   "Deep Breath",
+   "Friendly Wave",
+   "Geode",
+   "Glee",
+   "Grin",
+   "Heart",
+   "Honey",
+   "Kind Word",
+   "Shy Giggle",
+   "Soft Heart",
+   "Sunlight"
+  ],
+  "source": "catalog"
+ },
+ {
+  "species": "Boxwood",
+  "troves": [
+   "Deep Breath",
+   "Friendly Wave",
+   "Geode",
+   "Grin",
+   "Knowing Nod",
+   "Peace Sign",
+   "Polite Bow",
+   "Rake",
+   "Shy Giggle",
+   "Sunlight",
+   "Wink",
+   "Zen Stone"
+  ],
+  "source": "catalog"
+ },
+ {
+  "species": "Forsythia",
+  "troves": [
+   "Deep Breath",
+   "Friendly Wave",
+   "Geode",
+   "Grin",
+   "Knowing Nod",
+   "Peace Sign",
+   "Polite Bow",
+   "Rake",
+   "Shy Giggle",
+   "Sunlight",
+   "Wink",
+   "Zen Stone"
+  ],
+  "source": "catalog"
+ },
+ {
+  "species": "Lavender",
+  "troves": [
+   "Air Kiss",
+   "Bouquet",
+   "Deep Breath",
+   "Friendly Wave",
+   "Geode",
+   "Glee",
+   "Grin",
+   "Heart",
+   "Honey",
+   "Kind Word",
+   "Shy Giggle",
+   "Soft Heart",
+   "Sunlight"
+  ],
+  "source": "catalog"
+ },
+ {
+  "species": "Lemon Tree",
+  "troves": [
+   "Deep Breath",
+   "Friendly Wave",
+   "Geode",
+   "Glee",
+   "Grin",
+   "Heart",
+   "Honey",
+   "Hooray",
+   "Lemon",
+   "Rake",
+   "Shy Giggle",
+   "Sunlight",
+   "Wink"
+  ],
+  "source": "catalog"
+ },
+ {
+  "species": "Lilac",
+  "troves": [
+   "Air Kiss",
+   "Bouquet",
+   "Deep Breath",
+   "Friendly Wave",
+   "Geode",
+   "Glee",
+   "Grin",
+   "Heart",
+   "Honey",
+   "Kind Word",
+   "Shy Giggle",
+   "Soft Heart",
+   "Sunlight"
+  ],
+  "source": "catalog"
+ },
+ {
+  "species": "Magnolia Tree",
+  "troves": [
+   "Deep Breath",
+   "Friendly Wave",
+   "Gather Round",
+   "Geode",
+   "Grin",
+   "High Five",
+   "Hooray",
+   "Knowing Nod",
+   "Mushroom",
+   "Peace Sign",
+   "Rake",
+   "Sunlight",
+   "Warm Hug"
+  ],
+  "source": "catalog"
+ },
+ {
+  "species": "Monstera",
+  "troves": [
+   "Deep Breath",
+   "Friendly Wave",
+   "Geode",
+   "Grin",
+   "Knowing Nod",
+   "Peace Sign",
+   "Polite Bow",
+   "Rake",
+   "Shy Giggle",
+   "Sunlight",
+   "Wink",
+   "Zen Stone"
+  ],
+  "source": "catalog"
+ },
+ {
+  "species": "Orange Calla Lily",
+  "troves": [
+   "Air Kiss",
+   "Bouquet",
+   "Deep Breath",
+   "Friendly Wave",
+   "Geode",
+   "Glee",
+   "Grin",
+   "Heart",
+   "Honey",
+   "Kind Word",
+   "Shy Giggle",
+   "Soft Heart",
+   "Sunlight"
+  ],
+  "source": "catalog"
+ },
+ {
+  "species": "Petunia",
+  "troves": [
+   "Air Kiss",
+   "Bouquet",
+   "Deep Breath",
+   "Friendly Wave",
+   "Geode",
+   "Glee",
+   "Grin",
+   "Heart",
+   "Honey",
+   "Kind Word",
+   "Shy Giggle",
+   "Soft Heart",
+   "Sunlight"
+  ],
+  "source": "catalog"
+ },
+ {
+  "species": "Pine Tree",
+  "troves": [
+   "Deep Breath",
+   "Friendly Wave",
+   "Gather Round",
+   "Geode",
+   "Grin",
+   "High Five",
+   "Hooray",
+   "Knowing Nod",
+   "Mushroom",
+   "Peace Sign",
+   "Rake",
+   "Sunlight",
+   "Warm Hug"
+  ],
+  "source": "catalog"
+ },
+ {
+  "species": "Purple-White Calla Lily",
+  "troves": [
+   "Air Kiss",
+   "Bouquet",
+   "Deep Breath",
+   "Friendly Wave",
+   "Geode",
+   "Glee",
+   "Grin",
+   "Heart",
+   "Honey",
+   "Kind Word",
+   "Shy Giggle",
+   "Soft Heart",
+   "Sunlight"
+  ],
+  "source": "catalog"
+ },
+ {
+  "species": "Red Hot Poker",
+  "troves": [
+   "Air Kiss",
+   "Bouquet",
+   "Deep Breath",
+   "Friendly Wave",
+   "Geode",
+   "Glee",
+   "Grin",
+   "Heart",
+   "Honey",
+   "Kind Word",
+   "Shy Giggle",
+   "Soft Heart",
+   "Sunlight"
+  ],
+  "source": "catalog"
+ },
+ {
+  "species": "Sod Grass 2x2",
+  "troves": [
+   "Cozy Blanket",
+   "Deep Breath",
+   "Fist Bump",
+   "Gather Round",
+   "Geode",
+   "Grin",
+   "High Five",
+   "Hooray",
+   "Manure",
+   "Rake",
+   "Sunlight",
+   "Thumbs Up"
+  ],
+  "source": "catalog"
+ },
+ {
+  "species": "Sod Grass 4x4",
+  "troves": [
+   "Cozy Blanket",
+   "Deep Breath",
+   "Fist Bump",
+   "Gather Round",
+   "Geode",
+   "Grin",
+   "High Five",
+   "Hooray",
+   "Manure",
+   "Rake",
+   "Sunlight",
+   "Thumbs Up"
+  ],
+  "source": "catalog"
+ },
+ {
+  "species": "Sunflower",
+  "troves": [
+   "Air Kiss",
+   "Bouquet",
+   "Deep Breath",
+   "Friendly Wave",
+   "Geode",
+   "Glee",
+   "Grin",
+   "Heart",
+   "Honey",
+   "Kind Word",
+   "Shy Giggle",
+   "Soft Heart",
+   "Sunlight"
+  ],
+  "source": "catalog"
+ },
+ {
+  "species": "Violets",
+  "troves": [
+   "Air Kiss",
+   "Bouquet",
+   "Deep Breath",
+   "Friendly Wave",
+   "Geode",
+   "Glee",
+   "Grin",
+   "Heart",
+   "Honey",
+   "Kind Word",
+   "Shy Giggle",
+   "Soft Heart",
+   "Sunlight"
+  ],
+  "source": "catalog"
+ },
+ {
+  "species": "Walnut Tree",
+  "troves": [
+   "Deep Breath",
+   "Friendly Wave",
+   "Gather Round",
+   "Geode",
+   "Grin",
+   "Heart",
+   "Hooray",
+   "Knowing Nod",
+   "Mushroom",
+   "Peace Sign",
+   "Rake",
+   "Sunlight",
+   "Walnut",
+   "Warm Hug"
+  ],
+  "source": "catalog"
+ },
+ {
+  "species": "Weeping Willow Tree",
+  "troves": [
+   "Deep Breath",
+   "Friendly Wave",
+   "Gather Round",
+   "Geode",
+   "Grin",
+   "High Five",
+   "Hooray",
+   "Knowing Nod",
+   "Mushroom",
+   "Peace Sign",
+   "Rake",
+   "Sunlight",
+   "Warm Hug"
+  ],
+  "source": "catalog"
+ },
+ {
+  "species": "White Calla Lily",
+  "troves": [
+   "Air Kiss",
+   "Bouquet",
+   "Deep Breath",
+   "Friendly Wave",
+   "Geode",
+   "Glee",
+   "Grin",
+   "Heart",
+   "Honey",
+   "Kind Word",
+   "Shy Giggle",
+   "Soft Heart",
+   "Sunlight"
+  ],
+  "source": "catalog"
+ },
+ {
+  "species": "Yellow Calla Lily",
+  "troves": [
+   "Air Kiss",
+   "Bouquet",
+   "Deep Breath",
+   "Friendly Wave",
+   "Geode",
+   "Glee",
+   "Grin",
+   "Heart",
+   "Honey",
+   "Kind Word",
+   "Shy Giggle",
+   "Soft Heart",
+   "Sunlight"
+  ],
+  "source": "catalog"
+ }
+]
