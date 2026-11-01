@@ -13,6 +13,8 @@ This project is independent and not affiliated with Uplandme, Inc. Use at your o
 | `troves.json` | All troves with their category, the structures and plants where they can be found, and the recipes that make them. |
 | `buildings.json` | Buildings as named in the game: group, game type number (`modelId`) when known, troves, recipes crafted there. |
 | `recipes.json` | Recipes with ingredients and quantities, and where they are crafted. A product can have two variants (`product-1`, `product-2`). |
+| `suggestions/<city>.json` | Short list of suggested addresses per city, with the buildings and plants found there. |
+| `extended/<city>.json` | Extended list per city (up to 225 properties ranked by number of troves their service structures give). Buildings and plants are read by the extension after download. |
 | `plants.json` | Plant species that give troves. Species not listed give none yet. |
 
 ## Notes on the data

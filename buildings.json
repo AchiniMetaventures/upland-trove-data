@@ -26,7 +26,13 @@
    "sheepskin-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Horn",
+   "Knitting Circle",
+   "Lanolin",
+   "Tool Chest"
+  ]
  },
  {
   "name": "Animal Shelter",
@@ -52,7 +58,12 @@
    "open-door-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Special Guest",
+   "Warm Hug",
+   "Welcome Mat"
+  ]
  },
  {
   "name": "Antique Store",
@@ -80,7 +91,12 @@
    "locket-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Charm Bracelet",
+   "Gold Ring",
+   "Heart"
+  ]
  },
  {
   "name": "Apartment Building",
@@ -151,7 +167,16 @@
    "snow-globe-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Action Figure",
+   "Birthday Wish",
+   "Casino Chip",
+   "Fist Bump",
+   "Pinky Promise",
+   "Rare Coin",
+   "Secret Handshake"
+  ]
  },
  {
   "name": "Art Gallery",
@@ -180,7 +205,11 @@
    "oil-painting-2"
   ],
   "source": "catalog+game",
-  "verified": true
+  "verified": true,
+  "bonusTroves": [
+   "Antique Vase",
+   "Marble Bust"
+  ]
  },
  {
   "name": "Art Museum",
@@ -209,7 +238,11 @@
    "oil-painting-2"
   ],
   "source": "catalog+game",
-  "verified": true
+  "verified": true,
+  "bonusTroves": [
+   "Antique Vase",
+   "Marble Bust"
+  ]
  },
  {
   "name": "Asian Modular Apartments: Hawker Centre Edition",
@@ -241,7 +274,17 @@
    "umbrella-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Come Anytime",
+   "Multitool",
+   "Pizza Slice",
+   "Potluck",
+   "Snappy Comeback",
+   "Talent Show",
+   "Welcome Mat"
+  ]
  },
  {
   "name": "Asian Modular Apartments: Rattan Shop Edition",
@@ -266,7 +309,13 @@
    "sawn-plank-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Charcoal",
+   "Knitting Circle",
+   "Lanolin",
+   "Tool Chest"
+  ]
  },
  {
   "name": "Assisted Living Center",
@@ -340,7 +389,15 @@
    "wrench-2"
   ],
   "source": "catalog+game",
-  "verified": true
+  "verified": true,
+  "bonusTroves": [
+   "Gyroscope",
+   "Ingot",
+   "Multitool",
+   "Police Badge",
+   "Tool Chest",
+   "Wristwatch"
+  ]
  },
  {
   "name": "Auto Carwash",
@@ -366,7 +423,11 @@
    "hello-again-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Come Anytime",
+   "Ice Cream"
+  ]
  },
  {
   "name": "Auto Repair",
@@ -406,7 +467,15 @@
    "wrench-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Gyroscope",
+   "Ingot",
+   "Multitool",
+   "Police Badge",
+   "Tool Chest",
+   "Wristwatch"
+  ]
  },
  {
   "name": "Bakery",
@@ -570,7 +639,16 @@
    "scrapbook-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Action Figure",
+   "Ancient Scroll",
+   "Bedtime Story",
+   "Family Crest",
+   "Game Console",
+   "Lullaby",
+   "Zen Stone"
+  ]
  },
  {
   "name": "Basketball court",
@@ -601,7 +679,17 @@
    "varsity-jacket-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Block Party",
+   "High Five",
+   "Hooray",
+   "Huddle",
+   "Medallion",
+   "Packed House",
+   "Stadium Wave",
+   "Standing Ovation"
+  ]
  },
  {
   "name": "Beach Feet Sandals",
@@ -628,7 +716,16 @@
    "sewing-kit-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Come Anytime",
+   "Flax",
+   "Horn",
+   "Ice Cream",
+   "Knitting Circle",
+   "Tennis Racket",
+   "Tool Chest"
+  ]
  },
  {
   "name": "Beach Pavilion",
@@ -666,7 +763,20 @@
    "varsity-jacket-1"
   ],
   "source": "catalog+game",
-  "verified": true
+  "verified": true,
+  "bonusTroves": [
+   "Block Party",
+   "Come Anytime",
+   "High Five",
+   "Hooray",
+   "Huddle",
+   "Medallion",
+   "Microphone",
+   "Packed House",
+   "Stadium Wave",
+   "Standing Ovation",
+   "Tennis Racket"
+  ]
  },
  {
   "name": "Beachside Taco's",
@@ -697,7 +807,16 @@
    "umbrella-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Come Anytime",
+   "Multitool",
+   "Potluck",
+   "Snappy Comeback",
+   "Talent Show",
+   "Welcome Mat"
+  ]
  },
  {
   "name": "Beyond the Bath",
@@ -726,7 +845,13 @@
    "plush-pillow-2"
   ],
   "source": "catalog+game",
-  "verified": true
+  "verified": true,
+  "bonusTroves": [
+   "Bedtime Story",
+   "Cotton Boll",
+   "Knitting Circle",
+   "Lanolin"
+  ]
  },
  {
   "name": "Big Fish Balls",
@@ -759,7 +884,18 @@
    "umbrella-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Come Anytime",
+   "Multitool",
+   "Potluck",
+   "Snappy Comeback",
+   "Sushi Roll",
+   "Talent Show",
+   "Tuna",
+   "Welcome Mat"
+  ]
  },
  {
   "name": "Bike Shop",
@@ -787,7 +923,16 @@
    "wrench-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Come Anytime",
+   "Compass",
+   "Ice Cream",
+   "Lucky Penny",
+   "Multitool",
+   "Tennis Racket",
+   "Wristwatch"
+  ]
  },
  {
   "name": "Black Cat Curiosities Shop",
@@ -828,7 +973,19 @@
    "straight-razor-2"
   ],
   "source": "catalog+game",
-  "verified": true
+  "verified": true,
+  "bonusTroves": [
+   "Charm Bracelet",
+   "Compass",
+   "Gold Ring",
+   "Heart",
+   "Horn",
+   "Knitting Circle",
+   "Lanolin",
+   "Lucky Penny",
+   "Multitool",
+   "Tool Chest"
+  ]
  },
  {
   "name": "Block & Beans Coffee",
@@ -868,7 +1025,26 @@
    "wind-down-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Best Friend",
+   "Birthday Wish",
+   "Block Party",
+   "Chicken Soup",
+   "Come Anytime",
+   "Cookie",
+   "Game Console",
+   "Ginger",
+   "Ice Cream",
+   "Lullaby",
+   "Maple Syrup",
+   "Moral Support",
+   "Pinky Promise",
+   "Secret Handshake",
+   "Snappy Comeback",
+   "Tea Leaf"
+  ]
  },
  {
   "name": "Blockade Arcade",
@@ -901,7 +1077,16 @@
    "snow-globe-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Action Figure",
+   "Birthday Wish",
+   "Casino Chip",
+   "Fist Bump",
+   "Pinky Promise",
+   "Rare Coin",
+   "Secret Handshake"
+  ]
  },
  {
   "name": "Bodega",
@@ -997,7 +1182,16 @@
    "scrapbook-2"
   ],
   "source": "catalog+game",
-  "verified": true
+  "verified": true,
+  "bonusTroves": [
+   "Action Figure",
+   "Ancient Scroll",
+   "Bedtime Story",
+   "Family Crest",
+   "Game Console",
+   "Lullaby",
+   "Zen Stone"
+  ]
  },
  {
   "name": "Bowling",
@@ -1035,7 +1229,20 @@
    "varsity-jacket-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Block Party",
+   "Come Anytime",
+   "High Five",
+   "Hooray",
+   "Huddle",
+   "Medallion",
+   "Microphone",
+   "Packed House",
+   "Stadium Wave",
+   "Standing Ovation",
+   "Tennis Racket"
+  ]
  },
  {
   "name": "Brewery",
@@ -1068,7 +1275,15 @@
    "running-gag-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Huddle",
+   "Microphone",
+   "Packed House",
+   "Snappy Comeback",
+   "Soldering Iron",
+   "Standing Ovation"
+  ]
  },
  {
   "name": "Build-A-Bowl Workshop",
@@ -1094,7 +1309,11 @@
    "group-selfie-2"
   ],
   "source": "catalog+game",
-  "verified": true
+  "verified": true,
+  "bonusTroves": [
+   "Antique Vase",
+   "Marble Bust"
+  ]
  },
  {
   "name": "Bus Parking",
@@ -1142,7 +1361,19 @@
    "umbrella-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Amulet",
+   "Ginger",
+   "Lollipop",
+   "Maple Syrup",
+   "Necklace",
+   "Secret Handshake",
+   "Snappy Comeback",
+   "Special Guest",
+   "Sunlight",
+   "Tea Leaf"
+  ]
  },
  {
   "name": "Butcher Shop",
@@ -1170,7 +1401,12 @@
    "rawhide-2"
   ],
   "source": "catalog+game",
-  "verified": true
+  "verified": true,
+  "bonusTroves": [
+   "Burger",
+   "Milk Pail",
+   "Salami"
+  ]
  },
  {
   "name": "Camp World",
@@ -1199,7 +1435,13 @@
    "wrench-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Compass",
+   "Lucky Penny",
+   "Multitool",
+   "Postcard"
+  ]
  },
  {
   "name": "Candy shop",
@@ -1227,7 +1469,12 @@
    "new-friend-2"
   ],
   "source": "catalog+game",
-  "verified": true
+  "verified": true,
+  "bonusTroves": [
+   "Fist Bump",
+   "Pinky Promise",
+   "Secret Handshake"
+  ]
  },
  {
   "name": "Cape Town Modular: Padstal Edition",
@@ -1269,7 +1516,17 @@
    "tomato-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Almond",
+   "Asparagus",
+   "Fruit Basket",
+   "Olive Oil",
+   "Pizza Slice",
+   "Taco",
+   "Walnut",
+   "Wine Bottle"
+  ]
  },
  {
   "name": "Car Rental",
@@ -1295,7 +1552,13 @@
    "wrench-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Ingot",
+   "Multitool",
+   "Tool Chest",
+   "Wristwatch"
+  ]
  },
  {
   "name": "Casual Dining Restaurant",
@@ -1385,7 +1648,11 @@
    "snow-globe-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Action Figure",
+   "Birthday Wish"
+  ]
  },
  {
   "name": "Cinnaboom",
@@ -1413,7 +1680,14 @@
    "scissors-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Fist Bump",
+   "Lollipop",
+   "Pinky Promise",
+   "Secret Handshake"
+  ]
  },
  {
   "name": "Cinnamon Bun Stand",
@@ -1448,7 +1722,17 @@
    "umbrella-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Come Anytime",
+   "Multitool",
+   "Pizza Slice",
+   "Potluck",
+   "Snappy Comeback",
+   "Talent Show",
+   "Welcome Mat"
+  ]
  },
  {
   "name": "Circus",
@@ -1475,7 +1759,11 @@
    "snow-globe-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Action Figure",
+   "Birthday Wish"
+  ]
  },
  {
   "name": "Classic Hotel",
@@ -1512,7 +1800,16 @@
    "treasure-map-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Compass",
+   "Lucky Penny",
+   "Rare Coin",
+   "Sea Shell",
+   "Strongbox",
+   "Teddy Bear",
+   "Welcome Mat"
+  ]
  },
  {
   "name": "Clinic",
@@ -1545,7 +1842,12 @@
    "tweezers-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Healing Kit",
+   "Microscope",
+   "Moral Support"
+  ]
  },
  {
   "name": "Club Mirage Night Club",
@@ -1571,7 +1873,11 @@
    "mic-drop-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Microphone",
+   "Standing Ovation"
+  ]
  },
  {
   "name": "Coastal Tower House",
@@ -1634,7 +1940,19 @@
    "straight-razor-2"
   ],
   "source": "catalog+game",
-  "verified": true
+  "verified": true,
+  "bonusTroves": [
+   "Charm Bracelet",
+   "Compass",
+   "Gold Ring",
+   "Heart",
+   "Horn",
+   "Knitting Circle",
+   "Lanolin",
+   "Lucky Penny",
+   "Multitool",
+   "Tool Chest"
+  ]
  },
  {
   "name": "Coffee Shop",
@@ -1714,7 +2032,24 @@
    "umbrella-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Best Friend",
+   "Birthday Wish",
+   "Block Party",
+   "Come Anytime",
+   "Ginger",
+   "Grin",
+   "Ice Cream",
+   "Microphone",
+   "Opening Night",
+   "Potluck",
+   "Secret Handshake",
+   "Snappy Comeback",
+   "Talent Show",
+   "Tea Leaf",
+   "Welcome Mat"
+  ]
  },
  {
   "name": "Comedy Club",
@@ -1767,7 +2102,20 @@
    "snow-globe-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Action Figure",
+   "Best Friend",
+   "Compass",
+   "Cookie",
+   "Game Console",
+   "Gyroscope",
+   "Headphones",
+   "Sea Shell",
+   "Skateboard",
+   "Sunlight",
+   "Tennis Racket"
+  ]
  },
  {
   "name": "Community Center",
@@ -1810,7 +2158,21 @@
    "time-capsule-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Condolence",
+   "Flax",
+   "Fruit Basket",
+   "Hay Bale",
+   "Healing Kit",
+   "Huddle",
+   "Knitting Circle",
+   "Moral Support",
+   "Special Guest",
+   "Stadium Wave",
+   "Warm Hug",
+   "Welcome Mat"
+  ]
  },
  {
   "name": "Coney Island Franks",
@@ -1845,7 +2207,17 @@
    "umbrella-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Come Anytime",
+   "Multitool",
+   "Pizza Slice",
+   "Potluck",
+   "Snappy Comeback",
+   "Talent Show",
+   "Welcome Mat"
+  ]
  },
  {
   "name": "Cornerstone Barbershop",
@@ -1880,7 +2252,19 @@
    "tweezers-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Amulet",
+   "Charm Bracelet",
+   "Come Anytime",
+   "Gold Ring",
+   "Healing Kit",
+   "Moral Support",
+   "Multitool",
+   "Necklace",
+   "Pinky Promise",
+   "Ruby"
+  ]
  },
  {
   "name": "Court House",
@@ -1944,7 +2328,17 @@
    "umbrella-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Come Anytime",
+   "Multitool",
+   "Pizza Slice",
+   "Potluck",
+   "Snappy Comeback",
+   "Talent Show",
+   "Welcome Mat"
+  ]
  },
  {
   "name": "Dairy King Ice Cream",
@@ -1971,7 +2365,12 @@
    "new-friend-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Fist Bump",
+   "Pinky Promise",
+   "Secret Handshake"
+  ]
  },
  {
   "name": "Day Care Center",
@@ -1999,7 +2398,12 @@
    "snuggle-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Birthday Wish",
+   "Shy Giggle",
+   "Standing Ovation"
+  ]
  },
  {
   "name": "Deep Fillings Empanadas",
@@ -2034,7 +2438,17 @@
    "umbrella-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Come Anytime",
+   "Multitool",
+   "Pizza Slice",
+   "Potluck",
+   "Snappy Comeback",
+   "Talent Show",
+   "Welcome Mat"
+  ]
  },
  {
   "name": "Delicatessen shop",
@@ -2062,7 +2476,11 @@
    "olive-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Olive Oil",
+   "Wine Bottle"
+  ]
  },
  {
   "name": "Dentistry",
@@ -2091,7 +2509,12 @@
    "tweezers-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Healing Kit",
+   "Microscope",
+   "Moral Support"
+  ]
  },
  {
   "name": "Department store",
@@ -2121,7 +2544,18 @@
    "scissors-1"
   ],
   "source": "catalog+game",
-  "verified": true
+  "verified": true,
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Fruit Basket",
+   "Healing Kit",
+   "Lollipop",
+   "Potluck",
+   "Snappy Comeback",
+   "Strawberry",
+   "Talent Show",
+   "Welcome Mat"
+  ]
  },
  {
   "name": "DMV",
@@ -2176,7 +2610,18 @@
    "scissors-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Fruit Basket",
+   "Healing Kit",
+   "Lollipop",
+   "Potluck",
+   "Snappy Comeback",
+   "Strawberry",
+   "Talent Show",
+   "Welcome Mat"
+  ]
  },
  {
   "name": "Dreamspace VR",
@@ -2207,7 +2652,16 @@
    "snow-globe-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Action Figure",
+   "Birthday Wish",
+   "Casino Chip",
+   "Fist Bump",
+   "Pinky Promise",
+   "Rare Coin",
+   "Secret Handshake"
+  ]
  },
  {
   "name": "Dry Cleaner",
@@ -2235,7 +2689,11 @@
    "sheepskin-1"
   ],
   "source": "catalog+game",
-  "verified": true
+  "verified": true,
+  "bonusTroves": [
+   "Flax",
+   "Knitting Circle"
+  ]
  },
  {
   "name": "Dunder Office Supplies",
@@ -2293,7 +2751,14 @@
    "scissors-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Fist Bump",
+   "Lollipop",
+   "Pinky Promise",
+   "Secret Handshake"
+  ]
  },
  {
   "name": "East Coast Modular Apartments: Bank Edition",
@@ -2355,7 +2820,19 @@
    "tweezers-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Amulet",
+   "Charm Bracelet",
+   "Come Anytime",
+   "Gold Ring",
+   "Healing Kit",
+   "Moral Support",
+   "Multitool",
+   "Necklace",
+   "Pinky Promise",
+   "Ruby"
+  ]
  },
  {
   "name": "East Coast Modular Apartments: Fast Food Restaurant",
@@ -2389,7 +2866,19 @@
    "stopwatch-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Birthday Wish",
+   "Casserole",
+   "Healing Kit",
+   "Moral Support",
+   "Packed House",
+   "Potluck",
+   "Ramen Bowl",
+   "Swoon",
+   "Taco",
+   "Wristwatch"
+  ]
  },
  {
   "name": "East Coast Modular Apartments: Intimate Apparel Boutique",
@@ -2414,7 +2903,12 @@
    "sewing-kit-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Cotton Boll",
+   "Flax",
+   "Knitting Circle"
+  ]
  },
  {
   "name": "East Coast Modular Apartments: Little Havana Grill Edition",
@@ -2459,7 +2953,27 @@
    "stopwatch-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Birthday Wish",
+   "Block Party",
+   "Casserole",
+   "Healing Kit",
+   "Lobster",
+   "Moral Support",
+   "Olive Oil",
+   "Oyster",
+   "Packed House",
+   "Potluck",
+   "Ramen Bowl",
+   "Salami",
+   "Sturgeon",
+   "Sushi Roll",
+   "Swoon",
+   "Taco",
+   "Wine Bottle",
+   "Wristwatch"
+  ]
  },
  {
   "name": "East Coast Modular Apartments: Mobile Phone Store",
@@ -2489,7 +3003,13 @@
    "hello-again-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Best Friend",
+   "Headphones",
+   "Moral Support",
+   "Soldering Iron"
+  ]
  },
  {
   "name": "East Coast Modular Apartments: Money Exchange Edition",
@@ -2550,7 +3070,19 @@
    "tweezers-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Amulet",
+   "Charm Bracelet",
+   "Come Anytime",
+   "Gold Ring",
+   "Healing Kit",
+   "Moral Support",
+   "Multitool",
+   "Necklace",
+   "Pinky Promise",
+   "Ruby"
+  ]
  },
  {
   "name": "East Coast Modular Apartments: Pharmacy",
@@ -2579,7 +3111,11 @@
    "steady-nerves-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Healing Kit",
+   "Moral Support"
+  ]
  },
  {
   "name": "East Coast Modular Apartments: Tattoo studio Edition",
@@ -2609,7 +3145,17 @@
    "tweezers-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Amulet",
+   "Charm Bracelet",
+   "Gold Ring",
+   "Healing Kit",
+   "Moral Support",
+   "Necklace",
+   "Pinky Promise",
+   "Ruby"
+  ]
  },
  {
   "name": "East Coast Modular Apartments: Yeehaw Outfitters Edition",
@@ -2639,7 +3185,14 @@
    "sheepskin-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Flax",
+   "Horn",
+   "Knitting Circle",
+   "Lanolin",
+   "Tool Chest"
+  ]
  },
  {
   "name": "East Coast Modular: Liquor Store Edition",
@@ -2680,7 +3233,19 @@
    "straight-razor-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Charm Bracelet",
+   "Compass",
+   "Gold Ring",
+   "Heart",
+   "Horn",
+   "Knitting Circle",
+   "Lanolin",
+   "Lucky Penny",
+   "Multitool",
+   "Tool Chest"
+  ]
  },
  {
   "name": "El Plate-o Grande",
@@ -2715,7 +3280,19 @@
    "stopwatch-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Birthday Wish",
+   "Casserole",
+   "Healing Kit",
+   "Moral Support",
+   "Packed House",
+   "Potluck",
+   "Ramen Bowl",
+   "Swoon",
+   "Taco",
+   "Wristwatch"
+  ]
  },
  {
   "name": "Electronic Store",
@@ -2747,7 +3324,17 @@
    "joystick-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Compass",
+   "Game Console",
+   "Headphones",
+   "Knitting Circle",
+   "Lanolin",
+   "Lucky Penny",
+   "Multitool",
+   "Soldering Iron"
+  ]
  },
  {
   "name": "Elementary School",
@@ -2808,7 +3395,17 @@
    "umbrella-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Come Anytime",
+   "Multitool",
+   "Pizza Slice",
+   "Potluck",
+   "Snappy Comeback",
+   "Talent Show",
+   "Welcome Mat"
+  ]
  },
  {
   "name": "European Modular Apartments: Antiquaire Edition",
@@ -2836,7 +3433,12 @@
    "locket-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Charm Bracelet",
+   "Gold Ring",
+   "Heart"
+  ]
  },
  {
   "name": "European Modular Apartments: Big Ben’s Gift Shoppe",
@@ -2865,7 +3467,13 @@
    "snow-globe-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Charm Bracelet",
+   "Gold Ring",
+   "Heart",
+   "Sea Shell"
+  ]
  },
  {
   "name": "European Modular Apartments: Butcher Edition",
@@ -2893,7 +3501,12 @@
    "rawhide-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Burger",
+   "Milk Pail",
+   "Salami"
+  ]
  },
  {
   "name": "European Modular Apartments: Galerie d'Art Edition",
@@ -2922,7 +3535,11 @@
    "oil-painting-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Antique Vase",
+   "Marble Bust"
+  ]
  },
  {
   "name": "European Modular Apartments: Ice Cream Shop",
@@ -2949,7 +3566,12 @@
    "new-friend-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Fist Bump",
+   "Pinky Promise",
+   "Secret Handshake"
+  ]
  },
  {
   "name": "European Modular Apartments: Mantequeria Edition",
@@ -2975,7 +3597,11 @@
    "olive-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Olive Oil",
+   "Wine Bottle"
+  ]
  },
  {
   "name": "European Modular Apartments: Restaurant Edition",
@@ -3020,7 +3646,27 @@
    "stopwatch-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Birthday Wish",
+   "Block Party",
+   "Casserole",
+   "Healing Kit",
+   "Lobster",
+   "Moral Support",
+   "Olive Oil",
+   "Oyster",
+   "Packed House",
+   "Potluck",
+   "Ramen Bowl",
+   "Salami",
+   "Sturgeon",
+   "Sushi Roll",
+   "Swoon",
+   "Taco",
+   "Wine Bottle",
+   "Wristwatch"
+  ]
  },
  {
   "name": "European Modular Apartments: Sports Bar",
@@ -3046,7 +3692,12 @@
    "trophy-cup-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Fist Bump",
+   "Huddle",
+   "Standing Ovation"
+  ]
  },
  {
   "name": "Exclusive Hockey Store Service Structure",
@@ -3071,7 +3722,14 @@
    "varsity-jacket-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Hooray",
+   "Huddle",
+   "Medallion",
+   "Stadium Wave",
+   "Standing Ovation"
+  ]
  },
  {
   "name": "Family Home",
@@ -3126,7 +3784,17 @@
    "tomato-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Almond",
+   "Asparagus",
+   "Fruit Basket",
+   "Olive Oil",
+   "Pizza Slice",
+   "Taco",
+   "Walnut",
+   "Wine Bottle"
+  ]
  },
  {
   "name": "Fast Food Joint",
@@ -3160,7 +3828,19 @@
    "stopwatch-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Birthday Wish",
+   "Casserole",
+   "Healing Kit",
+   "Moral Support",
+   "Packed House",
+   "Potluck",
+   "Ramen Bowl",
+   "Swoon",
+   "Taco",
+   "Wristwatch"
+  ]
  },
  {
   "name": "Fine Dining Restaurant",
@@ -3196,7 +3876,23 @@
    "stopwatch-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Birthday Wish",
+   "Block Party",
+   "Casserole",
+   "Healing Kit",
+   "Moral Support",
+   "Olive Oil",
+   "Oyster",
+   "Packed House",
+   "Potluck",
+   "Salami",
+   "Sturgeon",
+   "Sushi Roll",
+   "Swoon",
+   "Wristwatch"
+  ]
  },
  {
   "name": "Fire Station",
@@ -3271,7 +3967,14 @@
    "tool-belt-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Hay Bale",
+   "Healing Kit",
+   "Multitool",
+   "Soldering Iron",
+   "Tool Chest"
+  ]
  },
  {
   "name": "Fish Ball Stand",
@@ -3304,7 +4007,18 @@
    "umbrella-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Come Anytime",
+   "Multitool",
+   "Potluck",
+   "Snappy Comeback",
+   "Sushi Roll",
+   "Talent Show",
+   "Tuna",
+   "Welcome Mat"
+  ]
  },
  {
   "name": "Fish Deli",
@@ -3337,7 +4051,12 @@
    "squid-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Lobster",
+   "Sturgeon",
+   "Tuna"
+  ]
  },
  {
   "name": "Fish Market",
@@ -3370,7 +4089,12 @@
    "squid-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Lobster",
+   "Sturgeon",
+   "Tuna"
+  ]
  },
  {
   "name": "Florence Retro Googie Farmers Market",
@@ -3414,7 +4138,17 @@
    "tomato-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Almond",
+   "Asparagus",
+   "Fruit Basket",
+   "Olive Oil",
+   "Pizza Slice",
+   "Taco",
+   "Walnut",
+   "Wine Bottle"
+  ]
  },
  {
   "name": "French Cafe",
@@ -3454,7 +4188,26 @@
    "wind-down-2"
   ],
   "source": "catalog+game",
-  "verified": true
+  "verified": true,
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Best Friend",
+   "Birthday Wish",
+   "Block Party",
+   "Chicken Soup",
+   "Come Anytime",
+   "Cookie",
+   "Game Console",
+   "Ginger",
+   "Ice Cream",
+   "Lullaby",
+   "Maple Syrup",
+   "Moral Support",
+   "Pinky Promise",
+   "Secret Handshake",
+   "Snappy Comeback",
+   "Tea Leaf"
+  ]
  },
  {
   "name": "Fresh Pick Fruit Stand",
@@ -3490,7 +4243,16 @@
    "picnic-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Almond",
+   "Fruit Basket",
+   "Olive Oil",
+   "Potluck",
+   "Strawberry",
+   "Walnut",
+   "Wine Bottle"
+  ]
  },
  {
   "name": "Funeral Home",
@@ -3514,7 +4276,11 @@
    "embrace-2"
   ],
   "source": "catalog+game",
-  "verified": true
+  "verified": true,
+  "bonusTroves": [
+   "Condolence",
+   "Moral Support"
+  ]
  },
  {
   "name": "Game Exchange",
@@ -3543,7 +4309,20 @@
    "snow-globe-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Action Figure",
+   "Best Friend",
+   "Compass",
+   "Cookie",
+   "Game Console",
+   "Gyroscope",
+   "Headphones",
+   "Sea Shell",
+   "Skateboard",
+   "Sunlight",
+   "Tennis Racket"
+  ]
  },
  {
   "name": "Glass Tower",
@@ -3583,7 +4362,14 @@
    "scissors-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Fist Bump",
+   "Lollipop",
+   "Pinky Promise",
+   "Secret Handshake"
+  ]
  },
  {
   "name": "Going Under Dive Shop",
@@ -3624,7 +4410,19 @@
    "straight-razor-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Charm Bracelet",
+   "Compass",
+   "Gold Ring",
+   "Heart",
+   "Horn",
+   "Knitting Circle",
+   "Lanolin",
+   "Lucky Penny",
+   "Multitool",
+   "Tool Chest"
+  ]
  },
  {
   "name": "Grimwood Apothecary",
@@ -3670,7 +4468,21 @@
    "yoga-mat-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Block Party",
+   "Boxing Gloves",
+   "Come Anytime",
+   "High Five",
+   "Hooray",
+   "Huddle",
+   "Medallion",
+   "Moral Support",
+   "Packed House",
+   "Stadium Wave",
+   "Standing Ovation",
+   "Tennis Racket"
+  ]
  },
  {
   "name": "Hallow Spirit Costumes",
@@ -3735,7 +4547,16 @@
    "screwdriver-1"
   ],
   "source": "catalog+game",
-  "verified": true
+  "verified": true,
+  "bonusTroves": [
+   "Charcoal",
+   "Compass",
+   "Headphones",
+   "Lucky Penny",
+   "Multitool",
+   "Soldering Iron",
+   "Tool Chest"
+  ]
  },
  {
   "name": "High School",
@@ -3784,7 +4605,32 @@
    "varsity-jacket-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Ancient Scroll",
+   "Babysitting",
+   "Bedtime Story",
+   "Birthday Wish",
+   "Boxing Gloves",
+   "Compass",
+   "Fruit Basket",
+   "Geode",
+   "Ginger",
+   "Gyroscope",
+   "Huddle",
+   "Ice Cream",
+   "Ingot",
+   "Multitool",
+   "Ramen Bowl",
+   "Shy Giggle",
+   "Skateboard",
+   "Soldering Iron",
+   "Squad",
+   "Standing Ovation",
+   "Sunlight",
+   "Tennis Racket",
+   "Tool Chest"
+  ]
  },
  {
   "name": "High-Rise Residential Tower",
@@ -3823,7 +4669,15 @@
    "quiet-hour-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Bedtime Story",
+   "Come Anytime",
+   "Lullaby",
+   "Postcard",
+   "Tennis Racket",
+   "Zen Stone"
+  ]
  },
  {
   "name": "Hospital",
@@ -3889,7 +4743,12 @@
    "new-friend-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Fist Bump",
+   "Pinky Promise",
+   "Secret Handshake"
+  ]
  },
  {
   "name": "Ice Rink",
@@ -3927,7 +4786,20 @@
    "varsity-jacket-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Block Party",
+   "Come Anytime",
+   "High Five",
+   "Hooray",
+   "Huddle",
+   "Medallion",
+   "Microphone",
+   "Packed House",
+   "Stadium Wave",
+   "Standing Ovation",
+   "Tennis Racket"
+  ]
  },
  {
   "name": "Information Kiosk",
@@ -3954,7 +4826,11 @@
    "open-door-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Special Guest",
+   "Welcome Mat"
+  ]
  },
  {
   "name": "Jewelry",
@@ -3982,7 +4858,12 @@
    "pendant-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Charm Bracelet",
+   "Gold Ring",
+   "Heart"
+  ]
  },
  {
   "name": "Junior College",
@@ -4027,7 +4908,27 @@
    "varsity-jacket-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Ancient Scroll",
+   "Birthday Wish",
+   "Boxing Gloves",
+   "Fruit Basket",
+   "Geode",
+   "Ginger",
+   "Gyroscope",
+   "Huddle",
+   "Ice Cream",
+   "Ingot",
+   "Multitool",
+   "Ramen Bowl",
+   "Skateboard",
+   "Soldering Iron",
+   "Squad",
+   "Standing Ovation",
+   "Tennis Racket",
+   "Tool Chest"
+  ]
  },
  {
   "name": "Kentucky Fried Kiosk",
@@ -4060,7 +4961,19 @@
    "umbrella-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Burger",
+   "Come Anytime",
+   "Multitool",
+   "Pizza Slice",
+   "Potluck",
+   "Snappy Comeback",
+   "Taco",
+   "Talent Show",
+   "Welcome Mat"
+  ]
  },
  {
   "name": "Kiosk - Donuts",
@@ -4095,7 +5008,17 @@
    "umbrella-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Come Anytime",
+   "Multitool",
+   "Pizza Slice",
+   "Potluck",
+   "Snappy Comeback",
+   "Talent Show",
+   "Welcome Mat"
+  ]
  },
  {
   "name": "Kiosk - Fried Chicken",
@@ -4128,7 +5051,19 @@
    "umbrella-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Burger",
+   "Come Anytime",
+   "Multitool",
+   "Pizza Slice",
+   "Potluck",
+   "Snappy Comeback",
+   "Taco",
+   "Talent Show",
+   "Welcome Mat"
+  ]
  },
  {
   "name": "Kiosk - Gelato",
@@ -4158,7 +5093,16 @@
    "umbrella-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Come Anytime",
+   "Multitool",
+   "Potluck",
+   "Snappy Comeback",
+   "Talent Show",
+   "Welcome Mat"
+  ]
  },
  {
   "name": "Kiosk - Hamburger",
@@ -4189,7 +5133,16 @@
    "umbrella-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Come Anytime",
+   "Multitool",
+   "Potluck",
+   "Snappy Comeback",
+   "Talent Show",
+   "Welcome Mat"
+  ]
  },
  {
   "name": "Kiosk - Hot Dog",
@@ -4265,7 +5218,17 @@
    "umbrella-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Come Anytime",
+   "Multitool",
+   "Pizza Slice",
+   "Potluck",
+   "Snappy Comeback",
+   "Talent Show",
+   "Welcome Mat"
+  ]
  },
  {
   "name": "Kiosk - Sushi",
@@ -4297,7 +5260,18 @@
    "umbrella-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Come Anytime",
+   "Multitool",
+   "Potluck",
+   "Snappy Comeback",
+   "Sushi Roll",
+   "Talent Show",
+   "Tuna",
+   "Welcome Mat"
+  ]
  },
  {
   "name": "Kiosk - Taco",
@@ -4328,7 +5302,16 @@
    "umbrella-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Come Anytime",
+   "Multitool",
+   "Potluck",
+   "Snappy Comeback",
+   "Talent Show",
+   "Welcome Mat"
+  ]
  },
  {
   "name": "Large Assisted Living Center",
@@ -4419,7 +5402,12 @@
    "snuggle-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Birthday Wish",
+   "Shy Giggle",
+   "Standing Ovation"
+  ]
  },
  {
   "name": "Large Electronic store",
@@ -4451,7 +5439,17 @@
    "joystick-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Compass",
+   "Game Console",
+   "Headphones",
+   "Knitting Circle",
+   "Lanolin",
+   "Lucky Penny",
+   "Multitool",
+   "Soldering Iron"
+  ]
  },
  {
   "name": "Large Factory I",
@@ -4492,7 +5490,16 @@
    "scrapbook-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Action Figure",
+   "Ancient Scroll",
+   "Bedtime Story",
+   "Family Crest",
+   "Game Console",
+   "Lullaby",
+   "Zen Stone"
+  ]
  },
  {
   "name": "Large Office",
@@ -4534,7 +5541,17 @@
    "wax-seal-2"
   ],
   "source": "catalog+game",
-  "verified": true
+  "verified": true,
+  "bonusTroves": [
+   "Ancient Scroll",
+   "Family Crest",
+   "Huddle",
+   "Multitool",
+   "Pinky Promise",
+   "Special Guest",
+   "Squad",
+   "Tool Chest"
+  ]
  },
  {
   "name": "Large Showroom I",
@@ -4571,7 +5588,12 @@
    "trophy-cup-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Fist Bump",
+   "Huddle",
+   "Standing Ovation"
+  ]
  },
  {
   "name": "Laundromat",
@@ -4599,7 +5621,11 @@
    "sheepskin-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Flax",
+   "Knitting Circle"
+  ]
  },
  {
   "name": "Library",
@@ -4668,7 +5694,11 @@
    "snow-globe-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Action Figure",
+   "Birthday Wish"
+  ]
  },
  {
   "name": "Live Theater",
@@ -4700,7 +5730,11 @@
    "snow-globe-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Action Figure",
+   "Birthday Wish"
+  ]
  },
  {
   "name": "Local Brewery",
@@ -4733,7 +5767,15 @@
    "running-gag-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Huddle",
+   "Microphone",
+   "Packed House",
+   "Snappy Comeback",
+   "Soldering Iron",
+   "Standing Ovation"
+  ]
  },
  {
   "name": "Logistics center: Nexus Point",
@@ -4764,7 +5806,12 @@
    "tire-gauge-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Charcoal",
+   "Ingot",
+   "Tool Chest"
+  ]
  },
  {
   "name": "Logistics center: Zenith Terminal",
@@ -4795,7 +5842,12 @@
    "tire-gauge-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Charcoal",
+   "Ingot",
+   "Tool Chest"
+  ]
  },
  {
   "name": "London Manor",
@@ -4862,7 +5914,22 @@
    "stopwatch-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Birthday Wish",
+   "Casserole",
+   "Healing Kit",
+   "Moral Support",
+   "Olive Oil",
+   "Packed House",
+   "Potluck",
+   "Ramen Bowl",
+   "Sturgeon",
+   "Sushi Roll",
+   "Swoon",
+   "Taco",
+   "Wristwatch"
+  ]
  },
  {
   "name": "Luxury Fashion Boutique",
@@ -4890,7 +5957,13 @@
    "sheepskin-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Horn",
+   "Knitting Circle",
+   "Lanolin",
+   "Tool Chest"
+  ]
  },
  {
   "name": "Luxury Modern House",
@@ -4948,7 +6021,23 @@
    "stopwatch-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Birthday Wish",
+   "Block Party",
+   "Casserole",
+   "Healing Kit",
+   "Moral Support",
+   "Olive Oil",
+   "Oyster",
+   "Packed House",
+   "Potluck",
+   "Salami",
+   "Sturgeon",
+   "Sushi Roll",
+   "Swoon",
+   "Wristwatch"
+  ]
  },
  {
   "name": "Madame Moon's Fortune Telling",
@@ -4994,7 +6083,17 @@
    "umbrella-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Come Anytime",
+   "Multitool",
+   "Pizza Slice",
+   "Potluck",
+   "Snappy Comeback",
+   "Talent Show",
+   "Welcome Mat"
+  ]
  },
  {
   "name": "Main Street Modular Apartments: Fashion Boutique Store Edition",
@@ -5022,7 +6121,13 @@
    "sheepskin-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Horn",
+   "Knitting Circle",
+   "Lanolin",
+   "Tool Chest"
+  ]
  },
  {
   "name": "Main Street Modular Apartments: Pier Pressure Fish Market",
@@ -5055,7 +6160,12 @@
    "squid-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Lobster",
+   "Sturgeon",
+   "Tuna"
+  ]
  },
  {
   "name": "Main Street Modular Apartments: Pizzeria Edition",
@@ -5088,7 +6198,20 @@
    "stopwatch-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Birthday Wish",
+   "Block Party",
+   "Casserole",
+   "Healing Kit",
+   "Moral Support",
+   "Olive Oil",
+   "Packed House",
+   "Potluck",
+   "Swoon",
+   "Wine Bottle",
+   "Wristwatch"
+  ]
  },
  {
   "name": "Main Street Modular Apartments: Shoe Store Edition",
@@ -5114,7 +6237,16 @@
    "sewing-kit-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Come Anytime",
+   "Flax",
+   "Horn",
+   "Ice Cream",
+   "Knitting Circle",
+   "Tennis Racket",
+   "Tool Chest"
+  ]
  },
  {
   "name": "Main Street Modular Apartments: Texas Mercantile General Store",
@@ -5205,7 +6337,19 @@
    "straight-razor-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Charm Bracelet",
+   "Compass",
+   "Gold Ring",
+   "Heart",
+   "Horn",
+   "Knitting Circle",
+   "Lanolin",
+   "Lucky Penny",
+   "Multitool",
+   "Tool Chest"
+  ]
  },
  {
   "name": "Main Street Modular: Pacific Northwest Trading Post Edition",
@@ -5242,7 +6386,18 @@
    "wrench-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Charcoal",
+   "Compass",
+   "Horn",
+   "Knitting Circle",
+   "Lanolin",
+   "Lucky Penny",
+   "Multitool",
+   "Postcard",
+   "Tool Chest"
+  ]
  },
  {
   "name": "Mainstreet Modular Apartments: Arcade Edition",
@@ -5275,7 +6430,16 @@
    "snow-globe-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Action Figure",
+   "Birthday Wish",
+   "Casino Chip",
+   "Fist Bump",
+   "Pinky Promise",
+   "Rare Coin",
+   "Secret Handshake"
+  ]
  },
  {
   "name": "Mainstreet Modular Apartments: Bookstore Edition",
@@ -5305,7 +6469,16 @@
    "scrapbook-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Action Figure",
+   "Ancient Scroll",
+   "Bedtime Story",
+   "Family Crest",
+   "Game Console",
+   "Lullaby",
+   "Zen Stone"
+  ]
  },
  {
   "name": "Mainstreet Modular Apartments: Cafe Edition building",
@@ -5380,7 +6553,13 @@
    "sheepskin-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Horn",
+   "Knitting Circle",
+   "Lanolin",
+   "Tool Chest"
+  ]
  },
  {
   "name": "Mainstreet Modular Apartments: Farmer Supply Editions",
@@ -5414,7 +6593,14 @@
    "shovel-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Charcoal",
+   "Horn",
+   "Knitting Circle",
+   "Lanolin",
+   "Tool Chest"
+  ]
  },
  {
   "name": "Mainstreet Modular Apartments: Laundromat Edition",
@@ -5442,7 +6628,11 @@
    "sheepskin-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Flax",
+   "Knitting Circle"
+  ]
  },
  {
   "name": "Mainstreet Modular Apartments: Pawn Shop Edition",
@@ -5470,7 +6660,12 @@
    "locket-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Charm Bracelet",
+   "Gold Ring",
+   "Heart"
+  ]
  },
  {
   "name": "Mainstreet Modular Apartments: Pub Edition building",
@@ -5503,7 +6698,15 @@
    "running-gag-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Huddle",
+   "Microphone",
+   "Packed House",
+   "Snappy Comeback",
+   "Soldering Iron",
+   "Standing Ovation"
+  ]
  },
  {
   "name": "Mainstreet Modular Apartments: Uppie Outfitters Edition",
@@ -5544,7 +6747,19 @@
    "straight-razor-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Charm Bracelet",
+   "Compass",
+   "Gold Ring",
+   "Heart",
+   "Horn",
+   "Knitting Circle",
+   "Lanolin",
+   "Lucky Penny",
+   "Multitool",
+   "Tool Chest"
+  ]
  },
  {
   "name": "Mainstreet Modular Apartments: Zoomies Skate Shop Edition",
@@ -5574,7 +6789,7 @@
   "name": "Mainstreet Modular: The Salty Anchor Marine Supply",
   "group": null,
   "modelId": 20864,
-  "nature": "service",
+  "nature": "mixed",
   "troves": [],
   "recipes": [],
   "source": "game",
@@ -5620,7 +6835,19 @@
    "straight-razor-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Charm Bracelet",
+   "Compass",
+   "Gold Ring",
+   "Heart",
+   "Horn",
+   "Knitting Circle",
+   "Lanolin",
+   "Lucky Penny",
+   "Multitool",
+   "Tool Chest"
+  ]
  },
  {
   "name": "Martial Arts Dojo",
@@ -5651,7 +6878,17 @@
    "varsity-jacket-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Block Party",
+   "High Five",
+   "Hooray",
+   "Huddle",
+   "Medallion",
+   "Packed House",
+   "Stadium Wave",
+   "Standing Ovation"
+  ]
  },
  {
   "name": "Massage Parlor",
@@ -5682,7 +6919,18 @@
    "yoga-mat-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Amulet",
+   "Bedtime Story",
+   "Come Anytime",
+   "Cotton Boll",
+   "Knitting Circle",
+   "Lanolin",
+   "Lullaby",
+   "Moral Support",
+   "Pinky Promise"
+  ]
  },
  {
   "name": "Medium Factory I",
@@ -5761,7 +7009,19 @@
    "stopwatch-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Birthday Wish",
+   "Casserole",
+   "Healing Kit",
+   "Moral Support",
+   "Packed House",
+   "Potluck",
+   "Ramen Bowl",
+   "Swoon",
+   "Taco",
+   "Wristwatch"
+  ]
  },
  {
   "name": "Miami Town House 1",
@@ -5811,7 +7071,16 @@
    "wrench-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Come Anytime",
+   "Compass",
+   "Ice Cream",
+   "Lucky Penny",
+   "Multitool",
+   "Tennis Racket",
+   "Wristwatch"
+  ]
  },
  {
   "name": "Mile’s Popcorn",
@@ -5846,7 +7115,17 @@
    "umbrella-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Come Anytime",
+   "Multitool",
+   "Pizza Slice",
+   "Potluck",
+   "Snappy Comeback",
+   "Talent Show",
+   "Welcome Mat"
+  ]
  },
  {
   "name": "Mini Golf",
@@ -5884,7 +7163,20 @@
    "varsity-jacket-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Block Party",
+   "Come Anytime",
+   "High Five",
+   "Hooray",
+   "Huddle",
+   "Medallion",
+   "Microphone",
+   "Packed House",
+   "Stadium Wave",
+   "Standing Ovation",
+   "Tennis Racket"
+  ]
  },
  {
   "name": "Modern Hotel",
@@ -5921,7 +7213,16 @@
    "treasure-map-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Compass",
+   "Lucky Penny",
+   "Rare Coin",
+   "Sea Shell",
+   "Strongbox",
+   "Teddy Bear",
+   "Welcome Mat"
+  ]
  },
  {
   "name": "Moonbeam Diner",
@@ -5953,7 +7254,17 @@
    "stopwatch-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Birthday Wish",
+   "Casserole",
+   "Healing Kit",
+   "Moral Support",
+   "Packed House",
+   "Potluck",
+   "Swoon",
+   "Wristwatch"
+  ]
  },
  {
   "name": "Motel",
@@ -5990,7 +7301,16 @@
    "treasure-map-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Compass",
+   "Lucky Penny",
+   "Rare Coin",
+   "Sea Shell",
+   "Strongbox",
+   "Teddy Bear",
+   "Welcome Mat"
+  ]
  },
  {
   "name": "Mother Cluckers Chicken",
@@ -6035,7 +7355,27 @@
    "stopwatch-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Birthday Wish",
+   "Block Party",
+   "Casserole",
+   "Healing Kit",
+   "Lobster",
+   "Moral Support",
+   "Olive Oil",
+   "Oyster",
+   "Packed House",
+   "Potluck",
+   "Ramen Bowl",
+   "Salami",
+   "Sturgeon",
+   "Sushi Roll",
+   "Swoon",
+   "Taco",
+   "Wine Bottle",
+   "Wristwatch"
+  ]
  },
  {
   "name": "Mother Putters",
@@ -6073,7 +7413,20 @@
    "varsity-jacket-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Block Party",
+   "Come Anytime",
+   "High Five",
+   "Hooray",
+   "Huddle",
+   "Medallion",
+   "Microphone",
+   "Packed House",
+   "Stadium Wave",
+   "Standing Ovation",
+   "Tennis Racket"
+  ]
  },
  {
   "name": "Movie Theatre",
@@ -6101,7 +7454,11 @@
    "snow-globe-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Action Figure",
+   "Birthday Wish"
+  ]
  },
  {
   "name": "Musical Instrument Store",
@@ -6159,7 +7516,19 @@
    "tweezers-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Amulet",
+   "Charm Bracelet",
+   "Come Anytime",
+   "Gold Ring",
+   "Healing Kit",
+   "Moral Support",
+   "Multitool",
+   "Necklace",
+   "Pinky Promise",
+   "Ruby"
+  ]
  },
  {
   "name": "Nathan’s Infamous Hot Dog Stand",
@@ -6194,7 +7563,17 @@
    "umbrella-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Come Anytime",
+   "Multitool",
+   "Pizza Slice",
+   "Potluck",
+   "Snappy Comeback",
+   "Talent Show",
+   "Welcome Mat"
+  ]
  },
  {
   "name": "Natural History Museum",
@@ -6223,7 +7602,11 @@
    "time-capsule-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Ancient Scroll",
+   "Geode"
+  ]
  },
  {
   "name": "Neighborhood Market",
@@ -6282,7 +7665,33 @@
    "tomato-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Air Kiss",
+   "Almond",
+   "Asparagus",
+   "Baguette Loaf",
+   "Burger",
+   "Fruit Basket",
+   "Healing Kit",
+   "Lobster",
+   "Lollipop",
+   "Milk Pail",
+   "Olive Oil",
+   "Pizza Slice",
+   "Potluck",
+   "Ramen Bowl",
+   "Salami",
+   "Snappy Comeback",
+   "Strawberry",
+   "Sturgeon",
+   "Taco",
+   "Talent Show",
+   "Tuna",
+   "Walnut",
+   "Welcome Mat",
+   "Wine Bottle"
+  ]
  },
  {
   "name": "Neighborhood Police Station",
@@ -6349,7 +7758,16 @@
    "snow-globe-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Action Figure",
+   "Birthday Wish",
+   "Fist Bump",
+   "Opening Night",
+   "Pinky Promise",
+   "Secret Handshake",
+   "Talent Show"
+  ]
  },
  {
   "name": "Newspaper Headquarters",
@@ -6375,7 +7793,10 @@
    "hello-again-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Grin"
+  ]
  },
  {
   "name": "Newspaper Stand",
@@ -6427,7 +7848,11 @@
    "mic-drop-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Microphone",
+   "Standing Ovation"
+  ]
  },
  {
   "name": "Nomi Sushi Bar",
@@ -6461,7 +7886,23 @@
    "stopwatch-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Birthday Wish",
+   "Casserole",
+   "Healing Kit",
+   "Lobster",
+   "Moral Support",
+   "Olive Oil",
+   "Oyster",
+   "Packed House",
+   "Potluck",
+   "Ramen Bowl",
+   "Sturgeon",
+   "Sushi Roll",
+   "Swoon",
+   "Wristwatch"
+  ]
  },
  {
   "name": "Nursery",
@@ -6502,7 +7943,19 @@
    "varsity-jacket-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Block Party",
+   "Come Anytime",
+   "High Five",
+   "Hooray",
+   "Huddle",
+   "Medallion",
+   "Packed House",
+   "Stadium Wave",
+   "Standing Ovation",
+   "Tennis Racket"
+  ]
  },
  {
   "name": "Office Complex",
@@ -6544,7 +7997,17 @@
    "wax-seal-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Ancient Scroll",
+   "Family Crest",
+   "Huddle",
+   "Multitool",
+   "Pinky Promise",
+   "Special Guest",
+   "Squad",
+   "Tool Chest"
+  ]
  },
  {
   "name": "Office Tower",
@@ -6586,7 +8049,17 @@
    "wax-seal-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Ancient Scroll",
+   "Family Crest",
+   "Huddle",
+   "Multitool",
+   "Pinky Promise",
+   "Special Guest",
+   "Squad",
+   "Tool Chest"
+  ]
  },
  {
   "name": "Oil Change center",
@@ -6617,7 +8090,13 @@
    "wrench-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Ingot",
+   "Multitool",
+   "Tool Chest",
+   "Wristwatch"
+  ]
  },
  {
   "name": "Old Asylum",
@@ -6642,7 +8121,14 @@
    "scrapbook-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Ancient Scroll",
+   "Bedtime Story",
+   "Family Crest",
+   "Lullaby",
+   "Zen Stone"
+  ]
  },
  {
   "name": "Old Crow Farm Market",
@@ -6701,7 +8187,33 @@
    "tomato-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Air Kiss",
+   "Almond",
+   "Asparagus",
+   "Baguette Loaf",
+   "Burger",
+   "Fruit Basket",
+   "Healing Kit",
+   "Lobster",
+   "Lollipop",
+   "Milk Pail",
+   "Olive Oil",
+   "Pizza Slice",
+   "Potluck",
+   "Ramen Bowl",
+   "Salami",
+   "Snappy Comeback",
+   "Strawberry",
+   "Sturgeon",
+   "Taco",
+   "Talent Show",
+   "Tuna",
+   "Walnut",
+   "Welcome Mat",
+   "Wine Bottle"
+  ]
  },
  {
   "name": "Olde Wonder Toys",
@@ -6742,7 +8254,19 @@
    "straight-razor-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Charm Bracelet",
+   "Compass",
+   "Gold Ring",
+   "Heart",
+   "Horn",
+   "Knitting Circle",
+   "Lanolin",
+   "Lucky Penny",
+   "Multitool",
+   "Tool Chest"
+  ]
  },
  {
   "name": "Omaha Retro Googie Farmers Market",
@@ -6786,7 +8310,17 @@
    "tomato-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Almond",
+   "Asparagus",
+   "Fruit Basket",
+   "Olive Oil",
+   "Pizza Slice",
+   "Taco",
+   "Walnut",
+   "Wine Bottle"
+  ]
  },
  {
   "name": "Optometrist",
@@ -6849,7 +8383,20 @@
    "varsity-jacket-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Block Party",
+   "Come Anytime",
+   "High Five",
+   "Hooray",
+   "Huddle",
+   "Medallion",
+   "Microphone",
+   "Packed House",
+   "Stadium Wave",
+   "Standing Ovation",
+   "Tennis Racket"
+  ]
  },
  {
   "name": "Paris Condos",
@@ -6932,7 +8479,12 @@
    "locket-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Charm Bracelet",
+   "Gold Ring",
+   "Heart"
+  ]
  },
  {
   "name": "Performing Arts Center",
@@ -6964,7 +8516,11 @@
    "snow-globe-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Action Figure",
+   "Birthday Wish"
+  ]
  },
  {
   "name": "Pet Shop",
@@ -6991,7 +8547,18 @@
    "rawhide-1"
   ],
   "source": "catalog+game",
-  "verified": true
+  "verified": true,
+  "bonusTroves": [
+   "Bedtime Story",
+   "Best Friend",
+   "Cotton Boll",
+   "Fist Bump",
+   "Horn",
+   "Pinky Promise",
+   "Secret Handshake",
+   "Tool Chest",
+   "Welcome Mat"
+  ]
  },
  {
   "name": "Pharmacy",
@@ -7020,7 +8587,11 @@
    "steady-nerves-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Healing Kit",
+   "Moral Support"
+  ]
  },
  {
   "name": "Pho Whoa",
@@ -7054,7 +8625,20 @@
    "stopwatch-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Birthday Wish",
+   "Casserole",
+   "Healing Kit",
+   "Moral Support",
+   "Olive Oil",
+   "Packed House",
+   "Potluck",
+   "Ramen Bowl",
+   "Swoon",
+   "Taco",
+   "Wristwatch"
+  ]
  },
  {
   "name": "Physical Therapy Clinic",
@@ -7105,7 +8689,15 @@
    "stopwatch-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Block Party",
+   "High Five",
+   "Medallion",
+   "Packed House",
+   "Stadium Wave",
+   "Standing Ovation"
+  ]
  },
  {
   "name": "Pixel Pulse Arcade",
@@ -7138,7 +8730,16 @@
    "snow-globe-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Action Figure",
+   "Birthday Wish",
+   "Casino Chip",
+   "Fist Bump",
+   "Pinky Promise",
+   "Rare Coin",
+   "Secret Handshake"
+  ]
  },
  {
   "name": "Pizzeria",
@@ -7171,7 +8772,20 @@
    "stopwatch-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Birthday Wish",
+   "Block Party",
+   "Casserole",
+   "Healing Kit",
+   "Moral Support",
+   "Olive Oil",
+   "Packed House",
+   "Potluck",
+   "Swoon",
+   "Wine Bottle",
+   "Wristwatch"
+  ]
  },
  {
   "name": "Planetarium",
@@ -7197,7 +8811,12 @@
    "time-capsule-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Ancient Scroll",
+   "Geode",
+   "Postcard"
+  ]
  },
  {
   "name": "Police Detention center",
@@ -7227,7 +8846,12 @@
    "gavel-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Ancient Scroll",
+   "Compass",
+   "Police Badge"
+  ]
  },
  {
   "name": "Police Headquarters",
@@ -7257,7 +8881,12 @@
    "gavel-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Ancient Scroll",
+   "Compass",
+   "Police Badge"
+  ]
  },
  {
   "name": "Pool Hall",
@@ -7295,7 +8924,20 @@
    "varsity-jacket-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Block Party",
+   "Come Anytime",
+   "High Five",
+   "Hooray",
+   "Huddle",
+   "Medallion",
+   "Microphone",
+   "Packed House",
+   "Stadium Wave",
+   "Standing Ovation",
+   "Tennis Racket"
+  ]
  },
  {
   "name": "Post Office",
@@ -7381,7 +9023,19 @@
    "varsity-jacket-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Block Party",
+   "Come Anytime",
+   "High Five",
+   "Hooray",
+   "Huddle",
+   "Medallion",
+   "Packed House",
+   "Stadium Wave",
+   "Standing Ovation",
+   "Tennis Racket"
+  ]
  },
  {
   "name": "Prospector Steampunk London Apartment",
@@ -7465,7 +9119,19 @@
    "varsity-jacket-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Block Party",
+   "Come Anytime",
+   "High Five",
+   "Hooray",
+   "Huddle",
+   "Medallion",
+   "Packed House",
+   "Stadium Wave",
+   "Standing Ovation",
+   "Tennis Racket"
+  ]
  },
  {
   "name": "Pure Pose Yoga",
@@ -7492,7 +9158,18 @@
    "yoga-mat-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Block Party",
+   "Come Anytime",
+   "High Five",
+   "Huddle",
+   "Medallion",
+   "Moral Support",
+   "Packed House",
+   "Stadium Wave",
+   "Tennis Racket"
+  ]
  },
  {
   "name": "QuickRinse Self-Serve Carwash",
@@ -7518,7 +9195,11 @@
    "hello-again-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Come Anytime",
+   "Ice Cream"
+  ]
  },
  {
   "name": "Quickserver Surf Co",
@@ -7543,7 +9224,12 @@
    "good-times-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Come Anytime",
+   "Ice Cream",
+   "Tennis Racket"
+  ]
  },
  {
   "name": "Radio Station",
@@ -7604,7 +9290,20 @@
    "stopwatch-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Birthday Wish",
+   "Casserole",
+   "Healing Kit",
+   "Moral Support",
+   "Olive Oil",
+   "Packed House",
+   "Potluck",
+   "Ramen Bowl",
+   "Swoon",
+   "Taco",
+   "Wristwatch"
+  ]
  },
  {
   "name": "Ranch House",
@@ -7644,7 +9343,11 @@
    "tape-measure-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Flax",
+   "Hay Bale"
+  ]
  },
  {
   "name": "Regal Roots Salon",
@@ -7679,7 +9382,19 @@
    "tweezers-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Amulet",
+   "Charm Bracelet",
+   "Come Anytime",
+   "Gold Ring",
+   "Healing Kit",
+   "Moral Support",
+   "Multitool",
+   "Necklace",
+   "Pinky Promise",
+   "Ruby"
+  ]
  },
  {
   "name": "Regional Hospital",
@@ -7712,7 +9427,12 @@
    "tweezers-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Healing Kit",
+   "Microscope",
+   "Moral Support"
+  ]
  },
  {
   "name": "Regional Police Station",
@@ -7742,7 +9462,12 @@
    "gavel-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Ancient Scroll",
+   "Compass",
+   "Police Badge"
+  ]
  },
  {
   "name": "Rick's Sporting Goods",
@@ -7771,7 +9496,13 @@
    "wrench-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Compass",
+   "Lucky Penny",
+   "Multitool",
+   "Postcard"
+  ]
  },
  {
   "name": "Rip Curl’d Swimwear",
@@ -7794,7 +9525,11 @@
    "day-off-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Come Anytime",
+   "Ice Cream"
+  ]
  },
  {
   "name": "Salem Shawarma Kiosk",
@@ -7829,7 +9564,17 @@
    "umbrella-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Come Anytime",
+   "Multitool",
+   "Pizza Slice",
+   "Potluck",
+   "Snappy Comeback",
+   "Talent Show",
+   "Welcome Mat"
+  ]
  },
  {
   "name": "Sausage Stand",
@@ -7864,7 +9609,17 @@
    "umbrella-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Come Anytime",
+   "Multitool",
+   "Pizza Slice",
+   "Potluck",
+   "Snappy Comeback",
+   "Talent Show",
+   "Welcome Mat"
+  ]
  },
  {
   "name": "Science Museum",
@@ -7892,7 +9647,11 @@
    "calipers-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Gyroscope",
+   "Soldering Iron"
+  ]
  },
  {
   "name": "Seattle Music Venue Service Structure",
@@ -7961,7 +9720,19 @@
    "varsity-jacket-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Block Party",
+   "Come Anytime",
+   "High Five",
+   "Hooray",
+   "Huddle",
+   "Medallion",
+   "Packed House",
+   "Stadium Wave",
+   "Standing Ovation",
+   "Tennis Racket"
+  ]
  },
  {
   "name": "Shawarma Street Co.",
@@ -7996,7 +9767,17 @@
    "umbrella-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Come Anytime",
+   "Multitool",
+   "Pizza Slice",
+   "Potluck",
+   "Snappy Comeback",
+   "Talent Show",
+   "Welcome Mat"
+  ]
  },
  {
   "name": "Singapore Kopitiam",
@@ -8027,7 +9808,17 @@
    "umbrella-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Come Anytime",
+   "Multitool",
+   "Pizza Slice",
+   "Potluck",
+   "Snappy Comeback",
+   "Talent Show",
+   "Welcome Mat"
+  ]
  },
  {
   "name": "Skyline Medical Center",
@@ -8060,7 +9851,12 @@
    "tweezers-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Healing Kit",
+   "Microscope",
+   "Moral Support"
+  ]
  },
  {
   "name": "Small Factory I",
@@ -8115,7 +9911,17 @@
    "tomato-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Almond",
+   "Asparagus",
+   "Fruit Basket",
+   "Olive Oil",
+   "Pizza Slice",
+   "Taco",
+   "Walnut",
+   "Wine Bottle"
+  ]
  },
  {
   "name": "Small Office",
@@ -8233,7 +10039,16 @@
    "sewing-kit-2"
   ],
   "source": "catalog+game",
-  "verified": true
+  "verified": true,
+  "bonusTroves": [
+   "Come Anytime",
+   "Flax",
+   "Horn",
+   "Ice Cream",
+   "Knitting Circle",
+   "Tennis Racket",
+   "Tool Chest"
+  ]
  },
  {
   "name": "Soccer Field",
@@ -8264,7 +10079,17 @@
    "varsity-jacket-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Block Party",
+   "High Five",
+   "Hooray",
+   "Huddle",
+   "Medallion",
+   "Packed House",
+   "Stadium Wave",
+   "Standing Ovation"
+  ]
  },
  {
   "name": "South America Modular Apartments: Almacén Edition",
@@ -8323,7 +10148,33 @@
    "tomato-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Air Kiss",
+   "Almond",
+   "Asparagus",
+   "Baguette Loaf",
+   "Burger",
+   "Fruit Basket",
+   "Healing Kit",
+   "Lobster",
+   "Lollipop",
+   "Milk Pail",
+   "Olive Oil",
+   "Pizza Slice",
+   "Potluck",
+   "Ramen Bowl",
+   "Salami",
+   "Snappy Comeback",
+   "Strawberry",
+   "Sturgeon",
+   "Taco",
+   "Talent Show",
+   "Tuna",
+   "Walnut",
+   "Welcome Mat",
+   "Wine Bottle"
+  ]
  },
  {
   "name": "South America Modular Apartments: Rodizio Edition",
@@ -8357,7 +10208,21 @@
    "stopwatch-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Birthday Wish",
+   "Casserole",
+   "Healing Kit",
+   "Moral Support",
+   "Olive Oil",
+   "Packed House",
+   "Potluck",
+   "Ramen Bowl",
+   "Salami",
+   "Swoon",
+   "Taco",
+   "Wristwatch"
+  ]
  },
  {
   "name": "South America Modular Apartments: Two Can Tango Bar Edition",
@@ -8390,7 +10255,15 @@
    "running-gag-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Huddle",
+   "Microphone",
+   "Packed House",
+   "Snappy Comeback",
+   "Soldering Iron",
+   "Standing Ovation"
+  ]
  },
  {
   "name": "Southside Boxing Club",
@@ -8422,7 +10295,17 @@
    "varsity-jacket-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Block Party",
+   "High Five",
+   "Hooray",
+   "Huddle",
+   "Medallion",
+   "Packed House",
+   "Stadium Wave",
+   "Standing Ovation"
+  ]
  },
  {
   "name": "Sparklet Refinery",
@@ -8478,7 +10361,17 @@
    "varsity-jacket-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Block Party",
+   "High Five",
+   "Hooray",
+   "Huddle",
+   "Medallion",
+   "Packed House",
+   "Stadium Wave",
+   "Standing Ovation"
+  ]
  },
  {
   "name": "Starlite Precinct",
@@ -8508,7 +10401,12 @@
    "gavel-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Ancient Scroll",
+   "Compass",
+   "Police Badge"
+  ]
  },
  {
   "name": "Steakhouse",
@@ -8542,7 +10440,21 @@
    "stopwatch-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Birthday Wish",
+   "Casserole",
+   "Healing Kit",
+   "Moral Support",
+   "Olive Oil",
+   "Packed House",
+   "Potluck",
+   "Ramen Bowl",
+   "Salami",
+   "Swoon",
+   "Taco",
+   "Wristwatch"
+  ]
  },
  {
   "name": "STEM Foundry",
@@ -8577,7 +10489,11 @@
    "hat-tip-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Come Anytime",
+   "Ice Cream"
+  ]
  },
  {
   "name": "SuperKarts Mini Raceway",
@@ -8615,7 +10531,20 @@
    "varsity-jacket-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Block Party",
+   "Come Anytime",
+   "High Five",
+   "Hooray",
+   "Huddle",
+   "Medallion",
+   "Microphone",
+   "Packed House",
+   "Stadium Wave",
+   "Standing Ovation",
+   "Tennis Racket"
+  ]
  },
  {
   "name": "Supermarket",
@@ -8740,7 +10669,33 @@
    "tomato-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Air Kiss",
+   "Almond",
+   "Asparagus",
+   "Baguette Loaf",
+   "Burger",
+   "Fruit Basket",
+   "Healing Kit",
+   "Lobster",
+   "Lollipop",
+   "Milk Pail",
+   "Olive Oil",
+   "Pizza Slice",
+   "Potluck",
+   "Ramen Bowl",
+   "Salami",
+   "Snappy Comeback",
+   "Strawberry",
+   "Sturgeon",
+   "Taco",
+   "Talent Show",
+   "Tuna",
+   "Walnut",
+   "Welcome Mat",
+   "Wine Bottle"
+  ]
  },
  {
   "name": "Swiggly Soda Shop",
@@ -8767,7 +10722,12 @@
    "new-friend-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Fist Bump",
+   "Pinky Promise",
+   "Secret Handshake"
+  ]
  },
  {
   "name": "SynthTag Laser Tag",
@@ -8797,7 +10757,16 @@
    "snow-globe-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Action Figure",
+   "Birthday Wish",
+   "Fist Bump",
+   "Opening Night",
+   "Pinky Promise",
+   "Secret Handshake",
+   "Talent Show"
+  ]
  },
  {
   "name": "Taco Stand",
@@ -8828,7 +10797,16 @@
    "umbrella-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Come Anytime",
+   "Multitool",
+   "Potluck",
+   "Snappy Comeback",
+   "Talent Show",
+   "Welcome Mat"
+  ]
  },
  {
   "name": "Takasaki Retro Googie Farmers Market",
@@ -8872,7 +10850,17 @@
    "tomato-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Almond",
+   "Asparagus",
+   "Fruit Basket",
+   "Olive Oil",
+   "Pizza Slice",
+   "Taco",
+   "Walnut",
+   "Wine Bottle"
+  ]
  },
  {
   "name": "Tandoor House",
@@ -8905,7 +10893,21 @@
    "stopwatch-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Birthday Wish",
+   "Casserole",
+   "Healing Kit",
+   "Moral Support",
+   "Olive Oil",
+   "Packed House",
+   "Potluck",
+   "Ramen Bowl",
+   "Salami",
+   "Swoon",
+   "Taco",
+   "Wristwatch"
+  ]
  },
  {
   "name": "Tapas Bar",
@@ -8941,7 +10943,25 @@
    "stopwatch-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Birthday Wish",
+   "Casserole",
+   "Healing Kit",
+   "Lobster",
+   "Moral Support",
+   "Olive Oil",
+   "Oyster",
+   "Packed House",
+   "Potluck",
+   "Ramen Bowl",
+   "Salami",
+   "Sushi Roll",
+   "Swoon",
+   "Taco",
+   "Wine Bottle",
+   "Wristwatch"
+  ]
  },
  {
   "name": "Tattoo Studio",
@@ -8971,7 +10991,17 @@
    "tweezers-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Amulet",
+   "Charm Bracelet",
+   "Gold Ring",
+   "Healing Kit",
+   "Moral Support",
+   "Necklace",
+   "Pinky Promise",
+   "Ruby"
+  ]
  },
  {
   "name": "Taxi Depot",
@@ -8997,7 +11027,13 @@
    "wrench-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Ingot",
+   "Multitool",
+   "Tool Chest",
+   "Wristwatch"
+  ]
  },
  {
   "name": "Tennis court",
@@ -9025,7 +11061,16 @@
    "trophy-cup-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Block Party",
+   "High Five",
+   "Hooray",
+   "Medallion",
+   "Packed House",
+   "Stadium Wave",
+   "Standing Ovation"
+  ]
  },
  {
   "name": "The Amsterdam Cheese House",
@@ -9051,7 +11096,11 @@
    "olive-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Olive Oil",
+   "Wine Bottle"
+  ]
  },
  {
   "name": "The Atomic Arcade",
@@ -9084,7 +11133,16 @@
    "snow-globe-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Action Figure",
+   "Birthday Wish",
+   "Casino Chip",
+   "Fist Bump",
+   "Pinky Promise",
+   "Rare Coin",
+   "Secret Handshake"
+  ]
  },
  {
   "name": "The Atomic Firehouse",
@@ -9119,7 +11177,14 @@
    "tool-belt-1"
   ],
   "source": "catalog+game",
-  "verified": true
+  "verified": true,
+  "bonusTroves": [
+   "Hay Bale",
+   "Healing Kit",
+   "Multitool",
+   "Soldering Iron",
+   "Tool Chest"
+  ]
  },
  {
   "name": "The Atomic Oven Bakery",
@@ -9153,7 +11218,14 @@
    "scissors-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Fist Bump",
+   "Lollipop",
+   "Pinky Promise",
+   "Secret Handshake"
+  ]
  },
  {
   "name": "The Burger Stop",
@@ -9187,7 +11259,19 @@
    "stopwatch-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Birthday Wish",
+   "Casserole",
+   "Healing Kit",
+   "Moral Support",
+   "Packed House",
+   "Potluck",
+   "Ramen Bowl",
+   "Swoon",
+   "Taco",
+   "Wristwatch"
+  ]
  },
  {
   "name": "The Climbing Collective",
@@ -9215,7 +11299,18 @@
    "pulley-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Block Party",
+   "Boxing Gloves",
+   "Come Anytime",
+   "High Five",
+   "Huddle",
+   "Medallion",
+   "Packed House",
+   "Stadium Wave",
+   "Tennis Racket"
+  ]
  },
  {
   "name": "The Corner Drugstore",
@@ -9244,7 +11339,11 @@
    "steady-nerves-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Healing Kit",
+   "Moral Support"
+  ]
  },
  {
   "name": "The Crepe Escape",
@@ -9279,7 +11378,17 @@
    "umbrella-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Come Anytime",
+   "Multitool",
+   "Pizza Slice",
+   "Potluck",
+   "Snappy Comeback",
+   "Talent Show",
+   "Welcome Mat"
+  ]
  },
  {
   "name": "The Crispy Crust Pizza",
@@ -9314,7 +11423,17 @@
    "umbrella-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Come Anytime",
+   "Multitool",
+   "Pizza Slice",
+   "Potluck",
+   "Snappy Comeback",
+   "Talent Show",
+   "Welcome Mat"
+  ]
  },
  {
   "name": "The Crispy Empanada Kiosk",
@@ -9349,7 +11468,17 @@
    "umbrella-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Come Anytime",
+   "Multitool",
+   "Pizza Slice",
+   "Potluck",
+   "Snappy Comeback",
+   "Talent Show",
+   "Welcome Mat"
+  ]
  },
  {
   "name": "The Crooked Cod",
@@ -9384,7 +11513,17 @@
    "umbrella-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Come Anytime",
+   "Multitool",
+   "Pizza Slice",
+   "Potluck",
+   "Snappy Comeback",
+   "Talent Show",
+   "Welcome Mat"
+  ]
  },
  {
   "name": "The Curious Cauldron",
@@ -9425,7 +11564,19 @@
    "straight-razor-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Charm Bracelet",
+   "Compass",
+   "Gold Ring",
+   "Heart",
+   "Horn",
+   "Knitting Circle",
+   "Lanolin",
+   "Lucky Penny",
+   "Multitool",
+   "Tool Chest"
+  ]
  },
  {
   "name": "The Flickering Wick",
@@ -9466,7 +11617,19 @@
    "straight-razor-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Charm Bracelet",
+   "Compass",
+   "Gold Ring",
+   "Heart",
+   "Horn",
+   "Knitting Circle",
+   "Lanolin",
+   "Lucky Penny",
+   "Multitool",
+   "Tool Chest"
+  ]
  },
  {
   "name": "The Golden Vault Bank",
@@ -9528,7 +11691,14 @@
    "scissors-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Fist Bump",
+   "Lollipop",
+   "Pinky Promise",
+   "Secret Handshake"
+  ]
  },
  {
   "name": "The Lobster Shack",
@@ -9561,7 +11731,21 @@
    "stopwatch-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Birthday Wish",
+   "Casserole",
+   "Healing Kit",
+   "Lobster",
+   "Moral Support",
+   "Oyster",
+   "Packed House",
+   "Potluck",
+   "Sturgeon",
+   "Sushi Roll",
+   "Swoon",
+   "Wristwatch"
+  ]
  },
  {
   "name": "The Lucky Star Hotel",
@@ -9598,7 +11782,16 @@
    "treasure-map-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Compass",
+   "Lucky Penny",
+   "Rare Coin",
+   "Sea Shell",
+   "Strongbox",
+   "Teddy Bear",
+   "Welcome Mat"
+  ]
  },
  {
   "name": "The Moonbeam Bookstore",
@@ -9628,7 +11821,16 @@
    "scrapbook-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Action Figure",
+   "Ancient Scroll",
+   "Bedtime Story",
+   "Family Crest",
+   "Game Console",
+   "Lullaby",
+   "Zen Stone"
+  ]
  },
  {
   "name": "The Patty Shack",
@@ -9662,7 +11864,19 @@
    "stopwatch-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Birthday Wish",
+   "Casserole",
+   "Healing Kit",
+   "Moral Support",
+   "Packed House",
+   "Potluck",
+   "Ramen Bowl",
+   "Swoon",
+   "Taco",
+   "Wristwatch"
+  ]
  },
  {
   "name": "The Rocket Cup Cafe",
@@ -9702,7 +11916,26 @@
    "wind-down-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Best Friend",
+   "Birthday Wish",
+   "Block Party",
+   "Chicken Soup",
+   "Come Anytime",
+   "Cookie",
+   "Game Console",
+   "Ginger",
+   "Ice Cream",
+   "Lullaby",
+   "Maple Syrup",
+   "Moral Support",
+   "Pinky Promise",
+   "Secret Handshake",
+   "Snappy Comeback",
+   "Tea Leaf"
+  ]
  },
  {
   "name": "The Salty Twist Pretzel Stand",
@@ -9737,7 +11970,17 @@
    "umbrella-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Come Anytime",
+   "Multitool",
+   "Pizza Slice",
+   "Potluck",
+   "Snappy Comeback",
+   "Talent Show",
+   "Welcome Mat"
+  ]
  },
  {
   "name": "The Skyline Courthouse",
@@ -9798,7 +12041,17 @@
    "umbrella-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Come Anytime",
+   "Multitool",
+   "Pizza Slice",
+   "Potluck",
+   "Snappy Comeback",
+   "Talent Show",
+   "Welcome Mat"
+  ]
  },
  {
   "name": "The Starlight Senior Home",
@@ -9864,7 +12117,11 @@
    "snow-globe-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Action Figure",
+   "Birthday Wish"
+  ]
  },
  {
   "name": "The Thrift Gap",
@@ -9893,7 +12150,13 @@
    "sheepskin-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Horn",
+   "Knitting Circle",
+   "Lanolin",
+   "Tool Chest"
+  ]
  },
  {
   "name": "The Tipsy Pilgrim Tavern",
@@ -9944,7 +12207,26 @@
    "wind-down-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Best Friend",
+   "Birthday Wish",
+   "Block Party",
+   "Chicken Soup",
+   "Come Anytime",
+   "Cookie",
+   "Game Console",
+   "Ginger",
+   "Ice Cream",
+   "Lullaby",
+   "Maple Syrup",
+   "Moral Support",
+   "Pinky Promise",
+   "Secret Handshake",
+   "Snappy Comeback",
+   "Tea Leaf"
+  ]
  },
  {
   "name": "The Tipsy Tiki Bar",
@@ -9977,7 +12259,15 @@
    "running-gag-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Huddle",
+   "Microphone",
+   "Packed House",
+   "Snappy Comeback",
+   "Soldering Iron",
+   "Standing Ovation"
+  ]
  },
  {
   "name": "The Totally Official Cup Flag Stand",
@@ -10005,18 +12295,61 @@
    "varsity-jacket-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Block Party",
+   "Hooray",
+   "Huddle",
+   "Medallion",
+   "Packed House",
+   "Sea Shell",
+   "Stadium Wave",
+   "Standing Ovation"
+  ]
  },
  {
   "name": "The Twisted Pretzel",
-  "group": null,
+  "group": "G035",
   "modelId": 20873,
   "nature": "service",
-  "troves": [],
-  "recipes": [],
-  "source": "game",
-  "verified": false,
-  "status": "pending"
+  "troves": [
+   "Banana",
+   "Chili Powder",
+   "Corn Cob",
+   "Fresh Egg",
+   "Fruit Basket",
+   "Grin",
+   "Hearty Broth",
+   "Milk Pail",
+   "Pork",
+   "Salt",
+   "Shy Giggle",
+   "Strawberry",
+   "Sunlight",
+   "Wheat",
+   "Wink"
+  ],
+  "recipes": [
+   "belly-laugh-2",
+   "bucket-2",
+   "flour-1",
+   "good-times-1",
+   "goofy-face-2",
+   "picnic-2",
+   "pocket-knife-1",
+   "umbrella-1"
+  ],
+  "source": "game-fiche",
+  "verified": true,
+  "sameTrovesAs": [
+   "Cinnamon Bun Stand",
+   "Coney Island Franks",
+   "Crêpe Stand",
+   "Deep Fillings Empanadas",
+   "Empanada Stand",
+   "Kiosk - Donuts"
+  ],
+  "status": "read"
  },
  {
   "name": "The Upland Needle",
@@ -10042,7 +12375,11 @@
    "snow-globe-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Action Figure",
+   "Birthday Wish"
+  ]
  },
  {
   "name": "The Upland Rodeo",
@@ -10069,7 +12406,11 @@
    "snow-globe-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Action Figure",
+   "Birthday Wish"
+  ]
  },
  {
   "name": "The Upland Y Rec Center",
@@ -10107,7 +12448,20 @@
    "varsity-jacket-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Block Party",
+   "Come Anytime",
+   "High Five",
+   "Hooray",
+   "Huddle",
+   "Medallion",
+   "Microphone",
+   "Packed House",
+   "Stadium Wave",
+   "Standing Ovation",
+   "Tennis Racket"
+  ]
  },
  {
   "name": "The Victory Gym",
@@ -10142,7 +12496,21 @@
    "yoga-mat-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Block Party",
+   "Boxing Gloves",
+   "Come Anytime",
+   "High Five",
+   "Hooray",
+   "Huddle",
+   "Medallion",
+   "Moral Support",
+   "Packed House",
+   "Stadium Wave",
+   "Standing Ovation",
+   "Tennis Racket"
+  ]
  },
  {
   "name": "Theater",
@@ -10174,7 +12542,11 @@
    "snow-globe-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Action Figure",
+   "Birthday Wish"
+  ]
  },
  {
   "name": "Thee Olde Spaghetti Factory",
@@ -10208,7 +12580,20 @@
    "stopwatch-2"
   ],
   "source": "catalog+game",
-  "verified": true
+  "verified": true,
+  "bonusTroves": [
+   "Birthday Wish",
+   "Casserole",
+   "Healing Kit",
+   "Moral Support",
+   "Olive Oil",
+   "Packed House",
+   "Potluck",
+   "Salami",
+   "Swoon",
+   "Wine Bottle",
+   "Wristwatch"
+  ]
  },
  {
   "name": "Tire shop",
@@ -10240,7 +12625,14 @@
    "wrench-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Gyroscope",
+   "Ingot",
+   "Multitool",
+   "Tool Chest",
+   "Wristwatch"
+  ]
  },
  {
   "name": "Totally Official Cup Merch Kiosk",
@@ -10268,7 +12660,17 @@
    "varsity-jacket-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Block Party",
+   "Hooray",
+   "Huddle",
+   "Medallion",
+   "Packed House",
+   "Sea Shell",
+   "Stadium Wave",
+   "Standing Ovation"
+  ]
  },
  {
   "name": "Town House",
@@ -10309,13 +12711,26 @@
    "snow-globe-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Action Figure",
+   "Best Friend",
+   "Compass",
+   "Cookie",
+   "Game Console",
+   "Gyroscope",
+   "Headphones",
+   "Sea Shell",
+   "Skateboard",
+   "Sunlight",
+   "Tennis Racket"
+  ]
  },
  {
   "name": "Track & Field Complex",
   "group": "G017",
   "modelId": 17038,
-  "nature": "unclassified",
+  "nature": "service",
   "troves": [
    "Ball Bearing",
    "Birch Bark",
@@ -10346,8 +12761,21 @@
    "trophy-cup-1",
    "varsity-jacket-1"
   ],
-  "source": "catalog",
-  "verified": false
+  "source": "catalog+game",
+  "verified": true,
+  "bonusTroves": [
+   "Block Party",
+   "Come Anytime",
+   "High Five",
+   "Hooray",
+   "Huddle",
+   "Medallion",
+   "Microphone",
+   "Packed House",
+   "Stadium Wave",
+   "Standing Ovation",
+   "Tennis Racket"
+  ]
  },
  {
   "name": "Try Harder Gym",
@@ -10382,7 +12810,21 @@
    "yoga-mat-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Block Party",
+   "Boxing Gloves",
+   "Come Anytime",
+   "High Five",
+   "Hooray",
+   "Huddle",
+   "Medallion",
+   "Moral Support",
+   "Packed House",
+   "Stadium Wave",
+   "Standing Ovation",
+   "Tennis Racket"
+  ]
  },
  {
   "name": "Ultra Beauty Co",
@@ -10416,7 +12858,18 @@
    "yoga-mat-1"
   ],
   "source": "catalog+game",
-  "verified": true
+  "verified": true,
+  "bonusTroves": [
+   "Amulet",
+   "Bedtime Story",
+   "Come Anytime",
+   "Cotton Boll",
+   "Knitting Circle",
+   "Lanolin",
+   "Lullaby",
+   "Moral Support",
+   "Pinky Promise"
+  ]
  },
  {
   "name": "University",
@@ -10461,7 +12914,27 @@
    "varsity-jacket-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Ancient Scroll",
+   "Birthday Wish",
+   "Boxing Gloves",
+   "Fruit Basket",
+   "Geode",
+   "Ginger",
+   "Gyroscope",
+   "Huddle",
+   "Ice Cream",
+   "Ingot",
+   "Multitool",
+   "Ramen Bowl",
+   "Skateboard",
+   "Soldering Iron",
+   "Squad",
+   "Standing Ovation",
+   "Tennis Racket",
+   "Tool Chest"
+  ]
  },
  {
   "name": "UPhone Store",
@@ -10491,7 +12964,13 @@
    "hello-again-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Best Friend",
+   "Headphones",
+   "Moral Support",
+   "Soldering Iron"
+  ]
  },
  {
   "name": "Upland Axes",
@@ -10529,7 +13008,20 @@
    "varsity-jacket-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Block Party",
+   "Come Anytime",
+   "High Five",
+   "Hooray",
+   "Huddle",
+   "Medallion",
+   "Microphone",
+   "Packed House",
+   "Stadium Wave",
+   "Standing Ovation",
+   "Tennis Racket"
+  ]
  },
  {
   "name": "Upland Cafe",
@@ -10589,7 +13081,32 @@
    "varsity-jacket-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Ancient Scroll",
+   "Babysitting",
+   "Bedtime Story",
+   "Birthday Wish",
+   "Boxing Gloves",
+   "Compass",
+   "Fruit Basket",
+   "Geode",
+   "Ginger",
+   "Gyroscope",
+   "Huddle",
+   "Ice Cream",
+   "Ingot",
+   "Multitool",
+   "Ramen Bowl",
+   "Shy Giggle",
+   "Skateboard",
+   "Soldering Iron",
+   "Squad",
+   "Standing Ovation",
+   "Sunlight",
+   "Tennis Racket",
+   "Tool Chest"
+  ]
  },
  {
   "name": "UPX Mint",
@@ -10644,7 +13161,12 @@
    "tweezers-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Healing Kit",
+   "Microscope",
+   "Moral Support"
+  ]
  },
  {
   "name": "Vancouver Townhouse",
@@ -10682,7 +13204,12 @@
    "steady-nerves-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Healing Kit",
+   "Microscope",
+   "Moral Support"
+  ]
  },
  {
   "name": "Waffle Home Diner",
@@ -10715,7 +13242,17 @@
    "stopwatch-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Birthday Wish",
+   "Casserole",
+   "Healing Kit",
+   "Moral Support",
+   "Packed House",
+   "Potluck",
+   "Swoon",
+   "Wristwatch"
+  ]
  },
  {
   "name": "Welcome Point Travel Center",
@@ -10742,7 +13279,11 @@
    "open-door-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Special Guest",
+   "Welcome Mat"
+  ]
  },
  {
   "name": "Wheel Alignment center",
@@ -10771,7 +13312,14 @@
    "wrench-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Gyroscope",
+   "Ingot",
+   "Multitool",
+   "Tool Chest",
+   "Wristwatch"
+  ]
  },
  {
   "name": "ÜPKEA",
@@ -10797,6 +13345,12 @@
    "sawn-plank-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Charcoal",
+   "Knitting Circle",
+   "Lanolin",
+   "Tool Chest"
+  ]
  }
 ]
