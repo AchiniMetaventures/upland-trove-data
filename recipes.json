@@ -12,7 +12,11 @@
    }
   ],
   "craftedAt": [
-   "Day Care Center"
+   "Day Care Center",
+   "Elementary School",
+   "High School",
+   "Large Day care",
+   "Upland Junior High"
   ],
   "id": "action-figure-1"
  },
@@ -32,7 +36,12 @@
    "Arcade",
    "Blockade Arcade",
    "Comic Book Store",
-   "Dreamspace VR"
+   "Dreamspace VR",
+   "Game Exchange",
+   "Mainstreet Modular Apartments: Arcade Edition",
+   "Pixel Pulse Arcade",
+   "The Atomic Arcade",
+   "Toy Store"
   ],
   "id": "action-figure-2"
  },
@@ -120,7 +129,12 @@
    "Candy shop",
    "Cinnaboom",
    "Dairy King Ice Cream",
-   "East Coast Modular Apartments: Bakery Edition"
+   "East Coast Modular Apartments: Bakery Edition",
+   "European Modular Apartments: Ice Cream Shop",
+   "Glazed & Confused Donuts",
+   "Ice cream Parlor",
+   "The Atomic Oven Bakery",
+   "The Harvest Oven"
   ],
   "id": "almond-1"
  },
@@ -142,7 +156,14 @@
   ],
   "craftedAt": [
    "Bodega",
-   "Delicatessen shop"
+   "Delicatessen shop",
+   "European Modular Apartments: Mantequeria Edition",
+   "Neighborhood Market",
+   "Old Crow Farm Market",
+   "South America Modular Apartments: Almacén Edition",
+   "Supermarket",
+   "Supermarket Super Store",
+   "The Amsterdam Cheese House"
   ],
   "id": "almond-2"
  },
@@ -167,7 +188,10 @@
    }
   ],
   "craftedAt": [
-   "Antique Store"
+   "Antique Store",
+   "European Modular Apartments: Antiquaire Edition",
+   "Mainstreet Modular Apartments: Pawn Shop Edition",
+   "Pawn shop"
   ],
   "id": "amber-1"
  },
@@ -191,9 +215,72 @@
    "African Crafts Market",
    "Antique Store",
    "Black Cat Curiosities Shop",
-   "Cobweb & Co Antiques"
+   "Cobweb & Co Antiques",
+   "East Coast Modular: Liquor Store Edition",
+   "European Modular Apartments: Antiquaire Edition",
+   "European Modular Apartments: Big Ben’s Gift Shoppe",
+   "Going Under Dive Shop",
+   "Jewelry",
+   "Madame Moon's Fortune Telling",
+   "Main Street Modular Apartments: Texas Mercantile General Store",
+   "Main Street Modular Apartments: Uppany & Co. Edition",
+   "Mainstreet Modular Apartments: Pawn Shop Edition",
+   "Mainstreet Modular Apartments: Uppie Outfitters Edition",
+   "Mainstreet Modular: The Salty Anchor Marine Supply",
+   "Mall of Upland",
+   "Olde Wonder Toys",
+   "Pawn shop",
+   "The Curious Cauldron",
+   "The Flickering Wick"
   ],
   "id": "amulet-1"
+ },
+ {
+  "product": "Amulet",
+  "ingredients": [
+   {
+    "name": "Rough Gem",
+    "qty": 3
+   },
+   {
+    "name": "Twine",
+    "qty": 2
+   },
+   {
+    "name": "Incense Stick",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "East Coast Modular Apartments: Tattoo studio Edition",
+   "Tattoo Studio"
+  ],
+  "id": "amulet-2"
+ },
+ {
+  "product": "Ancient Scroll",
+  "ingredients": [
+   {
+    "name": "Birch Bark",
+    "qty": 4
+   },
+   {
+    "name": "Coal Lump",
+    "qty": 1
+   },
+   {
+    "name": "Twine",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Elementary School",
+   "High School",
+   "Junior College",
+   "University",
+   "Upland Junior High"
+  ],
+  "id": "ancient-scroll-1"
  },
  {
   "product": "Ancient Scroll",
@@ -213,9 +300,14 @@
   ],
   "craftedAt": [
    "Barn & Nobles",
-   "Bookstore"
+   "Bookstore",
+   "Large Library",
+   "Library",
+   "Mainstreet Modular Apartments: Bookstore Edition",
+   "Natural History Museum",
+   "The Moonbeam Bookstore"
   ],
-  "id": "ancient-scroll-1"
+  "id": "ancient-scroll-2"
  },
  {
   "product": "Antique Vase",
@@ -236,7 +328,8 @@
   "craftedAt": [
    "Art Gallery",
    "Art Museum",
-   "Build-A-Bowl Workshop"
+   "Build-A-Bowl Workshop",
+   "European Modular Apartments: Galerie d'Art Edition"
   ],
   "id": "antique-vase-1"
  },
@@ -260,7 +353,20 @@
    "African Crafts Market",
    "Antique Store",
    "Black Cat Curiosities Shop",
-   "Cobweb & Co Antiques"
+   "Cobweb & Co Antiques",
+   "East Coast Modular: Liquor Store Edition",
+   "European Modular Apartments: Antiquaire Edition",
+   "Going Under Dive Shop",
+   "Main Street Modular Apartments: Texas Mercantile General Store",
+   "Main Street Modular Apartments: Uppany & Co. Edition",
+   "Mainstreet Modular Apartments: Pawn Shop Edition",
+   "Mainstreet Modular Apartments: Uppie Outfitters Edition",
+   "Mainstreet Modular: The Salty Anchor Marine Supply",
+   "Mall of Upland",
+   "Olde Wonder Toys",
+   "Pawn shop",
+   "The Curious Cauldron",
+   "The Flickering Wick"
   ],
   "id": "antique-vase-2"
  },
@@ -334,7 +440,31 @@
   ],
   "craftedAt": [
    "Casual Dining Restaurant",
-   "East Coast Modular Apartments: Fast Food Restaurant"
+   "East Coast Modular Apartments: Fast Food Restaurant",
+   "East Coast Modular Apartments: Little Havana Grill Edition",
+   "El Plate-o Grande",
+   "European Modular Apartments: Restaurant Edition",
+   "Fast Food Joint",
+   "Fine Dining Restaurant",
+   "Lotus of Upland Thai House",
+   "Luxury Restaurant",
+   "Main Street Modular Apartments: Pizzeria Edition",
+   "Mexican Restaurant",
+   "Moonbeam Diner",
+   "Mother Cluckers Chicken",
+   "Nomi Sushi Bar",
+   "Pho Whoa",
+   "Pizzeria",
+   "Ramen Restaurant",
+   "South America Modular Apartments: Rodizio Edition",
+   "Steakhouse",
+   "Tandoor House",
+   "Tapas Bar",
+   "The Burger Stop",
+   "The Lobster Shack",
+   "The Patty Shack",
+   "Thee Olde Spaghetti Factory",
+   "Waffle Home Diner"
   ],
   "id": "apology-accepted-2"
  },
@@ -423,9 +553,40 @@
   ],
   "craftedAt": [
    "Bodega",
-   "Cape Town Modular: Padstal Edition"
+   "Cape Town Modular: Padstal Edition",
+   "Farmers Market",
+   "Florence Retro Googie Farmers Market",
+   "Neighborhood Market",
+   "Old Crow Farm Market",
+   "Omaha Retro Googie Farmers Market",
+   "Small Farmers Market",
+   "South America Modular Apartments: Almacén Edition",
+   "Supermarket",
+   "Supermarket Super Store",
+   "Takasaki Retro Googie Farmers Market"
   ],
   "id": "asparagus-1"
+ },
+ {
+  "product": "Asparagus",
+  "ingredients": [
+   {
+    "name": "Pocket Knife",
+    "qty": 2
+   },
+   {
+    "name": "Manure",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Elementary School",
+   "High School",
+   "Junior College",
+   "University",
+   "Upland Junior High"
+  ],
+  "id": "asparagus-2"
  },
  {
   "product": "Avocado",
@@ -496,7 +657,8 @@
    }
   ],
   "craftedAt": [
-   "Day Care Center"
+   "Day Care Center",
+   "Large Day care"
   ],
   "id": "baby-monitor-1"
  },
@@ -607,7 +769,11 @@
   ],
   "craftedAt": [
    "Block & Beans Coffee",
-   "Coffee Shop"
+   "Coffee Shop",
+   "French Cafe",
+   "Mainstreet Modular Apartments: Cafe Edition building",
+   "The Rocket Cup Cafe",
+   "The Tipsy Teapot Cafe"
   ],
   "id": "baguette-loaf-1"
  },
@@ -793,7 +959,11 @@
    }
   ],
   "craftedAt": [
-   "Day Care Center"
+   "Day Care Center",
+   "Elementary School",
+   "High School",
+   "Large Day care",
+   "Upland Junior High"
   ],
   "id": "bedtime-story-1"
  },
@@ -1018,7 +1188,11 @@
    }
   ],
   "craftedAt": [
-   "Day Care Center"
+   "Day Care Center",
+   "Elementary School",
+   "High School",
+   "Large Day care",
+   "Upland Junior High"
   ],
   "id": "belly-laugh-3"
  },
@@ -1076,7 +1250,30 @@
   "craftedAt": [
    "Basketball court",
    "Beach Pavilion",
-   "Bowling"
+   "Bowling",
+   "Gym",
+   "Ice Rink",
+   "Martial Arts Dojo",
+   "Mini Golf",
+   "Mother Putters",
+   "Off the Wall Skate Park",
+   "Paintball Upland",
+   "Pickle Ball Courts",
+   "Pool Hall",
+   "Private Swim Club",
+   "Public Pool",
+   "Pure Pose Yoga",
+   "Set Point Beach Club",
+   "Soccer Field",
+   "Southside Boxing Club",
+   "Sports Courts",
+   "SuperKarts Mini Raceway",
+   "Tennis court",
+   "The Upland Y Rec Center",
+   "The Victory Gym",
+   "Track & Field Complex",
+   "Try Harder Gym",
+   "Upland Axes"
   ],
   "id": "best-friend-1"
  },
@@ -1135,7 +1332,11 @@
    }
   ],
   "craftedAt": [
-   "Day Care Center"
+   "Day Care Center",
+   "Elementary School",
+   "High School",
+   "Large Day care",
+   "Upland Junior High"
   ],
   "id": "birthday-wish-1"
  },
@@ -1157,7 +1358,16 @@
   ],
   "craftedAt": [
    "Beach Pavilion",
-   "Bowling"
+   "Bowling",
+   "Ice Rink",
+   "Mini Golf",
+   "Mother Putters",
+   "Paintball Upland",
+   "Pool Hall",
+   "SuperKarts Mini Raceway",
+   "The Upland Y Rec Center",
+   "Track & Field Complex",
+   "Upland Axes"
   ],
   "id": "block-party-1"
  },
@@ -1208,6 +1418,33 @@
   "id": "blood-donation-1"
  },
  {
+  "product": "Blowtorch",
+  "ingredients": [
+   {
+    "name": "Ingot",
+    "qty": 1
+   },
+   {
+    "name": "Copper Wire",
+    "qty": 1
+   },
+   {
+    "name": "Fuse",
+    "qty": 2
+   },
+   {
+    "name": "Coal Lump",
+    "qty": 3
+   }
+  ],
+  "craftedAt": [
+   "Fire Station",
+   "Fire Station Headquarters",
+   "The Atomic Firehouse"
+  ],
+  "id": "blowtorch-1"
+ },
+ {
   "product": "Blue Diamond",
   "ingredients": [
    {
@@ -1230,7 +1467,9 @@
   "craftedAt": [
    "Bank",
    "Bank Headquarters",
-   "East Coast Modular Apartments: Bank Edition"
+   "East Coast Modular Apartments: Bank Edition",
+   "East Coast Modular Apartments: Money Exchange Edition",
+   "The Golden Vault Bank"
   ],
   "id": "blue-diamond-1"
  },
@@ -1251,7 +1490,13 @@
    }
   ],
   "craftedAt": [
-   "CineSpark Theatre"
+   "CineSpark Theatre",
+   "Live Jams Stage",
+   "Live Theater",
+   "Movie Theatre",
+   "Performing Arts Center",
+   "The Starline Theater",
+   "Theater"
   ],
   "id": "bouquet-1"
  },
@@ -1327,6 +1572,28 @@
   "product": "Boxing Gloves",
   "ingredients": [
    {
+    "name": "Rawhide",
+    "qty": 1
+   },
+   {
+    "name": "Sheepskin",
+    "qty": 1
+   },
+   {
+    "name": "Thread",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Martial Arts Dojo",
+   "Southside Boxing Club"
+  ],
+  "id": "boxing-gloves-1"
+ },
+ {
+  "product": "Boxing Gloves",
+  "ingredients": [
+   {
     "name": "Wool",
     "qty": 4
    },
@@ -1338,7 +1605,7 @@
   "craftedAt": [
    "Community Center"
   ],
-  "id": "boxing-gloves-1"
+  "id": "boxing-gloves-2"
  },
  {
   "product": "Bread Mother",
@@ -1361,7 +1628,14 @@
    }
   ],
   "craftedAt": [
-   "Casual Dining Restaurant"
+   "Casual Dining Restaurant",
+   "East Coast Modular Apartments: Little Havana Grill Edition",
+   "European Modular Apartments: Restaurant Edition",
+   "Moonbeam Diner",
+   "Mother Cluckers Chicken",
+   "Tandoor House",
+   "Thee Olde Spaghetti Factory",
+   "Waffle Home Diner"
   ],
   "id": "bread-mother-1"
  },
@@ -1581,7 +1855,15 @@
    }
   ],
   "craftedAt": [
-   "Brewery"
+   "Brewery",
+   "European Modular Apartments: Sports Bar",
+   "Large Sports Bar",
+   "Local Brewery",
+   "Mainstreet Modular Apartments: Pub Edition building",
+   "Pub",
+   "South America Modular Apartments: Two Can Tango Bar Edition",
+   "The Happy Harvest Cider House",
+   "The Tipsy Tiki Bar"
   ],
   "id": "burger-1"
  },
@@ -1602,7 +1884,13 @@
    }
   ],
   "craftedAt": [
-   "East Coast Modular Apartments: Fast Food Restaurant"
+   "East Coast Modular Apartments: Fast Food Restaurant",
+   "Fast Food Joint",
+   "Kiosk - Hamburger",
+   "Moonbeam Diner",
+   "The Burger Stop",
+   "The Patty Shack",
+   "Waffle Home Diner"
   ],
   "id": "burger-2"
  },
@@ -1628,7 +1916,11 @@
   ],
   "craftedAt": [
    "Block & Beans Coffee",
-   "Coffee Shop"
+   "Coffee Shop",
+   "French Cafe",
+   "Mainstreet Modular Apartments: Cafe Edition building",
+   "The Rocket Cup Cafe",
+   "The Tipsy Teapot Cafe"
   ],
   "id": "cacao-pod-1"
  },
@@ -1677,6 +1969,29 @@
    "Wheel Alignment center"
   ],
   "id": "calipers-2"
+ },
+ {
+  "product": "Camera",
+  "ingredients": [
+   {
+    "name": "Lens",
+    "qty": 5
+   },
+   {
+    "name": "Battery Pack",
+    "qty": 2
+   },
+   {
+    "name": "Clay",
+    "qty": 3
+   }
+  ],
+  "craftedAt": [
+   "Newspaper Headquarters",
+   "Newspaper Stand",
+   "Radio Station"
+  ],
+  "id": "camera-1"
  },
  {
   "product": "Care Package",
@@ -1787,7 +2102,10 @@
   "craftedAt": [
    "Arcade",
    "Blockade Arcade",
-   "Dreamspace VR"
+   "Dreamspace VR",
+   "Mainstreet Modular Apartments: Arcade Edition",
+   "Pixel Pulse Arcade",
+   "The Atomic Arcade"
   ],
   "id": "casino-chip-1"
  },
@@ -1804,7 +2122,13 @@
    }
   ],
   "craftedAt": [
-   "Brewery"
+   "Brewery",
+   "Local Brewery",
+   "Mainstreet Modular Apartments: Pub Edition building",
+   "Pub",
+   "South America Modular Apartments: Two Can Tango Bar Edition",
+   "The Happy Harvest Cider House",
+   "The Tipsy Tiki Bar"
   ],
   "id": "casino-chip-2"
  },
@@ -1826,7 +2150,31 @@
   ],
   "craftedAt": [
    "Casual Dining Restaurant",
-   "East Coast Modular Apartments: Fast Food Restaurant"
+   "East Coast Modular Apartments: Fast Food Restaurant",
+   "East Coast Modular Apartments: Little Havana Grill Edition",
+   "El Plate-o Grande",
+   "European Modular Apartments: Restaurant Edition",
+   "Fast Food Joint",
+   "Fine Dining Restaurant",
+   "Lotus of Upland Thai House",
+   "Luxury Restaurant",
+   "Main Street Modular Apartments: Pizzeria Edition",
+   "Mexican Restaurant",
+   "Moonbeam Diner",
+   "Mother Cluckers Chicken",
+   "Nomi Sushi Bar",
+   "Pho Whoa",
+   "Pizzeria",
+   "Ramen Restaurant",
+   "South America Modular Apartments: Rodizio Edition",
+   "Steakhouse",
+   "Tandoor House",
+   "Tapas Bar",
+   "The Burger Stop",
+   "The Lobster Shack",
+   "The Patty Shack",
+   "Thee Olde Spaghetti Factory",
+   "Waffle Home Diner"
   ],
   "id": "casserole-1"
  },
@@ -1847,7 +2195,9 @@
    }
   ],
   "craftedAt": [
-   "Assisted Living Center"
+   "Assisted Living Center",
+   "Large Assisted Living Center",
+   "The Starlight Senior Home"
   ],
   "id": "casserole-2"
  },
@@ -1916,9 +2266,41 @@
    }
   ],
   "craftedAt": [
-   "Casual Dining Restaurant"
+   "Casual Dining Restaurant",
+   "East Coast Modular Apartments: Little Havana Grill Edition",
+   "European Modular Apartments: Restaurant Edition",
+   "Fine Dining Restaurant",
+   "Luxury Restaurant",
+   "Mother Cluckers Chicken"
   ],
   "id": "caviar-1"
+ },
+ {
+  "product": "Caviar",
+  "ingredients": [
+   {
+    "name": "Sturgeon",
+    "qty": 5
+   },
+   {
+    "name": "Salt",
+    "qty": 10
+   },
+   {
+    "name": "Cold Compress",
+    "qty": 5
+   },
+   {
+    "name": "Silver Spoon",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Fish Deli",
+   "Fish Market",
+   "Main Street Modular Apartments: Pier Pressure Fish Market"
+  ],
+  "id": "caviar-2"
  },
  {
   "product": "Chalice",
@@ -1937,7 +2319,13 @@
    }
   ],
   "craftedAt": [
-   "Brewery"
+   "Brewery",
+   "Local Brewery",
+   "Mainstreet Modular Apartments: Pub Edition building",
+   "Pub",
+   "South America Modular Apartments: Two Can Tango Bar Edition",
+   "The Happy Harvest Cider House",
+   "The Tipsy Tiki Bar"
   ],
   "id": "chalice-1"
  },
@@ -1958,7 +2346,11 @@
    }
   ],
   "craftedAt": [
-   "Classic Hotel"
+   "Classic Hotel",
+   "Modern Hotel",
+   "Motel",
+   "The Grimwood Hotel",
+   "The Lucky Star Hotel"
   ],
   "id": "champagne-1"
  },
@@ -1997,7 +2389,17 @@
    }
   ],
   "craftedAt": [
-   "Casual Dining Restaurant"
+   "Casual Dining Restaurant",
+   "East Coast Modular Apartments: Little Havana Grill Edition",
+   "European Modular Apartments: Restaurant Edition",
+   "Main Street Modular Apartments: Pizzeria Edition",
+   "Moonbeam Diner",
+   "Mother Cluckers Chicken",
+   "Pizzeria",
+   "South America Modular Apartments: Rodizio Edition",
+   "Steakhouse",
+   "Tandoor House",
+   "Waffle Home Diner"
   ],
   "id": "charcoal-2"
  },
@@ -2020,7 +2422,12 @@
   "craftedAt": [
    "Barbershop",
    "Cornerstone Barbershop",
-   "East Coast Modular Apartments: Barber Shop"
+   "East Coast Modular Apartments: Barber Shop",
+   "East Coast Modular Apartments: Nail Salon",
+   "East Coast Modular Apartments: Tattoo studio Edition",
+   "Nail Salon",
+   "Regal Roots Salon",
+   "Tattoo Studio"
   ],
   "id": "charm-bracelet-1"
  },
@@ -2043,7 +2450,23 @@
   "craftedAt": [
    "African Crafts Market",
    "Black Cat Curiosities Shop",
-   "Cobweb & Co Antiques"
+   "Cobweb & Co Antiques",
+   "East Coast Modular: Liquor Store Edition",
+   "European Modular Apartments: Big Ben’s Gift Shoppe",
+   "Going Under Dive Shop",
+   "Jewelry",
+   "Luxury Fashion Boutique",
+   "Main Street Modular Apartments: Fashion Boutique Store Edition",
+   "Main Street Modular Apartments: Texas Mercantile General Store",
+   "Main Street Modular Apartments: Uppany & Co. Edition",
+   "Mainstreet Modular Apartments: Clothing Boutique",
+   "Mainstreet Modular Apartments: Uppie Outfitters Edition",
+   "Mainstreet Modular: The Salty Anchor Marine Supply",
+   "Mall of Upland",
+   "Olde Wonder Toys",
+   "The Curious Cauldron",
+   "The Flickering Wick",
+   "The Thrift Gap"
   ],
   "id": "charm-bracelet-2"
  },
@@ -2104,7 +2527,13 @@
    }
   ],
   "craftedAt": [
-   "Brewery"
+   "Brewery",
+   "Local Brewery",
+   "Mainstreet Modular Apartments: Pub Edition building",
+   "Pub",
+   "South America Modular Apartments: Two Can Tango Bar Edition",
+   "The Happy Harvest Cider House",
+   "The Tipsy Tiki Bar"
   ],
   "id": "cheers-1"
  },
@@ -2227,7 +2656,13 @@
   ],
   "craftedAt": [
    "Bodega",
-   "Butcher Shop"
+   "Butcher Shop",
+   "European Modular Apartments: Butcher Edition",
+   "Neighborhood Market",
+   "Old Crow Farm Market",
+   "South America Modular Apartments: Almacén Edition",
+   "Supermarket",
+   "Supermarket Super Store"
   ],
   "id": "chicken-soup-1"
  },
@@ -2253,7 +2688,31 @@
   ],
   "craftedAt": [
    "Casual Dining Restaurant",
-   "East Coast Modular Apartments: Fast Food Restaurant"
+   "East Coast Modular Apartments: Fast Food Restaurant",
+   "East Coast Modular Apartments: Little Havana Grill Edition",
+   "El Plate-o Grande",
+   "European Modular Apartments: Restaurant Edition",
+   "Fast Food Joint",
+   "Fine Dining Restaurant",
+   "Lotus of Upland Thai House",
+   "Luxury Restaurant",
+   "Main Street Modular Apartments: Pizzeria Edition",
+   "Mexican Restaurant",
+   "Moonbeam Diner",
+   "Mother Cluckers Chicken",
+   "Nomi Sushi Bar",
+   "Pho Whoa",
+   "Pizzeria",
+   "Ramen Restaurant",
+   "South America Modular Apartments: Rodizio Edition",
+   "Steakhouse",
+   "Tandoor House",
+   "Tapas Bar",
+   "The Burger Stop",
+   "The Lobster Shack",
+   "The Patty Shack",
+   "Thee Olde Spaghetti Factory",
+   "Waffle Home Diner"
   ],
   "id": "chicken-soup-2"
  },
@@ -2323,7 +2782,9 @@
    }
   ],
   "craftedAt": [
-   "Beachside Taco's"
+   "Beachside Taco's",
+   "Kiosk - Taco",
+   "Taco Stand"
   ],
   "id": "chili-powder-1"
  },
@@ -2447,7 +2908,11 @@
   ],
   "craftedAt": [
    "Block & Beans Coffee",
-   "Coffee Shop"
+   "Coffee Shop",
+   "French Cafe",
+   "Mainstreet Modular Apartments: Cafe Edition building",
+   "The Rocket Cup Cafe",
+   "The Tipsy Teapot Cafe"
   ],
   "id": "chocolate-bar-1"
  },
@@ -2510,9 +2975,35 @@
    }
   ],
   "craftedAt": [
-   "Community Center"
+   "Community Center",
+   "Recycling Center"
   ],
   "id": "clean-water-1"
+ },
+ {
+  "product": "Coat Drive",
+  "ingredients": [
+   {
+    "name": "Sheepskin",
+    "qty": 3
+   },
+   {
+    "name": "Mittens",
+    "qty": 5
+   },
+   {
+    "name": "Quilt",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Elementary School",
+   "High School",
+   "Junior College",
+   "University",
+   "Upland Junior High"
+  ],
+  "id": "coat-drive-1"
  },
  {
   "product": "Cod",
@@ -2584,7 +3075,16 @@
   ],
   "craftedAt": [
    "Clinic",
-   "Dentistry"
+   "Dentistry",
+   "East Coast Modular Apartments: Pharmacy",
+   "Grimwood Apothecary",
+   "Hospital",
+   "Pharmacy",
+   "Regional Hospital",
+   "Skyline Medical Center",
+   "The Corner Drugstore",
+   "Urgent care center",
+   "Veterinary Clinic"
   ],
   "id": "cold-compress-1"
  },
@@ -2605,7 +3105,9 @@
    }
   ],
   "craftedAt": [
-   "Community Center"
+   "Community Center",
+   "Information Kiosk",
+   "Welcome Point Travel Center"
   ],
   "id": "come-anytime-1"
  },
@@ -2626,7 +3128,11 @@
    }
   ],
   "craftedAt": [
-   "Classic Hotel"
+   "Classic Hotel",
+   "Modern Hotel",
+   "Motel",
+   "The Grimwood Hotel",
+   "The Lucky Star Hotel"
   ],
   "id": "come-anytime-2"
  },
@@ -2739,9 +3245,36 @@
   ],
   "craftedAt": [
    "Bike Shop",
-   "Bus Stop"
+   "Bus Stop",
+   "Information Kiosk",
+   "Logistics center: Nexus Point",
+   "Logistics center: Zenith Terminal",
+   "Mile's Beach Bikes",
+   "Welcome Point Travel Center"
   ],
   "id": "compass-1"
+ },
+ {
+  "product": "Compass",
+  "ingredients": [
+   {
+    "name": "Sand",
+    "qty": 1
+   },
+   {
+    "name": "Lens",
+    "qty": 2
+   },
+   {
+    "name": "Sunlight",
+    "qty": 3
+   }
+  ],
+  "craftedAt": [
+   "Planetarium",
+   "Science Museum"
+  ],
+  "id": "compass-2"
  },
  {
   "product": "Condolence",
@@ -2760,9 +3293,36 @@
    }
   ],
   "craftedAt": [
-   "Community Center"
+   "Community Center",
+   "Funeral Home"
   ],
   "id": "condolence-1"
+ },
+ {
+  "product": "Condolence",
+  "ingredients": [
+   {
+    "name": "Soft Heart",
+    "qty": 2
+   },
+   {
+    "name": "Incense Stick",
+    "qty": 2
+   },
+   {
+    "name": "Postcard",
+    "qty": 1
+   },
+   {
+    "name": "Kind Word",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Newspaper Headquarters",
+   "Newspaper Stand"
+  ],
+  "id": "condolence-2"
  },
  {
   "product": "Confetti Toss",
@@ -2836,7 +3396,13 @@
    "Candy shop",
    "Cinnaboom",
    "Dairy King Ice Cream",
-   "East Coast Modular Apartments: Bakery Edition"
+   "East Coast Modular Apartments: Bakery Edition",
+   "European Modular Apartments: Ice Cream Shop",
+   "Glazed & Confused Donuts",
+   "Ice cream Parlor",
+   "Swiggly Soda Shop",
+   "The Atomic Oven Bakery",
+   "The Harvest Oven"
   ],
   "id": "cookie-1"
  },
@@ -2909,7 +3475,12 @@
    }
   ],
   "craftedAt": [
-   "Cape Town Modular: Padstal Edition"
+   "Cape Town Modular: Padstal Edition",
+   "Farmers Market",
+   "Florence Retro Googie Farmers Market",
+   "Omaha Retro Googie Farmers Market",
+   "Small Farmers Market",
+   "Takasaki Retro Googie Farmers Market"
   ],
   "id": "cotton-boll-1"
  },
@@ -2928,7 +3499,25 @@
   "craftedAt": [
    "African Crafts Market",
    "Black Cat Curiosities Shop",
-   "Cobweb & Co Antiques"
+   "Cobweb & Co Antiques",
+   "East Coast Modular Apartments: Intimate Apparel Boutique",
+   "East Coast Modular Apartments: Yeehaw Outfitters Edition",
+   "East Coast Modular: Liquor Store Edition",
+   "Going Under Dive Shop",
+   "Luxury Fashion Boutique",
+   "Main Street Modular Apartments: Fashion Boutique Store Edition",
+   "Main Street Modular Apartments: Texas Mercantile General Store",
+   "Main Street Modular Apartments: Uppany & Co. Edition",
+   "Main Street Modular: Pacific Northwest Trading Post Edition",
+   "Mainstreet Modular Apartments: Clothing Boutique",
+   "Mainstreet Modular Apartments: Farmer Supply Editions",
+   "Mainstreet Modular Apartments: Uppie Outfitters Edition",
+   "Mainstreet Modular: The Salty Anchor Marine Supply",
+   "Mall of Upland",
+   "Olde Wonder Toys",
+   "The Curious Cauldron",
+   "The Flickering Wick",
+   "The Thrift Gap"
   ],
   "id": "cotton-boll-2"
  },
@@ -3078,7 +3667,18 @@
   "craftedAt": [
    "CineSpark Theatre",
    "Circus",
-   "Comedy Club"
+   "Comedy Club",
+   "Live Jams Stage",
+   "Live Theater",
+   "Madame Moon's Fortune Telling",
+   "Movie Theatre",
+   "Neon Glide Roller Rink",
+   "Performing Arts Center",
+   "Seattle Music Venue Service Structure",
+   "SynthTag Laser Tag",
+   "The Starline Theater",
+   "The Upland Rodeo",
+   "Theater"
   ],
   "id": "crowd-pleaser-1"
  },
@@ -3097,9 +3697,59 @@
   "craftedAt": [
    "Bank",
    "Bank Headquarters",
-   "East Coast Modular Apartments: Bank Edition"
+   "East Coast Modular Apartments: Bank Edition",
+   "East Coast Modular Apartments: Money Exchange Edition",
+   "The Golden Vault Bank"
   ],
   "id": "crown-jewel-1"
+ },
+ {
+  "product": "Crown Jewel",
+  "ingredients": [
+   {
+    "name": "Rough Gem",
+    "qty": 3
+   },
+   {
+    "name": "Brass Token",
+    "qty": 2
+   },
+   {
+    "name": "Nail",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Jewelry"
+  ],
+  "id": "crown-jewel-2"
+ },
+ {
+  "product": "Crutches",
+  "ingredients": [
+   {
+    "name": "Sawn Plank",
+    "qty": 3
+   },
+   {
+    "name": "Screw",
+    "qty": 2
+   },
+   {
+    "name": "Bandage",
+    "qty": 5
+   }
+  ],
+  "craftedAt": [
+   "Gym",
+   "Martial Arts Dojo",
+   "Off the Wall Skate Park",
+   "Southside Boxing Club",
+   "The Climbing Collective",
+   "The Victory Gym",
+   "Try Harder Gym"
+  ],
+  "id": "crutches-1"
  },
  {
   "product": "Crystal Ball",
@@ -3122,7 +3772,10 @@
    }
   ],
   "craftedAt": [
-   "Antique Store"
+   "Antique Store",
+   "European Modular Apartments: Antiquaire Edition",
+   "Mainstreet Modular Apartments: Pawn Shop Edition",
+   "Pawn shop"
   ],
   "id": "crystal-ball-1"
  },
@@ -3379,6 +4032,35 @@
   "id": "dog-collar-2"
  },
  {
+  "product": "Drone",
+  "ingredients": [
+   {
+    "name": "Camera",
+    "qty": 5
+   },
+   {
+    "name": "Kite",
+    "qty": 10
+   },
+   {
+    "name": "Copper Wire",
+    "qty": 15
+   },
+   {
+    "name": "Rocket Fuel",
+    "qty": 1
+   },
+   {
+    "name": "Sunlight",
+    "qty": 10
+   }
+  ],
+  "craftedAt": [
+   "Newspaper Headquarters"
+  ],
+  "id": "drone-1"
+ },
+ {
   "product": "Drumstick",
   "ingredients": [
    {
@@ -3417,6 +4099,31 @@
    "European Modular Apartments: Butcher Edition"
   ],
   "id": "drumstick-2"
+ },
+ {
+  "product": "Dynamite",
+  "ingredients": [
+   {
+    "name": "Rocket Fuel",
+    "qty": 2
+   },
+   {
+    "name": "Steel Wire",
+    "qty": 3
+   },
+   {
+    "name": "Duct Tape",
+    "qty": 25
+   },
+   {
+    "name": "Deep Breath",
+    "qty": 25
+   }
+  ],
+  "craftedAt": [
+   "Natural History Museum"
+  ],
+  "id": "dynamite-1"
  },
  {
   "product": "Earring",
@@ -3504,7 +4211,19 @@
   "craftedAt": [
    "African Crafts Market",
    "Black Cat Curiosities Shop",
-   "Cobweb & Co Antiques"
+   "Cobweb & Co Antiques",
+   "East Coast Modular: Liquor Store Edition",
+   "Going Under Dive Shop",
+   "Main Street Modular Apartments: Texas Mercantile General Store",
+   "Main Street Modular Apartments: Uppany & Co. Edition",
+   "Main Street Modular: Pacific Northwest Trading Post Edition",
+   "Mainstreet Modular Apartments: Uppie Outfitters Edition",
+   "Mainstreet Modular: The Salty Anchor Marine Supply",
+   "Mall of Upland",
+   "Musical Instrument Store",
+   "Olde Wonder Toys",
+   "The Curious Cauldron",
+   "The Flickering Wick"
   ],
   "id": "ebony-log-1"
  },
@@ -3600,6 +4319,31 @@
   "id": "embrace-2"
  },
  {
+  "product": "Emerald",
+  "ingredients": [
+   {
+    "name": "Rough Gem",
+    "qty": 25
+   },
+   {
+    "name": "Geode",
+    "qty": 2
+   },
+   {
+    "name": "Coal Lump",
+    "qty": 10
+   },
+   {
+    "name": "Lens",
+    "qty": 5
+   }
+  ],
+  "craftedAt": [
+   "Jewelry"
+  ],
+  "id": "emerald-1"
+ },
+ {
   "product": "Encore",
   "ingredients": [
    {
@@ -3616,7 +4360,13 @@
    }
   ],
   "craftedAt": [
-   "Brewery"
+   "Brewery",
+   "Local Brewery",
+   "Mainstreet Modular Apartments: Pub Edition building",
+   "Pub",
+   "South America Modular Apartments: Two Can Tango Bar Edition",
+   "The Happy Harvest Cider House",
+   "The Tipsy Tiki Bar"
   ],
   "id": "encore-1"
  },
@@ -3638,9 +4388,40 @@
   ],
   "craftedAt": [
    "Circus",
-   "Comedy Club"
+   "Comedy Club",
+   "Live Jams Stage",
+   "Live Theater",
+   "Performing Arts Center",
+   "Seattle Music Venue Service Structure",
+   "The Starline Theater",
+   "Theater"
   ],
   "id": "encore-2"
+ },
+ {
+  "product": "Family Crest",
+  "ingredients": [
+   {
+    "name": "Oak Log",
+    "qty": 2
+   },
+   {
+    "name": "Copper Nugget",
+    "qty": 2
+   },
+   {
+    "name": "Scout Patch",
+    "qty": 2
+   }
+  ],
+  "craftedAt": [
+   "Elementary School",
+   "High School",
+   "Junior College",
+   "University",
+   "Upland Junior High"
+  ],
+  "id": "family-crest-1"
  },
  {
   "product": "Family Crest",
@@ -3659,9 +4440,10 @@
    }
   ],
   "craftedAt": [
-   "Community Center"
+   "Community Center",
+   "Funeral Home"
   ],
-  "id": "family-crest-1"
+  "id": "family-crest-2"
  },
  {
   "product": "Favorite Person",
@@ -3762,7 +4544,10 @@
    }
   ],
   "craftedAt": [
-   "Antique Store"
+   "Antique Store",
+   "European Modular Apartments: Antiquaire Edition",
+   "Mainstreet Modular Apartments: Pawn Shop Edition",
+   "Pawn shop"
   ],
   "id": "fire-helmet-1"
  },
@@ -3787,7 +4572,11 @@
    }
   ],
   "craftedAt": [
-   "Classic Hotel"
+   "Classic Hotel",
+   "Modern Hotel",
+   "Motel",
+   "The Grimwood Hotel",
+   "The Lucky Star Hotel"
   ],
   "id": "fireworks-1"
  },
@@ -3866,7 +4655,10 @@
   ],
   "craftedAt": [
    "Community Center",
-   "Dry Cleaner"
+   "Dry Cleaner",
+   "Laundromat",
+   "Mainstreet Modular Apartments: Laundromat Edition",
+   "Recycling Center"
   ],
   "id": "flax-1"
  },
@@ -3885,7 +4677,24 @@
   "craftedAt": [
    "African Crafts Market",
    "Black Cat Curiosities Shop",
-   "Cobweb & Co Antiques"
+   "Cobweb & Co Antiques",
+   "East Coast Modular Apartments: Intimate Apparel Boutique",
+   "East Coast Modular: Liquor Store Edition",
+   "Going Under Dive Shop",
+   "Luxury Fashion Boutique",
+   "Main Street Modular Apartments: Fashion Boutique Store Edition",
+   "Main Street Modular Apartments: Texas Mercantile General Store",
+   "Main Street Modular Apartments: Uppany & Co. Edition",
+   "Main Street Modular: Pacific Northwest Trading Post Edition",
+   "Mainstreet Modular Apartments: Clothing Boutique",
+   "Mainstreet Modular Apartments: Farmer Supply Editions",
+   "Mainstreet Modular Apartments: Uppie Outfitters Edition",
+   "Mainstreet Modular: The Salty Anchor Marine Supply",
+   "Mall of Upland",
+   "Olde Wonder Toys",
+   "The Curious Cauldron",
+   "The Flickering Wick",
+   "The Thrift Gap"
   ],
   "id": "flax-2"
  },
@@ -3974,7 +4783,12 @@
   ],
   "craftedAt": [
    "Bodega",
-   "Community Center"
+   "Community Center",
+   "Neighborhood Market",
+   "Old Crow Farm Market",
+   "South America Modular Apartments: Almacén Edition",
+   "Supermarket",
+   "Supermarket Super Store"
   ],
   "id": "food-drive-1"
  },
@@ -4163,7 +4977,15 @@
   ],
   "craftedAt": [
    "Bodega",
-   "Delicatessen shop"
+   "Delicatessen shop",
+   "European Modular Apartments: Mantequeria Edition",
+   "Fresh Pick Fruit Stand",
+   "Neighborhood Market",
+   "Old Crow Farm Market",
+   "South America Modular Apartments: Almacén Edition",
+   "Supermarket",
+   "Supermarket Super Store",
+   "The Amsterdam Cheese House"
   ],
   "id": "fruit-basket-1"
  },
@@ -4184,7 +5006,15 @@
    }
   ],
   "craftedAt": [
-   "Clinic"
+   "Clinic",
+   "East Coast Modular Apartments: Pharmacy",
+   "Grimwood Apothecary",
+   "Hospital",
+   "Pharmacy",
+   "Regional Hospital",
+   "Skyline Medical Center",
+   "The Corner Drugstore",
+   "Urgent care center"
   ],
   "id": "fruit-basket-2"
  },
@@ -4205,7 +5035,11 @@
    }
   ],
   "craftedAt": [
-   "Classic Hotel"
+   "Classic Hotel",
+   "Modern Hotel",
+   "Motel",
+   "The Grimwood Hotel",
+   "The Lucky Star Hotel"
   ],
   "id": "full-recovery-1"
  },
@@ -4228,7 +5062,10 @@
   "craftedAt": [
    "Arcade",
    "Blockade Arcade",
-   "Dreamspace VR"
+   "Dreamspace VR",
+   "Mainstreet Modular Apartments: Arcade Edition",
+   "Pixel Pulse Arcade",
+   "The Atomic Arcade"
   ],
   "id": "game-console-1"
  },
@@ -4323,6 +5160,52 @@
   "id": "gavel-2"
  },
  {
+  "product": "Geode",
+  "ingredients": [
+   {
+    "name": "Hammer",
+    "qty": 1
+   },
+   {
+    "name": "Shovel",
+    "qty": 1
+   },
+   {
+    "name": "Amethyst",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Natural History Museum"
+  ],
+  "id": "geode-1"
+ },
+ {
+  "product": "Geode",
+  "ingredients": [
+   {
+    "name": "Quartz",
+    "qty": 3
+   },
+   {
+    "name": "Amethyst",
+    "qty": 2
+   },
+   {
+    "name": "Sand",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Elementary School",
+   "High School",
+   "Junior College",
+   "University",
+   "Upland Junior High"
+  ],
+  "id": "geode-2"
+ },
+ {
   "product": "Get Well",
   "ingredients": [
    {
@@ -4335,7 +5218,12 @@
    }
   ],
   "craftedAt": [
-   "Clinic"
+   "Clinic",
+   "Grimwood Apothecary",
+   "Hospital",
+   "Regional Hospital",
+   "Skyline Medical Center",
+   "Urgent care center"
   ],
   "id": "get-well-1"
  },
@@ -4412,7 +5300,16 @@
   "craftedAt": [
    "Block & Beans Coffee",
    "Bodega",
-   "Coffee Shop"
+   "Coffee Shop",
+   "French Cafe",
+   "Mainstreet Modular Apartments: Cafe Edition building",
+   "Neighborhood Market",
+   "Old Crow Farm Market",
+   "South America Modular Apartments: Almacén Edition",
+   "Supermarket",
+   "Supermarket Super Store",
+   "The Rocket Cup Cafe",
+   "The Tipsy Teapot Cafe"
   ],
   "id": "ginger-1"
  },
@@ -4433,7 +5330,12 @@
    }
   ],
   "craftedAt": [
-   "Cape Town Modular: Padstal Edition"
+   "Cape Town Modular: Padstal Edition",
+   "Farmers Market",
+   "Florence Retro Googie Farmers Market",
+   "Omaha Retro Googie Farmers Market",
+   "Small Farmers Market",
+   "Takasaki Retro Googie Farmers Market"
   ],
   "id": "ginger-2"
  },
@@ -4458,7 +5360,12 @@
    }
   ],
   "craftedAt": [
-   "Cape Town Modular: Padstal Edition"
+   "Cape Town Modular: Padstal Edition",
+   "Farmers Market",
+   "Florence Retro Googie Farmers Market",
+   "Omaha Retro Googie Farmers Market",
+   "Small Farmers Market",
+   "Takasaki Retro Googie Farmers Market"
   ],
   "id": "ginseng-root-1"
  },
@@ -4479,7 +5386,11 @@
    }
   ],
   "craftedAt": [
-   "Antique Store"
+   "Antique Store",
+   "European Modular Apartments: Antiquaire Edition",
+   "Jewelry",
+   "Mainstreet Modular Apartments: Pawn Shop Edition",
+   "Pawn shop"
   ],
   "id": "gold-bar-1"
  },
@@ -4549,7 +5460,9 @@
   "craftedAt": [
    "Bank",
    "Bank Headquarters",
-   "East Coast Modular Apartments: Bank Edition"
+   "East Coast Modular Apartments: Bank Edition",
+   "East Coast Modular Apartments: Money Exchange Edition",
+   "The Golden Vault Bank"
   ],
   "id": "gold-nugget-1"
  },
@@ -4566,7 +5479,11 @@
    }
   ],
   "craftedAt": [
-   "Antique Store"
+   "Antique Store",
+   "European Modular Apartments: Antiquaire Edition",
+   "Jewelry",
+   "Mainstreet Modular Apartments: Pawn Shop Edition",
+   "Pawn shop"
   ],
   "id": "gold-ring-1"
  },
@@ -4589,7 +5506,9 @@
   "craftedAt": [
    "Bank",
    "Bank Headquarters",
-   "East Coast Modular Apartments: Bank Edition"
+   "East Coast Modular Apartments: Bank Edition",
+   "East Coast Modular Apartments: Money Exchange Edition",
+   "The Golden Vault Bank"
   ],
   "id": "gold-ring-2"
  },
@@ -4806,7 +5725,14 @@
    }
   ],
   "craftedAt": [
-   "Casual Dining Restaurant"
+   "Casual Dining Restaurant",
+   "East Coast Modular Apartments: Little Havana Grill Edition",
+   "European Modular Apartments: Restaurant Edition",
+   "Fine Dining Restaurant",
+   "Luxury Restaurant",
+   "Main Street Modular Apartments: Pizzeria Edition",
+   "Mother Cluckers Chicken",
+   "Pizzeria"
   ],
   "id": "graduation-1"
  },
@@ -4835,7 +5761,9 @@
    }
   ],
   "craftedAt": [
-   "Assisted Living Center"
+   "Assisted Living Center",
+   "Large Assisted Living Center",
+   "The Starlight Senior Home"
   ],
   "id": "grail-1"
  },
@@ -4856,7 +5784,9 @@
    }
   ],
   "craftedAt": [
-   "Assisted Living Center"
+   "Assisted Living Center",
+   "Large Assisted Living Center",
+   "The Starlight Senior Home"
   ],
   "id": "grand-reunion-1"
  },
@@ -4974,6 +5904,28 @@
   "product": "Gyroscope",
   "ingredients": [
    {
+    "name": "Copper Wire",
+    "qty": 1
+   },
+   {
+    "name": "Stopwatch",
+    "qty": 1
+   },
+   {
+    "name": "Ball Bearing",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Planetarium",
+   "Science Museum"
+  ],
+  "id": "gyroscope-1"
+ },
+ {
+  "product": "Gyroscope",
+  "ingredients": [
+   {
     "name": "Tire Gauge",
     "qty": 1
    },
@@ -4988,9 +5940,10 @@
   ],
   "craftedAt": [
    "Atomic Auto Service",
-   "Auto Repair"
+   "Auto Repair",
+   "Wheel Alignment center"
   ],
-  "id": "gyroscope-1"
+  "id": "gyroscope-2"
  },
  {
   "product": "Hammer",
@@ -5204,9 +6157,57 @@
    }
   ],
   "craftedAt": [
-   "Cape Town Modular: Padstal Edition"
+   "Cape Town Modular: Padstal Edition",
+   "Farmers Market",
+   "Florence Retro Googie Farmers Market",
+   "Omaha Retro Googie Farmers Market",
+   "Small Farmers Market",
+   "Takasaki Retro Googie Farmers Market"
   ],
   "id": "hay-bale-1"
+ },
+ {
+  "product": "Hay Bale",
+  "ingredients": [
+   {
+    "name": "Oats",
+    "qty": 3
+   },
+   {
+    "name": "Twine",
+    "qty": 2
+   },
+   {
+    "name": "Rope",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Main Street Modular: Pacific Northwest Trading Post Edition",
+   "Mainstreet Modular Apartments: Farmer Supply Editions"
+  ],
+  "id": "hay-bale-2"
+ },
+ {
+  "product": "Headphones",
+  "ingredients": [
+   {
+    "name": "Copper Wire",
+    "qty": 1
+   },
+   {
+    "name": "Battery Pack",
+    "qty": 1
+   },
+   {
+    "name": "Wool",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Radio Station"
+  ],
+  "id": "headphones-1"
  },
  {
   "product": "Headphones",
@@ -5222,9 +6223,13 @@
   ],
   "craftedAt": [
    "Block & Beans Coffee",
-   "Coffee Shop"
+   "Coffee Shop",
+   "French Cafe",
+   "Mainstreet Modular Apartments: Cafe Edition building",
+   "The Rocket Cup Cafe",
+   "The Tipsy Teapot Cafe"
   ],
-  "id": "headphones-1"
+  "id": "headphones-2"
  },
  {
   "product": "Healing Kit",
@@ -5244,7 +6249,27 @@
   ],
   "craftedAt": [
    "Beach Pavilion",
-   "Bowling"
+   "Bowling",
+   "Gym",
+   "Ice Rink",
+   "Martial Arts Dojo",
+   "Mini Golf",
+   "Mother Putters",
+   "Off the Wall Skate Park",
+   "Paintball Upland",
+   "Pool Hall",
+   "Private Swim Club",
+   "Public Pool",
+   "Pure Pose Yoga",
+   "Set Point Beach Club",
+   "Southside Boxing Club",
+   "SuperKarts Mini Raceway",
+   "The Climbing Collective",
+   "The Upland Y Rec Center",
+   "The Victory Gym",
+   "Track & Field Complex",
+   "Try Harder Gym",
+   "Upland Axes"
   ],
   "id": "healing-kit-1"
  },
@@ -5265,7 +6290,17 @@
    }
   ],
   "craftedAt": [
-   "Clinic"
+   "Clinic",
+   "East Coast Modular Apartments: Pharmacy",
+   "Grimwood Apothecary",
+   "Hospital",
+   "Pharmacy",
+   "Physical Therapy Clinic",
+   "Regional Hospital",
+   "Skyline Medical Center",
+   "The Corner Drugstore",
+   "Urgent care center",
+   "Veterinary Clinic"
   ],
   "id": "healing-kit-2"
  },
@@ -5286,7 +6321,9 @@
    }
   ],
   "craftedAt": [
-   "Assisted Living Center"
+   "Assisted Living Center",
+   "Large Assisted Living Center",
+   "The Starlight Senior Home"
   ],
   "id": "hearing-aid-1"
  },
@@ -5313,7 +6350,14 @@
   "craftedAt": [
    "Barbershop",
    "Cornerstone Barbershop",
-   "East Coast Modular Apartments: Barber Shop"
+   "East Coast Modular Apartments: Barber Shop",
+   "East Coast Modular Apartments: Nail Salon",
+   "East Coast Modular Apartments: Tattoo studio Edition",
+   "Massage Parlor",
+   "Nail Salon",
+   "Regal Roots Salon",
+   "Tattoo Studio",
+   "Ultra Beauty Co"
   ],
   "id": "hearing-aid-2"
  },
@@ -5422,6 +6466,27 @@
   "id": "herbal-tea-2"
  },
  {
+  "product": "High Five",
+  "ingredients": [
+   {
+    "name": "Sawn Plank",
+    "qty": 1
+   },
+   {
+    "name": "Pulley",
+    "qty": 1
+   },
+   {
+    "name": "Sandpaper",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Off the Wall Skate Park"
+  ],
+  "id": "high-five-1"
+ },
+ {
   "product": "High Spirits",
   "ingredients": [
    {
@@ -5438,7 +6503,8 @@
    }
   ],
   "craftedAt": [
-   "Club Mirage Night Club"
+   "Club Mirage Night Club",
+   "Night Club"
   ],
   "id": "high-spirits-1"
  },
@@ -5467,7 +6533,13 @@
    "Candy shop",
    "Cinnaboom",
    "Dairy King Ice Cream",
-   "East Coast Modular Apartments: Bakery Edition"
+   "East Coast Modular Apartments: Bakery Edition",
+   "European Modular Apartments: Ice Cream Shop",
+   "Glazed & Confused Donuts",
+   "Ice cream Parlor",
+   "Swiggly Soda Shop",
+   "The Atomic Oven Bakery",
+   "The Harvest Oven"
   ],
   "id": "high-spirits-2"
  },
@@ -5568,6 +6640,25 @@
   "product": "Horn",
   "ingredients": [
    {
+    "name": "Beef",
+    "qty": 2
+   },
+   {
+    "name": "Sandpaper",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Main Street Modular: Pacific Northwest Trading Post Edition",
+   "Mainstreet Modular Apartments: Farmer Supply Editions",
+   "Musical Instrument Store"
+  ],
+  "id": "horn-1"
+ },
+ {
+  "product": "Horn",
+  "ingredients": [
+   {
     "name": "Lamb",
     "qty": 2
    },
@@ -5577,9 +6668,10 @@
    }
   ],
   "craftedAt": [
-   "Butcher Shop"
+   "Butcher Shop",
+   "European Modular Apartments: Butcher Edition"
   ],
-  "id": "horn-1"
+  "id": "horn-2"
  },
  {
   "product": "Hourglass",
@@ -5611,7 +6703,10 @@
   ],
   "craftedAt": [
    "Antique Store",
-   "Dunder Office Supplies"
+   "Dunder Office Supplies",
+   "European Modular Apartments: Antiquaire Edition",
+   "Mainstreet Modular Apartments: Pawn Shop Edition",
+   "Pawn shop"
   ],
   "id": "hourglass-1"
  },
@@ -5668,6 +6763,30 @@
   "product": "Huddle",
   "ingredients": [
    {
+    "name": "Common Ground",
+    "qty": 1
+   },
+   {
+    "name": "Fist Bump",
+    "qty": 3
+   },
+   {
+    "name": "Thumbs Up",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Large Office",
+   "Office Complex",
+   "Office Tower",
+   "Small Office"
+  ],
+  "id": "huddle-1"
+ },
+ {
+  "product": "Huddle",
+  "ingredients": [
+   {
     "name": "Football",
     "qty": 1
    },
@@ -5683,9 +6802,30 @@
   "craftedAt": [
    "Basketball court",
    "Beach Pavilion",
-   "Bowling"
+   "Bowling",
+   "Exclusive Hockey Store Service Structure",
+   "Gym",
+   "Ice Rink",
+   "Martial Arts Dojo",
+   "Mini Golf",
+   "Mother Putters",
+   "Off the Wall Skate Park",
+   "Paintball Upland",
+   "Pool Hall",
+   "Private Swim Club",
+   "Public Pool",
+   "Set Point Beach Club",
+   "Soccer Field",
+   "Southside Boxing Club",
+   "Sports Courts",
+   "SuperKarts Mini Raceway",
+   "The Upland Y Rec Center",
+   "The Victory Gym",
+   "Track & Field Complex",
+   "Try Harder Gym",
+   "Upland Axes"
   ],
-  "id": "huddle-1"
+  "id": "huddle-2"
  },
  {
   "product": "Ice Cream",
@@ -5702,9 +6842,68 @@
   "craftedAt": [
    "Bakery",
    "Dairy King Ice Cream",
-   "East Coast Modular Apartments: Bakery Edition"
+   "East Coast Modular Apartments: Bakery Edition",
+   "European Modular Apartments: Ice Cream Shop",
+   "Ice cream Parlor",
+   "Swiggly Soda Shop",
+   "The Atomic Oven Bakery",
+   "The Harvest Oven"
   ],
   "id": "ice-cream-1"
+ },
+ {
+  "product": "Ice Cream",
+  "ingredients": [
+   {
+    "name": "Milk Pail",
+    "qty": 3
+   },
+   {
+    "name": "Fresh Egg",
+    "qty": 1
+   },
+   {
+    "name": "Honey",
+    "qty": 1
+   },
+   {
+    "name": "Cold Compress",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Kiosk - Gelato"
+  ],
+  "id": "ice-cream-2"
+ },
+ {
+  "product": "Infrared Goggles",
+  "ingredients": [
+   {
+    "name": "Camera",
+    "qty": 2
+   },
+   {
+    "name": "Quartz",
+    "qty": 6
+   },
+   {
+    "name": "Battery Pack",
+    "qty": 3
+   },
+   {
+    "name": "Soldering Iron",
+    "qty": 2
+   }
+  ],
+  "craftedAt": [
+   "Neighborhood Police Station",
+   "Police Detention center",
+   "Police Headquarters",
+   "Regional Police Station",
+   "Starlite Precinct"
+  ],
+  "id": "infrared-goggles-1"
  },
  {
   "product": "Ingot",
@@ -5729,6 +6928,23 @@
   "id": "ingot-1"
  },
  {
+  "product": "Ingot",
+  "ingredients": [
+   {
+    "name": "Iron Ore",
+    "qty": 4
+   },
+   {
+    "name": "Coal Lump",
+    "qty": 2
+   }
+  ],
+  "craftedAt": [
+   "Hardware Store"
+  ],
+  "id": "ingot-2"
+ },
+ {
   "product": "Inner Peace",
   "ingredients": [
    {
@@ -5745,7 +6961,11 @@
    }
   ],
   "craftedAt": [
-   "Bookstore"
+   "Bookstore",
+   "Large Library",
+   "Library",
+   "Mainstreet Modular Apartments: Bookstore Edition",
+   "The Moonbeam Bookstore"
   ],
   "id": "inner-peace-1"
  },
@@ -5814,7 +7034,10 @@
   ],
   "craftedAt": [
    "African Crafts Market",
-   "Antique Store"
+   "Antique Store",
+   "European Modular Apartments: Antiquaire Edition",
+   "Mainstreet Modular Apartments: Pawn Shop Edition",
+   "Pawn shop"
   ],
   "id": "jade-dragon-1"
  },
@@ -5833,7 +7056,8 @@
   "craftedAt": [
    "Art Gallery",
    "Art Museum",
-   "Build-A-Bowl Workshop"
+   "Build-A-Bowl Workshop",
+   "European Modular Apartments: Galerie d'Art Edition"
   ],
   "id": "jade-dragon-2"
  },
@@ -5851,7 +7075,9 @@
   ],
   "craftedAt": [
    "Bakery",
-   "East Coast Modular Apartments: Bakery Edition"
+   "East Coast Modular Apartments: Bakery Edition",
+   "The Atomic Oven Bakery",
+   "The Harvest Oven"
   ],
   "id": "jam-jar-1"
  },
@@ -5929,7 +7155,8 @@
    }
   ],
   "craftedAt": [
-   "Community Center"
+   "Community Center",
+   "Recycling Center"
   ],
   "id": "jigsaw-1"
  },
@@ -6122,7 +7349,9 @@
   ],
   "craftedAt": [
    "Community Center",
-   "Dry Cleaner"
+   "Dry Cleaner",
+   "Laundromat",
+   "Mainstreet Modular Apartments: Laundromat Edition"
   ],
   "id": "knitting-circle-1"
  },
@@ -6143,7 +7372,9 @@
    }
   ],
   "craftedAt": [
-   "Assisted Living Center"
+   "Assisted Living Center",
+   "Large Assisted Living Center",
+   "The Starlight Senior Home"
   ],
   "id": "knitting-circle-2"
  },
@@ -6254,7 +7485,9 @@
   ],
   "craftedAt": [
    "Community Center",
-   "Dry Cleaner"
+   "Dry Cleaner",
+   "Laundromat",
+   "Mainstreet Modular Apartments: Laundromat Edition"
   ],
   "id": "lanolin-1"
  },
@@ -6275,9 +7508,46 @@
    }
   ],
   "craftedAt": [
-   "Clinic"
+   "Clinic",
+   "East Coast Modular Apartments: Pharmacy",
+   "Grimwood Apothecary",
+   "Hospital",
+   "Pharmacy",
+   "Regional Hospital",
+   "Skyline Medical Center",
+   "The Corner Drugstore",
+   "Urgent care center"
   ],
   "id": "lanolin-2"
+ },
+ {
+  "product": "Laurel Wreath",
+  "ingredients": [
+   {
+    "name": "Medallion",
+    "qty": 10
+   },
+   {
+    "name": "Gold Bar",
+    "qty": 3
+   },
+   {
+    "name": "Rosemary",
+    "qty": 30
+   },
+   {
+    "name": "Graduation",
+    "qty": 4
+   }
+  ],
+  "craftedAt": [
+   "Elementary School",
+   "High School",
+   "Junior College",
+   "University",
+   "Upland Junior High"
+  ],
+  "id": "laurel-wreath-1"
  },
  {
   "product": "Lemon",
@@ -6416,6 +7686,85 @@
   "id": "license-plate-2"
  },
  {
+  "product": "Life Jacket",
+  "ingredients": [
+   {
+    "name": "Wool",
+    "qty": 6
+   },
+   {
+    "name": "Bathrobe",
+    "qty": 2
+   },
+   {
+    "name": "Rope",
+    "qty": 3
+   }
+  ],
+  "craftedAt": [
+   "Fire Station",
+   "Fire Station Headquarters",
+   "Private Swim Club",
+   "Public Pool",
+   "Rip Curl’d Swimwear",
+   "Set Point Beach Club",
+   "The Atomic Firehouse"
+  ],
+  "id": "life-jacket-1"
+ },
+ {
+  "product": "Lifeline",
+  "ingredients": [
+   {
+    "name": "Oasis",
+    "qty": 2
+   },
+   {
+    "name": "Open Arms",
+    "qty": 1
+   },
+   {
+    "name": "Life Jacket",
+    "qty": 5
+   },
+   {
+    "name": "Rope",
+    "qty": 100
+   }
+  ],
+  "craftedAt": [
+   "Neighborhood Police Station",
+   "Police Detention center",
+   "Police Headquarters",
+   "Regional Police Station",
+   "Starlite Precinct"
+  ],
+  "id": "lifeline-1"
+ },
+ {
+  "product": "Lobster",
+  "ingredients": [
+   {
+    "name": "Crab",
+    "qty": 1
+   },
+   {
+    "name": "Oyster",
+    "qty": 1
+   },
+   {
+    "name": "Silver Coin",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Fish Deli",
+   "Fish Market",
+   "Main Street Modular Apartments: Pier Pressure Fish Market"
+  ],
+  "id": "lobster-1"
+ },
+ {
   "product": "Lobster",
   "ingredients": [
    {
@@ -6428,9 +7777,15 @@
    }
   ],
   "craftedAt": [
-   "Casual Dining Restaurant"
+   "Casual Dining Restaurant",
+   "East Coast Modular Apartments: Little Havana Grill Edition",
+   "European Modular Apartments: Restaurant Edition",
+   "Fine Dining Restaurant",
+   "Luxury Restaurant",
+   "Mother Cluckers Chicken",
+   "The Lobster Shack"
   ],
-  "id": "lobster-1"
+  "id": "lobster-2"
  },
  {
   "product": "Locket",
@@ -6484,7 +7839,12 @@
   ],
   "craftedAt": [
    "Block & Beans Coffee",
-   "Coffee Shop"
+   "Coffee Shop",
+   "French Cafe",
+   "Mainstreet Modular Apartments: Cafe Edition building",
+   "Pet Shop",
+   "The Rocket Cup Cafe",
+   "The Tipsy Teapot Cafe"
   ],
   "id": "locket-2"
  },
@@ -6520,7 +7880,15 @@
    }
   ],
   "craftedAt": [
-   "Clinic"
+   "Clinic",
+   "East Coast Modular Apartments: Pharmacy",
+   "Grimwood Apothecary",
+   "Hospital",
+   "Pharmacy",
+   "Regional Hospital",
+   "Skyline Medical Center",
+   "The Corner Drugstore",
+   "Urgent care center"
   ],
   "id": "lollipop-1"
  },
@@ -6539,7 +7907,9 @@
   "craftedAt": [
    "Bakery",
    "Candy shop",
-   "East Coast Modular Apartments: Bakery Edition"
+   "East Coast Modular Apartments: Bakery Edition",
+   "The Atomic Oven Bakery",
+   "The Harvest Oven"
   ],
   "id": "lollipop-2"
  },
@@ -6611,7 +7981,18 @@
    }
   ],
   "craftedAt": [
-   "Casual Dining Restaurant"
+   "Casual Dining Restaurant",
+   "East Coast Modular Apartments: Little Havana Grill Edition",
+   "El Plate-o Grande",
+   "European Modular Apartments: Restaurant Edition",
+   "Fine Dining Restaurant",
+   "Luxury Restaurant",
+   "Mexican Restaurant",
+   "Mother Cluckers Chicken",
+   "Nomi Sushi Bar",
+   "South America Modular Apartments: Rodizio Edition",
+   "Steakhouse",
+   "Tapas Bar"
   ],
   "id": "love-letter-1"
  },
@@ -6632,7 +8013,8 @@
    }
   ],
   "craftedAt": [
-   "Day Care Center"
+   "Day Care Center",
+   "Large Day care"
   ],
   "id": "lullaby-1"
  },
@@ -6653,7 +8035,9 @@
    }
   ],
   "craftedAt": [
-   "Assisted Living Center"
+   "Assisted Living Center",
+   "Large Assisted Living Center",
+   "The Starlight Senior Home"
   ],
   "id": "lullaby-2"
  },
@@ -6682,7 +8066,10 @@
    }
   ],
   "craftedAt": [
-   "Antique Store"
+   "Antique Store",
+   "European Modular Apartments: Antiquaire Edition",
+   "Mainstreet Modular Apartments: Pawn Shop Edition",
+   "Pawn shop"
   ],
   "id": "magic-lamp-1"
  },
@@ -6711,7 +8098,10 @@
    }
   ],
   "craftedAt": [
-   "Antique Store"
+   "Antique Store",
+   "European Modular Apartments: Antiquaire Edition",
+   "Mainstreet Modular Apartments: Pawn Shop Edition",
+   "Pawn shop"
   ],
   "id": "mammoth-tusk-1"
  },
@@ -6776,7 +8166,12 @@
    "Candy shop",
    "Cinnaboom",
    "Dairy King Ice Cream",
-   "East Coast Modular Apartments: Bakery Edition"
+   "East Coast Modular Apartments: Bakery Edition",
+   "European Modular Apartments: Ice Cream Shop",
+   "Glazed & Confused Donuts",
+   "Ice cream Parlor",
+   "The Atomic Oven Bakery",
+   "The Harvest Oven"
   ],
   "id": "maple-syrup-1"
  },
@@ -6794,7 +8189,17 @@
   ],
   "craftedAt": [
    "Bodega",
-   "Cape Town Modular: Padstal Edition"
+   "Cape Town Modular: Padstal Edition",
+   "Farmers Market",
+   "Florence Retro Googie Farmers Market",
+   "Neighborhood Market",
+   "Old Crow Farm Market",
+   "Omaha Retro Googie Farmers Market",
+   "Small Farmers Market",
+   "South America Modular Apartments: Almacén Edition",
+   "Supermarket",
+   "Supermarket Super Store",
+   "Takasaki Retro Googie Farmers Market"
   ],
   "id": "maple-syrup-2"
  },
@@ -6817,7 +8222,8 @@
   "craftedAt": [
    "Art Gallery",
    "Art Museum",
-   "Build-A-Bowl Workshop"
+   "Build-A-Bowl Workshop",
+   "European Modular Apartments: Galerie d'Art Edition"
   ],
   "id": "marble-bust-1"
  },
@@ -6835,7 +8241,10 @@
   ],
   "craftedAt": [
    "African Crafts Market",
-   "Antique Store"
+   "Antique Store",
+   "European Modular Apartments: Antiquaire Edition",
+   "Mainstreet Modular Apartments: Pawn Shop Edition",
+   "Pawn shop"
   ],
   "id": "marble-bust-2"
  },
@@ -6856,9 +8265,35 @@
    }
   ],
   "craftedAt": [
-   "Club Mirage Night Club"
+   "Club Mirage Night Club",
+   "Night Club"
   ],
   "id": "masquerade-1"
+ },
+ {
+  "product": "Master Chisel",
+  "ingredients": [
+   {
+    "name": "Ingot",
+    "qty": 4
+   },
+   {
+    "name": "Anvil",
+    "qty": 5
+   },
+   {
+    "name": "Sandpaper",
+    "qty": 10
+   },
+   {
+    "name": "Coal Lump",
+    "qty": 5
+   }
+  ],
+  "craftedAt": [
+   "Hardware Store"
+  ],
+  "id": "master-chisel-1"
  },
  {
   "product": "Medal",
@@ -6954,9 +8389,50 @@
   "craftedAt": [
    "Basketball court",
    "Beach Pavilion",
-   "Bowling"
+   "Bowling",
+   "Gym",
+   "Ice Rink",
+   "Martial Arts Dojo",
+   "Mini Golf",
+   "Mother Putters",
+   "Off the Wall Skate Park",
+   "Paintball Upland",
+   "Pool Hall",
+   "Private Swim Club",
+   "Public Pool",
+   "Set Point Beach Club",
+   "Soccer Field",
+   "Southside Boxing Club",
+   "Sports Courts",
+   "SuperKarts Mini Raceway",
+   "The Upland Y Rec Center",
+   "The Victory Gym",
+   "Track & Field Complex",
+   "Try Harder Gym",
+   "Upland Axes"
   ],
   "id": "medallion-1"
+ },
+ {
+  "product": "Medallion",
+  "ingredients": [
+   {
+    "name": "Trophy Cup",
+    "qty": 1
+   },
+   {
+    "name": "Brass Token",
+    "qty": 3
+   }
+  ],
+  "craftedAt": [
+   "Elementary School",
+   "High School",
+   "Junior College",
+   "University",
+   "Upland Junior High"
+  ],
+  "id": "medallion-2"
  },
  {
   "product": "Megaphone",
@@ -7025,7 +8501,9 @@
    }
   ],
   "craftedAt": [
-   "Assisted Living Center"
+   "Assisted Living Center",
+   "Large Assisted Living Center",
+   "The Starlight Senior Home"
   ],
   "id": "memory-lane-1"
  },
@@ -7050,7 +8528,8 @@
    }
   ],
   "craftedAt": [
-   "Community Center"
+   "Community Center",
+   "Recycling Center"
   ],
   "id": "metal-detector-1"
  },
@@ -7112,6 +8591,56 @@
   "id": "mic-drop-2"
  },
  {
+  "product": "Microphone",
+  "ingredients": [
+   {
+    "name": "Copper Wire",
+    "qty": 1
+   },
+   {
+    "name": "Megaphone",
+    "qty": 1
+   },
+   {
+    "name": "Handkerchief",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Radio Station"
+  ],
+  "id": "microphone-1"
+ },
+ {
+  "product": "Microphone",
+  "ingredients": [
+   {
+    "name": "Magnet",
+    "qty": 2
+   },
+   {
+    "name": "Screw",
+    "qty": 1
+   },
+   {
+    "name": "Handkerchief",
+    "qty": 1
+   },
+   {
+    "name": "Brass Token",
+    "qty": 2
+   }
+  ],
+  "craftedAt": [
+   "East Coast Modular Apartments: Mobile Phone Store",
+   "Electronic Store",
+   "Large Electronic store",
+   "Musical Instrument Store",
+   "UPhone Store"
+  ],
+  "id": "microphone-2"
+ },
+ {
   "product": "Microscope",
   "ingredients": [
    {
@@ -7129,9 +8658,66 @@
   ],
   "craftedAt": [
    "Clinic",
-   "Dentistry"
+   "Dentistry",
+   "Hospital",
+   "Optometrist",
+   "Regional Hospital",
+   "Skyline Medical Center",
+   "Urgent care center",
+   "Veterinary Clinic"
   ],
   "id": "microscope-1"
+ },
+ {
+  "product": "Microscope",
+  "ingredients": [
+   {
+    "name": "Lens",
+    "qty": 3
+   },
+   {
+    "name": "Iron Ore",
+    "qty": 2
+   },
+   {
+    "name": "Nail",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Elementary School",
+   "High School",
+   "Junior College",
+   "University",
+   "Upland Junior High"
+  ],
+  "id": "microscope-2"
+ },
+ {
+  "product": "Moon Rock",
+  "ingredients": [
+   {
+    "name": "Fossil",
+    "qty": 10
+   },
+   {
+    "name": "Quartz",
+    "qty": 20
+   },
+   {
+    "name": "Compass",
+    "qty": 3
+   },
+   {
+    "name": "Shovel",
+    "qty": 3
+   }
+  ],
+  "craftedAt": [
+   "Junior College",
+   "University"
+  ],
+  "id": "moon-rock-1"
  },
  {
   "product": "Moonshine",
@@ -7176,7 +8762,13 @@
    }
   ],
   "craftedAt": [
-   "Day Care Center"
+   "Day Care Center",
+   "Elementary School",
+   "High School",
+   "Junior College",
+   "Large Day care",
+   "University",
+   "Upland Junior High"
   ],
   "id": "moral-support-1"
  },
@@ -7199,7 +8791,31 @@
   "craftedAt": [
    "Basketball court",
    "Beach Pavilion",
-   "Bowling"
+   "Bowling",
+   "Gym",
+   "Ice Rink",
+   "Martial Arts Dojo",
+   "Mini Golf",
+   "Mother Putters",
+   "Off the Wall Skate Park",
+   "Paintball Upland",
+   "Pickle Ball Courts",
+   "Pool Hall",
+   "Private Swim Club",
+   "Public Pool",
+   "Pure Pose Yoga",
+   "Set Point Beach Club",
+   "Soccer Field",
+   "Southside Boxing Club",
+   "Sports Courts",
+   "SuperKarts Mini Raceway",
+   "Tennis court",
+   "The Climbing Collective",
+   "The Upland Y Rec Center",
+   "The Victory Gym",
+   "Track & Field Complex",
+   "Try Harder Gym",
+   "Upland Axes"
   ],
   "id": "moral-support-2"
  },
@@ -7276,9 +8892,37 @@
   ],
   "craftedAt": [
    "Bike Shop",
-   "Camp World"
+   "Camp World",
+   "Hardware Store",
+   "Hook & Tackle Bait Shop",
+   "Main Street Modular: Pacific Northwest Trading Post Edition",
+   "Mainstreet Modular Apartments: Zoomies Skate Shop Edition",
+   "Mile's Beach Bikes",
+   "Rick's Sporting Goods"
   ],
   "id": "multitool-1"
+ },
+ {
+  "product": "Multitool",
+  "ingredients": [
+   {
+    "name": "Scissors",
+    "qty": 1
+   },
+   {
+    "name": "Screwdriver",
+    "qty": 1
+   },
+   {
+    "name": "Hinge",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Logistics center: Nexus Point",
+   "Logistics center: Zenith Terminal"
+  ],
+  "id": "multitool-2"
  },
  {
   "product": "Necklace",
@@ -7296,7 +8940,26 @@
    "African Crafts Market",
    "Antique Store",
    "Black Cat Curiosities Shop",
-   "Cobweb & Co Antiques"
+   "Cobweb & Co Antiques",
+   "East Coast Modular: Liquor Store Edition",
+   "European Modular Apartments: Antiquaire Edition",
+   "European Modular Apartments: Big Ben’s Gift Shoppe",
+   "Going Under Dive Shop",
+   "Jewelry",
+   "Luxury Fashion Boutique",
+   "Main Street Modular Apartments: Fashion Boutique Store Edition",
+   "Main Street Modular Apartments: Texas Mercantile General Store",
+   "Main Street Modular Apartments: Uppany & Co. Edition",
+   "Mainstreet Modular Apartments: Clothing Boutique",
+   "Mainstreet Modular Apartments: Pawn Shop Edition",
+   "Mainstreet Modular Apartments: Uppie Outfitters Edition",
+   "Mainstreet Modular: The Salty Anchor Marine Supply",
+   "Mall of Upland",
+   "Olde Wonder Toys",
+   "Pawn shop",
+   "The Curious Cauldron",
+   "The Flickering Wick",
+   "The Thrift Gap"
   ],
   "id": "necklace-1"
  },
@@ -7319,7 +8982,12 @@
   "craftedAt": [
    "Barbershop",
    "Cornerstone Barbershop",
-   "East Coast Modular Apartments: Barber Shop"
+   "East Coast Modular Apartments: Barber Shop",
+   "East Coast Modular Apartments: Nail Salon",
+   "East Coast Modular Apartments: Tattoo studio Edition",
+   "Nail Salon",
+   "Regal Roots Salon",
+   "Tattoo Studio"
   ],
   "id": "necklace-2"
  },
@@ -7391,6 +9059,32 @@
   "id": "new-friend-2"
  },
  {
+  "product": "Oasis",
+  "ingredients": [
+   {
+    "name": "Clean Water",
+    "qty": 8
+   },
+   {
+    "name": "Sand",
+    "qty": 40
+   },
+   {
+    "name": "Lotus",
+    "qty": 10
+   },
+   {
+    "name": "Bucket",
+    "qty": 8
+   }
+  ],
+  "craftedAt": [
+   "Massage Parlor",
+   "Ultra Beauty Co"
+  ],
+  "id": "oasis-1"
+ },
+ {
   "product": "Oil Painting",
   "ingredients": [
    {
@@ -7454,7 +9148,14 @@
   ],
   "craftedAt": [
    "Block & Beans Coffee",
-   "Coffee Shop"
+   "Coffee Shop",
+   "European Modular Apartments: Big Ben’s Gift Shoppe",
+   "French Cafe",
+   "Mainstreet Modular Apartments: Cafe Edition building",
+   "Post Office",
+   "Post Office Distribution Center",
+   "The Rocket Cup Cafe",
+   "The Tipsy Teapot Cafe"
   ],
   "id": "old-pal-1"
  },
@@ -7475,7 +9176,9 @@
    }
   ],
   "craftedAt": [
-   "Assisted Living Center"
+   "Assisted Living Center",
+   "Large Assisted Living Center",
+   "The Starlight Senior Home"
   ],
   "id": "old-pal-2"
  },
@@ -7553,7 +9256,14 @@
   ],
   "craftedAt": [
    "Bodega",
-   "Delicatessen shop"
+   "Delicatessen shop",
+   "European Modular Apartments: Mantequeria Edition",
+   "Neighborhood Market",
+   "Old Crow Farm Market",
+   "South America Modular Apartments: Almacén Edition",
+   "Supermarket",
+   "Supermarket Super Store",
+   "The Amsterdam Cheese House"
   ],
   "id": "olive-oil-1"
  },
@@ -7570,7 +9280,17 @@
    }
   ],
   "craftedAt": [
-   "Casual Dining Restaurant"
+   "Casual Dining Restaurant",
+   "East Coast Modular Apartments: Little Havana Grill Edition",
+   "European Modular Apartments: Restaurant Edition",
+   "Fine Dining Restaurant",
+   "Luxury Restaurant",
+   "Main Street Modular Apartments: Pizzeria Edition",
+   "Mother Cluckers Chicken",
+   "Pizzeria",
+   "Tapas Bar",
+   "The Lobster Shack",
+   "Thee Olde Spaghetti Factory"
   ],
   "id": "olive-oil-2"
  },
@@ -7640,7 +9360,13 @@
    "Candy shop",
    "Cinnaboom",
    "Dairy King Ice Cream",
-   "East Coast Modular Apartments: Bakery Edition"
+   "East Coast Modular Apartments: Bakery Edition",
+   "European Modular Apartments: Ice Cream Shop",
+   "Glazed & Confused Donuts",
+   "Ice cream Parlor",
+   "Swiggly Soda Shop",
+   "The Atomic Oven Bakery",
+   "The Harvest Oven"
   ],
   "id": "open-invitation-1"
  },
@@ -7662,7 +9388,8 @@
   ],
   "craftedAt": [
    "Art Gallery",
-   "Art Museum"
+   "Art Museum",
+   "European Modular Apartments: Galerie d'Art Edition"
   ],
   "id": "opening-night-1"
  },
@@ -7735,7 +9462,15 @@
   "craftedAt": [
    "CineSpark Theatre",
    "Circus",
-   "Comedy Club"
+   "Comedy Club",
+   "Live Jams Stage",
+   "Live Theater",
+   "Movie Theatre",
+   "Performing Arts Center",
+   "Seattle Music Venue Service Structure",
+   "The Starline Theater",
+   "The Upland Rodeo",
+   "Theater"
   ],
   "id": "packed-house-1"
  },
@@ -7754,7 +9489,27 @@
   "craftedAt": [
    "Basketball court",
    "Beach Pavilion",
-   "Bowling"
+   "Bowling",
+   "Gym",
+   "Ice Rink",
+   "Martial Arts Dojo",
+   "Mini Golf",
+   "Mother Putters",
+   "Off the Wall Skate Park",
+   "Paintball Upland",
+   "Pool Hall",
+   "Private Swim Club",
+   "Public Pool",
+   "Set Point Beach Club",
+   "Soccer Field",
+   "Southside Boxing Club",
+   "Sports Courts",
+   "SuperKarts Mini Raceway",
+   "The Upland Y Rec Center",
+   "The Victory Gym",
+   "Track & Field Complex",
+   "Try Harder Gym",
+   "Upland Axes"
   ],
   "id": "packed-house-2"
  },
@@ -7780,7 +9535,16 @@
   ],
   "craftedAt": [
    "Beach Pavilion",
-   "Bowling"
+   "Bowling",
+   "Ice Rink",
+   "Mini Golf",
+   "Mother Putters",
+   "Paintball Upland",
+   "Pool Hall",
+   "SuperKarts Mini Raceway",
+   "The Upland Y Rec Center",
+   "Track & Field Complex",
+   "Upland Axes"
   ],
   "id": "parade-1"
  },
@@ -7970,9 +9734,36 @@
    }
   ],
   "craftedAt": [
-   "Antique Store"
+   "Antique Store",
+   "European Modular Apartments: Antiquaire Edition",
+   "Mainstreet Modular Apartments: Pawn Shop Edition",
+   "Pawn shop"
   ],
   "id": "pharaoh-mask-1"
+ },
+ {
+  "product": "Phone",
+  "ingredients": [
+   {
+    "name": "Check In",
+    "qty": 2
+   },
+   {
+    "name": "Extension Cord",
+    "qty": 4
+   },
+   {
+    "name": "Glass Bead",
+    "qty": 5
+   }
+  ],
+  "craftedAt": [
+   "Large Office",
+   "Office Complex",
+   "Office Tower",
+   "Small Office"
+  ],
+  "id": "phone-1"
  },
  {
   "product": "Picnic",
@@ -8126,7 +9917,12 @@
    "Bank",
    "Bank Headquarters",
    "Court House",
-   "East Coast Modular Apartments: Bank Edition"
+   "East Coast Modular Apartments: Bank Edition",
+   "East Coast Modular Apartments: Money Exchange Edition",
+   "Large Court house",
+   "Sparklet Refinery",
+   "The Golden Vault Bank",
+   "The Skyline Courthouse"
   ],
   "id": "pinky-promise-1"
  },
@@ -8147,7 +9943,13 @@
    }
   ],
   "craftedAt": [
-   "Day Care Center"
+   "Day Care Center",
+   "Elementary School",
+   "High School",
+   "Junior College",
+   "Large Day care",
+   "University",
+   "Upland Junior High"
   ],
   "id": "pinky-promise-2"
  },
@@ -8164,9 +9966,36 @@
    }
   ],
   "craftedAt": [
-   "Casual Dining Restaurant"
+   "Casual Dining Restaurant",
+   "East Coast Modular Apartments: Little Havana Grill Edition",
+   "European Modular Apartments: Restaurant Edition",
+   "Main Street Modular Apartments: Pizzeria Edition",
+   "Mother Cluckers Chicken",
+   "Pizzeria"
   ],
   "id": "pizza-slice-1"
+ },
+ {
+  "product": "Pizza Slice",
+  "ingredients": [
+   {
+    "name": "Flour",
+    "qty": 1
+   },
+   {
+    "name": "Tomato",
+    "qty": 1
+   },
+   {
+    "name": "Basil",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Kiosk - Pizza",
+   "The Slice Station"
+  ],
+  "id": "pizza-slice-2"
  },
  {
   "product": "Plasma Cutter",
@@ -8384,9 +10213,36 @@
    }
   ],
   "craftedAt": [
-   "Court House"
+   "Court House",
+   "Large Court house",
+   "The Skyline Courthouse"
   ],
   "id": "police-badge-1"
+ },
+ {
+  "product": "Police Badge",
+  "ingredients": [
+   {
+    "name": "Medal",
+    "qty": 1
+   },
+   {
+    "name": "Wax Seal",
+    "qty": 1
+   },
+   {
+    "name": "Sandpaper",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Neighborhood Police Station",
+   "Police Detention center",
+   "Police Headquarters",
+   "Regional Police Station",
+   "Starlite Precinct"
+  ],
+  "id": "police-badge-2"
  },
  {
   "product": "Potluck",
@@ -8405,7 +10261,13 @@
    }
   ],
   "craftedAt": [
-   "Day Care Center"
+   "Day Care Center",
+   "Elementary School",
+   "High School",
+   "Junior College",
+   "Large Day care",
+   "University",
+   "Upland Junior High"
   ],
   "id": "potluck-1"
  },
@@ -8565,7 +10427,13 @@
    }
   ],
   "craftedAt": [
-   "Comedy Club"
+   "Comedy Club",
+   "Live Jams Stage",
+   "Live Theater",
+   "Madame Moon's Fortune Telling",
+   "Performing Arts Center",
+   "The Starline Theater",
+   "Theater"
   ],
   "id": "punchline-1"
  },
@@ -8655,6 +10523,27 @@
   "id": "quilt-2"
  },
  {
+  "product": "Radar Gun",
+  "ingredients": [
+   {
+    "name": "Radio",
+    "qty": 2
+   },
+   {
+    "name": "Stopwatch",
+    "qty": 6
+   },
+   {
+    "name": "Quartz",
+    "qty": 8
+   }
+  ],
+  "craftedAt": [
+   "Sports Courts"
+  ],
+  "id": "radar-gun-1"
+ },
+ {
   "product": "Radio",
   "ingredients": [
    {
@@ -8675,7 +10564,13 @@
    }
   ],
   "craftedAt": [
-   "Brewery"
+   "Brewery",
+   "Local Brewery",
+   "Mainstreet Modular Apartments: Pub Edition building",
+   "Pub",
+   "South America Modular Apartments: Two Can Tango Bar Edition",
+   "The Happy Harvest Cider House",
+   "The Tipsy Tiki Bar"
   ],
   "id": "radio-1"
  },
@@ -8732,7 +10627,12 @@
    }
   ],
   "craftedAt": [
-   "Casual Dining Restaurant"
+   "Casual Dining Restaurant",
+   "East Coast Modular Apartments: Little Havana Grill Edition",
+   "European Modular Apartments: Restaurant Edition",
+   "Mother Cluckers Chicken",
+   "Pho Whoa",
+   "Ramen Restaurant"
   ],
   "id": "ramen-bowl-1"
  },
@@ -8753,7 +10653,8 @@
    }
   ],
   "craftedAt": [
-   "Asian Modular Apartments: Hawker Centre Edition"
+   "Asian Modular Apartments: Hawker Centre Edition",
+   "Singapore Kopitiam"
   ],
   "id": "ramen-bowl-2"
  },
@@ -8772,7 +10673,9 @@
   "craftedAt": [
    "Bank",
    "Bank Headquarters",
-   "East Coast Modular Apartments: Bank Edition"
+   "East Coast Modular Apartments: Bank Edition",
+   "East Coast Modular Apartments: Money Exchange Edition",
+   "The Golden Vault Bank"
   ],
   "id": "rare-coin-1"
  },
@@ -8796,7 +10699,15 @@
    "Bodega",
    "Court House",
    "Department store",
-   "Dollar Store"
+   "Dollar Store",
+   "Large Court house",
+   "Neighborhood Market",
+   "Old Crow Farm Market",
+   "South America Modular Apartments: Almacén Edition",
+   "Sparklet Refinery",
+   "Supermarket",
+   "Supermarket Super Store",
+   "The Skyline Courthouse"
   ],
   "id": "rare-coin-2"
  },
@@ -8923,7 +10834,12 @@
    }
   ],
   "craftedAt": [
-   "Bodega"
+   "Bodega",
+   "Neighborhood Market",
+   "Old Crow Farm Market",
+   "South America Modular Apartments: Almacén Edition",
+   "Supermarket",
+   "Supermarket Super Store"
   ],
   "id": "roast-1"
  },
@@ -8944,9 +10860,37 @@
    }
   ],
   "craftedAt": [
-   "Brewery"
+   "Brewery",
+   "Local Brewery",
+   "Mainstreet Modular Apartments: Pub Edition building",
+   "Pub",
+   "South America Modular Apartments: Two Can Tango Bar Edition",
+   "The Happy Harvest Cider House",
+   "The Tipsy Tiki Bar"
   ],
   "id": "roast-2"
+ },
+ {
+  "product": "Rocket Fuel",
+  "ingredients": [
+   {
+    "name": "Moonshine",
+    "qty": 2
+   },
+   {
+    "name": "Coal Lump",
+    "qty": 15
+   },
+   {
+    "name": "Fuse",
+    "qty": 9
+   }
+  ],
+  "craftedAt": [
+   "Junior College",
+   "University"
+  ],
+  "id": "rocket-fuel-1"
  },
  {
   "product": "Royal Treatment",
@@ -8967,7 +10911,14 @@
   "craftedAt": [
    "Barbershop",
    "Cornerstone Barbershop",
-   "East Coast Modular Apartments: Barber Shop"
+   "East Coast Modular Apartments: Barber Shop",
+   "East Coast Modular Apartments: Nail Salon",
+   "East Coast Modular Apartments: Tattoo studio Edition",
+   "Massage Parlor",
+   "Nail Salon",
+   "Regal Roots Salon",
+   "Tattoo Studio",
+   "Ultra Beauty Co"
   ],
   "id": "royal-treatment-1"
  },
@@ -8989,9 +10940,27 @@
   ],
   "craftedAt": [
    "Art Gallery",
-   "Art Museum"
+   "Art Museum",
+   "European Modular Apartments: Galerie d'Art Edition"
   ],
   "id": "ruby-1"
+ },
+ {
+  "product": "Ruby",
+  "ingredients": [
+   {
+    "name": "Rough Gem",
+    "qty": 4
+   },
+   {
+    "name": "Sandpaper",
+    "qty": 2
+   }
+  ],
+  "craftedAt": [
+   "Jewelry"
+  ],
+  "id": "ruby-2"
  },
  {
   "product": "Running Gag",
@@ -9055,7 +11024,18 @@
    }
   ],
   "craftedAt": [
-   "Casual Dining Restaurant"
+   "Casual Dining Restaurant",
+   "East Coast Modular Apartments: Little Havana Grill Edition",
+   "European Modular Apartments: Restaurant Edition",
+   "Fine Dining Restaurant",
+   "Luxury Restaurant",
+   "Mother Cluckers Chicken",
+   "Pho Whoa",
+   "Ramen Restaurant",
+   "South America Modular Apartments: Rodizio Edition",
+   "Steakhouse",
+   "Tandoor House",
+   "Tapas Bar"
   ],
   "id": "saffron-1"
  },
@@ -9073,7 +11053,10 @@
   ],
   "craftedAt": [
    "Butcher Shop",
-   "Delicatessen shop"
+   "Delicatessen shop",
+   "European Modular Apartments: Butcher Edition",
+   "European Modular Apartments: Mantequeria Edition",
+   "The Amsterdam Cheese House"
   ],
   "id": "salami-1"
  },
@@ -9099,7 +11082,23 @@
   ],
   "craftedAt": [
    "Bodega",
-   "Casual Dining Restaurant"
+   "Casual Dining Restaurant",
+   "East Coast Modular Apartments: Little Havana Grill Edition",
+   "European Modular Apartments: Restaurant Edition",
+   "Fine Dining Restaurant",
+   "Luxury Restaurant",
+   "Main Street Modular Apartments: Pizzeria Edition",
+   "Mother Cluckers Chicken",
+   "Neighborhood Market",
+   "Old Crow Farm Market",
+   "Pizzeria",
+   "South America Modular Apartments: Almacén Edition",
+   "South America Modular Apartments: Rodizio Edition",
+   "Steakhouse",
+   "Supermarket",
+   "Supermarket Super Store",
+   "Tapas Bar",
+   "Thee Olde Spaghetti Factory"
   ],
   "id": "salami-2"
  },
@@ -9176,7 +11175,19 @@
   "craftedAt": [
    "African Crafts Market",
    "Black Cat Curiosities Shop",
-   "Cobweb & Co Antiques"
+   "Cobweb & Co Antiques",
+   "East Coast Modular: Liquor Store Edition",
+   "Going Under Dive Shop",
+   "Main Street Modular Apartments: Texas Mercantile General Store",
+   "Main Street Modular Apartments: Uppany & Co. Edition",
+   "Main Street Modular: Pacific Northwest Trading Post Edition",
+   "Mainstreet Modular Apartments: Uppie Outfitters Edition",
+   "Mainstreet Modular: The Salty Anchor Marine Supply",
+   "Mall of Upland",
+   "Musical Instrument Store",
+   "Olde Wonder Toys",
+   "The Curious Cauldron",
+   "The Flickering Wick"
   ],
   "id": "sandalwood-1"
  },
@@ -9194,9 +11205,31 @@
   ],
   "craftedAt": [
    "Art Gallery",
-   "Art Museum"
+   "Art Museum",
+   "European Modular Apartments: Galerie d'Art Edition"
   ],
   "id": "sapphire-1"
+ },
+ {
+  "product": "Sapphire",
+  "ingredients": [
+   {
+    "name": "Rough Gem",
+    "qty": 8
+   },
+   {
+    "name": "Lens",
+    "qty": 2
+   },
+   {
+    "name": "Coal Lump",
+    "qty": 5
+   }
+  ],
+  "craftedAt": [
+   "Jewelry"
+  ],
+  "id": "sapphire-2"
  },
  {
   "product": "Saw",
@@ -9473,7 +11506,27 @@
   "craftedAt": [
    "Basketball court",
    "Beach Pavilion",
-   "Bowling"
+   "Bowling",
+   "Gym",
+   "Ice Rink",
+   "Martial Arts Dojo",
+   "Mini Golf",
+   "Mother Putters",
+   "Off the Wall Skate Park",
+   "Paintball Upland",
+   "Pool Hall",
+   "Private Swim Club",
+   "Public Pool",
+   "Set Point Beach Club",
+   "Soccer Field",
+   "Southside Boxing Club",
+   "Sports Courts",
+   "SuperKarts Mini Raceway",
+   "The Upland Y Rec Center",
+   "The Victory Gym",
+   "Track & Field Complex",
+   "Try Harder Gym",
+   "Upland Axes"
   ],
   "id": "secret-handshake-1"
  },
@@ -9494,7 +11547,13 @@
    }
   ],
   "craftedAt": [
-   "Brewery"
+   "Brewery",
+   "Local Brewery",
+   "Mainstreet Modular Apartments: Pub Edition building",
+   "Pub",
+   "South America Modular Apartments: Two Can Tango Bar Edition",
+   "The Happy Harvest Cider House",
+   "The Tipsy Tiki Bar"
   ],
   "id": "secret-handshake-2"
  },
@@ -9547,6 +11606,32 @@
    "Sneaker Store"
   ],
   "id": "sewing-kit-2"
+ },
+ {
+  "product": "Sextant",
+  "ingredients": [
+   {
+    "name": "Compass",
+    "qty": 5
+   },
+   {
+    "name": "Lens",
+    "qty": 10
+   },
+   {
+    "name": "Brass Token",
+    "qty": 10
+   },
+   {
+    "name": "Sand",
+    "qty": 5
+   }
+  ],
+  "craftedAt": [
+   "Logistics center: Nexus Point",
+   "Logistics center: Zenith Terminal"
+  ],
+  "id": "sextant-1"
  },
  {
   "product": "Sheepskin",
@@ -9698,9 +11783,49 @@
   "craftedAt": [
    "Basketball court",
    "Beach Pavilion",
-   "Bowling"
+   "Bowling",
+   "Exclusive Hockey Store Service Structure",
+   "Ice Rink",
+   "Mini Golf",
+   "Mother Putters",
+   "Paintball Upland",
+   "Pool Hall",
+   "Soccer Field",
+   "Sports Courts",
+   "SuperKarts Mini Raceway",
+   "The Totally Official Cup Flag Stand",
+   "The Upland Y Rec Center",
+   "Totally Official Cup Merch Kiosk",
+   "Track & Field Complex",
+   "Upland Axes"
   ],
   "id": "signed-jersey-1"
+ },
+ {
+  "product": "Signed Jersey",
+  "ingredients": [
+   {
+    "name": "Varsity Jacket",
+    "qty": 2
+   },
+   {
+    "name": "Football",
+    "qty": 1
+   },
+   {
+    "name": "Pennant",
+    "qty": 5
+   },
+   {
+    "name": "Raffle Ticket",
+    "qty": 2
+   }
+  ],
+  "craftedAt": [
+   "European Modular Apartments: Sports Bar",
+   "Large Sports Bar"
+  ],
+  "id": "signed-jersey-2"
  },
  {
   "product": "Silver Spoon",
@@ -9719,7 +11844,9 @@
    }
   ],
   "craftedAt": [
-   "Assisted Living Center"
+   "Assisted Living Center",
+   "Large Assisted Living Center",
+   "The Starlight Senior Home"
   ],
   "id": "silver-spoon-1"
  },
@@ -9736,7 +11863,13 @@
    }
   ],
   "craftedAt": [
-   "Casual Dining Restaurant"
+   "Casual Dining Restaurant",
+   "East Coast Modular Apartments: Little Havana Grill Edition",
+   "European Modular Apartments: Restaurant Edition",
+   "Fine Dining Restaurant",
+   "Luxury Restaurant",
+   "Mother Cluckers Chicken",
+   "Thee Olde Spaghetti Factory"
   ],
   "id": "silver-spoon-2"
  },
@@ -9757,7 +11890,9 @@
    }
   ],
   "craftedAt": [
-   "Camp World"
+   "Camp World",
+   "Mainstreet Modular Apartments: Zoomies Skate Shop Edition",
+   "Rick's Sporting Goods"
   ],
   "id": "skateboard-1"
  },
@@ -10029,6 +12164,27 @@
   "id": "soldering-iron-1"
  },
  {
+  "product": "Soldering Iron",
+  "ingredients": [
+   {
+    "name": "Extension Cord",
+    "qty": 2
+   },
+   {
+    "name": "Iron Ore",
+    "qty": 2
+   },
+   {
+    "name": "Switch",
+    "qty": 2
+   }
+  ],
+  "craftedAt": [
+   "Radio Station"
+  ],
+  "id": "soldering-iron-2"
+ },
+ {
   "product": "Soybean",
   "ingredients": [
    {
@@ -10081,6 +12237,36 @@
   "id": "soybean-2"
  },
  {
+  "product": "Space Suit",
+  "ingredients": [
+   {
+    "name": "Infrared Goggles",
+    "qty": 4
+   },
+   {
+    "name": "Rocket Fuel",
+    "qty": 4
+   },
+   {
+    "name": "Life Jacket",
+    "qty": 10
+   },
+   {
+    "name": "Fire Helmet",
+    "qty": 5
+   },
+   {
+    "name": "Wool",
+    "qty": 50
+   }
+  ],
+  "craftedAt": [
+   "Junior College",
+   "University"
+  ],
+  "id": "space-suit-1"
+ },
+ {
   "product": "Special Guest",
   "ingredients": [
    {
@@ -10099,7 +12285,16 @@
   "craftedAt": [
    "CineSpark Theatre",
    "Circus",
-   "Comedy Club"
+   "Comedy Club",
+   "Live Jams Stage",
+   "Live Theater",
+   "Madame Moon's Fortune Telling",
+   "Movie Theatre",
+   "Performing Arts Center",
+   "Seattle Music Venue Service Structure",
+   "The Starline Theater",
+   "The Upland Rodeo",
+   "Theater"
   ],
   "id": "special-guest-1"
  },
@@ -10120,7 +12315,11 @@
    }
   ],
   "craftedAt": [
-   "Classic Hotel"
+   "Classic Hotel",
+   "Modern Hotel",
+   "Motel",
+   "The Grimwood Hotel",
+   "The Lucky Star Hotel"
   ],
   "id": "special-guest-2"
  },
@@ -10146,9 +12345,33 @@
   ],
   "craftedAt": [
    "Antique Store",
-   "Barn & Nobles"
+   "Barn & Nobles",
+   "European Modular Apartments: Antiquaire Edition",
+   "Mainstreet Modular Apartments: Pawn Shop Edition",
+   "Pawn shop"
   ],
   "id": "spell-book-1"
+ },
+ {
+  "product": "Squad",
+  "ingredients": [
+   {
+    "name": "Fist Bump",
+    "qty": 3
+   },
+   {
+    "name": "Pennant",
+    "qty": 3
+   }
+  ],
+  "craftedAt": [
+   "Elementary School",
+   "High School",
+   "Junior College",
+   "University",
+   "Upland Junior High"
+  ],
+  "id": "squad-1"
  },
  {
   "product": "Squad",
@@ -10169,9 +12392,34 @@
   "craftedAt": [
    "Basketball court",
    "Beach Pavilion",
-   "Bowling"
+   "Bowling",
+   "Exclusive Hockey Store Service Structure",
+   "Gym",
+   "Ice Rink",
+   "Mainstreet Modular Apartments: Zoomies Skate Shop Edition",
+   "Martial Arts Dojo",
+   "Mini Golf",
+   "Mother Putters",
+   "Off the Wall Skate Park",
+   "Paintball Upland",
+   "Pickle Ball Courts",
+   "Pool Hall",
+   "Private Swim Club",
+   "Public Pool",
+   "Pure Pose Yoga",
+   "Set Point Beach Club",
+   "Soccer Field",
+   "Southside Boxing Club",
+   "Sports Courts",
+   "SuperKarts Mini Raceway",
+   "The Climbing Collective",
+   "The Upland Y Rec Center",
+   "The Victory Gym",
+   "Track & Field Complex",
+   "Try Harder Gym",
+   "Upland Axes"
   ],
-  "id": "squad-1"
+  "id": "squad-2"
  },
  {
   "product": "Squid",
@@ -10235,9 +12483,58 @@
   ],
   "craftedAt": [
    "Beach Pavilion",
-   "Bowling"
+   "Bowling",
+   "Ice Rink",
+   "Mini Golf",
+   "Mother Putters",
+   "Paintball Upland",
+   "Pool Hall",
+   "SuperKarts Mini Raceway",
+   "The Upland Y Rec Center",
+   "Track & Field Complex",
+   "Upland Axes"
   ],
   "id": "stadium-wave-1"
+ },
+ {
+  "product": "Stadium Wave",
+  "ingredients": [
+   {
+    "name": "Hooray",
+    "qty": 4
+   },
+   {
+    "name": "Pennant",
+    "qty": 2
+   }
+  ],
+  "craftedAt": [
+   "Live Jams Stage",
+   "Live Theater",
+   "Performing Arts Center",
+   "The Starline Theater",
+   "The Upland Rodeo",
+   "Theater"
+  ],
+  "id": "stadium-wave-2"
+ },
+ {
+  "product": "Stamp Collection",
+  "ingredients": [
+   {
+    "name": "Postage Stamp",
+    "qty": 14
+   },
+   {
+    "name": "Lens",
+    "qty": 2
+   }
+  ],
+  "craftedAt": [
+   "Newspaper Headquarters",
+   "Newspaper Stand"
+  ],
+  "id": "stamp-collection-1"
  },
  {
   "product": "Standing Ovation",
@@ -10257,7 +12554,14 @@
   ],
   "craftedAt": [
    "Circus",
-   "Comedy Club"
+   "Comedy Club",
+   "Live Jams Stage",
+   "Live Theater",
+   "Performing Arts Center",
+   "Seattle Music Venue Service Structure",
+   "The Starline Theater",
+   "The Upland Rodeo",
+   "Theater"
   ],
   "id": "standing-ovation-1"
  },
@@ -10276,7 +12580,27 @@
   "craftedAt": [
    "Basketball court",
    "Beach Pavilion",
-   "Bowling"
+   "Bowling",
+   "Gym",
+   "Ice Rink",
+   "Martial Arts Dojo",
+   "Mini Golf",
+   "Mother Putters",
+   "Off the Wall Skate Park",
+   "Paintball Upland",
+   "Pool Hall",
+   "Private Swim Club",
+   "Public Pool",
+   "Set Point Beach Club",
+   "Soccer Field",
+   "Southside Boxing Club",
+   "Sports Courts",
+   "SuperKarts Mini Raceway",
+   "The Upland Y Rec Center",
+   "The Victory Gym",
+   "Track & Field Complex",
+   "Try Harder Gym",
+   "Upland Axes"
   ],
   "id": "standing-ovation-2"
  },
@@ -10297,7 +12621,13 @@
    }
   ],
   "craftedAt": [
-   "Brewery"
+   "Brewery",
+   "Local Brewery",
+   "Mainstreet Modular Apartments: Pub Edition building",
+   "Pub",
+   "South America Modular Apartments: Two Can Tango Bar Edition",
+   "The Happy Harvest Cider House",
+   "The Tipsy Tiki Bar"
   ],
   "id": "standing-ovation-3"
  },
@@ -10365,6 +12695,27 @@
   "id": "steady-nerves-2"
  },
  {
+  "product": "Steel Wire",
+  "ingredients": [
+   {
+    "name": "Iron Ore",
+    "qty": 10
+   },
+   {
+    "name": "Coal Lump",
+    "qty": 3
+   },
+   {
+    "name": "Bench Vise",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Hardware Store"
+  ],
+  "id": "steel-wire-1"
+ },
+ {
   "product": "Stethoscope",
   "ingredients": [
    {
@@ -10381,7 +12732,9 @@
    }
   ],
   "craftedAt": [
-   "Assisted Living Center"
+   "Assisted Living Center",
+   "Large Assisted Living Center",
+   "The Starlight Senior Home"
   ],
   "id": "stethoscope-1"
  },
@@ -10468,6 +12821,29 @@
   "id": "stopwatch-2"
  },
  {
+  "product": "Storm Relief",
+  "ingredients": [
+   {
+    "name": "Care Package",
+    "qty": 3
+   },
+   {
+    "name": "Bucket",
+    "qty": 2
+   },
+   {
+    "name": "Cozy Blanket",
+    "qty": 2
+   }
+  ],
+  "craftedAt": [
+   "Fire Station",
+   "Fire Station Headquarters",
+   "The Atomic Firehouse"
+  ],
+  "id": "storm-relief-1"
+ },
+ {
   "product": "Straight Razor",
   "ingredients": [
    {
@@ -10540,7 +12916,9 @@
   "craftedAt": [
    "Bank",
    "Bank Headquarters",
-   "East Coast Modular Apartments: Bank Edition"
+   "East Coast Modular Apartments: Bank Edition",
+   "East Coast Modular Apartments: Money Exchange Edition",
+   "The Golden Vault Bank"
   ],
   "id": "strongbox-1"
  },
@@ -10565,9 +12943,35 @@
    }
   ],
   "craftedAt": [
-   "Antique Store"
+   "Antique Store",
+   "European Modular Apartments: Antiquaire Edition",
+   "Mainstreet Modular Apartments: Pawn Shop Edition",
+   "Pawn shop"
   ],
   "id": "strongbox-2"
+ },
+ {
+  "product": "Sturgeon",
+  "ingredients": [
+   {
+    "name": "Salmon",
+    "qty": 1
+   },
+   {
+    "name": "Cod",
+    "qty": 1
+   },
+   {
+    "name": "Silver Coin",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Fish Deli",
+   "Fish Market",
+   "Main Street Modular Apartments: Pier Pressure Fish Market"
+  ],
+  "id": "sturgeon-1"
  },
  {
   "product": "Sturgeon",
@@ -10582,9 +12986,16 @@
    }
   ],
   "craftedAt": [
-   "Casual Dining Restaurant"
+   "Casual Dining Restaurant",
+   "East Coast Modular Apartments: Little Havana Grill Edition",
+   "European Modular Apartments: Restaurant Edition",
+   "Fine Dining Restaurant",
+   "Luxury Restaurant",
+   "Mother Cluckers Chicken",
+   "Nomi Sushi Bar",
+   "The Lobster Shack"
   ],
-  "id": "sturgeon-1"
+  "id": "sturgeon-2"
  },
  {
   "product": "Sugar Beet",
@@ -10649,7 +13060,10 @@
    "Bakery",
    "Candy shop",
    "Cinnaboom",
-   "East Coast Modular Apartments: Bakery Edition"
+   "East Coast Modular Apartments: Bakery Edition",
+   "Glazed & Confused Donuts",
+   "The Atomic Oven Bakery",
+   "The Harvest Oven"
   ],
   "id": "sugar-cane-1"
  },
@@ -10674,7 +13088,14 @@
    }
   ],
   "craftedAt": [
-   "Clinic"
+   "Clinic",
+   "Grimwood Apothecary",
+   "Hospital",
+   "Old Asylum",
+   "Physical Therapy Clinic",
+   "Regional Hospital",
+   "Skyline Medical Center",
+   "Urgent care center"
   ],
   "id": "support-group-1"
  },
@@ -10695,7 +13116,11 @@
    }
   ],
   "craftedAt": [
-   "Casual Dining Restaurant"
+   "Casual Dining Restaurant",
+   "East Coast Modular Apartments: Little Havana Grill Edition",
+   "European Modular Apartments: Restaurant Edition",
+   "Mother Cluckers Chicken",
+   "Nomi Sushi Bar"
   ],
   "id": "sushi-roll-1"
  },
@@ -10717,9 +13142,33 @@
   ],
   "craftedAt": [
    "Asian Modular Apartments: Hawker Centre Edition",
-   "Big Fish Balls"
+   "Big Fish Balls",
+   "Fish Ball Stand",
+   "Kiosk - Sushi",
+   "Singapore Kopitiam"
   ],
   "id": "sushi-roll-2"
+ },
+ {
+  "product": "Swoon",
+  "ingredients": [
+   {
+    "name": "Heart",
+    "qty": 3
+   },
+   {
+    "name": "Air Kiss",
+    "qty": 2
+   },
+   {
+    "name": "Love Letter",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Radio Station"
+  ],
+  "id": "swoon-1"
  },
  {
   "product": "Taco",
@@ -10738,9 +13187,39 @@
    }
   ],
   "craftedAt": [
-   "Casual Dining Restaurant"
+   "Casual Dining Restaurant",
+   "East Coast Modular Apartments: Little Havana Grill Edition",
+   "El Plate-o Grande",
+   "European Modular Apartments: Restaurant Edition",
+   "Mexican Restaurant",
+   "Mother Cluckers Chicken"
   ],
   "id": "taco-1"
+ },
+ {
+  "product": "Talent Show",
+  "ingredients": [
+   {
+    "name": "Applause",
+    "qty": 1
+   },
+   {
+    "name": "Harmonica",
+    "qty": 1
+   },
+   {
+    "name": "Blue Ribbon",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Elementary School",
+   "High School",
+   "Junior College",
+   "University",
+   "Upland Junior High"
+  ],
+  "id": "talent-show-1"
  },
  {
   "product": "Talent Show",
@@ -10759,9 +13238,15 @@
    }
   ],
   "craftedAt": [
-   "Brewery"
+   "Brewery",
+   "Local Brewery",
+   "Mainstreet Modular Apartments: Pub Edition building",
+   "Pub",
+   "South America Modular Apartments: Two Can Tango Bar Edition",
+   "The Happy Harvest Cider House",
+   "The Tipsy Tiki Bar"
   ],
-  "id": "talent-show-1"
+  "id": "talent-show-2"
  },
  {
   "product": "Tape Measure",
@@ -10818,7 +13303,12 @@
    }
   ],
   "craftedAt": [
-   "Bodega"
+   "Bodega",
+   "Neighborhood Market",
+   "Old Crow Farm Market",
+   "South America Modular Apartments: Almacén Edition",
+   "Supermarket",
+   "Supermarket Super Store"
   ],
   "id": "tea-leaf-1"
  },
@@ -10840,7 +13330,11 @@
   ],
   "craftedAt": [
    "Block & Beans Coffee",
-   "Coffee Shop"
+   "Coffee Shop",
+   "French Cafe",
+   "Mainstreet Modular Apartments: Cafe Edition building",
+   "The Rocket Cup Cafe",
+   "The Tipsy Teapot Cafe"
   ],
   "id": "tea-leaf-2"
  },
@@ -10862,7 +13356,11 @@
   ],
   "craftedAt": [
    "Barn & Nobles",
-   "Bookstore"
+   "Bookstore",
+   "Large Library",
+   "Library",
+   "Mainstreet Modular Apartments: Bookstore Edition",
+   "The Moonbeam Bookstore"
   ],
   "id": "teddy-bear-1"
  },
@@ -10891,7 +13389,9 @@
    }
   ],
   "craftedAt": [
-   "Camp World"
+   "Camp World",
+   "Main Street Modular: Pacific Northwest Trading Post Edition",
+   "Rick's Sporting Goods"
   ],
   "id": "telescope-1"
  },
@@ -10917,6 +13417,81 @@
   "id": "tennis-racket-1"
  },
  {
+  "product": "Tennis Racket",
+  "ingredients": [
+   {
+    "name": "Sawn Plank",
+    "qty": 1
+   },
+   {
+    "name": "Sewing Kit",
+    "qty": 1
+   },
+   {
+    "name": "Thread",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Sports Courts",
+   "Tennis court"
+  ],
+  "id": "tennis-racket-2"
+ },
+ {
+  "product": "Tesla Coil",
+  "ingredients": [
+   {
+    "name": "Copper Wire",
+    "qty": 30
+   },
+   {
+    "name": "Circuit Breaker",
+    "qty": 10
+   },
+   {
+    "name": "Quartz",
+    "qty": 30
+   },
+   {
+    "name": "Battery Pack",
+    "qty": 20
+   },
+   {
+    "name": "Fire",
+    "qty": 10
+   }
+  ],
+  "craftedAt": [
+   "Junior College",
+   "University"
+  ],
+  "id": "tesla-coil-1"
+ },
+ {
+  "product": "Thermometer",
+  "ingredients": [
+   {
+    "name": "Copper Wire",
+    "qty": 3
+   },
+   {
+    "name": "Quartz",
+    "qty": 3
+   },
+   {
+    "name": "Check In",
+    "qty": 2
+   }
+  ],
+  "craftedAt": [
+   "Fire Station",
+   "Fire Station Headquarters",
+   "The Atomic Firehouse"
+  ],
+  "id": "thermometer-1"
+ },
+ {
   "product": "Tiara",
   "ingredients": [
    {
@@ -10935,7 +13510,12 @@
   "craftedAt": [
    "Barbershop",
    "Cornerstone Barbershop",
-   "East Coast Modular Apartments: Barber Shop"
+   "East Coast Modular Apartments: Barber Shop",
+   "East Coast Modular Apartments: Nail Salon",
+   "East Coast Modular Apartments: Tattoo studio Edition",
+   "Nail Salon",
+   "Regal Roots Salon",
+   "Tattoo Studio"
   ],
   "id": "tiara-1"
  },
@@ -11136,9 +13716,31 @@
   ],
   "craftedAt": [
    "Atomic Auto Service",
-   "Auto Repair"
+   "Auto Repair",
+   "Oil Change center",
+   "Tire shop",
+   "Wheel Alignment center"
   ],
   "id": "tool-chest-1"
+ },
+ {
+  "product": "Tool Chest",
+  "ingredients": [
+   {
+    "name": "Sawn Plank",
+    "qty": 2
+   },
+   {
+    "name": "Hinge",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Hardware Store",
+   "Logistics center: Nexus Point",
+   "Logistics center: Zenith Terminal"
+  ],
+  "id": "tool-chest-2"
  },
  {
   "product": "Treasure Map",
@@ -11268,7 +13870,9 @@
    }
   ],
   "craftedAt": [
-   "Assisted Living Center"
+   "Assisted Living Center",
+   "Large Assisted Living Center",
+   "The Starlight Senior Home"
   ],
   "id": "true-love-1"
  },
@@ -11297,7 +13901,13 @@
    }
   ],
   "craftedAt": [
-   "Casual Dining Restaurant"
+   "Casual Dining Restaurant",
+   "East Coast Modular Apartments: Little Havana Grill Edition",
+   "European Modular Apartments: Restaurant Edition",
+   "Fine Dining Restaurant",
+   "Luxury Restaurant",
+   "Mother Cluckers Chicken",
+   "Thee Olde Spaghetti Factory"
   ],
   "id": "truffle-1"
  },
@@ -11314,9 +13924,30 @@
    }
   ],
   "craftedAt": [
-   "Big Fish Balls"
+   "Big Fish Balls",
+   "Fish Ball Stand",
+   "Kiosk - Sushi"
   ],
   "id": "tuna-1"
+ },
+ {
+  "product": "Tuna",
+  "ingredients": [
+   {
+    "name": "Squid",
+    "qty": 2
+   },
+   {
+    "name": "Silver Coin",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Fish Deli",
+   "Fish Market",
+   "Main Street Modular Apartments: Pier Pressure Fish Market"
+  ],
+  "id": "tuna-2"
  },
  {
   "product": "Tweezers",
@@ -11434,6 +14065,32 @@
   "id": "umbrella-2"
  },
  {
+  "product": "Uranium Ore",
+  "ingredients": [
+   {
+    "name": "Dynamite",
+    "qty": 2
+   },
+   {
+    "name": "Metal Detector",
+    "qty": 8
+   },
+   {
+    "name": "Sand",
+    "qty": 150
+   },
+   {
+    "name": "Fire Extinguisher",
+    "qty": 20
+   }
+  ],
+  "craftedAt": [
+   "Junior College",
+   "University"
+  ],
+  "id": "uranium-ore-1"
+ },
+ {
   "product": "Vacation",
   "ingredients": [
    {
@@ -11450,7 +14107,14 @@
    }
   ],
   "craftedAt": [
-   "Classic Hotel"
+   "Classic Hotel",
+   "Modern Hotel",
+   "Motel",
+   "Quickserver Surf Co",
+   "Rip Curl’d Swimwear",
+   "The Grimwood Hotel",
+   "The Lucky Star Hotel",
+   "The Upland Needle"
   ],
   "id": "vacation-1"
  },
@@ -11560,7 +14224,8 @@
   ],
   "craftedAt": [
    "Art Gallery",
-   "Art Museum"
+   "Art Museum",
+   "European Modular Apartments: Galerie d'Art Edition"
   ],
   "id": "violin-1"
  },
@@ -11598,7 +14263,12 @@
    }
   ],
   "craftedAt": [
-   "Cape Town Modular: Padstal Edition"
+   "Cape Town Modular: Padstal Edition",
+   "Farmers Market",
+   "Florence Retro Googie Farmers Market",
+   "Omaha Retro Googie Farmers Market",
+   "Small Farmers Market",
+   "Takasaki Retro Googie Farmers Market"
   ],
   "id": "walnut-2"
  },
@@ -11657,7 +14327,16 @@
    }
   ],
   "craftedAt": [
-   "Casual Dining Restaurant"
+   "Casual Dining Restaurant",
+   "East Coast Modular Apartments: Little Havana Grill Edition",
+   "European Modular Apartments: Restaurant Edition",
+   "Fine Dining Restaurant",
+   "Luxury Restaurant",
+   "Mother Cluckers Chicken",
+   "Nomi Sushi Bar",
+   "South America Modular Apartments: Rodizio Edition",
+   "Steakhouse",
+   "Tapas Bar"
   ],
   "id": "wax-seal-3"
  },
@@ -11679,7 +14358,8 @@
   ],
   "craftedAt": [
    "Art Gallery",
-   "Art Museum"
+   "Art Museum",
+   "European Modular Apartments: Galerie d'Art Edition"
   ],
   "id": "wedding-1"
  },
@@ -11700,7 +14380,9 @@
    }
   ],
   "craftedAt": [
-   "Court House"
+   "Court House",
+   "Large Court house",
+   "The Skyline Courthouse"
   ],
   "id": "wedding-ring-1"
  },
@@ -11725,7 +14407,19 @@
    "Asian Modular Apartments: Rattan Shop Edition",
    "Black Cat Curiosities Shop",
    "Cobweb & Co Antiques",
-   "Dunder Office Supplies"
+   "Dunder Office Supplies",
+   "East Coast Modular: Liquor Store Edition",
+   "Going Under Dive Shop",
+   "Main Street Modular Apartments: Texas Mercantile General Store",
+   "Main Street Modular Apartments: Uppany & Co. Edition",
+   "Mainstreet Modular Apartments: Uppie Outfitters Edition",
+   "Mainstreet Modular: The Salty Anchor Marine Supply",
+   "Mall of Upland",
+   "Olde Wonder Toys",
+   "Pet Shop",
+   "The Curious Cauldron",
+   "The Flickering Wick",
+   "ÜPKEA"
   ],
   "id": "welcome-mat-1"
  },
@@ -11743,7 +14437,11 @@
   ],
   "craftedAt": [
    "Community Center",
-   "Dry Cleaner"
+   "Dry Cleaner",
+   "Information Kiosk",
+   "Laundromat",
+   "Mainstreet Modular Apartments: Laundromat Edition",
+   "Welcome Point Travel Center"
   ],
   "id": "welcome-mat-2"
  },
@@ -11766,7 +14464,27 @@
   "craftedAt": [
    "Basketball court",
    "Beach Pavilion",
-   "Bowling"
+   "Bowling",
+   "Gym",
+   "Ice Rink",
+   "Martial Arts Dojo",
+   "Mini Golf",
+   "Mother Putters",
+   "Off the Wall Skate Park",
+   "Paintball Upland",
+   "Pool Hall",
+   "Private Swim Club",
+   "Public Pool",
+   "Set Point Beach Club",
+   "Soccer Field",
+   "Southside Boxing Club",
+   "Sports Courts",
+   "SuperKarts Mini Raceway",
+   "The Upland Y Rec Center",
+   "The Victory Gym",
+   "Track & Field Complex",
+   "Try Harder Gym",
+   "Upland Axes"
   ],
   "id": "whole-gang-1"
  },
@@ -11829,7 +14547,14 @@
   ],
   "craftedAt": [
    "Bodega",
-   "Delicatessen shop"
+   "Delicatessen shop",
+   "European Modular Apartments: Mantequeria Edition",
+   "Neighborhood Market",
+   "Old Crow Farm Market",
+   "South America Modular Apartments: Almacén Edition",
+   "Supermarket",
+   "Supermarket Super Store",
+   "The Amsterdam Cheese House"
   ],
   "id": "wine-bottle-1"
  },
@@ -11850,7 +14575,11 @@
    }
   ],
   "craftedAt": [
-   "Bus Stop"
+   "Bus Stop",
+   "Information Kiosk",
+   "Logistics center: Nexus Point",
+   "Logistics center: Zenith Terminal",
+   "Welcome Point Travel Center"
   ],
   "id": "world-map-1"
  },
@@ -11918,7 +14647,9 @@
   "craftedAt": [
    "Atomic Auto Service",
    "Auto Repair",
-   "Car Rental"
+   "Car Rental",
+   "Oil Change center",
+   "Taxi Depot"
   ],
   "id": "wristwatch-1"
  },
@@ -11942,7 +14673,27 @@
    "Antique Store",
    "Black Cat Curiosities Shop",
    "Cobweb & Co Antiques",
-   "Dunder Office Supplies"
+   "Dunder Office Supplies",
+   "East Coast Modular Apartments: Mobile Phone Store",
+   "East Coast Modular: Liquor Store Edition",
+   "Electronic Store",
+   "European Modular Apartments: Antiquaire Edition",
+   "European Modular Apartments: Big Ben’s Gift Shoppe",
+   "Going Under Dive Shop",
+   "Jewelry",
+   "Large Electronic store",
+   "Main Street Modular Apartments: Texas Mercantile General Store",
+   "Main Street Modular Apartments: Uppany & Co. Edition",
+   "Mainstreet Modular Apartments: Pawn Shop Edition",
+   "Mainstreet Modular Apartments: Uppie Outfitters Edition",
+   "Mainstreet Modular: The Salty Anchor Marine Supply",
+   "Mall of Upland",
+   "Olde Wonder Toys",
+   "Pawn shop",
+   "Sunglass Shack",
+   "The Curious Cauldron",
+   "The Flickering Wick",
+   "UPhone Store"
   ],
   "id": "wristwatch-2"
  },

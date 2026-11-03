@@ -1,25 +1,25 @@
 {
  "schemaVersion": 1,
- "dataVersion": "2026.11.03-1",
- "generatedAt": "2026-11-03T19:02:46Z",
+ "dataVersion": "2026.11.03-2",
+ "generatedAt": "2026-11-03T19:43:08Z",
  "counts": {
-  "troves": 491,
+  "troves": 501,
   "buildings": 360,
-  "recipes": 499,
+  "recipes": 563,
   "plants": 40
  },
  "files": {
   "troves.json": {
-   "bytes": 280416,
-   "sha256": "5a026dbf60f6ce1259d1aeac53497f877c7315551b51227fb0d7533ff501bdc8"
+   "bytes": 301735,
+   "sha256": "0edcc45ba15c59856873f9a4a9786be097a2e60300c6634390bc9443f5a844e2"
   },
   "buildings.json": {
-   "bytes": 231162,
-   "sha256": "66f396ce81ca1511a7e547fcb8a1a33fcdfb63955e682c1f1ce2f4020adfa225"
+   "bytes": 268722,
+   "sha256": "8979d9d2943125235d3a60480fb59283e021abecdfcedd663203e8f9d4253bc7"
   },
   "recipes.json": {
-   "bytes": 189627,
-   "sha256": "eb8fcb015af47aa314620e6544d9288a515c08b7cec09d015e15ac6bb294076e"
+   "bytes": 249100,
+   "sha256": "f687d5a4bc0b38d7fabe8a7d633b9aa26fa47b88a8a62c6f93d45b63c4ac2b81"
   },
   "plants.json": {
    "bytes": 10438,
