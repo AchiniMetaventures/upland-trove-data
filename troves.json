@@ -5,20 +5,21 @@
   "category": "valuables",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "action-figure-1",
+   "action-figure-2"
+  ],
   "craftBonusAt": [
-   "Arcade",
    "Barn & Nobles",
-   "Blockade Arcade",
    "Bookstore",
    "CineSpark Theatre",
    "Circus",
-   "Comic Book Store",
-   "Dreamspace VR",
    "Game Exchange",
    "Large Library",
+   "Library",
    "Live Jams Stage",
    "Live Theater",
+   "Madame Moon's Fortune Telling",
    "Mainstreet Modular Apartments: Arcade Edition",
    "Mainstreet Modular Apartments: Bookstore Edition",
    "Movie Theatre",
@@ -36,6 +37,19 @@
   ]
  },
  {
+  "id": "aged-whiskey",
+  "name": "Aged Whiskey",
+  "category": "resources",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Antique Store",
+   "Brewery",
+   "Classic Hotel"
+  ]
+ },
+ {
   "id": "air-kiss",
   "name": "Air Kiss",
   "category": "social",
@@ -49,19 +63,29 @@
    "Lavender",
    "Lilac",
    "Orange Calla Lily",
+   "Orange Daisy",
    "Petunia",
+   "Pink Rose",
+   "Purple Tulip",
    "Purple-White Calla Lily",
    "Red Hot Poker",
+   "Red Rose",
+   "Red Tulip",
    "Sunflower",
    "Violets",
    "White Calla Lily",
-   "Yellow Calla Lily"
+   "White Rose",
+   "White Tulip",
+   "Yellow Calla Lily",
+   "Yellow Rose"
   ],
   "recipeIds": [],
   "craftBonusAt": [
+   "Bodega",
    "Neighborhood Market",
    "Old Crow Farm Market",
    "South America Modular Apartments: Almacén Edition",
+   "Supermarket",
    "Supermarket Super Store"
   ]
  },
@@ -82,7 +106,10 @@
   "category": "resources",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "almond-1",
+   "almond-2"
+  ],
   "craftBonusAt": [
    "Cape Town Modular: Padstal Edition",
    "Farmers Market",
@@ -93,8 +120,19 @@
    "Omaha Retro Googie Farmers Market",
    "Small Farmers Market",
    "South America Modular Apartments: Almacén Edition",
+   "Supermarket",
    "Supermarket Super Store",
    "Takasaki Retro Googie Farmers Market"
+  ]
+ },
+ {
+  "id": "amber",
+  "name": "Amber",
+  "category": "resources",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "amber-1"
   ]
  },
  {
@@ -107,7 +145,13 @@
    "Natural History Museum"
   ],
   "foundInPlants": [],
-  "recipeIds": []
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Art Gallery",
+   "Art Museum",
+   "Clinic",
+   "Dentistry"
+  ]
  },
  {
   "id": "amulet",
@@ -115,8 +159,11 @@
   "category": "valuables",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "amulet-1"
+  ],
   "craftBonusAt": [
+   "Barbershop",
    "Bus Stop",
    "Cornerstone Barbershop",
    "East Coast Modular Apartments: Barber Shop",
@@ -143,16 +190,19 @@
    "Upland Junior High"
   ],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "ancient-scroll-1"
+  ],
   "craftBonusAt": [
-   "Barn & Nobles",
-   "Bookstore",
+   "Elementary School",
    "High School",
    "Junior College",
    "Large Library",
    "Large Office",
+   "Library",
    "Mainstreet Modular Apartments: Bookstore Edition",
    "Natural History Museum",
+   "Neighborhood Police Station",
    "Office Complex",
    "Office Tower",
    "Old Asylum",
@@ -160,6 +210,7 @@
    "Police Detention center",
    "Police Headquarters",
    "Regional Police Station",
+   "Small Office",
    "Starlite Precinct",
    "The Moonbeam Bookstore",
    "University",
@@ -172,11 +223,11 @@
   "category": "valuables",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "antique-vase-1",
+   "antique-vase-2"
+  ],
   "craftBonusAt": [
-   "Art Gallery",
-   "Art Museum",
-   "Build-A-Bowl Workshop",
    "European Modular Apartments: Galerie d'Art Edition"
   ]
  },
@@ -192,6 +243,17 @@
   ]
  },
  {
+  "id": "apology-accepted",
+  "name": "Apology Accepted",
+  "category": "social",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "apology-accepted-1",
+   "apology-accepted-2"
+  ]
+ },
+ {
   "id": "applause",
   "name": "Applause",
   "category": "social",
@@ -200,6 +262,11 @@
   "recipeIds": [
    "applause-1",
    "applause-2"
+  ],
+  "craftBonusAt": [
+   "Art Gallery",
+   "Art Museum",
+   "Build-A-Bowl Workshop"
   ]
  },
  {
@@ -232,9 +299,10 @@
   "category": "resources",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "asparagus-1"
+  ],
   "craftBonusAt": [
-   "Cape Town Modular: Padstal Edition",
    "Farmers Market",
    "Florence Retro Googie Farmers Market",
    "Neighborhood Market",
@@ -242,6 +310,7 @@
    "Omaha Retro Googie Farmers Market",
    "Small Farmers Market",
    "South America Modular Apartments: Almacén Edition",
+   "Supermarket",
    "Supermarket Super Store",
    "Takasaki Retro Googie Farmers Market"
   ]
@@ -260,13 +329,31 @@
   ]
  },
  {
+  "id": "baby-monitor",
+  "name": "Baby Monitor",
+  "category": "care",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "baby-monitor-1"
+  ],
+  "craftBonusAt": [
+   "Black Cat Curiosities Shop",
+   "Cobweb & Co Antiques"
+  ]
+ },
+ {
   "id": "babysitting",
   "name": "Babysitting",
   "category": "care",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "babysitting-1"
+  ],
   "craftBonusAt": [
+   "Day Care Center",
+   "Elementary School",
    "High School",
    "Upland Junior High"
   ]
@@ -300,12 +387,15 @@
    "The Harvest Oven"
   ],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "baguette-loaf-1"
+  ],
   "craftBonusAt": [
    "Asian Modular Apartments: Hawker Centre Edition",
+   "Bakery",
    "Beachside Taco's",
    "Big Fish Balls",
-   "Block & Beans Coffee",
+   "Bodega",
    "Cinnaboom",
    "Cinnamon Bun Stand",
    "Coney Island Franks",
@@ -323,10 +413,12 @@
    "Kiosk - Fried Chicken",
    "Kiosk - Gelato",
    "Kiosk - Hamburger",
+   "Kiosk - Hot Dog",
    "Kiosk - Pizza",
    "Kiosk - Sushi",
    "Kiosk - Taco",
    "Main Squeeze Lemonade",
+   "Mainstreet Modular Apartments: Cafe Edition building",
    "Mile’s Popcorn",
    "Nathan’s Infamous Hot Dog Stand",
    "Neighborhood Market",
@@ -336,6 +428,7 @@
    "Shawarma Street Co.",
    "Singapore Kopitiam",
    "South America Modular Apartments: Almacén Edition",
+   "Supermarket",
    "Supermarket Super Store",
    "Taco Stand",
    "The Atomic Oven Bakery",
@@ -347,7 +440,8 @@
    "The Rocket Cup Cafe",
    "The Salty Twist Pretzel Stand",
    "The Slice Station",
-   "The Tipsy Teapot Cafe"
+   "The Tipsy Teapot Cafe",
+   "The Twisted Pretzel"
   ]
  },
  {
@@ -421,6 +515,7 @@
    "East Coast Modular Apartments: Pharmacy",
    "Fire Station",
    "Fire Station Headquarters",
+   "Grimwood Apothecary",
    "Gym",
    "Hospital",
    "Martial Arts Dojo",
@@ -467,6 +562,7 @@
    "Mother Cluckers Chicken",
    "Pub",
    "South America Modular Apartments: Two Can Tango Bar Edition",
+   "The Happy Harvest Cider House",
    "The Tipsy Tiki Bar"
   ],
   "foundInPlants": [],
@@ -550,6 +646,7 @@
    "Classic Hotel",
    "Modern Hotel",
    "Motel",
+   "The Grimwood Hotel",
    "The Lucky Star Hotel"
   ],
   "foundInPlants": [],
@@ -570,19 +667,35 @@
   ]
  },
  {
-  "id": "bedtime-story",
-  "name": "Bedtime Story",
+  "id": "bed-rest",
+  "name": "Bed Rest",
   "category": "care",
   "foundInStructures": [],
   "foundInPlants": [],
   "recipeIds": [],
   "craftBonusAt": [
+   "Classic Hotel",
+   "Clinic"
+  ]
+ },
+ {
+  "id": "bedtime-story",
+  "name": "Bedtime Story",
+  "category": "care",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "bedtime-story-1"
+  ],
+  "craftBonusAt": [
    "Barn & Nobles",
    "Beyond the Bath",
    "Bookstore",
+   "Elementary School",
    "High School",
    "Hook & Tackle Bait Shop",
    "Large Library",
+   "Library",
    "Mainstreet Modular Apartments: Bookstore Edition",
    "Massage Parlor",
    "Old Asylum",
@@ -622,7 +735,13 @@
   "foundInPlants": [],
   "recipeIds": [
    "belly-laugh-1",
-   "belly-laugh-2"
+   "belly-laugh-2",
+   "belly-laugh-3"
+  ],
+  "craftBonusAt": [
+   "Arcade",
+   "Blockade Arcade",
+   "Dreamspace VR"
   ]
  },
  {
@@ -647,14 +766,18 @@
    "Small Office"
   ],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "best-friend-1"
+  ],
   "craftBonusAt": [
    "Block & Beans Coffee",
+   "Coffee Shop",
    "Coffee Stand",
    "Comic Book Store",
    "East Coast Modular Apartments: Mobile Phone Store",
    "French Cafe",
    "Game Exchange",
+   "Mainstreet Modular Apartments: Cafe Edition building",
    "Pet Shop",
    "The Rocket Cup Cafe",
    "The Tipsy Teapot Cafe",
@@ -712,19 +835,28 @@
   "category": "social",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "birthday-wish-1"
+  ],
   "craftBonusAt": [
    "Arcade",
+   "Bakery",
    "Block & Beans Coffee",
    "Blockade Arcade",
+   "Candy shop",
+   "Casual Dining Restaurant",
    "CineSpark Theatre",
+   "Cinnaboom",
    "Circus",
+   "Coffee Shop",
    "Coffee Stand",
-   "Day Care Center",
+   "Dairy King Ice Cream",
    "Dreamspace VR",
+   "East Coast Modular Apartments: Bakery Edition",
    "East Coast Modular Apartments: Fast Food Restaurant",
    "East Coast Modular Apartments: Little Havana Grill Edition",
    "El Plate-o Grande",
+   "Elementary School",
    "European Modular Apartments: Restaurant Edition",
    "Fast Food Joint",
    "Fine Dining Restaurant",
@@ -736,8 +868,10 @@
    "Live Theater",
    "Lotus of Upland Thai House",
    "Luxury Restaurant",
+   "Madame Moon's Fortune Telling",
    "Main Street Modular Apartments: Pizzeria Edition",
    "Mainstreet Modular Apartments: Arcade Edition",
+   "Mainstreet Modular Apartments: Cafe Edition building",
    "Mexican Restaurant",
    "Moonbeam Diner",
    "Mother Cluckers Chicken",
@@ -799,17 +933,31 @@
   "recipeIds": []
  },
  {
+  "id": "black-opal",
+  "name": "Black Opal",
+  "category": "valuables",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Antique Store"
+  ]
+ },
+ {
   "id": "block-party",
   "name": "Block Party",
   "category": "social",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "block-party-1",
+   "block-party-2"
+  ],
   "craftBonusAt": [
    "Basketball court",
-   "Beach Pavilion",
    "Block & Beans Coffee",
-   "Bowling",
+   "Casual Dining Restaurant",
+   "Coffee Shop",
    "Coffee Stand",
    "East Coast Modular Apartments: Little Havana Grill Edition",
    "European Modular Apartments: Restaurant Edition",
@@ -819,6 +967,7 @@
    "Ice Rink",
    "Luxury Restaurant",
    "Main Street Modular Apartments: Pizzeria Edition",
+   "Mainstreet Modular Apartments: Cafe Edition building",
    "Martial Arts Dojo",
    "Mini Golf",
    "Mother Cluckers Chicken",
@@ -850,6 +999,31 @@
   ]
  },
  {
+  "id": "blood-donation",
+  "name": "Blood Donation",
+  "category": "care",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "blood-donation-1"
+  ],
+  "craftBonusAt": [
+   "Clinic"
+  ]
+ },
+ {
+  "id": "blowtorch",
+  "name": "Blowtorch",
+  "category": "utility",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Atomic Auto Service",
+   "Auto Repair"
+  ]
+ },
+ {
   "id": "blueberry",
   "name": "Blueberry",
   "category": "resources",
@@ -863,6 +1037,21 @@
    "Blueberry"
   ],
   "recipeIds": []
+ },
+ {
+  "id": "blue-diamond",
+  "name": "Blue Diamond",
+  "category": "valuables",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "blue-diamond-1"
+  ],
+  "craftBonusAt": [
+   "Antique Store",
+   "Art Gallery",
+   "Art Museum"
+  ]
  },
  {
   "id": "blue-ribbon",
@@ -892,6 +1081,7 @@
    "Sports Courts",
    "SuperKarts Mini Raceway",
    "Tennis court",
+   "The Grimwood Hotel",
    "The Lucky Star Hotel",
    "The Totally Official Cup Flag Stand",
    "The Upland Rodeo",
@@ -903,7 +1093,11 @@
    "Upland Axes"
   ],
   "foundInPlants": [],
-  "recipeIds": []
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Circus",
+   "Comedy Club"
+  ]
  },
  {
   "id": "bouquet",
@@ -917,17 +1111,29 @@
    "Lavender",
    "Lilac",
    "Orange Calla Lily",
+   "Orange Daisy",
    "Petunia",
+   "Pink Rose",
+   "Purple Tulip",
    "Purple-White Calla Lily",
    "Red Hot Poker",
+   "Red Rose",
+   "Red Tulip",
    "Sunflower",
    "Violets",
    "White Calla Lily",
-   "Yellow Calla Lily"
+   "White Rose",
+   "White Tulip",
+   "Yellow Calla Lily",
+   "Yellow Rose"
   ],
   "recipeIds": [
    "bouquet-1",
-   "bouquet-2"
+   "bouquet-2",
+   "bouquet-3"
+  ],
+  "craftBonusAt": [
+   "Court House"
   ]
  },
  {
@@ -936,8 +1142,11 @@
   "category": "utility",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "boxing-gloves-1"
+  ],
   "craftBonusAt": [
+   "Elementary School",
    "Gym",
    "High School",
    "Junior College",
@@ -979,11 +1188,13 @@
    "Live Theater",
    "Logistics center: Nexus Point",
    "Logistics center: Zenith Terminal",
+   "Madame Moon's Fortune Telling",
    "Main Street Modular Apartments: Texas Mercantile General Store",
    "Main Street Modular Apartments: Uppany & Co. Edition",
    "Mainstreet Modular Apartments: Arcade Edition",
    "Mainstreet Modular Apartments: Pawn Shop Edition",
    "Mainstreet Modular Apartments: Uppie Outfitters Edition",
+   "Mainstreet Modular: The Salty Anchor Marine Supply",
    "Mall of Upland",
    "Modern Hotel",
    "Motel",
@@ -1000,6 +1211,7 @@
    "QuickRinse Self-Serve Carwash",
    "Regional Police Station",
    "Small Office",
+   "Sparklet Refinery",
    "Starlite Precinct",
    "SynthTag Laser Tag",
    "Taxi Depot",
@@ -1007,6 +1219,7 @@
    "The Curious Cauldron",
    "The Flickering Wick",
    "The Golden Vault Bank",
+   "The Grimwood Hotel",
    "The Lucky Star Hotel",
    "The Skyline Courthouse",
    "The Starline Theater",
@@ -1016,6 +1229,21 @@
   ],
   "foundInPlants": [],
   "recipeIds": []
+ },
+ {
+  "id": "bread-mother",
+  "name": "Bread Mother",
+  "category": "care",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "bread-mother-1"
+  ],
+  "craftBonusAt": [
+   "Bakery",
+   "Cinnaboom",
+   "East Coast Modular Apartments: Bakery Edition"
+  ]
  },
  {
   "id": "brooch",
@@ -1060,6 +1288,7 @@
    "Mainstreet Modular Apartments: Pawn Shop Edition",
    "Mainstreet Modular Apartments: Uppie Outfitters Edition",
    "Mainstreet Modular Apartments: Zoomies Skate Shop Edition",
+   "Mainstreet Modular: The Salty Anchor Marine Supply",
    "Mall of Upland",
    "Mile's Beach Bikes",
    "Musical Instrument Store",
@@ -1114,8 +1343,12 @@
   "category": "resources",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "burger-1",
+   "burger-2"
+  ],
   "craftBonusAt": [
+   "Bodega",
    "Butcher Shop",
    "European Modular Apartments: Butcher Edition",
    "Kentucky Fried Kiosk",
@@ -1123,6 +1356,7 @@
    "Neighborhood Market",
    "Old Crow Farm Market",
    "South America Modular Apartments: Almacén Edition",
+   "Supermarket",
    "Supermarket Super Store"
   ]
  },
@@ -1148,6 +1382,19 @@
   "recipeIds": []
  },
  {
+  "id": "cacao-pod",
+  "name": "Cacao Pod",
+  "category": "resources",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "cacao-pod-1"
+  ],
+  "craftBonusAt": [
+   "Bodega"
+  ]
+ },
+ {
   "id": "calipers",
   "name": "Calipers",
   "category": "utility",
@@ -1159,6 +1406,18 @@
   ]
  },
  {
+  "id": "camera",
+  "name": "Camera",
+  "category": "utility",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Antique Store",
+   "Dunder Office Supplies"
+  ]
+ },
+ {
   "id": "care-package",
   "name": "Care Package",
   "category": "care",
@@ -1166,6 +1425,7 @@
    "Clinic",
    "Dentistry",
    "East Coast Modular Apartments: Pharmacy",
+   "Grimwood Apothecary",
    "Hospital",
    "Old Asylum",
    "Optometrist",
@@ -1240,11 +1500,11 @@
   "category": "valuables",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "casino-chip-1",
+   "casino-chip-2"
+  ],
   "craftBonusAt": [
-   "Arcade",
-   "Blockade Arcade",
-   "Dreamspace VR",
    "Mainstreet Modular Apartments: Arcade Edition",
    "Pixel Pulse Arcade",
    "The Atomic Arcade"
@@ -1256,9 +1516,12 @@
   "category": "care",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "casserole-1",
+   "casserole-2"
+  ],
   "craftBonusAt": [
-   "East Coast Modular Apartments: Fast Food Restaurant",
+   "Community Center",
    "East Coast Modular Apartments: Little Havana Grill Edition",
    "El Plate-o Grande",
    "European Modular Apartments: Restaurant Edition",
@@ -1297,12 +1560,55 @@
   ]
  },
  {
+  "id": "caviar",
+  "name": "Caviar",
+  "category": "resources",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "caviar-1"
+  ],
+  "craftBonusAt": [
+   "Antique Store"
+  ]
+ },
+ {
+  "id": "chalice",
+  "name": "Chalice",
+  "category": "valuables",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "chalice-1"
+  ],
+  "craftBonusAt": [
+   "Antique Store"
+  ]
+ },
+ {
+  "id": "champagne",
+  "name": "Champagne",
+  "category": "resources",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "champagne-1"
+  ],
+  "craftBonusAt": [
+   "Brewery",
+   "Club Mirage Night Club"
+  ]
+ },
+ {
   "id": "charcoal",
   "name": "Charcoal",
   "category": "resources",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "charcoal-1",
+   "charcoal-2"
+  ],
   "craftBonusAt": [
    "Asian Modular Apartments: Rattan Shop Edition",
    "Hardware Store",
@@ -1361,6 +1667,7 @@
    "Mainstreet Modular Apartments: Pawn Shop Edition",
    "Mainstreet Modular Apartments: Uppie Outfitters Edition",
    "Mainstreet Modular Apartments: Zoomies Skate Shop Edition",
+   "Mainstreet Modular: The Salty Anchor Marine Supply",
    "Mall of Upland",
    "Massage Parlor",
    "Mile's Beach Bikes",
@@ -1387,13 +1694,12 @@
    "ÜPKEA"
   ],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "charm-bracelet-1",
+   "charm-bracelet-2"
+  ],
   "craftBonusAt": [
    "Antique Store",
-   "Black Cat Curiosities Shop",
-   "Cobweb & Co Antiques",
-   "Cornerstone Barbershop",
-   "East Coast Modular Apartments: Barber Shop",
    "East Coast Modular Apartments: Nail Salon",
    "East Coast Modular Apartments: Tattoo studio Edition",
    "East Coast Modular: Liquor Store Edition",
@@ -1401,9 +1707,11 @@
    "European Modular Apartments: Big Ben’s Gift Shoppe",
    "Going Under Dive Shop",
    "Jewelry",
+   "Main Street Modular Apartments: Texas Mercantile General Store",
    "Main Street Modular Apartments: Uppany & Co. Edition",
    "Mainstreet Modular Apartments: Pawn Shop Edition",
    "Mainstreet Modular Apartments: Uppie Outfitters Edition",
+   "Mainstreet Modular: The Salty Anchor Marine Supply",
    "Mall of Upland",
    "Nail Salon",
    "Olde Wonder Toys",
@@ -1439,12 +1747,17 @@
    "Night Club",
    "Pub",
    "South America Modular Apartments: Two Can Tango Bar Edition",
+   "The Happy Harvest Cider House",
    "The Tipsy Tiki Bar"
   ],
   "foundInPlants": [],
   "recipeIds": [
    "cheers-1",
-   "cheers-2"
+   "cheers-2",
+   "cheers-3"
+  ],
+  "craftBonusAt": [
+   "Antique Store"
   ]
  },
  {
@@ -1480,10 +1793,15 @@
   "category": "care",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "chicken-soup-1",
+   "chicken-soup-2"
+  ],
   "craftBonusAt": [
    "Block & Beans Coffee",
+   "Coffee Shop",
    "French Cafe",
+   "Mainstreet Modular Apartments: Cafe Edition building",
    "The Rocket Cup Cafe",
    "The Tipsy Teapot Cafe"
   ]
@@ -1542,7 +1860,8 @@
   "foundInPlants": [],
   "recipeIds": [
    "chili-powder-1",
-   "chili-powder-2"
+   "chili-powder-2",
+   "chili-powder-3"
   ]
  },
  {
@@ -1557,6 +1876,24 @@
   ]
  },
  {
+  "id": "chocolate-bar",
+  "name": "Chocolate Bar",
+  "category": "resources",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "chocolate-bar-1"
+  ],
+  "craftBonusAt": [
+   "Bakery",
+   "Bodega",
+   "Candy shop",
+   "Cinnaboom",
+   "Dairy King Ice Cream",
+   "East Coast Modular Apartments: Bakery Edition"
+  ]
+ },
+ {
   "id": "circuit-breaker",
   "name": "Circuit Breaker",
   "category": "utility",
@@ -1565,6 +1902,18 @@
   "recipeIds": [
    "circuit-breaker-1",
    "circuit-breaker-2"
+  ]
+ },
+ {
+  "id": "city-key",
+  "name": "City Key",
+  "category": "valuables",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Classic Hotel",
+   "Court House"
   ]
  },
  {
@@ -1605,6 +1954,40 @@
   "recipeIds": []
  },
  {
+  "id": "clean-water",
+  "name": "Clean Water",
+  "category": "care",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "clean-water-1"
+  ],
+  "craftBonusAt": [
+   "Auto Carwash"
+  ]
+ },
+ {
+  "id": "cloud-nine",
+  "name": "Cloud Nine",
+  "category": "social",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Arcade",
+   "Bakery",
+   "Blockade Arcade",
+   "Candy shop",
+   "CineSpark Theatre",
+   "Cinnaboom",
+   "Circus",
+   "Comedy Club",
+   "Dairy King Ice Cream",
+   "Dreamspace VR",
+   "East Coast Modular Apartments: Bakery Edition"
+  ]
+ },
+ {
   "id": "coal-lump",
   "name": "Coal Lump",
   "category": "resources",
@@ -1624,6 +2007,18 @@
   ],
   "foundInPlants": [],
   "recipeIds": []
+ },
+ {
+  "id": "coat-drive",
+  "name": "Coat Drive",
+  "category": "care",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Community Center",
+   "Dry Cleaner"
+  ]
  },
  {
   "id": "cod",
@@ -1682,6 +2077,7 @@
    "Mainstreet Modular Apartments: Arcade Edition",
    "Mainstreet Modular Apartments: Uppie Outfitters Edition",
    "Mainstreet Modular Apartments: Zoomies Skate Shop Edition",
+   "Mainstreet Modular: The Salty Anchor Marine Supply",
    "Mall of Upland",
    "Mile's Beach Bikes",
    "Neon Glide Roller Rink",
@@ -1737,7 +2133,9 @@
    "Upland Axes"
   ],
   "foundInPlants": [],
-  "recipeIds": []
+  "recipeIds": [
+   "cold-compress-1"
+  ]
  },
  {
   "id": "come-anytime",
@@ -1745,10 +2143,14 @@
   "category": "social",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "come-anytime-1",
+   "come-anytime-2"
+  ],
   "craftBonusAt": [
    "Asian Modular Apartments: Hawker Centre Edition",
    "Auto Carwash",
+   "Barbershop",
    "Beach Feet Sandals",
    "Beach Pavilion",
    "Beachside Taco's",
@@ -1757,6 +2159,7 @@
    "Block & Beans Coffee",
    "Bowling",
    "Cinnamon Bun Stand",
+   "Coffee Shop",
    "Coffee Stand",
    "Coney Island Franks",
    "Cornerstone Barbershop",
@@ -1775,11 +2178,13 @@
    "Kiosk - Fried Chicken",
    "Kiosk - Gelato",
    "Kiosk - Hamburger",
+   "Kiosk - Hot Dog",
    "Kiosk - Pizza",
    "Kiosk - Sushi",
    "Kiosk - Taco",
    "Main Squeeze Lemonade",
    "Main Street Modular Apartments: Shoe Store Edition",
+   "Mainstreet Modular Apartments: Cafe Edition building",
    "Massage Parlor",
    "Mile's Beach Bikes",
    "Mile’s Popcorn",
@@ -1815,6 +2220,7 @@
    "The Salty Twist Pretzel Stand",
    "The Slice Station",
    "The Tipsy Teapot Cafe",
+   "The Twisted Pretzel",
    "The Upland Y Rec Center",
    "The Victory Gym",
    "Track & Field Complex",
@@ -1851,9 +2257,10 @@
   "category": "utility",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "compass-1"
+  ],
   "craftBonusAt": [
-   "Bike Shop",
    "Black Cat Curiosities Shop",
    "Camp World",
    "Classic Hotel",
@@ -1861,18 +2268,22 @@
    "Comic Book Store",
    "East Coast Modular: Liquor Store Edition",
    "Electronic Store",
+   "Elementary School",
    "Game Exchange",
    "Going Under Dive Shop",
    "Hardware Store",
    "High School",
    "Large Electronic store",
+   "Main Street Modular Apartments: Texas Mercantile General Store",
    "Main Street Modular Apartments: Uppany & Co. Edition",
    "Main Street Modular: Pacific Northwest Trading Post Edition",
    "Mainstreet Modular Apartments: Uppie Outfitters Edition",
+   "Mainstreet Modular: The Salty Anchor Marine Supply",
    "Mall of Upland",
    "Mile's Beach Bikes",
    "Modern Hotel",
    "Motel",
+   "Neighborhood Police Station",
    "Olde Wonder Toys",
    "Police Detention center",
    "Police Headquarters",
@@ -1881,6 +2292,7 @@
    "Starlite Precinct",
    "The Curious Cauldron",
    "The Flickering Wick",
+   "The Grimwood Hotel",
    "The Lucky Star Hotel",
    "Toy Store",
    "Upland Junior High"
@@ -1892,9 +2304,10 @@
   "category": "care",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "condolence-1"
+  ],
   "craftBonusAt": [
-   "Community Center",
    "Funeral Home"
   ]
  },
@@ -1907,6 +2320,12 @@
   "recipeIds": [
    "confetti-toss-1",
    "confetti-toss-2"
+  ],
+  "craftBonusAt": [
+   "Art Gallery",
+   "Art Museum",
+   "Brewery",
+   "Club Mirage Night Club"
   ]
  },
  {
@@ -1932,6 +2351,7 @@
    "Ice cream Parlor",
    "Live Jams Stage",
    "Live Theater",
+   "Madame Moon's Fortune Telling",
    "Mainstreet Modular Apartments: Arcade Edition",
    "Movie Theatre",
    "Neon Glide Roller Rink",
@@ -1950,12 +2370,18 @@
    "Upland Junior High"
   ],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "cookie-1",
+   "cookie-2"
+  ],
   "craftBonusAt": [
    "Block & Beans Coffee",
+   "Clinic",
+   "Coffee Shop",
    "Comic Book Store",
    "French Cafe",
    "Game Exchange",
+   "Mainstreet Modular Apartments: Cafe Edition building",
    "The Rocket Cup Cafe",
    "The Tipsy Teapot Cafe",
    "Toy Store"
@@ -2048,7 +2474,10 @@
   "category": "resources",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "cotton-boll-1",
+   "cotton-boll-2"
+  ],
   "craftBonusAt": [
    "Beyond the Bath",
    "East Coast Modular Apartments: Intimate Apparel Boutique",
@@ -2075,14 +2504,19 @@
    "Motel",
    "Recycling Center",
    "The Atomic Firehouse",
+   "The Grimwood Hotel",
    "The Lucky Star Hotel",
    "Welcome Point Travel Center"
   ],
   "foundInPlants": [
+   "Lawn Grass",
    "Sod Grass 2x2",
    "Sod Grass 4x4"
   ],
-  "recipeIds": []
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Community Center"
+  ]
  },
  {
   "id": "crab",
@@ -2093,6 +2527,22 @@
   "recipeIds": [
    "crab-1",
    "crab-2"
+  ]
+ },
+ {
+  "id": "cradle",
+  "name": "Cradle",
+  "category": "care",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "cradle-1"
+  ],
+  "craftBonusAt": [
+   "Asian Modular Apartments: Rattan Shop Edition",
+   "Black Cat Curiosities Shop",
+   "Cobweb & Co Antiques",
+   "Day Care Center"
   ]
  },
  {
@@ -2123,10 +2573,76 @@
    "Pub",
    "South America Modular Apartments: Two Can Tango Bar Edition",
    "The Atomic Arcade",
+   "The Happy Harvest Cider House",
    "The Tipsy Tiki Bar"
   ],
   "foundInPlants": [],
   "recipeIds": []
+ },
+ {
+  "id": "crowd-pleaser",
+  "name": "Crowd Pleaser",
+  "category": "social",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "crowd-pleaser-1"
+  ],
+  "craftBonusAt": [
+   "Beach Pavilion",
+   "Bowling"
+  ]
+ },
+ {
+  "id": "crown",
+  "name": "Crown",
+  "category": "valuables",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Antique Store"
+  ]
+ },
+ {
+  "id": "crown-jewel",
+  "name": "Crown Jewel",
+  "category": "valuables",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "crown-jewel-1"
+  ],
+  "craftBonusAt": [
+   "Antique Store",
+   "Black Cat Curiosities Shop",
+   "Cobweb & Co Antiques"
+  ]
+ },
+ {
+  "id": "crutches",
+  "name": "Crutches",
+  "category": "care",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Clinic"
+  ]
+ },
+ {
+  "id": "crystal-ball",
+  "name": "Crystal Ball",
+  "category": "utility",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "crystal-ball-1"
+  ],
+  "craftBonusAt": [
+   "Art Gallery",
+   "Art Museum"
+  ]
  },
  {
   "id": "cucumber",
@@ -2209,6 +2725,7 @@
    "The Moonbeam Bookstore"
   ],
   "foundInPlants": [
+   "Arborvitae",
    "Avocado Tree",
    "Begonia Rex",
    "Birch Tree",
@@ -2218,15 +2735,24 @@
    "Boxwood",
    "Forsythia",
    "Lavender",
+   "Lawn Grass",
    "Lemon Tree",
    "Lilac",
    "Magnolia Tree",
+   "Maple Tree",
    "Monstera",
+   "Oil Palm Tree",
+   "Olive Tree",
    "Orange Calla Lily",
+   "Orange Daisy",
    "Petunia",
    "Pine Tree",
+   "Pink Rose",
+   "Purple Tulip",
    "Purple-White Calla Lily",
    "Red Hot Poker",
+   "Red Rose",
+   "Red Tulip",
    "Sod Grass 2x2",
    "Sod Grass 4x4",
    "Sunflower",
@@ -2234,9 +2760,25 @@
    "Walnut Tree",
    "Weeping Willow Tree",
    "White Calla Lily",
-   "Yellow Calla Lily"
+   "White Rose",
+   "White Tulip",
+   "Yellow Calla Lily",
+   "Yellow Rose"
   ],
   "recipeIds": []
+ },
+ {
+  "id": "diamond",
+  "name": "Diamond",
+  "category": "valuables",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "diamond-1"
+  ],
+  "craftBonusAt": [
+   "Antique Store"
+  ]
  },
  {
   "id": "dice",
@@ -2256,7 +2798,10 @@
    "Toy Store"
   ],
   "foundInPlants": [],
-  "recipeIds": []
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Brewery"
+  ]
  },
  {
   "id": "dog-collar",
@@ -2299,6 +2844,7 @@
    "Main Street Modular Apartments: Uppany & Co. Edition",
    "Mainstreet Modular Apartments: Pub Edition building",
    "Mainstreet Modular Apartments: Uppie Outfitters Edition",
+   "Mainstreet Modular: The Salty Anchor Marine Supply",
    "Mall of Upland",
    "Neighborhood Market",
    "Newspaper Stand",
@@ -2309,18 +2855,34 @@
    "QuickRinse Self-Serve Carwash",
    "South America Modular Apartments: Almacén Edition",
    "South America Modular Apartments: Two Can Tango Bar Edition",
+   "Sparklet Refinery",
    "Supermarket",
    "Supermarket Super Store",
    "Taxi Depot",
    "The Curious Cauldron",
    "The Flickering Wick",
    "The Golden Vault Bank",
+   "The Happy Harvest Cider House",
    "The Skyline Courthouse",
    "The Tipsy Tiki Bar",
    "Welcome Point Travel Center"
   ],
   "foundInPlants": [],
   "recipeIds": []
+ },
+ {
+  "id": "doubloon",
+  "name": "Doubloon",
+  "category": "valuables",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Antique Store",
+   "Bank",
+   "Bank Headquarters",
+   "East Coast Modular Apartments: Bank Edition"
+  ]
  },
  {
   "id": "drumstick",
@@ -2358,6 +2920,21 @@
   ]
  },
  {
+  "id": "ebony-log",
+  "name": "Ebony Log",
+  "category": "resources",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "ebony-log-1"
+  ],
+  "craftBonusAt": [
+   "Antique Store",
+   "Art Gallery",
+   "Art Museum"
+  ]
+ },
+ {
   "id": "electric-blanket",
   "name": "Electric Blanket",
   "category": "care",
@@ -2369,6 +2946,30 @@
   ]
  },
  {
+  "id": "electric-guitar",
+  "name": "Electric Guitar",
+  "category": "utility",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Antique Store",
+   "Brewery"
+  ]
+ },
+ {
+  "id": "electromagnet",
+  "name": "Electromagnet",
+  "category": "utility",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Atomic Auto Service",
+   "Auto Repair"
+  ]
+ },
+ {
   "id": "embrace",
   "name": "Embrace",
   "category": "social",
@@ -2377,6 +2978,30 @@
   "recipeIds": [
    "embrace-1",
    "embrace-2"
+  ]
+ },
+ {
+  "id": "emerald",
+  "name": "Emerald",
+  "category": "valuables",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Art Gallery",
+   "Art Museum",
+   "Assisted Living Center"
+  ]
+ },
+ {
+  "id": "encore",
+  "name": "Encore",
+  "category": "social",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "encore-1",
+   "encore-2"
   ]
  },
  {
@@ -2424,6 +3049,7 @@
    "Post Office",
    "Post Office Distribution Center",
    "Small Office",
+   "Sparklet Refinery",
    "The Golden Vault Bank",
    "The Skyline Courthouse"
   ],
@@ -2455,21 +3081,52 @@
    "Large Court house",
    "Post Office",
    "Post Office Distribution Center",
+   "Sparklet Refinery",
    "The Golden Vault Bank",
    "The Skyline Courthouse"
   ],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "family-crest-1"
+  ],
   "craftBonusAt": [
    "Barn & Nobles",
    "Bookstore",
    "Large Library",
    "Large Office",
+   "Library",
    "Mainstreet Modular Apartments: Bookstore Edition",
    "Office Complex",
    "Office Tower",
    "Old Asylum",
+   "Small Office",
    "The Moonbeam Bookstore"
+  ]
+ },
+ {
+  "id": "family-doctor",
+  "name": "Family Doctor",
+  "category": "care",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Assisted Living Center",
+   "Clinic"
+  ]
+ },
+ {
+  "id": "favorite-person",
+  "name": "Favorite Person",
+  "category": "social",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "favorite-person-1"
+  ],
+  "craftBonusAt": [
+   "Block & Beans Coffee",
+   "Coffee Shop"
   ]
  },
  {
@@ -2496,6 +3153,26 @@
   "recipeIds": [
    "fire-extinguisher-1",
    "fire-extinguisher-2"
+  ]
+ },
+ {
+  "id": "fire-helmet",
+  "name": "Fire Helmet",
+  "category": "utility",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "fire-helmet-1"
+  ]
+ },
+ {
+  "id": "fireworks",
+  "name": "Fireworks",
+  "category": "social",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "fireworks-1"
   ]
  },
  {
@@ -2549,12 +3226,14 @@
    "Wheel Alignment center"
   ],
   "foundInPlants": [
+   "Lawn Grass",
    "Sod Grass 2x2",
    "Sod Grass 4x4"
   ],
   "recipeIds": [],
   "craftBonusAt": [
    "Arcade",
+   "Bakery",
    "Blockade Arcade",
    "Candy shop",
    "Cinnaboom",
@@ -2600,11 +3279,12 @@
   "category": "resources",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "flax-1",
+   "flax-2"
+  ],
   "craftBonusAt": [
    "Beach Feet Sandals",
-   "Community Center",
-   "Dry Cleaner",
    "East Coast Modular Apartments: Intimate Apparel Boutique",
    "East Coast Modular Apartments: Yeehaw Outfitters Edition",
    "Laundromat",
@@ -2649,6 +3329,20 @@
   "recipeIds": [
    "flour-1",
    "flour-2"
+  ]
+ },
+ {
+  "id": "food-drive",
+  "name": "Food Drive",
+  "category": "care",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "food-drive-1"
+  ],
+  "craftBonusAt": [
+   "Block & Beans Coffee",
+   "Coffee Shop"
   ]
  },
  {
@@ -2756,6 +3450,24 @@
   "recipeIds": []
  },
  {
+  "id": "fresh-start",
+  "name": "Fresh Start",
+  "category": "care",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Animal Shelter",
+   "Auto Carwash",
+   "Bank",
+   "Bank Headquarters",
+   "Community Center",
+   "Court House",
+   "DMV",
+   "East Coast Modular Apartments: Bank Edition"
+  ]
+ },
+ {
   "id": "friendly-wave",
   "name": "Friendly Wave",
   "category": "social",
@@ -2809,6 +3521,7 @@
    "Supermarket Super Store",
    "Takasaki Retro Googie Farmers Market",
    "The Amsterdam Cheese House",
+   "The Grimwood Hotel",
    "The Lucky Star Hotel",
    "The Rocket Cup Cafe",
    "The Tipsy Teapot Cafe",
@@ -2816,6 +3529,7 @@
   ],
   "foundInPlants": [
    "Apple Tree",
+   "Arborvitae",
    "Avocado Tree",
    "Begonia Rex",
    "Birch Tree",
@@ -2827,18 +3541,29 @@
    "Lemon Tree",
    "Lilac",
    "Magnolia Tree",
+   "Maple Tree",
    "Monstera",
+   "Oil Palm Tree",
+   "Olive Tree",
    "Orange Calla Lily",
+   "Orange Daisy",
    "Petunia",
    "Pine Tree",
+   "Pink Rose",
+   "Purple Tulip",
    "Purple-White Calla Lily",
    "Red Hot Poker",
+   "Red Rose",
+   "Red Tulip",
    "Sunflower",
    "Violets",
    "Walnut Tree",
    "Weeping Willow Tree",
    "White Calla Lily",
-   "Yellow Calla Lily"
+   "White Rose",
+   "White Tulip",
+   "Yellow Calla Lily",
+   "Yellow Rose"
   ],
   "recipeIds": []
  },
@@ -2958,12 +3683,16 @@
    "Waffle Home Diner"
   ],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "fruit-basket-1",
+   "fruit-basket-2"
+  ],
   "craftBonusAt": [
    "Cape Town Modular: Padstal Edition",
    "Community Center",
    "Department store",
    "Dollar Store",
+   "Elementary School",
    "Farmers Market",
    "Florence Retro Googie Farmers Market",
    "Fresh Pick Fruit Stand",
@@ -2974,10 +3703,25 @@
    "Omaha Retro Googie Farmers Market",
    "Small Farmers Market",
    "South America Modular Apartments: Almacén Edition",
+   "Supermarket",
    "Supermarket Super Store",
    "Takasaki Retro Googie Farmers Market",
    "University",
    "Upland Junior High"
+  ]
+ },
+ {
+  "id": "full-recovery",
+  "name": "Full Recovery",
+  "category": "care",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "full-recovery-1"
+  ],
+  "craftBonusAt": [
+   "Clinic",
+   "Dentistry"
   ]
  },
  {
@@ -3010,18 +3754,23 @@
   "category": "utility",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "game-console-1"
+  ],
   "craftBonusAt": [
    "Barn & Nobles",
    "Block & Beans Coffee",
    "Bookstore",
+   "Coffee Shop",
    "Comic Book Store",
    "Electronic Store",
    "French Cafe",
    "Game Exchange",
    "Large Electronic store",
    "Large Library",
+   "Library",
    "Mainstreet Modular Apartments: Bookstore Edition",
+   "Mainstreet Modular Apartments: Cafe Edition building",
    "The Moonbeam Bookstore",
    "The Rocket Cup Cafe",
    "The Tipsy Teapot Cafe",
@@ -3041,6 +3790,7 @@
    "Dreamspace VR",
    "Live Jams Stage",
    "Live Theater",
+   "Madame Moon's Fortune Telling",
    "Mainstreet Modular Apartments: Arcade Edition",
    "Movie Theatre",
    "Neon Glide Roller Rink",
@@ -3143,7 +3893,11 @@
   "foundInPlants": [
    "Birch Tree",
    "Blueberry",
+   "Lawn Grass",
    "Magnolia Tree",
+   "Maple Tree",
+   "Oil Palm Tree",
+   "Olive Tree",
    "Pine Tree",
    "Sod Grass 2x2",
    "Sod Grass 4x4",
@@ -3166,6 +3920,7 @@
    "Large Court house",
    "Post Office",
    "Post Office Distribution Center",
+   "Sparklet Refinery",
    "The Golden Vault Bank",
    "The Skyline Courthouse"
   ],
@@ -3232,6 +3987,7 @@
   "foundInStructures": [],
   "foundInPlants": [
    "Apple Tree",
+   "Arborvitae",
    "Avocado Tree",
    "Begonia Rex",
    "Birch Tree",
@@ -3241,15 +3997,24 @@
    "Boxwood",
    "Forsythia",
    "Lavender",
+   "Lawn Grass",
    "Lemon Tree",
    "Lilac",
    "Magnolia Tree",
+   "Maple Tree",
    "Monstera",
+   "Oil Palm Tree",
+   "Olive Tree",
    "Orange Calla Lily",
+   "Orange Daisy",
    "Petunia",
    "Pine Tree",
+   "Pink Rose",
+   "Purple Tulip",
    "Purple-White Calla Lily",
    "Red Hot Poker",
+   "Red Rose",
+   "Red Tulip",
    "Sod Grass 2x2",
    "Sod Grass 4x4",
    "Sunflower",
@@ -3257,10 +4022,14 @@
    "Walnut Tree",
    "Weeping Willow Tree",
    "White Calla Lily",
-   "Yellow Calla Lily"
+   "White Rose",
+   "White Tulip",
+   "Yellow Calla Lily",
+   "Yellow Rose"
   ],
   "recipeIds": [],
   "craftBonusAt": [
+   "Elementary School",
    "High School",
    "Junior College",
    "Natural History Museum",
@@ -3277,7 +4046,8 @@
   "foundInPlants": [],
   "recipeIds": [
    "get-well-1",
-   "get-well-2"
+   "get-well-2",
+   "get-well-3"
   ]
  },
  {
@@ -3286,18 +4056,35 @@
   "category": "resources",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "ginger-1",
+   "ginger-2"
+  ],
   "craftBonusAt": [
-   "Block & Beans Coffee",
    "Bus Stop",
    "Coffee Stand",
+   "Elementary School",
    "French Cafe",
    "High School",
    "Junior College",
+   "Mainstreet Modular Apartments: Cafe Edition building",
    "The Rocket Cup Cafe",
    "The Tipsy Teapot Cafe",
    "University",
    "Upland Junior High"
+  ]
+ },
+ {
+  "id": "ginseng-root",
+  "name": "Ginseng Root",
+  "category": "resources",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "ginseng-root-1"
+  ],
+  "craftBonusAt": [
+   "Clinic"
   ]
  },
  {
@@ -3334,6 +4121,7 @@
    "European Modular Apartments: Galerie d'Art Edition",
    "Fine Dining Restaurant",
    "Going Under Dive Shop",
+   "Grimwood Apothecary",
    "Hallow Spirit Costumes",
    "Hospital",
    "Ice Rink",
@@ -3344,12 +4132,14 @@
    "Local Brewery",
    "Luxury Fashion Boutique",
    "Luxury Restaurant",
+   "Madame Moon's Fortune Telling",
    "Main Street Modular Apartments: Fashion Boutique Store Edition",
    "Main Street Modular Apartments: Texas Mercantile General Store",
    "Main Street Modular Apartments: Uppany & Co. Edition",
    "Mainstreet Modular Apartments: Clothing Boutique",
    "Mainstreet Modular Apartments: Pub Edition building",
    "Mainstreet Modular Apartments: Uppie Outfitters Edition",
+   "Mainstreet Modular: The Salty Anchor Marine Supply",
    "Mall of Upland",
    "Mini Golf",
    "Mother Putters",
@@ -3377,6 +4167,7 @@
    "The Corner Drugstore",
    "The Curious Cauldron",
    "The Flickering Wick",
+   "The Happy Harvest Cider House",
    "The Starline Theater",
    "The Tipsy Tiki Bar",
    "The Upland Y Rec Center",
@@ -3418,6 +4209,7 @@
    "Live Jams Stage",
    "Live Theater",
    "Local Brewery",
+   "Madame Moon's Fortune Telling",
    "Mainstreet Modular Apartments: Arcade Edition",
    "Mainstreet Modular Apartments: Pub Edition building",
    "Movie Theatre",
@@ -3431,6 +4223,7 @@
    "SynthTag Laser Tag",
    "Taco Stand",
    "The Atomic Arcade",
+   "The Happy Harvest Cider House",
    "The Slice Station",
    "The Starline Theater",
    "The Tipsy Tiki Bar",
@@ -3447,15 +4240,38 @@
    "Lemon Tree",
    "Lilac",
    "Orange Calla Lily",
+   "Orange Daisy",
    "Petunia",
+   "Pink Rose",
+   "Purple Tulip",
    "Purple-White Calla Lily",
    "Red Hot Poker",
+   "Red Rose",
+   "Red Tulip",
    "Sunflower",
    "Violets",
    "White Calla Lily",
-   "Yellow Calla Lily"
+   "White Rose",
+   "White Tulip",
+   "Yellow Calla Lily",
+   "Yellow Rose"
   ],
   "recipeIds": []
+ },
+ {
+  "id": "gold-bar",
+  "name": "Gold Bar",
+  "category": "valuables",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "gold-bar-1"
+  ],
+  "craftBonusAt": [
+   "Bank",
+   "Bank Headquarters",
+   "East Coast Modular Apartments: Bank Edition"
+  ]
  },
  {
   "id": "gold-coin",
@@ -3469,14 +4285,27 @@
   ]
  },
  {
+  "id": "gold-nugget",
+  "name": "Gold Nugget",
+  "category": "resources",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "gold-nugget-1"
+  ]
+ },
+ {
   "id": "gold-ring",
   "name": "Gold Ring",
   "category": "valuables",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "gold-ring-1",
+   "gold-ring-2"
+  ],
   "craftBonusAt": [
-   "Antique Store",
+   "Barbershop",
    "Black Cat Curiosities Shop",
    "Cobweb & Co Antiques",
    "Cornerstone Barbershop",
@@ -3488,9 +4317,11 @@
    "European Modular Apartments: Big Ben’s Gift Shoppe",
    "Going Under Dive Shop",
    "Jewelry",
+   "Main Street Modular Apartments: Texas Mercantile General Store",
    "Main Street Modular Apartments: Uppany & Co. Edition",
    "Mainstreet Modular Apartments: Pawn Shop Edition",
    "Mainstreet Modular Apartments: Uppie Outfitters Edition",
+   "Mainstreet Modular: The Salty Anchor Marine Supply",
    "Mall of Upland",
    "Nail Salon",
    "Olde Wonder Toys",
@@ -3499,6 +4330,21 @@
    "Tattoo Studio",
    "The Curious Cauldron",
    "The Flickering Wick"
+  ]
+ },
+ {
+  "id": "good-hands",
+  "name": "Good Hands",
+  "category": "care",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Barbershop",
+   "Clinic",
+   "Cornerstone Barbershop",
+   "Dentistry",
+   "East Coast Modular Apartments: Barber Shop"
   ]
  },
  {
@@ -3526,6 +4372,43 @@
   "recipeIds": [
    "goofy-face-1",
    "goofy-face-2"
+  ]
+ },
+ {
+  "id": "graduation",
+  "name": "Graduation",
+  "category": "social",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "graduation-1"
+  ]
+ },
+ {
+  "id": "grail",
+  "name": "Grail",
+  "category": "valuables",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "grail-1"
+  ],
+  "craftBonusAt": [
+   "Art Gallery",
+   "Art Museum"
+  ]
+ },
+ {
+  "id": "grand-reunion",
+  "name": "Grand Reunion",
+  "category": "social",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "grand-reunion-1"
+  ],
+  "craftBonusAt": [
+   "Classic Hotel"
   ]
  },
  {
@@ -3610,6 +4493,7 @@
    "Mainstreet Modular Apartments: Pawn Shop Edition",
    "Mainstreet Modular Apartments: Uppie Outfitters Edition",
    "Mainstreet Modular Apartments: Zoomies Skate Shop Edition",
+   "Mainstreet Modular: The Salty Anchor Marine Supply",
    "Mall of Upland",
    "Mexican Restaurant",
    "Mile's Beach Bikes",
@@ -3666,6 +4550,7 @@
   ],
   "foundInPlants": [
    "Apple Tree",
+   "Arborvitae",
    "Avocado Tree",
    "Begonia Rex",
    "Birch Tree",
@@ -3675,15 +4560,24 @@
    "Boxwood",
    "Forsythia",
    "Lavender",
+   "Lawn Grass",
    "Lemon Tree",
    "Lilac",
    "Magnolia Tree",
+   "Maple Tree",
    "Monstera",
+   "Oil Palm Tree",
+   "Olive Tree",
    "Orange Calla Lily",
+   "Orange Daisy",
    "Petunia",
    "Pine Tree",
+   "Pink Rose",
+   "Purple Tulip",
    "Purple-White Calla Lily",
    "Red Hot Poker",
+   "Red Rose",
+   "Red Tulip",
    "Sod Grass 2x2",
    "Sod Grass 4x4",
    "Sunflower",
@@ -3691,12 +4585,16 @@
    "Walnut Tree",
    "Weeping Willow Tree",
    "White Calla Lily",
-   "Yellow Calla Lily"
+   "White Rose",
+   "White Tulip",
+   "Yellow Calla Lily",
+   "Yellow Rose"
   ],
   "recipeIds": [],
   "craftBonusAt": [
    "Coffee Stand",
-   "Newspaper Headquarters"
+   "Newspaper Headquarters",
+   "Newspaper Stand"
   ]
  },
  {
@@ -3711,16 +4609,29 @@
   ]
  },
  {
+  "id": "guardian-angel",
+  "name": "Guardian Angel",
+  "category": "care",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Clinic",
+   "Community Center"
+  ]
+ },
+ {
   "id": "gyroscope",
   "name": "Gyroscope",
   "category": "utility",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "gyroscope-1"
+  ],
   "craftBonusAt": [
-   "Atomic Auto Service",
-   "Auto Repair",
    "Comic Book Store",
+   "Elementary School",
    "Game Exchange",
    "High School",
    "Junior College",
@@ -3780,6 +4691,8 @@
    "Small Office",
    "South America Modular Apartments: Two Can Tango Bar Edition",
    "Taxi Depot",
+   "The Grimwood Hotel",
+   "The Happy Harvest Cider House",
    "The Lucky Star Hotel",
    "The Starlight Senior Home",
    "The Tipsy Tiki Bar",
@@ -3869,6 +4782,7 @@
    "Lotus of Upland Thai House",
    "Luxury Fashion Boutique",
    "Luxury Restaurant",
+   "Madame Moon's Fortune Telling",
    "Main Street Modular Apartments: Fashion Boutique Store Edition",
    "Main Street Modular Apartments: Pier Pressure Fish Market",
    "Main Street Modular Apartments: Pizzeria Edition",
@@ -3908,6 +4822,7 @@
    "Sneaker Store",
    "South America Modular Apartments: Almacén Edition",
    "South America Modular Apartments: Rodizio Edition",
+   "Sparklet Refinery",
    "Steakhouse",
    "Sunglass Shack",
    "Supermarket",
@@ -3951,6 +4866,9 @@
   "recipeIds": [
    "happy-tears-1",
    "happy-tears-2"
+  ],
+  "craftBonusAt": [
+   "Classic Hotel"
   ]
  },
  {
@@ -3962,6 +4880,17 @@
   "recipeIds": [
    "harmonica-1",
    "harmonica-2"
+  ]
+ },
+ {
+  "id": "harmony",
+  "name": "Harmony",
+  "category": "social",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Community Center"
   ]
  },
  {
@@ -3981,9 +4910,12 @@
   "category": "resources",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "hay-bale-1"
+  ],
   "craftBonusAt": [
    "Community Center",
+   "Fire Station",
    "Fire Station Headquarters",
    "Recycling Center",
    "The Atomic Firehouse"
@@ -3995,7 +4927,9 @@
   "category": "utility",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "headphones-1"
+  ],
   "craftBonusAt": [
    "Comic Book Store",
    "East Coast Modular Apartments: Mobile Phone Store",
@@ -4015,6 +4949,7 @@
    "Clinic",
    "Dentistry",
    "East Coast Modular Apartments: Pharmacy",
+   "Grimwood Apothecary",
    "Hospital",
    "Old Asylum",
    "Optometrist",
@@ -4027,9 +4962,14 @@
    "Veterinary Clinic"
   ],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "healing-kit-1",
+   "healing-kit-2"
+  ],
   "craftBonusAt": [
-   "Clinic",
+   "Barbershop",
+   "Bodega",
+   "Casual Dining Restaurant",
    "Community Center",
    "Cornerstone Barbershop",
    "Dentistry",
@@ -4045,7 +4985,10 @@
    "European Modular Apartments: Restaurant Edition",
    "Fast Food Joint",
    "Fine Dining Restaurant",
+   "Fire Station",
    "Fire Station Headquarters",
+   "Grimwood Apothecary",
+   "Hospital",
    "Lotus of Upland Thai House",
    "Luxury Restaurant",
    "Main Street Modular Apartments: Pizzeria Edition",
@@ -4066,6 +5009,7 @@
    "South America Modular Apartments: Almacén Edition",
    "South America Modular Apartments: Rodizio Edition",
    "Steakhouse",
+   "Supermarket",
    "Supermarket Super Store",
    "Tandoor House",
    "Tapas Bar",
@@ -4079,6 +5023,20 @@
    "Urgent care center",
    "Veterinary Clinic",
    "Waffle Home Diner"
+  ]
+ },
+ {
+  "id": "hearing-aid",
+  "name": "Hearing Aid",
+  "category": "care",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "hearing-aid-1",
+   "hearing-aid-2"
+  ],
+  "craftBonusAt": [
+   "Clinic"
   ]
  },
  {
@@ -4100,14 +5058,22 @@
    "Lemon Tree",
    "Lilac",
    "Orange Calla Lily",
+   "Orange Daisy",
    "Petunia",
+   "Pink Rose",
+   "Purple Tulip",
    "Purple-White Calla Lily",
    "Red Hot Poker",
+   "Red Rose",
+   "Red Tulip",
    "Sunflower",
    "Violets",
    "Walnut Tree",
    "White Calla Lily",
-   "Yellow Calla Lily"
+   "White Rose",
+   "White Tulip",
+   "Yellow Calla Lily",
+   "Yellow Rose"
   ],
   "recipeIds": [],
   "craftBonusAt": [
@@ -4119,9 +5085,11 @@
    "European Modular Apartments: Big Ben’s Gift Shoppe",
    "Going Under Dive Shop",
    "Jewelry",
+   "Main Street Modular Apartments: Texas Mercantile General Store",
    "Main Street Modular Apartments: Uppany & Co. Edition",
    "Mainstreet Modular Apartments: Pawn Shop Edition",
    "Mainstreet Modular Apartments: Uppie Outfitters Edition",
+   "Mainstreet Modular: The Salty Anchor Marine Supply",
    "Mall of Upland",
    "Olde Wonder Toys",
    "Pawn shop",
@@ -4205,6 +5173,9 @@
   "recipeIds": [
    "hello-again-1",
    "hello-again-2"
+  ],
+  "craftBonusAt": [
+   "Dunder Office Supplies"
   ]
  },
  {
@@ -4358,7 +5329,11 @@
   ],
   "foundInPlants": [
    "Birch Tree",
+   "Lawn Grass",
    "Magnolia Tree",
+   "Maple Tree",
+   "Oil Palm Tree",
+   "Olive Tree",
    "Pine Tree",
    "Sod Grass 2x2",
    "Sod Grass 4x4",
@@ -4396,6 +5371,21 @@
   ]
  },
  {
+  "id": "high-spirits",
+  "name": "High Spirits",
+  "category": "social",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "high-spirits-1",
+   "high-spirits-2"
+  ],
+  "craftBonusAt": [
+   "Casual Dining Restaurant",
+   "East Coast Modular Apartments: Fast Food Restaurant"
+  ]
+ },
+ {
   "id": "hinge",
   "name": "Hinge",
   "category": "utility",
@@ -4412,11 +5402,39 @@
    "Modern Hotel",
    "Motel",
    "Oil Change center",
+   "The Grimwood Hotel",
    "The Lucky Star Hotel",
    "ÜPKEA"
   ],
   "foundInPlants": [],
   "recipeIds": []
+ },
+ {
+  "id": "holiday-ham",
+  "name": "Holiday Ham",
+  "category": "resources",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "holiday-ham-1"
+  ],
+  "craftBonusAt": [
+   "Butcher Shop"
+  ]
+ },
+ {
+  "id": "homecoming",
+  "name": "Homecoming",
+  "category": "social",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Animal Shelter",
+   "Bus Stop",
+   "Classic Hotel",
+   "Community Center"
+  ]
  },
  {
   "id": "home-cooking",
@@ -4476,6 +5494,7 @@
    "European Modular Apartments: Mantequeria Edition",
    "French Cafe",
    "Glazed & Confused Donuts",
+   "Grimwood Apothecary",
    "Hospital",
    "Large Assisted Living Center",
    "Mainstreet Modular Apartments: Cafe Edition building",
@@ -4501,13 +5520,21 @@
    "Lemon Tree",
    "Lilac",
    "Orange Calla Lily",
+   "Orange Daisy",
    "Petunia",
+   "Pink Rose",
+   "Purple Tulip",
    "Purple-White Calla Lily",
    "Red Hot Poker",
+   "Red Rose",
+   "Red Tulip",
    "Sunflower",
    "Violets",
    "White Calla Lily",
-   "Yellow Calla Lily"
+   "White Rose",
+   "White Tulip",
+   "Yellow Calla Lily",
+   "Yellow Rose"
   ],
   "recipeIds": []
  },
@@ -4575,6 +5602,7 @@
    "Live Jams Stage",
    "Live Theater",
    "Local Brewery",
+   "Madame Moon's Fortune Telling",
    "Mainstreet Modular Apartments: Pub Edition building",
    "Martial Arts Dojo",
    "Mini Golf",
@@ -4603,6 +5631,8 @@
    "SynthTag Laser Tag",
    "The Atomic Oven Bakery",
    "The Climbing Collective",
+   "The Grimwood Hotel",
+   "The Happy Harvest Cider House",
    "The Harvest Oven",
    "The Lucky Star Hotel",
    "The Starline Theater",
@@ -4618,8 +5648,12 @@
   "foundInPlants": [
    "Birch Tree",
    "Blueberry",
+   "Lawn Grass",
    "Lemon Tree",
    "Magnolia Tree",
+   "Maple Tree",
+   "Oil Palm Tree",
+   "Olive Tree",
    "Pine Tree",
    "Sod Grass 2x2",
    "Sod Grass 4x4",
@@ -4631,6 +5665,7 @@
    "Basketball court",
    "Beach Pavilion",
    "Bowling",
+   "Brewery",
    "Exclusive Hockey Store Service Structure",
    "Gym",
    "Ice Rink",
@@ -4663,7 +5698,9 @@
   "category": "resources",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "horn-1"
+  ],
   "craftBonusAt": [
    "African Crafts Market",
    "Beach Feet Sandals",
@@ -4675,11 +5712,13 @@
    "Luxury Fashion Boutique",
    "Main Street Modular Apartments: Fashion Boutique Store Edition",
    "Main Street Modular Apartments: Shoe Store Edition",
+   "Main Street Modular Apartments: Texas Mercantile General Store",
    "Main Street Modular Apartments: Uppany & Co. Edition",
    "Main Street Modular: Pacific Northwest Trading Post Edition",
    "Mainstreet Modular Apartments: Clothing Boutique",
    "Mainstreet Modular Apartments: Farmer Supply Editions",
    "Mainstreet Modular Apartments: Uppie Outfitters Edition",
+   "Mainstreet Modular: The Salty Anchor Marine Supply",
    "Mall of Upland",
    "Olde Wonder Toys",
    "Pet Shop",
@@ -4727,6 +5766,7 @@
    "European Modular Apartments: Ice Cream Shop",
    "French Cafe",
    "Glazed & Confused Donuts",
+   "Grimwood Apothecary",
    "Hospital",
    "Ice cream Parlor",
    "Mainstreet Modular Apartments: Cafe Edition building",
@@ -4746,6 +5786,16 @@
   "recipeIds": []
  },
  {
+  "id": "hourglass",
+  "name": "Hourglass",
+  "category": "utility",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "hourglass-1"
+  ]
+ },
+ {
   "id": "house-call",
   "name": "House Call",
   "category": "care",
@@ -4762,13 +5812,13 @@
   "category": "social",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "huddle-1"
+  ],
   "craftBonusAt": [
-   "Basketball court",
-   "Beach Pavilion",
-   "Bowling",
    "Brewery",
    "Community Center",
+   "Elementary School",
    "European Modular Apartments: Sports Bar",
    "Exclusive Hockey Store Service Structure",
    "Gym",
@@ -4788,15 +5838,18 @@
    "Paintball Upland",
    "Pool Hall",
    "Private Swim Club",
+   "Pub",
    "Public Pool",
    "Pure Pose Yoga",
    "Set Point Beach Club",
+   "Small Office",
    "Soccer Field",
    "South America Modular Apartments: Two Can Tango Bar Edition",
    "Southside Boxing Club",
    "Sports Courts",
    "SuperKarts Mini Raceway",
    "The Climbing Collective",
+   "The Happy Harvest Cider House",
    "The Tipsy Tiki Bar",
    "The Totally Official Cup Flag Stand",
    "The Upland Y Rec Center",
@@ -4815,17 +5868,22 @@
   "category": "resources",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "ice-cream-1"
+  ],
   "craftBonusAt": [
    "Auto Carwash",
    "Beach Feet Sandals",
    "Bike Shop",
    "Block & Beans Coffee",
+   "Coffee Shop",
    "Coffee Stand",
+   "Elementary School",
    "French Cafe",
    "High School",
    "Junior College",
    "Main Street Modular Apartments: Shoe Store Edition",
+   "Mainstreet Modular Apartments: Cafe Edition building",
    "Mile's Beach Bikes",
    "QuickRinse Self-Serve Carwash",
    "Quickserver Surf Co",
@@ -4851,6 +5909,7 @@
    "Main Street Modular Apartments: Texas Mercantile General Store",
    "Main Street Modular Apartments: Uppany & Co. Edition",
    "Mainstreet Modular Apartments: Uppie Outfitters Edition",
+   "Mainstreet Modular: The Salty Anchor Marine Supply",
    "Mall of Upland",
    "Modern Hotel",
    "Motel",
@@ -4858,6 +5917,7 @@
    "Pure Pose Yoga",
    "The Curious Cauldron",
    "The Flickering Wick",
+   "The Grimwood Hotel",
    "The Lucky Star Hotel"
   ],
   "foundInPlants": [],
@@ -4869,11 +5929,12 @@
   "category": "resources",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "ingot-1"
+  ],
   "craftBonusAt": [
-   "Atomic Auto Service",
-   "Auto Repair",
    "Car Rental",
+   "Elementary School",
    "High School",
    "Junior College",
    "Logistics center: Nexus Point",
@@ -4884,6 +5945,21 @@
    "University",
    "Upland Junior High",
    "Wheel Alignment center"
+  ]
+ },
+ {
+  "id": "inner-peace",
+  "name": "Inner Peace",
+  "category": "care",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "inner-peace-1"
+  ],
+  "craftBonusAt": [
+   "Barbershop",
+   "Cornerstone Barbershop",
+   "East Coast Modular Apartments: Barber Shop"
   ]
  },
  {
@@ -4898,12 +5974,26 @@
   ]
  },
  {
+  "id": "invisible-cloak",
+  "name": "Invisible Cloak",
+  "category": "utility",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Art Gallery",
+   "Art Museum",
+   "Circus"
+  ]
+ },
+ {
   "id": "invite-card",
   "name": "Invite Card",
   "category": "social",
   "foundInStructures": [
    "Live Jams Stage",
    "Live Theater",
+   "Madame Moon's Fortune Telling",
    "Performing Arts Center",
    "The Starline Theater",
    "Theater"
@@ -4933,6 +6023,17 @@
   ],
   "foundInPlants": [],
   "recipeIds": []
+ },
+ {
+  "id": "jade-dragon",
+  "name": "Jade Dragon",
+  "category": "valuables",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "jade-dragon-1",
+   "jade-dragon-2"
+  ]
  },
  {
   "id": "jam-jar",
@@ -4966,7 +6067,22 @@
   "foundInPlants": [],
   "recipeIds": [
    "jam-jar-1",
-   "jam-jar-2"
+   "jam-jar-2",
+   "jam-jar-3"
+  ]
+ },
+ {
+  "id": "jigsaw",
+  "name": "Jigsaw",
+  "category": "utility",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "jigsaw-1"
+  ],
+  "craftBonusAt": [
+   "Art Gallery",
+   "Art Museum"
   ]
  },
  {
@@ -4978,6 +6094,22 @@
   "recipeIds": [
    "joystick-1",
    "joystick-2"
+  ]
+ },
+ {
+  "id": "jubilee",
+  "name": "Jubilee",
+  "category": "social",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Antique Store",
+   "Art Gallery",
+   "Art Museum",
+   "Basketball court",
+   "Beach Pavilion",
+   "Bowling"
   ]
  },
  {
@@ -5011,9 +6143,11 @@
    "Police Detention center",
    "Police Headquarters",
    "Regional Police Station",
+   "Sparklet Refinery",
    "Starlite Precinct",
    "Taxi Depot",
    "The Golden Vault Bank",
+   "The Grimwood Hotel",
    "The Lucky Star Hotel",
    "The Skyline Courthouse"
   ],
@@ -5071,6 +6205,7 @@
    "Fresh Pick Fruit Stand",
    "Funeral Home",
    "Game Exchange",
+   "Grimwood Apothecary",
    "Hallow Spirit Costumes",
    "Hardware Store",
    "Hook & Tackle Bait Shop",
@@ -5113,6 +6248,7 @@
    "Sneaker Store",
    "Soccer Field",
    "South America Modular Apartments: Almacén Edition",
+   "Sparklet Refinery",
    "Sports Courts",
    "Sunglass Shack",
    "Supermarket",
@@ -5140,13 +6276,21 @@
    "Lavender",
    "Lilac",
    "Orange Calla Lily",
+   "Orange Daisy",
    "Petunia",
+   "Pink Rose",
+   "Purple Tulip",
    "Purple-White Calla Lily",
    "Red Hot Poker",
+   "Red Rose",
+   "Red Tulip",
    "Sunflower",
    "Violets",
    "White Calla Lily",
-   "Yellow Calla Lily"
+   "White Rose",
+   "White Tulip",
+   "Yellow Calla Lily",
+   "Yellow Rose"
   ],
   "recipeIds": []
  },
@@ -5178,7 +6322,10 @@
   "category": "care",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "knitting-circle-1",
+   "knitting-circle-2"
+  ],
   "craftBonusAt": [
    "African Crafts Market",
    "Asian Modular Apartments: Rattan Shop Edition",
@@ -5186,8 +6333,6 @@
    "Beyond the Bath",
    "Black Cat Curiosities Shop",
    "Cobweb & Co Antiques",
-   "Community Center",
-   "Dry Cleaner",
    "East Coast Modular Apartments: Intimate Apparel Boutique",
    "East Coast Modular Apartments: Yeehaw Outfitters Edition",
    "East Coast Modular: Liquor Store Edition",
@@ -5198,12 +6343,14 @@
    "Luxury Fashion Boutique",
    "Main Street Modular Apartments: Fashion Boutique Store Edition",
    "Main Street Modular Apartments: Shoe Store Edition",
+   "Main Street Modular Apartments: Texas Mercantile General Store",
    "Main Street Modular Apartments: Uppany & Co. Edition",
    "Main Street Modular: Pacific Northwest Trading Post Edition",
    "Mainstreet Modular Apartments: Clothing Boutique",
    "Mainstreet Modular Apartments: Farmer Supply Editions",
    "Mainstreet Modular Apartments: Laundromat Edition",
    "Mainstreet Modular Apartments: Uppie Outfitters Edition",
+   "Mainstreet Modular: The Salty Anchor Marine Supply",
    "Mall of Upland",
    "Massage Parlor",
    "Olde Wonder Toys",
@@ -5237,6 +6384,7 @@
    "East Coast Modular Apartments: Pharmacy",
    "East Coast Modular Apartments: Tattoo studio Edition",
    "French Cafe",
+   "Grimwood Apothecary",
    "Hospital",
    "Information Kiosk",
    "Large Assisted Living Center",
@@ -5269,12 +6417,16 @@
    "Welcome Point Travel Center"
   ],
   "foundInPlants": [
+   "Arborvitae",
    "Avocado Tree",
    "Birch Tree",
    "Boxwood",
    "Forsythia",
    "Magnolia Tree",
+   "Maple Tree",
    "Monstera",
+   "Oil Palm Tree",
+   "Olive Tree",
    "Pine Tree",
    "Walnut Tree",
    "Weeping Willow Tree"
@@ -5309,7 +6461,10 @@
   "category": "resources",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "lanolin-1",
+   "lanolin-2"
+  ],
   "craftBonusAt": [
    "African Crafts Market",
    "Asian Modular Apartments: Rattan Shop Edition",
@@ -5323,11 +6478,13 @@
    "Large Electronic store",
    "Luxury Fashion Boutique",
    "Main Street Modular Apartments: Fashion Boutique Store Edition",
+   "Main Street Modular Apartments: Texas Mercantile General Store",
    "Main Street Modular Apartments: Uppany & Co. Edition",
    "Main Street Modular: Pacific Northwest Trading Post Edition",
    "Mainstreet Modular Apartments: Clothing Boutique",
    "Mainstreet Modular Apartments: Farmer Supply Editions",
    "Mainstreet Modular Apartments: Uppie Outfitters Edition",
+   "Mainstreet Modular: The Salty Anchor Marine Supply",
    "Mall of Upland",
    "Massage Parlor",
    "Olde Wonder Toys",
@@ -5336,6 +6493,19 @@
    "The Thrift Gap",
    "Ultra Beauty Co",
    "ÜPKEA"
+  ]
+ },
+ {
+  "id": "laurel-wreath",
+  "name": "Laurel Wreath",
+  "category": "valuables",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Basketball court",
+   "Beach Pavilion",
+   "Bowling"
   ]
  },
  {
@@ -5361,6 +6531,7 @@
    "Dentistry",
    "Dreamspace VR",
    "Elementary School",
+   "Grimwood Apothecary",
    "High School",
    "Hospital",
    "Junior College",
@@ -5430,6 +6601,17 @@
   ]
  },
  {
+  "id": "life-jacket",
+  "name": "Life Jacket",
+  "category": "care",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Camp World"
+  ]
+ },
+ {
   "id": "light-bulb",
   "name": "Light Bulb",
   "category": "utility",
@@ -5443,6 +6625,7 @@
    "Junior College",
    "Live Jams Stage",
    "Live Theater",
+   "Madame Moon's Fortune Telling",
    "Mainstreet Modular Apartments: Arcade Edition",
    "Modern Hotel",
    "Motel",
@@ -5461,6 +6644,7 @@
    "Starlite Precinct",
    "SynthTag Laser Tag",
    "The Atomic Arcade",
+   "The Grimwood Hotel",
    "The Lucky Star Hotel",
    "The Starline Theater",
    "Theater",
@@ -5517,6 +6701,7 @@
    "Post Office Distribution Center",
    "Science Museum",
    "Small Office",
+   "Sparklet Refinery",
    "The Golden Vault Bank",
    "The Moonbeam Bookstore",
    "The Skyline Courthouse",
@@ -5533,8 +6718,11 @@
   "category": "resources",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "lobster-1"
+  ],
   "craftBonusAt": [
+   "Bodega",
    "East Coast Modular Apartments: Little Havana Grill Edition",
    "European Modular Apartments: Restaurant Edition",
    "Fish Deli",
@@ -5545,6 +6733,7 @@
    "Nomi Sushi Bar",
    "Old Crow Farm Market",
    "South America Modular Apartments: Almacén Edition",
+   "Supermarket",
    "Supermarket Super Store",
    "Tapas Bar",
    "The Lobster Shack"
@@ -5558,7 +6747,8 @@
   "foundInPlants": [],
   "recipeIds": [
    "locket-1",
-   "locket-2"
+   "locket-2",
+   "locket-3"
   ]
  },
  {
@@ -5567,17 +6757,21 @@
   "category": "resources",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "lollipop-1",
+   "lollipop-2"
+  ],
   "craftBonusAt": [
+   "Bodega",
    "Bus Stop",
    "Cinnaboom",
    "Department store",
    "Dollar Store",
-   "East Coast Modular Apartments: Bakery Edition",
    "Glazed & Confused Donuts",
    "Neighborhood Market",
    "Old Crow Farm Market",
    "South America Modular Apartments: Almacén Edition",
+   "Supermarket",
    "Supermarket Super Store",
    "The Atomic Oven Bakery",
    "The Harvest Oven"
@@ -5609,11 +6803,14 @@
    "Mainstreet Modular Apartments: Bookstore Edition",
    "Post Office",
    "Post Office Distribution Center",
+   "Sparklet Refinery",
    "The Moonbeam Bookstore",
    "The Skyline Courthouse"
   ],
   "foundInPlants": [],
-  "recipeIds": []
+  "recipeIds": [
+   "love-letter-1"
+  ]
  },
  {
   "id": "lucky-penny",
@@ -5634,19 +6831,25 @@
   "foundInPlants": [],
   "recipeIds": [],
   "craftBonusAt": [
+   "Bank",
+   "Bank Headquarters",
    "Bike Shop",
    "Black Cat Curiosities Shop",
+   "Bus Stop",
    "Camp World",
    "Classic Hotel",
    "Cobweb & Co Antiques",
+   "East Coast Modular Apartments: Bank Edition",
    "East Coast Modular: Liquor Store Edition",
    "Electronic Store",
    "Going Under Dive Shop",
    "Hardware Store",
    "Large Electronic store",
+   "Main Street Modular Apartments: Texas Mercantile General Store",
    "Main Street Modular Apartments: Uppany & Co. Edition",
    "Main Street Modular: Pacific Northwest Trading Post Edition",
    "Mainstreet Modular Apartments: Uppie Outfitters Edition",
+   "Mainstreet Modular: The Salty Anchor Marine Supply",
    "Mall of Upland",
    "Mile's Beach Bikes",
    "Modern Hotel",
@@ -5655,6 +6858,7 @@
    "Rick's Sporting Goods",
    "The Curious Cauldron",
    "The Flickering Wick",
+   "The Grimwood Hotel",
    "The Lucky Star Hotel"
   ]
  },
@@ -5664,15 +6868,24 @@
   "category": "care",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "lullaby-1",
+   "lullaby-2"
+  ],
   "craftBonusAt": [
+   "Asian Modular Apartments: Rattan Shop Edition",
    "Barn & Nobles",
+   "Black Cat Curiosities Shop",
    "Block & Beans Coffee",
    "Bookstore",
+   "Cobweb & Co Antiques",
+   "Coffee Shop",
    "French Cafe",
    "Hook & Tackle Bait Shop",
    "Large Library",
+   "Library",
    "Mainstreet Modular Apartments: Bookstore Edition",
+   "Mainstreet Modular Apartments: Cafe Edition building",
    "Massage Parlor",
    "Old Asylum",
    "The Moonbeam Bookstore",
@@ -5698,6 +6911,20 @@
   "recipeIds": []
  },
  {
+  "id": "magic-lamp",
+  "name": "Magic Lamp",
+  "category": "utility",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "magic-lamp-1"
+  ],
+  "craftBonusAt": [
+   "Art Gallery",
+   "Art Museum"
+  ]
+ },
+ {
   "id": "magnet",
   "name": "Magnet",
   "category": "utility",
@@ -5714,6 +6941,16 @@
   ],
   "foundInPlants": [],
   "recipeIds": []
+ },
+ {
+  "id": "mammoth-tusk",
+  "name": "Mammoth Tusk",
+  "category": "resources",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "mammoth-tusk-1"
+  ]
  },
  {
   "id": "mango",
@@ -5739,6 +6976,7 @@
    "Takasaki Retro Googie Farmers Market"
   ],
   "foundInPlants": [
+   "Lawn Grass",
    "Sod Grass 2x2",
    "Sod Grass 4x4"
   ],
@@ -5750,11 +6988,16 @@
   "category": "resources",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "maple-syrup-1",
+   "maple-syrup-2"
+  ],
   "craftBonusAt": [
    "Block & Beans Coffee",
    "Bus Stop",
+   "Coffee Shop",
    "French Cafe",
+   "Mainstreet Modular Apartments: Cafe Edition building",
    "The Rocket Cup Cafe",
    "The Tipsy Teapot Cafe"
   ]
@@ -5793,12 +7036,40 @@
    "The Moonbeam Bookstore"
   ],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "marble-bust-1",
+   "marble-bust-2"
+  ],
+  "craftBonusAt": [
+   "European Modular Apartments: Galerie d'Art Edition"
+  ]
+ },
+ {
+  "id": "masquerade",
+  "name": "Masquerade",
+  "category": "social",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "masquerade-1"
+  ],
   "craftBonusAt": [
    "Art Gallery",
+   "Art Museum"
+  ]
+ },
+ {
+  "id": "master-chisel",
+  "name": "Master Chisel",
+  "category": "utility",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Antique Store",
+   "Art Gallery",
    "Art Museum",
-   "Build-A-Bowl Workshop",
-   "European Modular Apartments: Galerie d'Art Edition"
+   "Build-A-Bowl Workshop"
   ]
  },
  {
@@ -5818,11 +7089,10 @@
   "category": "valuables",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "medallion-1"
+  ],
   "craftBonusAt": [
-   "Basketball court",
-   "Beach Pavilion",
-   "Bowling",
    "Exclusive Hockey Store Service Structure",
    "Gym",
    "Ice Rink",
@@ -5864,6 +7134,42 @@
   ]
  },
  {
+  "id": "memory-lane",
+  "name": "Memory Lane",
+  "category": "social",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "memory-lane-1"
+  ],
+  "craftBonusAt": [
+   "Aquarium",
+   "Barn & Nobles",
+   "Bookstore"
+  ]
+ },
+ {
+  "id": "metal-detector",
+  "name": "Metal Detector",
+  "category": "utility",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "metal-detector-1"
+  ]
+ },
+ {
+  "id": "meteorite",
+  "name": "Meteorite",
+  "category": "resources",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Antique Store"
+  ]
+ },
+ {
   "id": "mic-drop",
   "name": "Mic Drop",
   "category": "social",
@@ -5896,6 +7202,7 @@
    "Ice Rink",
    "Live Jams Stage",
    "Live Theater",
+   "Madame Moon's Fortune Telling",
    "Mainstreet Modular Apartments: Arcade Edition",
    "Martial Arts Dojo",
    "Mini Golf",
@@ -5950,8 +7257,10 @@
    "Night Club",
    "Paintball Upland",
    "Pool Hall",
+   "Pub",
    "South America Modular Apartments: Two Can Tango Bar Edition",
    "SuperKarts Mini Raceway",
+   "The Happy Harvest Cider House",
    "The Tipsy Tiki Bar",
    "The Upland Y Rec Center",
    "Track & Field Complex",
@@ -5964,10 +7273,12 @@
   "category": "utility",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "microscope-1"
+  ],
   "craftBonusAt": [
-   "Clinic",
-   "Dentistry",
+   "Grimwood Apothecary",
+   "Hospital",
    "Regional Hospital",
    "Skyline Medical Center",
    "Urgent care center",
@@ -6034,11 +7345,13 @@
   "foundInPlants": [],
   "recipeIds": [],
   "craftBonusAt": [
+   "Bodega",
    "Butcher Shop",
    "European Modular Apartments: Butcher Edition",
    "Neighborhood Market",
    "Old Crow Farm Market",
    "South America Modular Apartments: Almacén Edition",
+   "Supermarket",
    "Supermarket Super Store"
   ]
  },
@@ -6073,15 +7386,45 @@
   "recipeIds": []
  },
  {
+  "id": "moon-rock",
+  "name": "Moon Rock",
+  "category": "valuables",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Antique Store"
+  ]
+ },
+ {
+  "id": "moonshine",
+  "name": "Moonshine",
+  "category": "resources",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "moonshine-1"
+  ],
+  "craftBonusAt": [
+   "Brewery"
+  ]
+ },
+ {
   "id": "moral-support",
   "name": "Moral Support",
   "category": "care",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "moral-support-1",
+   "moral-support-2"
+  ],
   "craftBonusAt": [
+   "Barbershop",
    "Block & Beans Coffee",
+   "Casual Dining Restaurant",
    "Clinic",
+   "Coffee Shop",
    "Community Center",
    "Cornerstone Barbershop",
    "Dentistry",
@@ -6098,10 +7441,13 @@
    "Fine Dining Restaurant",
    "French Cafe",
    "Funeral Home",
+   "Grimwood Apothecary",
    "Gym",
+   "Hospital",
    "Lotus of Upland Thai House",
    "Luxury Restaurant",
    "Main Street Modular Apartments: Pizzeria Edition",
+   "Mainstreet Modular Apartments: Cafe Edition building",
    "Massage Parlor",
    "Mexican Restaurant",
    "Moonbeam Diner",
@@ -6185,16 +7531,17 @@
    "Wheel Alignment center"
   ],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "multitool-1"
+  ],
   "craftBonusAt": [
    "Asian Modular Apartments: Hawker Centre Edition",
    "Atomic Auto Service",
    "Auto Repair",
+   "Barbershop",
    "Beachside Taco's",
    "Big Fish Balls",
-   "Bike Shop",
    "Black Cat Curiosities Shop",
-   "Camp World",
    "Car Rental",
    "Cinnamon Bun Stand",
    "Cobweb & Co Antiques",
@@ -6206,7 +7553,9 @@
    "East Coast Modular Apartments: Nail Salon",
    "East Coast Modular: Liquor Store Edition",
    "Electronic Store",
+   "Elementary School",
    "Empanada Stand",
+   "Fire Station",
    "Fire Station Headquarters",
    "Fish Ball Stand",
    "Going Under Dive Shop",
@@ -6218,15 +7567,18 @@
    "Kiosk - Fried Chicken",
    "Kiosk - Gelato",
    "Kiosk - Hamburger",
+   "Kiosk - Hot Dog",
    "Kiosk - Pizza",
    "Kiosk - Sushi",
    "Kiosk - Taco",
    "Large Electronic store",
    "Large Office",
    "Main Squeeze Lemonade",
+   "Main Street Modular Apartments: Texas Mercantile General Store",
    "Main Street Modular Apartments: Uppany & Co. Edition",
    "Main Street Modular: Pacific Northwest Trading Post Edition",
    "Mainstreet Modular Apartments: Uppie Outfitters Edition",
+   "Mainstreet Modular: The Salty Anchor Marine Supply",
    "Mall of Upland",
    "Mile's Beach Bikes",
    "Mile’s Popcorn",
@@ -6242,6 +7594,7 @@
    "Sausage Stand",
    "Shawarma Street Co.",
    "Singapore Kopitiam",
+   "Small Office",
    "Taco Stand",
    "Taxi Depot",
    "The Atomic Firehouse",
@@ -6253,6 +7606,7 @@
    "The Flickering Wick",
    "The Salty Twist Pretzel Stand",
    "The Slice Station",
+   "The Twisted Pretzel",
    "Tire shop",
    "University",
    "Upland Junior High",
@@ -6276,11 +7630,17 @@
   "foundInPlants": [
    "Birch Tree",
    "Magnolia Tree",
+   "Maple Tree",
+   "Oil Palm Tree",
+   "Olive Tree",
    "Pine Tree",
    "Walnut Tree",
    "Weeping Willow Tree"
   ],
-  "recipeIds": []
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Clinic"
+  ]
  },
  {
   "id": "mussel",
@@ -6318,11 +7678,12 @@
   "category": "valuables",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "necklace-1",
+   "necklace-2"
+  ],
   "craftBonusAt": [
    "Bus Stop",
-   "Cornerstone Barbershop",
-   "East Coast Modular Apartments: Barber Shop",
    "East Coast Modular Apartments: Nail Salon",
    "East Coast Modular Apartments: Tattoo studio Edition",
    "Nail Salon",
@@ -6393,6 +7754,7 @@
    "Steakhouse",
    "SuperKarts Mini Raceway",
    "The Atomic Firehouse",
+   "The Happy Harvest Cider House",
    "The Tipsy Tiki Bar",
    "The Upland Y Rec Center",
    "Track & Field Complex",
@@ -6401,6 +7763,17 @@
   ],
   "foundInPlants": [],
   "recipeIds": []
+ },
+ {
+  "id": "oasis",
+  "name": "Oasis",
+  "category": "care",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Classic Hotel"
+  ]
  },
  {
   "id": "oats",
@@ -6442,6 +7815,17 @@
   ]
  },
  {
+  "id": "old-pal",
+  "name": "Old Pal",
+  "category": "social",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "old-pal-1",
+   "old-pal-2"
+  ]
+ },
+ {
   "id": "olive",
   "name": "Olive",
   "category": "resources",
@@ -6458,10 +7842,12 @@
   "category": "resources",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "olive-oil-1",
+   "olive-oil-2"
+  ],
   "craftBonusAt": [
    "Cape Town Modular: Padstal Edition",
-   "Delicatessen shop",
    "East Coast Modular Apartments: Little Havana Grill Edition",
    "European Modular Apartments: Mantequeria Edition",
    "European Modular Apartments: Restaurant Edition",
@@ -6484,6 +7870,7 @@
    "South America Modular Apartments: Almacén Edition",
    "South America Modular Apartments: Rodizio Edition",
    "Steakhouse",
+   "Supermarket",
    "Supermarket Super Store",
    "Takasaki Retro Googie Farmers Market",
    "Tandoor House",
@@ -6524,6 +7911,20 @@
   "recipeIds": []
  },
  {
+  "id": "open-arms",
+  "name": "Open Arms",
+  "category": "care",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Animal Shelter",
+   "Block & Beans Coffee",
+   "Coffee Shop",
+   "Community Center"
+  ]
+ },
+ {
   "id": "open-door",
   "name": "Open Door",
   "category": "care",
@@ -6550,11 +7951,29 @@
   "category": "social",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "opening-night-1"
+  ],
   "craftBonusAt": [
+   "CineSpark Theatre",
    "Coffee Stand",
    "Neon Glide Roller Rink",
    "SynthTag Laser Tag"
+  ]
+ },
+ {
+  "id": "open-invitation",
+  "name": "Open Invitation",
+  "category": "social",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "open-invitation-1"
+  ],
+  "craftBonusAt": [
+   "Block & Beans Coffee",
+   "Coffee Shop",
+   "Community Center"
   ]
  },
  {
@@ -6588,17 +8007,8 @@
   "foundInStructures": [],
   "foundInPlants": [],
   "recipeIds": [
-   "oyster-1"
-  ],
-  "craftBonusAt": [
-   "East Coast Modular Apartments: Little Havana Grill Edition",
-   "European Modular Apartments: Restaurant Edition",
-   "Fine Dining Restaurant",
-   "Luxury Restaurant",
-   "Mother Cluckers Chicken",
-   "Nomi Sushi Bar",
-   "Tapas Bar",
-   "The Lobster Shack"
+   "oyster-1",
+   "oyster-2"
   ]
  },
  {
@@ -6619,12 +8029,13 @@
   "category": "social",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "packed-house-1",
+   "packed-house-2"
+  ],
   "craftBonusAt": [
-   "Basketball court",
-   "Beach Pavilion",
-   "Bowling",
    "Brewery",
+   "Casual Dining Restaurant",
    "East Coast Modular Apartments: Fast Food Restaurant",
    "East Coast Modular Apartments: Little Havana Grill Edition",
    "El Plate-o Grande",
@@ -6652,6 +8063,7 @@
    "Pizzeria",
    "Pool Hall",
    "Private Swim Club",
+   "Pub",
    "Public Pool",
    "Pure Pose Yoga",
    "Ramen Restaurant",
@@ -6668,6 +8080,7 @@
    "Tennis court",
    "The Burger Stop",
    "The Climbing Collective",
+   "The Happy Harvest Cider House",
    "The Lobster Shack",
    "The Patty Shack",
    "The Tipsy Tiki Bar",
@@ -6680,6 +8093,16 @@
    "Try Harder Gym",
    "Upland Axes",
    "Waffle Home Diner"
+  ]
+ },
+ {
+  "id": "parade",
+  "name": "Parade",
+  "category": "social",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "parade-1"
   ]
  },
  {
@@ -6715,11 +8138,15 @@
    "The Upland Needle"
   ],
   "foundInPlants": [
+   "Arborvitae",
    "Birch Tree",
    "Boxwood",
    "Forsythia",
    "Magnolia Tree",
+   "Maple Tree",
    "Monstera",
+   "Oil Palm Tree",
+   "Olive Tree",
    "Pine Tree",
    "Walnut Tree",
    "Weeping Willow Tree"
@@ -6815,6 +8242,7 @@
    "Sports Courts",
    "SuperKarts Mini Raceway",
    "Tennis court",
+   "The Happy Harvest Cider House",
    "The Tipsy Tiki Bar",
    "The Totally Official Cup Flag Stand",
    "The Upland Rodeo",
@@ -6864,6 +8292,27 @@
   ]
  },
  {
+  "id": "pharaoh-mask",
+  "name": "Pharaoh Mask",
+  "category": "valuables",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "pharaoh-mask-1"
+  ]
+ },
+ {
+  "id": "phone",
+  "name": "Phone",
+  "category": "utility",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Dunder Office Supplies"
+  ]
+ },
+ {
   "id": "photograph",
   "name": "Photograph",
   "category": "valuables",
@@ -6897,6 +8346,7 @@
    "Library",
    "Live Jams Stage",
    "Live Theater",
+   "Madame Moon's Fortune Telling",
    "Mainstreet Modular Apartments: Bookstore Edition",
    "Mainstreet Modular Apartments: Pawn Shop Edition",
    "Movie Theatre",
@@ -6913,6 +8363,7 @@
    "Regional Police Station",
    "Seattle Music Venue Service Structure",
    "Small Office",
+   "Sparklet Refinery",
    "Starlite Precinct",
    "Tattoo Studio",
    "The Moonbeam Bookstore",
@@ -6926,7 +8377,16 @@
    "Upland Junior High"
   ],
   "foundInPlants": [],
-  "recipeIds": []
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Antique Store",
+   "Art Gallery",
+   "Art Museum",
+   "Basketball court",
+   "Beach Pavilion",
+   "Bowling",
+   "Dunder Office Supplies"
+  ]
  },
  {
   "id": "picnic",
@@ -6956,13 +8416,19 @@
   "category": "social",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "pinky-promise-1",
+   "pinky-promise-2"
+  ],
   "craftBonusAt": [
    "Arcade",
+   "Bakery",
+   "Barbershop",
    "Block & Beans Coffee",
    "Blockade Arcade",
    "Candy shop",
    "Cinnaboom",
+   "Coffee Shop",
    "Cornerstone Barbershop",
    "Dairy King Ice Cream",
    "Dreamspace VR",
@@ -6976,6 +8442,7 @@
    "Ice cream Parlor",
    "Large Office",
    "Mainstreet Modular Apartments: Arcade Edition",
+   "Mainstreet Modular Apartments: Cafe Edition building",
    "Massage Parlor",
    "Nail Salon",
    "Neon Glide Roller Rink",
@@ -6984,6 +8451,7 @@
    "Pet Shop",
    "Pixel Pulse Arcade",
    "Regal Roots Salon",
+   "Small Office",
    "Swiggly Soda Shop",
    "SynthTag Laser Tag",
    "Tattoo Studio",
@@ -7001,9 +8469,12 @@
   "category": "resources",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "pizza-slice-1"
+  ],
   "craftBonusAt": [
    "Asian Modular Apartments: Hawker Centre Edition",
+   "Bodega",
    "Cape Town Modular: Padstal Edition",
    "Cinnamon Bun Stand",
    "Coney Island Franks",
@@ -7015,6 +8486,7 @@
    "Kentucky Fried Kiosk",
    "Kiosk - Donuts",
    "Kiosk - Fried Chicken",
+   "Kiosk - Hot Dog",
    "Kiosk - Pizza",
    "Main Squeeze Lemonade",
    "Mile’s Popcorn",
@@ -7028,6 +8500,7 @@
    "Singapore Kopitiam",
    "Small Farmers Market",
    "South America Modular Apartments: Almacén Edition",
+   "Supermarket",
    "Supermarket Super Store",
    "Takasaki Retro Googie Farmers Market",
    "The Crepe Escape",
@@ -7035,7 +8508,18 @@
    "The Crispy Empanada Kiosk",
    "The Crooked Cod",
    "The Salty Twist Pretzel Stand",
-   "The Slice Station"
+   "The Slice Station",
+   "The Twisted Pretzel"
+  ]
+ },
+ {
+  "id": "plasma-cutter",
+  "name": "Plasma Cutter",
+  "category": "utility",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "plasma-cutter-1"
   ]
  },
  {
@@ -7053,6 +8537,7 @@
    "Library",
    "Live Jams Stage",
    "Live Theater",
+   "Madame Moon's Fortune Telling",
    "Mainstreet Modular Apartments: Bookstore Edition",
    "Movie Theatre",
    "Newspaper Stand",
@@ -7110,10 +8595,13 @@
    "Starlite Precinct"
   ],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "police-badge-1"
+  ],
   "craftBonusAt": [
    "Atomic Auto Service",
    "Auto Repair",
+   "Neighborhood Police Station",
    "Police Detention center",
    "Police Headquarters",
    "Regional Police Station",
@@ -7138,6 +8626,7 @@
    "East Coast Modular Apartments: Nail Salon",
    "East Coast Modular Apartments: Pharmacy",
    "East Coast Modular Apartments: Tattoo studio Edition",
+   "Grimwood Apothecary",
    "Hospital",
    "Large Court house",
    "Massage Parlor",
@@ -7150,6 +8639,7 @@
    "Regal Roots Salon",
    "Regional Hospital",
    "Skyline Medical Center",
+   "Sparklet Refinery",
    "Tattoo Studio",
    "The Corner Drugstore",
    "The Golden Vault Bank",
@@ -7159,6 +8649,7 @@
    "Veterinary Clinic"
   ],
   "foundInPlants": [
+   "Arborvitae",
    "Boxwood",
    "Forsythia",
    "Monstera"
@@ -7227,6 +8718,7 @@
    "Newspaper Stand",
    "Post Office",
    "Post Office Distribution Center",
+   "Sparklet Refinery",
    "The Skyline Courthouse",
    "Welcome Point Travel Center"
   ],
@@ -7277,6 +8769,8 @@
    "Post Office",
    "Post Office Distribution Center",
    "Small Office",
+   "Sparklet Refinery",
+   "The Grimwood Hotel",
    "The Lucky Star Hotel",
    "The Moonbeam Bookstore",
    "The Rocket Cup Cafe",
@@ -7332,13 +8826,18 @@
   "category": "care",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "potluck-1"
+  ],
   "craftBonusAt": [
    "Asian Modular Apartments: Hawker Centre Edition",
    "Beachside Taco's",
    "Big Fish Balls",
+   "Bodega",
+   "Casual Dining Restaurant",
    "Cinnamon Bun Stand",
    "Coffee Stand",
+   "Community Center",
    "Coney Island Franks",
    "Crêpe Stand",
    "Deep Fillings Empanadas",
@@ -7358,6 +8857,7 @@
    "Kiosk - Fried Chicken",
    "Kiosk - Gelato",
    "Kiosk - Hamburger",
+   "Kiosk - Hot Dog",
    "Kiosk - Pizza",
    "Kiosk - Sushi",
    "Kiosk - Taco",
@@ -7383,6 +8883,7 @@
    "South America Modular Apartments: Almacén Edition",
    "South America Modular Apartments: Rodizio Edition",
    "Steakhouse",
+   "Supermarket",
    "Supermarket Super Store",
    "Taco Stand",
    "Tandoor House",
@@ -7396,6 +8897,7 @@
    "The Patty Shack",
    "The Salty Twist Pretzel Stand",
    "The Slice Station",
+   "The Twisted Pretzel",
    "Thee Olde Spaghetti Factory",
    "Waffle Home Diner"
   ]
@@ -7450,6 +8952,35 @@
   ]
  },
  {
+  "id": "punchline",
+  "name": "Punchline",
+  "category": "social",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "punchline-1"
+  ],
+  "craftBonusAt": [
+   "Brewery"
+  ]
+ },
+ {
+  "id": "pure-joy",
+  "name": "Pure Joy",
+  "category": "social",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Bakery",
+   "Candy shop",
+   "Cinnaboom",
+   "Dairy King Ice Cream",
+   "Day Care Center",
+   "East Coast Modular Apartments: Bakery Edition"
+  ]
+ },
+ {
   "id": "quartz",
   "name": "Quartz",
   "category": "resources",
@@ -7499,6 +9030,16 @@
   ]
  },
  {
+  "id": "radio",
+  "name": "Radio",
+  "category": "utility",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "radio-1"
+  ]
+ },
+ {
   "id": "radish",
   "name": "Radish",
   "category": "resources",
@@ -7531,6 +9072,7 @@
    "Live Jams Stage",
    "Live Theater",
    "Local Brewery",
+   "Madame Moon's Fortune Telling",
    "Mainstreet Modular Apartments: Arcade Edition",
    "Mainstreet Modular Apartments: Pub Edition building",
    "Movie Theatre",
@@ -7541,6 +9083,7 @@
    "Seattle Music Venue Service Structure",
    "South America Modular Apartments: Two Can Tango Bar Edition",
    "The Atomic Arcade",
+   "The Happy Harvest Cider House",
    "The Starline Theater",
    "The Tipsy Tiki Bar",
    "Theater"
@@ -7555,14 +9098,19 @@
   "foundInStructures": [],
   "foundInPlants": [
    "Apple Tree",
+   "Arborvitae",
    "Avocado Tree",
    "Birch Tree",
    "Blueberry",
    "Boxwood",
    "Forsythia",
+   "Lawn Grass",
    "Lemon Tree",
    "Magnolia Tree",
+   "Maple Tree",
    "Monstera",
+   "Oil Palm Tree",
+   "Olive Tree",
    "Pine Tree",
    "Sod Grass 2x2",
    "Sod Grass 4x4",
@@ -7580,11 +9128,16 @@
   "category": "resources",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "ramen-bowl-1",
+   "ramen-bowl-2"
+  ],
   "craftBonusAt": [
+   "Bodega",
    "East Coast Modular Apartments: Fast Food Restaurant",
    "East Coast Modular Apartments: Little Havana Grill Edition",
    "El Plate-o Grande",
+   "Elementary School",
    "European Modular Apartments: Restaurant Edition",
    "Fast Food Joint",
    "High School",
@@ -7600,6 +9153,7 @@
    "South America Modular Apartments: Almacén Edition",
    "South America Modular Apartments: Rodizio Edition",
    "Steakhouse",
+   "Supermarket",
    "Supermarket Super Store",
    "Tandoor House",
    "Tapas Bar",
@@ -7615,7 +9169,10 @@
   "category": "valuables",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "rare-coin-1",
+   "rare-coin-2"
+  ],
   "craftBonusAt": [
    "Arcade",
    "Blockade Arcade",
@@ -7626,6 +9183,7 @@
    "Motel",
    "Pixel Pulse Arcade",
    "The Atomic Arcade",
+   "The Grimwood Hotel",
    "The Lucky Star Hotel"
   ]
  },
@@ -7690,6 +9248,33 @@
   ]
  },
  {
+  "id": "roast",
+  "name": "Roast",
+  "category": "social",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "roast-1",
+   "roast-2"
+  ],
+  "craftBonusAt": [
+   "Casual Dining Restaurant",
+   "East Coast Modular Apartments: Fast Food Restaurant"
+  ]
+ },
+ {
+  "id": "rocket-fuel",
+  "name": "Rocket Fuel",
+  "category": "resources",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Atomic Auto Service",
+   "Auto Repair"
+  ]
+ },
+ {
   "id": "rope",
   "name": "Rope",
   "category": "utility",
@@ -7734,6 +9319,7 @@
    "Clinic",
    "East Coast Modular Apartments: Pharmacy",
    "Fine Dining Restaurant",
+   "Grimwood Apothecary",
    "Hospital",
    "Luxury Restaurant",
    "Pharmacy",
@@ -7760,6 +9346,44 @@
   "recipeIds": []
  },
  {
+  "id": "royal-orb",
+  "name": "Royal Orb",
+  "category": "valuables",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Art Gallery",
+   "Art Museum"
+  ]
+ },
+ {
+  "id": "royal-robe",
+  "name": "Royal Robe",
+  "category": "valuables",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Antique Store",
+   "Black Cat Curiosities Shop",
+   "Cobweb & Co Antiques"
+  ]
+ },
+ {
+  "id": "royal-treatment",
+  "name": "Royal Treatment",
+  "category": "social",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "royal-treatment-1"
+  ],
+  "craftBonusAt": [
+   "Casual Dining Restaurant"
+  ]
+ },
+ {
   "id": "rubber-duck",
   "name": "Rubber Duck",
   "category": "care",
@@ -7779,8 +9403,11 @@
   "category": "valuables",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "ruby-1"
+  ],
   "craftBonusAt": [
+   "Barbershop",
    "Cornerstone Barbershop",
    "East Coast Modular Apartments: Barber Shop",
    "East Coast Modular Apartments: Nail Salon",
@@ -7802,14 +9429,42 @@
   ]
  },
  {
+  "id": "safe-haven",
+  "name": "Safe Haven",
+  "category": "care",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Animal Shelter",
+   "Classic Hotel",
+   "Community Center"
+  ]
+ },
+ {
+  "id": "saffron",
+  "name": "Saffron",
+  "category": "resources",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "saffron-1"
+  ],
+  "craftBonusAt": [
+   "Bodega"
+  ]
+ },
+ {
   "id": "salami",
   "name": "Salami",
   "category": "resources",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "salami-1",
+   "salami-2"
+  ],
   "craftBonusAt": [
-   "Butcher Shop",
    "East Coast Modular Apartments: Little Havana Grill Edition",
    "European Modular Apartments: Butcher Edition",
    "European Modular Apartments: Restaurant Edition",
@@ -7821,6 +9476,7 @@
    "South America Modular Apartments: Almacén Edition",
    "South America Modular Apartments: Rodizio Edition",
    "Steakhouse",
+   "Supermarket",
    "Supermarket Super Store",
    "Tandoor House",
    "Tapas Bar",
@@ -7875,6 +9531,7 @@
    "Fish Ball Stand",
    "Fish Deli",
    "Fish Market",
+   "Grimwood Apothecary",
    "Hospital",
    "Kentucky Fried Kiosk",
    "Kiosk - Donuts",
@@ -7988,6 +9645,20 @@
   "recipeIds": []
  },
  {
+  "id": "sandalwood",
+  "name": "Sandalwood",
+  "category": "resources",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "sandalwood-1"
+  ],
+  "craftBonusAt": [
+   "Art Gallery",
+   "Art Museum"
+  ]
+ },
+ {
   "id": "sandpaper",
   "name": "Sandpaper",
   "category": "utility",
@@ -8006,6 +9677,16 @@
   ],
   "foundInPlants": [],
   "recipeIds": []
+ },
+ {
+  "id": "sapphire",
+  "name": "Sapphire",
+  "category": "valuables",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "sapphire-1"
+  ]
  },
  {
   "id": "sardine",
@@ -8073,6 +9754,7 @@
    "Large Office",
    "Live Jams Stage",
    "Live Theater",
+   "Madame Moon's Fortune Telling",
    "Massage Parlor",
    "Nail Salon",
    "Office Complex",
@@ -8087,6 +9769,18 @@
   ],
   "foundInPlants": [],
   "recipeIds": []
+ },
+ {
+  "id": "scepter",
+  "name": "Scepter",
+  "category": "valuables",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Art Gallery",
+   "Art Museum"
+  ]
  },
  {
   "id": "scissors",
@@ -8188,16 +9882,33 @@
   "foundInPlants": [],
   "recipeIds": [],
   "craftBonusAt": [
+   "Aquarium",
+   "Camp World",
    "Classic Hotel",
    "Comic Book Store",
    "European Modular Apartments: Big Ben’s Gift Shoppe",
    "Game Exchange",
    "Modern Hotel",
    "Motel",
+   "The Grimwood Hotel",
    "The Lucky Star Hotel",
    "The Totally Official Cup Flag Stand",
    "Totally Official Cup Merch Kiosk",
    "Toy Store"
+  ]
+ },
+ {
+  "id": "second-family",
+  "name": "Second Family",
+  "category": "social",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Animal Shelter",
+   "Casual Dining Restaurant",
+   "Community Center",
+   "East Coast Modular Apartments: Fast Food Restaurant"
   ]
  },
  {
@@ -8206,14 +9917,19 @@
   "category": "social",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "secret-handshake-1",
+   "secret-handshake-2"
+  ],
   "craftBonusAt": [
    "Arcade",
+   "Bakery",
    "Block & Beans Coffee",
    "Blockade Arcade",
    "Bus Stop",
    "Candy shop",
    "Cinnaboom",
+   "Coffee Shop",
    "Coffee Stand",
    "Dairy King Ice Cream",
    "Dreamspace VR",
@@ -8223,6 +9939,7 @@
    "Glazed & Confused Donuts",
    "Ice cream Parlor",
    "Mainstreet Modular Apartments: Arcade Edition",
+   "Mainstreet Modular Apartments: Cafe Edition building",
    "Neon Glide Roller Rink",
    "Pet Shop",
    "Pixel Pulse Arcade",
@@ -8244,6 +9961,17 @@
   "recipeIds": [
    "sewing-kit-1",
    "sewing-kit-2"
+  ]
+ },
+ {
+  "id": "sextant",
+  "name": "Sextant",
+  "category": "utility",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Aquarium"
   ]
  },
  {
@@ -8334,6 +10062,7 @@
    "The Twisted Pretzel"
   ],
   "foundInPlants": [
+   "Arborvitae",
    "Begonia Rex",
    "Bird Of Paradise",
    "Bougainvillea",
@@ -8344,17 +10073,26 @@
    "Lilac",
    "Monstera",
    "Orange Calla Lily",
+   "Orange Daisy",
    "Petunia",
+   "Pink Rose",
+   "Purple Tulip",
    "Purple-White Calla Lily",
    "Red Hot Poker",
+   "Red Rose",
+   "Red Tulip",
    "Sunflower",
    "Violets",
    "White Calla Lily",
-   "Yellow Calla Lily"
+   "White Rose",
+   "White Tulip",
+   "Yellow Calla Lily",
+   "Yellow Rose"
   ],
   "recipeIds": [],
   "craftBonusAt": [
    "Day Care Center",
+   "Elementary School",
    "High School",
    "Large Day care",
    "Upland Junior High"
@@ -8369,6 +10107,16 @@
   "recipeIds": [
    "side-eye-1",
    "side-eye-2"
+  ]
+ },
+ {
+  "id": "signed-jersey",
+  "name": "Signed Jersey",
+  "category": "valuables",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "signed-jersey-1"
   ]
  },
  {
@@ -8410,6 +10158,7 @@
    "Mainstreet Modular Apartments: Pawn Shop Edition",
    "Mainstreet Modular Apartments: Pub Edition building",
    "Mainstreet Modular Apartments: Uppie Outfitters Edition",
+   "Mainstreet Modular: The Salty Anchor Marine Supply",
    "Mall of Upland",
    "Mother Cluckers Chicken",
    "Neighborhood Market",
@@ -8421,11 +10170,13 @@
    "QuickRinse Self-Serve Carwash",
    "South America Modular Apartments: Almacén Edition",
    "South America Modular Apartments: Two Can Tango Bar Edition",
+   "Sparklet Refinery",
    "Supermarket",
    "Supermarket Super Store",
    "The Curious Cauldron",
    "The Flickering Wick",
    "The Golden Vault Bank",
+   "The Happy Harvest Cider House",
    "The Skyline Courthouse",
    "The Starlight Senior Home",
    "The Thrift Gap",
@@ -8435,20 +10186,46 @@
   "recipeIds": []
  },
  {
+  "id": "silver-spoon",
+  "name": "Silver Spoon",
+  "category": "valuables",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "silver-spoon-1",
+   "silver-spoon-2"
+  ]
+ },
+ {
   "id": "skateboard",
   "name": "Skateboard",
   "category": "utility",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "skateboard-1"
+  ],
   "craftBonusAt": [
    "Comic Book Store",
+   "Elementary School",
    "Game Exchange",
    "High School",
    "Junior College",
    "Toy Store",
    "University",
    "Upland Junior High"
+  ]
+ },
+ {
+  "id": "skeleton-key",
+  "name": "Skeleton Key",
+  "category": "utility",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Antique Store",
+   "Classic Hotel"
   ]
  },
  {
@@ -8471,6 +10248,9 @@
   "recipeIds": [
    "sleepover-1",
    "sleepover-2"
+  ],
+  "craftBonusAt": [
+   "Day Care Center"
   ]
  },
  {
@@ -8494,21 +10274,28 @@
   "category": "social",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "snappy-comeback-1"
+  ],
   "craftBonusAt": [
+   "Arcade",
    "Asian Modular Apartments: Hawker Centre Edition",
    "Beachside Taco's",
    "Big Fish Balls",
    "Block & Beans Coffee",
+   "Blockade Arcade",
+   "Bodega",
    "Brewery",
-   "Bus Stop",
    "Cinnamon Bun Stand",
+   "Coffee Shop",
    "Coffee Stand",
+   "Comedy Club",
    "Coney Island Franks",
    "Crêpe Stand",
    "Deep Fillings Empanadas",
    "Department store",
    "Dollar Store",
+   "Dreamspace VR",
    "Empanada Stand",
    "Fish Ball Stand",
    "French Cafe",
@@ -8517,33 +10304,39 @@
    "Kiosk - Fried Chicken",
    "Kiosk - Gelato",
    "Kiosk - Hamburger",
+   "Kiosk - Hot Dog",
    "Kiosk - Pizza",
    "Kiosk - Sushi",
    "Kiosk - Taco",
    "Local Brewery",
    "Main Squeeze Lemonade",
+   "Mainstreet Modular Apartments: Cafe Edition building",
    "Mainstreet Modular Apartments: Pub Edition building",
    "Mile’s Popcorn",
    "Nathan’s Infamous Hot Dog Stand",
    "Neighborhood Market",
    "Old Crow Farm Market",
+   "Pub",
    "Salem Shawarma Kiosk",
    "Sausage Stand",
    "Shawarma Street Co.",
    "Singapore Kopitiam",
    "South America Modular Apartments: Almacén Edition",
    "South America Modular Apartments: Two Can Tango Bar Edition",
+   "Supermarket",
    "Supermarket Super Store",
    "Taco Stand",
    "The Crepe Escape",
    "The Crispy Crust Pizza",
    "The Crispy Empanada Kiosk",
    "The Crooked Cod",
+   "The Happy Harvest Cider House",
    "The Rocket Cup Cafe",
    "The Salty Twist Pretzel Stand",
    "The Slice Station",
    "The Tipsy Teapot Cafe",
-   "The Tipsy Tiki Bar"
+   "The Tipsy Tiki Bar",
+   "The Twisted Pretzel"
   ]
  },
  {
@@ -8583,13 +10376,21 @@
    "Lavender",
    "Lilac",
    "Orange Calla Lily",
+   "Orange Daisy",
    "Petunia",
+   "Pink Rose",
+   "Purple Tulip",
    "Purple-White Calla Lily",
    "Red Hot Poker",
+   "Red Rose",
+   "Red Tulip",
    "Sunflower",
    "Violets",
    "White Calla Lily",
-   "Yellow Calla Lily"
+   "White Rose",
+   "White Tulip",
+   "Yellow Calla Lily",
+   "Yellow Rose"
   ],
   "recipeIds": []
  },
@@ -8599,11 +10400,15 @@
   "category": "utility",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "soldering-iron-1"
+  ],
   "craftBonusAt": [
    "Brewery",
    "East Coast Modular Apartments: Mobile Phone Store",
    "Electronic Store",
+   "Elementary School",
+   "Fire Station",
    "Fire Station Headquarters",
    "Hardware Store",
    "High School",
@@ -8611,13 +10416,40 @@
    "Large Electronic store",
    "Local Brewery",
    "Mainstreet Modular Apartments: Pub Edition building",
+   "Pub",
    "Science Museum",
    "South America Modular Apartments: Two Can Tango Bar Edition",
    "The Atomic Firehouse",
+   "The Happy Harvest Cider House",
    "The Tipsy Tiki Bar",
    "UPhone Store",
    "University",
    "Upland Junior High"
+  ]
+ },
+ {
+  "id": "solemn-vow",
+  "name": "Solemn Vow",
+  "category": "social",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Community Center",
+   "Court House"
+  ]
+ },
+ {
+  "id": "soulmate",
+  "name": "Soulmate",
+  "category": "social",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Assisted Living Center",
+   "Block & Beans Coffee",
+   "Coffee Shop"
   ]
  },
  {
@@ -8637,7 +10469,10 @@
   "category": "social",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "special-guest-1",
+   "special-guest-2"
+  ],
   "craftBonusAt": [
    "Animal Shelter",
    "Bus Stop",
@@ -8646,7 +10481,22 @@
    "Large Office",
    "Office Complex",
    "Office Tower",
+   "Small Office",
    "Welcome Point Travel Center"
+  ]
+ },
+ {
+  "id": "spell-book",
+  "name": "Spell Book",
+  "category": "valuables",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "spell-book-1"
+  ],
+  "craftBonusAt": [
+   "Assisted Living Center",
+   "Bookstore"
   ]
  },
  {
@@ -8655,13 +10505,17 @@
   "category": "social",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "squad-1"
+  ],
   "craftBonusAt": [
+   "Elementary School",
    "High School",
    "Junior College",
    "Large Office",
    "Office Complex",
    "Office Tower",
+   "Small Office",
    "University",
    "Upland Junior High"
   ]
@@ -8683,11 +10537,11 @@
   "category": "social",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "stadium-wave-1"
+  ],
   "craftBonusAt": [
    "Basketball court",
-   "Beach Pavilion",
-   "Bowling",
    "Community Center",
    "Exclusive Hockey Store Service Structure",
    "Gym",
@@ -8719,19 +10573,33 @@
   ]
  },
  {
+  "id": "stamp-collection",
+  "name": "Stamp Collection",
+  "category": "valuables",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Barn & Nobles",
+   "Bookstore"
+  ]
+ },
+ {
   "id": "standing-ovation",
   "name": "Standing Ovation",
   "category": "social",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "standing-ovation-1",
+   "standing-ovation-2",
+   "standing-ovation-3"
+  ],
   "craftBonusAt": [
-   "Basketball court",
-   "Beach Pavilion",
-   "Bowling",
-   "Brewery",
+   "Antique Store",
    "Club Mirage Night Club",
    "Day Care Center",
+   "Elementary School",
    "European Modular Apartments: Sports Bar",
    "Exclusive Hockey Store Service Structure",
    "Gym",
@@ -8751,6 +10619,7 @@
    "Pickle Ball Courts",
    "Pool Hall",
    "Private Swim Club",
+   "Pub",
    "Public Pool",
    "Set Point Beach Club",
    "Soccer Field",
@@ -8759,6 +10628,7 @@
    "Sports Courts",
    "SuperKarts Mini Raceway",
    "Tennis court",
+   "The Happy Harvest Cider House",
    "The Tipsy Tiki Bar",
    "The Totally Official Cup Flag Stand",
    "The Upland Y Rec Center",
@@ -8780,6 +10650,31 @@
   "recipeIds": [
    "steady-nerves-1",
    "steady-nerves-2"
+  ]
+ },
+ {
+  "id": "steel-wire",
+  "name": "Steel Wire",
+  "category": "resources",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Atomic Auto Service",
+   "Auto Repair"
+  ]
+ },
+ {
+  "id": "stethoscope",
+  "name": "Stethoscope",
+  "category": "care",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "stethoscope-1"
+  ],
+  "craftBonusAt": [
+   "Clinic"
   ]
  },
  {
@@ -8819,6 +10714,17 @@
   "recipeIds": [
    "stopwatch-1",
    "stopwatch-2"
+  ]
+ },
+ {
+  "id": "storm-relief",
+  "name": "Storm Relief",
+  "category": "care",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Community Center"
   ]
  },
  {
@@ -8874,12 +10780,14 @@
   "foundInPlants": [],
   "recipeIds": [],
   "craftBonusAt": [
+   "Bodega",
    "Department store",
    "Dollar Store",
    "Fresh Pick Fruit Stand",
    "Neighborhood Market",
    "Old Crow Farm Market",
    "South America Modular Apartments: Almacén Edition",
+   "Supermarket",
    "Supermarket Super Store"
   ]
  },
@@ -8889,11 +10797,15 @@
   "category": "valuables",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "strongbox-1",
+   "strongbox-2"
+  ],
   "craftBonusAt": [
    "Classic Hotel",
    "Modern Hotel",
    "Motel",
+   "The Grimwood Hotel",
    "The Lucky Star Hotel"
   ]
  },
@@ -8903,8 +10815,11 @@
   "category": "resources",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "sturgeon-1"
+  ],
   "craftBonusAt": [
+   "Bodega",
    "East Coast Modular Apartments: Little Havana Grill Edition",
    "European Modular Apartments: Restaurant Edition",
    "Fine Dining Restaurant",
@@ -8918,6 +10833,7 @@
    "Nomi Sushi Bar",
    "Old Crow Farm Market",
    "South America Modular Apartments: Almacén Edition",
+   "Supermarket",
    "Supermarket Super Store",
    "The Lobster Shack"
   ]
@@ -8931,6 +10847,32 @@
   "recipeIds": [
    "sugar-beet-1",
    "sugar-beet-2"
+  ]
+ },
+ {
+  "id": "sugar-cane",
+  "name": "Sugar Cane",
+  "category": "resources",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "sugar-cane-1"
+  ],
+  "craftBonusAt": [
+   "Bodega"
+  ]
+ },
+ {
+  "id": "sunday-dinner",
+  "name": "Sunday Dinner",
+  "category": "care",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Bodega",
+   "Casual Dining Restaurant",
+   "East Coast Modular Apartments: Fast Food Restaurant"
   ]
  },
  {
@@ -8979,6 +10921,7 @@
    "Main Street Modular Apartments: Texas Mercantile General Store",
    "Main Street Modular Apartments: Uppany & Co. Edition",
    "Mainstreet Modular Apartments: Uppie Outfitters Edition",
+   "Mainstreet Modular: The Salty Anchor Marine Supply",
    "Mall of Upland",
    "Mile’s Popcorn",
    "Nathan’s Infamous Hot Dog Stand",
@@ -9002,6 +10945,7 @@
    "The Twisted Pretzel"
   ],
   "foundInPlants": [
+   "Arborvitae",
    "Avocado Tree",
    "Begonia Rex",
    "Birch Tree",
@@ -9010,15 +10954,24 @@
    "Boxwood",
    "Forsythia",
    "Lavender",
+   "Lawn Grass",
    "Lemon Tree",
    "Lilac",
    "Magnolia Tree",
+   "Maple Tree",
    "Monstera",
+   "Oil Palm Tree",
+   "Olive Tree",
    "Orange Calla Lily",
+   "Orange Daisy",
    "Petunia",
    "Pine Tree",
+   "Pink Rose",
+   "Purple Tulip",
    "Purple-White Calla Lily",
    "Red Hot Poker",
+   "Red Rose",
+   "Red Tulip",
    "Sod Grass 2x2",
    "Sod Grass 4x4",
    "Sunflower",
@@ -9026,16 +10979,34 @@
    "Walnut Tree",
    "Weeping Willow Tree",
    "White Calla Lily",
-   "Yellow Calla Lily"
+   "White Rose",
+   "White Tulip",
+   "Yellow Calla Lily",
+   "Yellow Rose"
   ],
   "recipeIds": [],
   "craftBonusAt": [
    "Bus Stop",
    "Comic Book Store",
+   "Elementary School",
    "Game Exchange",
    "High School",
    "Toy Store",
    "Upland Junior High"
+  ]
+ },
+ {
+  "id": "support-group",
+  "name": "Support Group",
+  "category": "care",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "support-group-1"
+  ],
+  "craftBonusAt": [
+   "Classic Hotel",
+   "Community Center"
   ]
  },
  {
@@ -9044,9 +11015,11 @@
   "category": "resources",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "sushi-roll-1",
+   "sushi-roll-2"
+  ],
   "craftBonusAt": [
-   "Big Fish Balls",
    "East Coast Modular Apartments: Little Havana Grill Edition",
    "European Modular Apartments: Restaurant Edition",
    "Fine Dining Restaurant",
@@ -9095,6 +11068,7 @@
   "foundInPlants": [],
   "recipeIds": [],
   "craftBonusAt": [
+   "Casual Dining Restaurant",
    "East Coast Modular Apartments: Fast Food Restaurant",
    "East Coast Modular Apartments: Little Havana Grill Edition",
    "El Plate-o Grande",
@@ -9128,8 +11102,12 @@
   "category": "resources",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "taco-1"
+  ],
   "craftBonusAt": [
+   "Beachside Taco's",
+   "Bodega",
    "Cape Town Modular: Padstal Edition",
    "East Coast Modular Apartments: Fast Food Restaurant",
    "East Coast Modular Apartments: Little Havana Grill Edition",
@@ -9152,6 +11130,7 @@
    "South America Modular Apartments: Almacén Edition",
    "South America Modular Apartments: Rodizio Edition",
    "Steakhouse",
+   "Supermarket",
    "Supermarket Super Store",
    "Takasaki Retro Googie Farmers Market",
    "Tandoor House",
@@ -9166,11 +11145,14 @@
   "category": "social",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "talent-show-1"
+  ],
   "craftBonusAt": [
    "Asian Modular Apartments: Hawker Centre Edition",
    "Beachside Taco's",
    "Big Fish Balls",
+   "Bodega",
    "Cinnamon Bun Stand",
    "Coffee Stand",
    "Coney Island Franks",
@@ -9185,6 +11167,7 @@
    "Kiosk - Fried Chicken",
    "Kiosk - Gelato",
    "Kiosk - Hamburger",
+   "Kiosk - Hot Dog",
    "Kiosk - Pizza",
    "Kiosk - Sushi",
    "Kiosk - Taco",
@@ -9199,6 +11182,7 @@
    "Shawarma Street Co.",
    "Singapore Kopitiam",
    "South America Modular Apartments: Almacén Edition",
+   "Supermarket",
    "Supermarket Super Store",
    "SynthTag Laser Tag",
    "Taco Stand",
@@ -9207,7 +11191,8 @@
    "The Crispy Empanada Kiosk",
    "The Crooked Cod",
    "The Salty Twist Pretzel Stand",
-   "The Slice Station"
+   "The Slice Station",
+   "The Twisted Pretzel"
   ]
  },
  {
@@ -9239,12 +11224,15 @@
    "The Tipsy Teapot Cafe"
   ],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "tea-leaf-1",
+   "tea-leaf-2"
+  ],
   "craftBonusAt": [
-   "Block & Beans Coffee",
    "Bus Stop",
    "Coffee Stand",
    "French Cafe",
+   "Mainstreet Modular Apartments: Cafe Edition building",
    "The Rocket Cup Cafe",
    "The Tipsy Teapot Cafe"
   ]
@@ -9259,12 +11247,25 @@
    "Toy Store"
   ],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "teddy-bear-1"
+  ],
   "craftBonusAt": [
    "Classic Hotel",
    "Modern Hotel",
    "Motel",
+   "The Grimwood Hotel",
    "The Lucky Star Hotel"
+  ]
+ },
+ {
+  "id": "telescope",
+  "name": "Telescope",
+  "category": "utility",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "telescope-1"
   ]
  },
  {
@@ -9273,13 +11274,16 @@
   "category": "utility",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "tennis-racket-1"
+  ],
   "craftBonusAt": [
    "Beach Feet Sandals",
    "Beach Pavilion",
    "Bike Shop",
    "Bowling",
    "Comic Book Store",
+   "Elementary School",
    "Game Exchange",
    "Gym",
    "High School",
@@ -9309,6 +11313,18 @@
    "University",
    "Upland Axes",
    "Upland Junior High"
+  ]
+ },
+ {
+  "id": "thermometer",
+  "name": "Thermometer",
+  "category": "care",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Clinic",
+   "Dentistry"
   ]
  },
  {
@@ -9345,6 +11361,7 @@
    "Live Jams Stage",
    "Live Theater",
    "Luxury Fashion Boutique",
+   "Madame Moon's Fortune Telling",
    "Main Street Modular Apartments: Fashion Boutique Store Edition",
    "Main Street Modular Apartments: Shoe Store Edition",
    "Main Street Modular Apartments: Texas Mercantile General Store",
@@ -9353,6 +11370,7 @@
    "Mainstreet Modular Apartments: Clothing Boutique",
    "Mainstreet Modular Apartments: Laundromat Edition",
    "Mainstreet Modular Apartments: Uppie Outfitters Edition",
+   "Mainstreet Modular: The Salty Anchor Marine Supply",
    "Mall of Upland",
    "Martial Arts Dojo",
    "Modern Hotel",
@@ -9373,6 +11391,7 @@
    "Tennis court",
    "The Curious Cauldron",
    "The Flickering Wick",
+   "The Grimwood Hotel",
    "The Lucky Star Hotel",
    "The Moonbeam Bookstore",
    "The Starline Theater",
@@ -9432,6 +11451,7 @@
    "Fresh Pick Fruit Stand",
    "Game Exchange",
    "Going Under Dive Shop",
+   "Grimwood Apothecary",
    "Hallow Spirit Costumes",
    "Hardware Store",
    "Hook & Tackle Bait Shop",
@@ -9450,6 +11470,7 @@
    "Mainstreet Modular Apartments: Pawn Shop Edition",
    "Mainstreet Modular Apartments: Uppie Outfitters Edition",
    "Mainstreet Modular Apartments: Zoomies Skate Shop Edition",
+   "Mainstreet Modular: The Salty Anchor Marine Supply",
    "Mall of Upland",
    "Mile's Beach Bikes",
    "Modern Hotel",
@@ -9493,6 +11514,7 @@
    "The Corner Drugstore",
    "The Curious Cauldron",
    "The Flickering Wick",
+   "The Grimwood Hotel",
    "The Lucky Star Hotel",
    "The Thrift Gap",
    "The Totally Official Cup Flag Stand",
@@ -9507,10 +11529,25 @@
   ],
   "foundInPlants": [
    "Avocado Tree",
+   "Lawn Grass",
    "Sod Grass 2x2",
    "Sod Grass 4x4"
   ],
   "recipeIds": []
+ },
+ {
+  "id": "tiara",
+  "name": "Tiara",
+  "category": "valuables",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "tiara-1"
+  ],
+  "craftBonusAt": [
+   "Black Cat Curiosities Shop",
+   "Cobweb & Co Antiques"
+  ]
  },
  {
   "id": "time-capsule",
@@ -9572,18 +11609,20 @@
   "category": "utility",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "tool-chest-1"
+  ],
   "craftBonusAt": [
    "African Crafts Market",
    "Asian Modular Apartments: Rattan Shop Edition",
-   "Atomic Auto Service",
-   "Auto Repair",
    "Beach Feet Sandals",
    "Black Cat Curiosities Shop",
    "Car Rental",
    "Cobweb & Co Antiques",
    "East Coast Modular Apartments: Yeehaw Outfitters Edition",
    "East Coast Modular: Liquor Store Edition",
+   "Elementary School",
+   "Fire Station",
    "Fire Station Headquarters",
    "Going Under Dive Shop",
    "Hardware Store",
@@ -9595,17 +11634,20 @@
    "Luxury Fashion Boutique",
    "Main Street Modular Apartments: Fashion Boutique Store Edition",
    "Main Street Modular Apartments: Shoe Store Edition",
+   "Main Street Modular Apartments: Texas Mercantile General Store",
    "Main Street Modular Apartments: Uppany & Co. Edition",
    "Main Street Modular: Pacific Northwest Trading Post Edition",
    "Mainstreet Modular Apartments: Clothing Boutique",
    "Mainstreet Modular Apartments: Farmer Supply Editions",
    "Mainstreet Modular Apartments: Uppie Outfitters Edition",
+   "Mainstreet Modular: The Salty Anchor Marine Supply",
    "Mall of Upland",
    "Office Complex",
    "Office Tower",
    "Oil Change center",
    "Olde Wonder Toys",
    "Pet Shop",
+   "Small Office",
    "Sneaker Store",
    "Taxi Depot",
    "The Atomic Firehouse",
@@ -9620,6 +11662,21 @@
   ]
  },
  {
+  "id": "treasure-chest",
+  "name": "Treasure Chest",
+  "category": "valuables",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Antique Store",
+   "Bank",
+   "Bank Headquarters",
+   "Classic Hotel",
+   "East Coast Modular Apartments: Bank Edition"
+  ]
+ },
+ {
   "id": "treasure-map",
   "name": "Treasure Map",
   "category": "valuables",
@@ -9628,6 +11685,11 @@
   "recipeIds": [
    "treasure-map-1",
    "treasure-map-2"
+  ],
+  "craftBonusAt": [
+   "Aquarium",
+   "Barn & Nobles",
+   "Bookstore"
   ]
  },
  {
@@ -9665,14 +11727,42 @@
   "recipeIds": []
  },
  {
+  "id": "true-love",
+  "name": "True Love",
+  "category": "social",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "true-love-1"
+  ],
+  "craftBonusAt": [
+   "Classic Hotel"
+  ]
+ },
+ {
+  "id": "truffle",
+  "name": "Truffle",
+  "category": "resources",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "truffle-1"
+  ],
+  "craftBonusAt": [
+   "Bodega"
+  ]
+ },
+ {
   "id": "tuna",
   "name": "Tuna",
   "category": "resources",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "tuna-1"
+  ],
   "craftBonusAt": [
-   "Big Fish Balls",
+   "Bodega",
    "Fish Ball Stand",
    "Fish Deli",
    "Fish Market",
@@ -9681,6 +11771,7 @@
    "Neighborhood Market",
    "Old Crow Farm Market",
    "South America Modular Apartments: Almacén Edition",
+   "Supermarket",
    "Supermarket Super Store"
   ]
  },
@@ -9727,6 +11818,7 @@
    "Mainstreet Modular Apartments: Bookstore Edition",
    "Mainstreet Modular Apartments: Laundromat Edition",
    "Mainstreet Modular Apartments: Uppie Outfitters Edition",
+   "Mainstreet Modular: The Salty Anchor Marine Supply",
    "Mall of Upland",
    "Newspaper Headquarters",
    "Newspaper Stand",
@@ -9761,6 +11853,21 @@
   ]
  },
  {
+  "id": "vacation",
+  "name": "Vacation",
+  "category": "social",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "vacation-1",
+   "vacation-2"
+  ],
+  "craftBonusAt": [
+   "Block & Beans Coffee",
+   "Coffee Shop"
+  ]
+ },
+ {
   "id": "varsity-jacket",
   "name": "Varsity Jacket",
   "category": "valuables",
@@ -9772,6 +11879,19 @@
   ]
  },
  {
+  "id": "violin",
+  "name": "Violin",
+  "category": "utility",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "violin-1"
+  ],
+  "craftBonusAt": [
+   "Antique Store"
+  ]
+ },
+ {
   "id": "walnut",
   "name": "Walnut",
   "category": "resources",
@@ -9779,9 +11899,12 @@
   "foundInPlants": [
    "Walnut Tree"
   ],
-  "recipeIds": [],
+  "recipeIds": [
+   "walnut-1",
+   "walnut-2"
+  ],
   "craftBonusAt": [
-   "Cape Town Modular: Padstal Edition",
+   "Bodega",
    "Farmers Market",
    "Florence Retro Googie Farmers Market",
    "Fresh Pick Fruit Stand",
@@ -9790,6 +11913,7 @@
    "Omaha Retro Googie Farmers Market",
    "Small Farmers Market",
    "South America Modular Apartments: Almacén Edition",
+   "Supermarket",
    "Supermarket Super Store",
    "Takasaki Retro Googie Farmers Market"
   ]
@@ -9840,6 +11964,7 @@
    "SynthTag Laser Tag",
    "The Atomic Arcade",
    "The Burger Stop",
+   "The Happy Harvest Cider House",
    "The Lobster Shack",
    "The Patty Shack",
    "The Rocket Cup Cafe",
@@ -9853,6 +11978,9 @@
   "foundInPlants": [
    "Birch Tree",
    "Magnolia Tree",
+   "Maple Tree",
+   "Oil Palm Tree",
+   "Olive Tree",
    "Pine Tree",
    "Walnut Tree",
    "Weeping Willow Tree"
@@ -9860,7 +11988,8 @@
   "recipeIds": [],
   "craftBonusAt": [
    "Animal Shelter",
-   "Community Center"
+   "Community Center",
+   "Dry Cleaner"
   ]
  },
  {
@@ -9871,7 +12000,45 @@
   "foundInPlants": [],
   "recipeIds": [
    "wax-seal-1",
-   "wax-seal-2"
+   "wax-seal-2",
+   "wax-seal-3"
+  ]
+ },
+ {
+  "id": "wedding",
+  "name": "Wedding",
+  "category": "social",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "wedding-1"
+  ],
+  "craftBonusAt": [
+   "Antique Store",
+   "Court House"
+  ]
+ },
+ {
+  "id": "wedding-ring",
+  "name": "Wedding Ring",
+  "category": "valuables",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "wedding-ring-1"
+  ]
+ },
+ {
+  "id": "welcome-home",
+  "name": "Welcome Home",
+  "category": "social",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Animal Shelter",
+   "Bus Stop",
+   "Community Center"
   ]
  },
  {
@@ -9892,21 +12059,25 @@
    "Modern Hotel",
    "Motel",
    "Recycling Center",
+   "The Grimwood Hotel",
    "The Lucky Star Hotel",
    "The Starlight Senior Home",
    "Welcome Point Travel Center"
   ],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "welcome-mat-1",
+   "welcome-mat-2"
+  ],
   "craftBonusAt": [
    "Animal Shelter",
    "Asian Modular Apartments: Hawker Centre Edition",
    "Beachside Taco's",
    "Big Fish Balls",
+   "Bodega",
    "Cinnamon Bun Stand",
    "Classic Hotel",
    "Coffee Stand",
-   "Community Center",
    "Coney Island Franks",
    "Crêpe Stand",
    "Deep Fillings Empanadas",
@@ -9920,6 +12091,7 @@
    "Kiosk - Fried Chicken",
    "Kiosk - Gelato",
    "Kiosk - Hamburger",
+   "Kiosk - Hot Dog",
    "Kiosk - Pizza",
    "Kiosk - Sushi",
    "Kiosk - Taco",
@@ -9936,15 +12108,18 @@
    "Shawarma Street Co.",
    "Singapore Kopitiam",
    "South America Modular Apartments: Almacén Edition",
+   "Supermarket",
    "Supermarket Super Store",
    "Taco Stand",
    "The Crepe Escape",
    "The Crispy Crust Pizza",
    "The Crispy Empanada Kiosk",
    "The Crooked Cod",
+   "The Grimwood Hotel",
    "The Lucky Star Hotel",
    "The Salty Twist Pretzel Stand",
    "The Slice Station",
+   "The Twisted Pretzel",
    "Welcome Point Travel Center"
   ]
  },
@@ -9997,6 +12172,7 @@
    "The Crispy Crust Pizza",
    "The Crispy Empanada Kiosk",
    "The Crooked Cod",
+   "The Happy Harvest Cider House",
    "The Harvest Oven",
    "The Patty Shack",
    "The Rocket Cup Cafe",
@@ -10010,6 +12186,19 @@
   ],
   "foundInPlants": [],
   "recipeIds": []
+ },
+ {
+  "id": "whole-gang",
+  "name": "Whole Gang",
+  "category": "social",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "whole-gang-1"
+  ],
+  "craftBonusAt": [
+   "Community Center"
+  ]
  },
  {
   "id": "wind-down",
@@ -10036,13 +12225,17 @@
    "Night Club",
    "Pub",
    "South America Modular Apartments: Two Can Tango Bar Edition",
+   "The Happy Harvest Cider House",
    "The Tipsy Tiki Bar"
   ],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "wine-bottle-1"
+  ],
   "craftBonusAt": [
+   "Brewery",
    "Cape Town Modular: Padstal Edition",
-   "Delicatessen shop",
+   "Casual Dining Restaurant",
    "East Coast Modular Apartments: Little Havana Grill Edition",
    "European Modular Apartments: Mantequeria Edition",
    "European Modular Apartments: Restaurant Edition",
@@ -10057,6 +12250,7 @@
    "Pizzeria",
    "Small Farmers Market",
    "South America Modular Apartments: Almacén Edition",
+   "Supermarket",
    "Supermarket Super Store",
    "Takasaki Retro Googie Farmers Market",
    "Tapas Bar",
@@ -10101,6 +12295,7 @@
    "Main Street Modular Apartments: Uppany & Co. Edition",
    "Mainstreet Modular Apartments: Cafe Edition building",
    "Mainstreet Modular Apartments: Uppie Outfitters Edition",
+   "Mainstreet Modular: The Salty Anchor Marine Supply",
    "Mall of Upland",
    "Mile’s Popcorn",
    "Nathan’s Infamous Hot Dog Stand",
@@ -10123,12 +12318,16 @@
    "The Twisted Pretzel"
   ],
   "foundInPlants": [
+   "Arborvitae",
    "Boxwood",
    "Forsythia",
    "Lemon Tree",
    "Monstera"
   ],
-  "recipeIds": []
+  "recipeIds": [],
+  "craftBonusAt": [
+   "Brewery"
+  ]
  },
  {
   "id": "wool",
@@ -10156,6 +12355,7 @@
    "East Coast Modular Apartments: Pharmacy",
    "East Coast Modular: Liquor Store Edition",
    "Going Under Dive Shop",
+   "Grimwood Apothecary",
    "Gym",
    "Hospital",
    "Ice Rink",
@@ -10170,6 +12370,7 @@
    "Mainstreet Modular Apartments: Clothing Boutique",
    "Mainstreet Modular Apartments: Laundromat Edition",
    "Mainstreet Modular Apartments: Uppie Outfitters Edition",
+   "Mainstreet Modular: The Salty Anchor Marine Supply",
    "Mall of Upland",
    "Martial Arts Dojo",
    "Massage Parlor",
@@ -10208,6 +12409,21 @@
   "recipeIds": []
  },
  {
+  "id": "world-map",
+  "name": "World Map",
+  "category": "utility",
+  "foundInStructures": [],
+  "foundInPlants": [],
+  "recipeIds": [
+   "world-map-1"
+  ],
+  "craftBonusAt": [
+   "Aquarium",
+   "Barn & Nobles",
+   "Bookstore"
+  ]
+ },
+ {
   "id": "wrench",
   "name": "Wrench",
   "category": "utility",
@@ -10224,12 +12440,13 @@
   "category": "valuables",
   "foundInStructures": [],
   "foundInPlants": [],
-  "recipeIds": [],
+  "recipeIds": [
+   "wristwatch-1",
+   "wristwatch-2"
+  ],
   "craftBonusAt": [
-   "Atomic Auto Service",
-   "Auto Repair",
    "Bike Shop",
-   "Car Rental",
+   "Casual Dining Restaurant",
    "East Coast Modular Apartments: Fast Food Restaurant",
    "East Coast Modular Apartments: Little Havana Grill Edition",
    "El Plate-o Grande",
@@ -10285,6 +12502,7 @@
    "Ultra Beauty Co"
   ],
   "foundInPlants": [
+   "Arborvitae",
    "Boxwood",
    "Forsythia",
    "Monstera"
@@ -10295,6 +12513,7 @@
    "Bookstore",
    "Hook & Tackle Bait Shop",
    "Large Library",
+   "Library",
    "Mainstreet Modular Apartments: Bookstore Edition",
    "Old Asylum",
    "The Moonbeam Bookstore"

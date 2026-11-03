@@ -19,11 +19,22 @@
    "Wool"
   ],
   "recipes": [
+   "amulet-1",
+   "antique-vase-2",
    "brooch-1",
+   "charm-bracelet-2",
+   "cotton-boll-2",
    "earring-2",
+   "ebony-log-1",
+   "flax-2",
+   "jade-dragon-1",
+   "marble-bust-2",
+   "necklace-1",
    "pendant-1",
    "rawhide-1",
-   "sheepskin-2"
+   "sandalwood-1",
+   "sheepskin-2",
+   "welcome-mat-1"
   ],
   "source": "catalog",
   "verified": false,
@@ -54,14 +65,21 @@
    "Wool"
   ],
   "recipes": [
+   "cradle-1",
    "dog-collar-1",
    "open-door-1"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
+   "Fresh Start",
+   "Homecoming",
+   "Open Arms",
+   "Safe Haven",
+   "Second Family",
    "Special Guest",
    "Warm Hug",
+   "Welcome Home",
    "Welcome Mat"
   ]
  },
@@ -88,14 +106,54 @@
    "Thumbs Up"
   ],
   "recipes": [
-   "locket-1"
+   "amber-1",
+   "amulet-1",
+   "antique-vase-2",
+   "crystal-ball-1",
+   "fire-helmet-1",
+   "gold-bar-1",
+   "gold-ring-1",
+   "hourglass-1",
+   "jade-dragon-1",
+   "locket-1",
+   "magic-lamp-1",
+   "mammoth-tusk-1",
+   "marble-bust-2",
+   "necklace-1",
+   "pharaoh-mask-1",
+   "spell-book-1",
+   "strongbox-2",
+   "wristwatch-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
+   "Aged Whiskey",
+   "Black Opal",
+   "Blue Diamond",
+   "Camera",
+   "Caviar",
+   "Chalice",
    "Charm Bracelet",
-   "Gold Ring",
-   "Heart"
+   "Cheers",
+   "Crown",
+   "Crown Jewel",
+   "Diamond",
+   "Doubloon",
+   "Ebony Log",
+   "Electric Guitar",
+   "Heart",
+   "Jubilee",
+   "Master Chisel",
+   "Meteorite",
+   "Moon Rock",
+   "Photograph",
+   "Royal Robe",
+   "Skeleton Key",
+   "Standing Ovation",
+   "Treasure Chest",
+   "Violin",
+   "Wedding"
   ]
  },
  {
@@ -134,7 +192,14 @@
    "group-selfie-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Memory Lane",
+   "Sea Shell",
+   "Sextant",
+   "Treasure Map",
+   "World Map"
+  ]
  },
  {
   "name": "Arcade",
@@ -158,6 +223,9 @@
    "Warm Hug"
   ],
   "recipes": [
+   "action-figure-2",
+   "casino-chip-1",
+   "game-console-1",
    "game-night-2",
    "gold-coin-1",
    "good-times-1",
@@ -169,13 +237,14 @@
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Action Figure",
+   "Belly Laugh",
    "Birthday Wish",
-   "Casino Chip",
+   "Cloud Nine",
    "Fist Bump",
    "Pinky Promise",
    "Rare Coin",
-   "Secret Handshake"
+   "Secret Handshake",
+   "Snappy Comeback"
   ]
  },
  {
@@ -199,16 +268,40 @@
    "Thread"
   ],
   "recipes": [
+   "antique-vase-1",
    "calipers-1",
    "chisel-set-2",
    "group-selfie-2",
-   "oil-painting-2"
+   "jade-dragon-2",
+   "marble-bust-1",
+   "oil-painting-2",
+   "opening-night-1",
+   "ruby-1",
+   "sapphire-1",
+   "violin-1",
+   "wedding-1"
   ],
   "source": "catalog+game",
   "verified": true,
   "bonusTroves": [
-   "Antique Vase",
-   "Marble Bust"
+   "Amethyst",
+   "Applause",
+   "Blue Diamond",
+   "Confetti Toss",
+   "Crystal Ball",
+   "Ebony Log",
+   "Emerald",
+   "Grail",
+   "Invisible Cloak",
+   "Jigsaw",
+   "Jubilee",
+   "Magic Lamp",
+   "Masquerade",
+   "Master Chisel",
+   "Photograph",
+   "Royal Orb",
+   "Sandalwood",
+   "Scepter"
   ]
  },
  {
@@ -232,16 +325,40 @@
    "Postcard"
   ],
   "recipes": [
+   "antique-vase-1",
    "calipers-1",
    "chisel-set-2",
    "group-selfie-2",
-   "oil-painting-2"
+   "jade-dragon-2",
+   "marble-bust-1",
+   "oil-painting-2",
+   "opening-night-1",
+   "ruby-1",
+   "sapphire-1",
+   "violin-1",
+   "wedding-1"
   ],
   "source": "catalog+game",
   "verified": true,
   "bonusTroves": [
-   "Antique Vase",
-   "Marble Bust"
+   "Amethyst",
+   "Applause",
+   "Blue Diamond",
+   "Confetti Toss",
+   "Crystal Ball",
+   "Ebony Log",
+   "Emerald",
+   "Grail",
+   "Invisible Cloak",
+   "Jigsaw",
+   "Jubilee",
+   "Magic Lamp",
+   "Masquerade",
+   "Master Chisel",
+   "Photograph",
+   "Royal Orb",
+   "Sandalwood",
+   "Scepter"
   ]
  },
  {
@@ -271,6 +388,8 @@
    "goofy-face-2",
    "picnic-2",
    "pocket-knife-1",
+   "ramen-bowl-2",
+   "sushi-roll-2",
    "umbrella-1"
   ],
   "source": "catalog",
@@ -306,14 +425,17 @@
   ],
   "recipes": [
    "electric-blanket-1",
-   "sawn-plank-2"
+   "sawn-plank-2",
+   "welcome-mat-1"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
    "Charcoal",
+   "Cradle",
    "Knitting Circle",
    "Lanolin",
+   "Lullaby",
    "Tool Chest"
   ]
  },
@@ -340,16 +462,33 @@
    "Wool"
   ],
   "recipes": [
+   "casserole-2",
    "electric-blanket-2",
+   "grail-1",
+   "grand-reunion-1",
+   "hearing-aid-1",
    "house-call-2",
-   "locket-2",
+   "knitting-circle-2",
+   "locket-3",
+   "lullaby-2",
+   "memory-lane-1",
+   "old-pal-2",
    "pill-bottle-2",
    "quilt-2",
    "scrapbook-1",
+   "silver-spoon-1",
+   "stethoscope-1",
+   "true-love-1",
    "wind-down-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Emerald",
+   "Family Doctor",
+   "Soulmate",
+   "Spell Book"
+  ]
  },
  {
   "name": "Atomic Auto Service",
@@ -378,25 +517,34 @@
    "bench-vise-2",
    "bucket-1",
    "calipers-2",
+   "charcoal-1",
    "copper-wire-2",
+   "diamond-1",
+   "gyroscope-1",
+   "ingot-1",
    "jumper-cables-1",
    "license-plate-2",
+   "moonshine-1",
+   "plasma-cutter-1",
    "pliers-2",
    "rivet-gun-2",
    "sawn-plank-1",
+   "soldering-iron-1",
    "tire-gauge-1",
    "tool-belt-2",
-   "wrench-2"
+   "tool-chest-1",
+   "wrench-2",
+   "wristwatch-1"
   ],
   "source": "catalog+game",
   "verified": true,
   "bonusTroves": [
-   "Gyroscope",
-   "Ingot",
+   "Blowtorch",
+   "Electromagnet",
    "Multitool",
    "Police Badge",
-   "Tool Chest",
-   "Wristwatch"
+   "Rocket Fuel",
+   "Steel Wire"
   ]
  },
  {
@@ -425,7 +573,9 @@
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
+   "Clean Water",
    "Come Anytime",
+   "Fresh Start",
    "Ice Cream"
   ]
  },
@@ -456,30 +606,39 @@
    "bench-vise-2",
    "bucket-1",
    "calipers-2",
+   "charcoal-1",
    "copper-wire-2",
+   "diamond-1",
+   "gyroscope-1",
+   "ingot-1",
    "jumper-cables-1",
    "license-plate-2",
+   "moonshine-1",
+   "plasma-cutter-1",
    "pliers-2",
    "rivet-gun-2",
    "sawn-plank-1",
+   "soldering-iron-1",
    "tire-gauge-1",
    "tool-belt-2",
-   "wrench-2"
+   "tool-chest-1",
+   "wrench-2",
+   "wristwatch-1"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Gyroscope",
-   "Ingot",
+   "Blowtorch",
+   "Electromagnet",
    "Multitool",
    "Police Badge",
-   "Tool Chest",
-   "Wristwatch"
+   "Rocket Fuel",
+   "Steel Wire"
   ]
  },
  {
   "name": "Bakery",
-  "group": "G056",
+  "group": "G013",
   "modelId": 15590,
   "nature": "service",
   "troves": [
@@ -502,24 +661,38 @@
    "Wheat"
   ],
   "recipes": [
-   "cheers-1",
+   "almond-1",
+   "cheers-2",
+   "cookie-1",
    "flour-2",
    "happy-tears-2",
+   "high-spirits-2",
+   "ice-cream-1",
+   "jam-jar-1",
+   "lollipop-2",
+   "maple-syrup-1",
    "new-friend-2",
-   "scissors-1"
+   "open-invitation-1",
+   "scissors-1",
+   "sugar-cane-1"
   ],
-  "source": "game-fiche",
+  "source": "catalog+game",
   "verified": true,
-  "sameTrovesAs": [
-   "East Coast Modular Apartments: Bakery Edition",
-   "The Atomic Oven Bakery",
-   "The Harvest Oven"
-  ],
-  "status": "read"
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Birthday Wish",
+   "Bread Mother",
+   "Chocolate Bar",
+   "Cloud Nine",
+   "Fist Bump",
+   "Pinky Promise",
+   "Pure Joy",
+   "Secret Handshake"
+  ]
  },
  {
   "name": "Bank",
-  "group": "G013",
+  "group": "G014",
   "modelId": 16693,
   "nature": "service",
   "troves": [
@@ -538,15 +711,29 @@
    "Silver Coin"
   ],
   "recipes": [
+   "blue-diamond-1",
+   "crown-jewel-1",
    "deadbolt-1",
-   "gold-coin-2"
+   "gold-coin-2",
+   "gold-nugget-1",
+   "gold-ring-2",
+   "pinky-promise-1",
+   "rare-coin-1",
+   "strongbox-1"
   ],
   "source": "catalog+game",
-  "verified": true
+  "verified": true,
+  "bonusTroves": [
+   "Doubloon",
+   "Fresh Start",
+   "Gold Bar",
+   "Lucky Penny",
+   "Treasure Chest"
+  ]
  },
  {
   "name": "Bank Headquarters",
-  "group": "G013",
+  "group": "G014",
   "modelId": 16899,
   "nature": "service",
   "troves": [
@@ -565,15 +752,29 @@
    "Silver Coin"
   ],
   "recipes": [
+   "blue-diamond-1",
+   "crown-jewel-1",
    "deadbolt-1",
-   "gold-coin-2"
+   "gold-coin-2",
+   "gold-nugget-1",
+   "gold-ring-2",
+   "pinky-promise-1",
+   "rare-coin-1",
+   "strongbox-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Doubloon",
+   "Fresh Start",
+   "Gold Bar",
+   "Lucky Penny",
+   "Treasure Chest"
+  ]
  },
  {
   "name": "Barbershop",
-  "group": "G044",
+  "group": "G015",
   "modelId": 15133,
   "nature": "service",
   "troves": [
@@ -595,28 +796,37 @@
   ],
   "recipes": [
    "brooch-2",
+   "charm-bracelet-1",
    "earring-1",
    "hat-tip-1",
+   "hearing-aid-2",
+   "necklace-2",
+   "royal-treatment-1",
    "running-gag-2",
    "scissors-2",
    "steady-nerves-1",
    "straight-razor-1",
+   "tiara-1",
    "tweezers-1"
   ],
-  "source": "game-fiche",
+  "source": "catalog+game",
   "verified": true,
-  "sameTrovesAs": [
-   "Cornerstone Barbershop",
-   "East Coast Modular Apartments: Barber Shop",
-   "East Coast Modular Apartments: Nail Salon",
-   "Nail Salon",
-   "Regal Roots Salon"
-  ],
-  "status": "read"
+  "bonusTroves": [
+   "Amulet",
+   "Come Anytime",
+   "Gold Ring",
+   "Good Hands",
+   "Healing Kit",
+   "Inner Peace",
+   "Moral Support",
+   "Multitool",
+   "Pinky Promise",
+   "Ruby"
+  ]
  },
  {
   "name": "Barn & Nobles",
-  "group": "G014",
+  "group": "G016",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -634,25 +844,31 @@
    "Twine"
   ],
   "recipes": [
+   "ancient-scroll-1",
    "comic-book-2",
    "quiet-hour-1",
-   "scrapbook-2"
+   "scrapbook-2",
+   "spell-book-1",
+   "teddy-bear-1"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
    "Action Figure",
-   "Ancient Scroll",
    "Bedtime Story",
    "Family Crest",
    "Game Console",
    "Lullaby",
+   "Memory Lane",
+   "Stamp Collection",
+   "Treasure Map",
+   "World Map",
    "Zen Stone"
   ]
  },
  {
   "name": "Basketball court",
-  "group": "G015",
+  "group": "G017",
   "modelId": 17048,
   "nature": "service",
   "troves": [
@@ -671,12 +887,22 @@
    "applause-1",
    "back-slap-2",
    "basketball-2",
+   "best-friend-1",
    "good-times-2",
+   "huddle-1",
    "medal-2",
+   "medallion-1",
+   "moral-support-2",
+   "packed-house-2",
    "pep-talk-2",
+   "secret-handshake-1",
+   "signed-jersey-1",
+   "squad-1",
+   "standing-ovation-2",
    "stopwatch-1",
    "trophy-cup-1",
-   "varsity-jacket-1"
+   "varsity-jacket-1",
+   "whole-gang-1"
   ],
   "source": "catalog",
   "verified": false,
@@ -684,16 +910,15 @@
    "Block Party",
    "High Five",
    "Hooray",
-   "Huddle",
-   "Medallion",
-   "Packed House",
-   "Stadium Wave",
-   "Standing Ovation"
+   "Jubilee",
+   "Laurel Wreath",
+   "Photograph",
+   "Stadium Wave"
   ]
  },
  {
   "name": "Beach Feet Sandals",
-  "group": "G016",
+  "group": "G018",
   "modelId": 19003,
   "nature": "service",
   "troves": [
@@ -729,7 +954,7 @@
  },
  {
   "name": "Beach Pavilion",
-  "group": "G017",
+  "group": "G019",
   "modelId": 19724,
   "nature": "service",
   "troves": [
@@ -752,35 +977,47 @@
   "recipes": [
    "applause-1",
    "back-slap-2",
+   "best-friend-1",
+   "block-party-1",
    "fresh-air-1",
    "frisbee-2",
    "good-times-2",
+   "healing-kit-1",
+   "huddle-1",
    "medal-2",
+   "medallion-1",
    "megaphone-2",
+   "moral-support-2",
+   "packed-house-2",
+   "parade-1",
    "pep-talk-2",
+   "secret-handshake-1",
+   "signed-jersey-1",
+   "squad-1",
+   "stadium-wave-1",
+   "standing-ovation-2",
    "stopwatch-1",
    "trophy-cup-1",
-   "varsity-jacket-1"
+   "varsity-jacket-1",
+   "whole-gang-1"
   ],
   "source": "catalog+game",
   "verified": true,
   "bonusTroves": [
-   "Block Party",
    "Come Anytime",
+   "Crowd Pleaser",
    "High Five",
    "Hooray",
-   "Huddle",
-   "Medallion",
+   "Jubilee",
+   "Laurel Wreath",
    "Microphone",
-   "Packed House",
-   "Stadium Wave",
-   "Standing Ovation",
+   "Photograph",
    "Tennis Racket"
   ]
  },
  {
   "name": "Beachside Taco's",
-  "group": "G018",
+  "group": "G020",
   "modelId": 19485,
   "nature": "service",
   "troves": [
@@ -800,6 +1037,7 @@
   "recipes": [
    "belly-laugh-2",
    "bucket-2",
+   "chili-powder-1",
    "good-times-1",
    "goofy-face-2",
    "picnic-2",
@@ -814,13 +1052,14 @@
    "Multitool",
    "Potluck",
    "Snappy Comeback",
+   "Taco",
    "Talent Show",
    "Welcome Mat"
   ]
  },
  {
   "name": "Beyond the Bath",
-  "group": "G019",
+  "group": "G021",
   "modelId": 17954,
   "nature": "service",
   "troves": [
@@ -855,7 +1094,7 @@
  },
  {
   "name": "Big Fish Balls",
-  "group": "G020",
+  "group": "G022",
   "modelId": 18570,
   "nature": "service",
   "troves": [
@@ -881,6 +1120,8 @@
    "picnic-2",
    "pocket-knife-1",
    "squid-1",
+   "sushi-roll-2",
+   "tuna-1",
    "umbrella-1"
   ],
   "source": "catalog",
@@ -891,15 +1132,13 @@
    "Multitool",
    "Potluck",
    "Snappy Comeback",
-   "Sushi Roll",
    "Talent Show",
-   "Tuna",
    "Welcome Mat"
   ]
  },
  {
   "name": "Bike Shop",
-  "group": "G021",
+  "group": "G023",
   "modelId": 16917,
   "nature": "service",
   "troves": [
@@ -916,9 +1155,11 @@
    "Thumbs Up"
   ],
   "recipes": [
+   "compass-1",
    "day-off-2",
    "flashlight-1",
    "fresh-air-1",
+   "multitool-1",
    "tire-gauge-1",
    "wrench-1"
   ],
@@ -926,17 +1167,15 @@
   "verified": false,
   "bonusTroves": [
    "Come Anytime",
-   "Compass",
    "Ice Cream",
    "Lucky Penny",
-   "Multitool",
    "Tennis Racket",
    "Wristwatch"
   ]
  },
  {
   "name": "Black Cat Curiosities Shop",
-  "group": "G022",
+  "group": "G024",
   "modelId": 20709,
   "nature": "service",
   "troves": [
@@ -957,39 +1196,54 @@
    "Wool"
   ],
   "recipes": [
+   "amulet-1",
+   "antique-vase-2",
    "brooch-1",
    "bubble-bath-1",
+   "charm-bracelet-2",
+   "cotton-boll-2",
    "earring-2",
+   "ebony-log-1",
    "electric-blanket-1",
    "flashlight-1",
+   "flax-2",
    "harmonica-2",
    "locket-1",
    "lotus-2",
    "mud-mask-1",
+   "necklace-1",
    "pendant-1",
    "pocket-knife-2",
    "rawhide-1",
+   "sandalwood-1",
    "sheepskin-2",
-   "straight-razor-2"
+   "straight-razor-2",
+   "welcome-mat-1",
+   "wristwatch-2"
   ],
   "source": "catalog+game",
   "verified": true,
   "bonusTroves": [
-   "Charm Bracelet",
+   "Baby Monitor",
    "Compass",
+   "Cradle",
+   "Crown Jewel",
    "Gold Ring",
    "Heart",
    "Horn",
    "Knitting Circle",
    "Lanolin",
    "Lucky Penny",
+   "Lullaby",
    "Multitool",
+   "Royal Robe",
+   "Tiara",
    "Tool Chest"
   ]
  },
  {
   "name": "Block & Beans Coffee",
-  "group": "G023",
+  "group": "G025",
   "modelId": 20228,
   "nature": "service",
   "troves": [
@@ -1010,40 +1264,51 @@
    "Wink"
   ],
   "recipes": [
+   "baguette-loaf-1",
    "belly-laugh-1",
+   "cacao-pod-1",
    "check-in-2",
-   "cheers-2",
+   "cheers-3",
    "cheese-wheel-1",
+   "chocolate-bar-1",
    "day-off-2",
    "game-night-1",
-   "get-well-1",
+   "get-well-2",
+   "ginger-1",
+   "headphones-1",
    "hello-again-2",
    "herbal-tea-1",
    "inside-joke-2",
-   "jam-jar-2",
+   "jam-jar-3",
+   "locket-2",
+   "old-pal-1",
    "snuggle-1",
+   "tea-leaf-2",
    "wind-down-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Baguette Loaf",
    "Best Friend",
    "Birthday Wish",
    "Block Party",
    "Chicken Soup",
    "Come Anytime",
    "Cookie",
+   "Favorite Person",
+   "Food Drive",
    "Game Console",
-   "Ginger",
    "Ice Cream",
    "Lullaby",
    "Maple Syrup",
    "Moral Support",
+   "Open Arms",
+   "Open Invitation",
    "Pinky Promise",
    "Secret Handshake",
    "Snappy Comeback",
-   "Tea Leaf"
+   "Soulmate",
+   "Vacation"
   ]
  },
  {
@@ -1068,6 +1333,9 @@
    "Warm Hug"
   ],
   "recipes": [
+   "action-figure-2",
+   "casino-chip-1",
+   "game-console-1",
    "game-night-2",
    "gold-coin-1",
    "good-times-1",
@@ -1079,18 +1347,19 @@
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Action Figure",
+   "Belly Laugh",
    "Birthday Wish",
-   "Casino Chip",
+   "Cloud Nine",
    "Fist Bump",
    "Pinky Promise",
    "Rare Coin",
-   "Secret Handshake"
+   "Secret Handshake",
+   "Snappy Comeback"
   ]
  },
  {
   "name": "Bodega",
-  "group": "G110",
+  "group": "G026",
   "modelId": 16146,
   "nature": "service",
   "troves": [
@@ -1113,50 +1382,82 @@
    "Thumbs Up"
   ],
   "recipes": [
+   "almond-2",
+   "asparagus-1",
    "avocado-1",
    "beef-2",
    "bell-pepper-1",
-   "bouquet-1",
+   "bouquet-2",
    "bucket-2",
    "care-package-1",
    "catfish-2",
    "cheese-wheel-2",
+   "chicken-soup-1",
    "chickpea-1",
-   "chili-powder-2",
+   "chili-powder-3",
    "cod-2",
    "crab-1",
    "cranberry-1",
    "cucumber-1",
+   "food-drive-1",
+   "fruit-basket-1",
+   "ginger-1",
    "goofy-face-2",
    "grape-1",
    "home-cooking-1",
-   "jam-jar-1",
+   "jam-jar-2",
    "lamb-1",
    "lemon-1",
    "lentil-1",
+   "maple-syrup-2",
    "olive-1",
-   "oyster-1",
+   "olive-oil-1",
+   "oyster-2",
    "picnic-1",
    "pumpkin-1",
+   "rare-coin-2",
+   "roast-1",
+   "salami-2",
    "salmon-2",
    "scissors-1",
    "soybean-1",
    "squid-2",
-   "tomato-1"
+   "tea-leaf-1",
+   "tomato-1",
+   "wine-bottle-1"
   ],
-  "source": "game-fiche",
+  "source": "catalog+game",
   "verified": true,
-  "sameTrovesAs": [
-   "Neighborhood Market",
-   "Old Crow Farm Market",
-   "South America Modular Apartments: Almacén Edition",
-   "Supermarket Super Store"
-  ],
-  "status": "read"
+  "bonusTroves": [
+   "Air Kiss",
+   "Baguette Loaf",
+   "Burger",
+   "Cacao Pod",
+   "Chocolate Bar",
+   "Healing Kit",
+   "Lobster",
+   "Lollipop",
+   "Milk Pail",
+   "Pizza Slice",
+   "Potluck",
+   "Ramen Bowl",
+   "Saffron",
+   "Snappy Comeback",
+   "Strawberry",
+   "Sturgeon",
+   "Sugar Cane",
+   "Sunday Dinner",
+   "Taco",
+   "Talent Show",
+   "Truffle",
+   "Tuna",
+   "Walnut",
+   "Welcome Mat"
+  ]
  },
  {
   "name": "Bookstore",
-  "group": "G024",
+  "group": "G027",
   "modelId": 16378,
   "nature": "service",
   "troves": [
@@ -1177,25 +1478,32 @@
    "Twine"
   ],
   "recipes": [
+   "ancient-scroll-1",
    "comic-book-2",
+   "inner-peace-1",
    "quiet-hour-1",
-   "scrapbook-2"
+   "scrapbook-2",
+   "teddy-bear-1"
   ],
   "source": "catalog+game",
   "verified": true,
   "bonusTroves": [
    "Action Figure",
-   "Ancient Scroll",
    "Bedtime Story",
    "Family Crest",
    "Game Console",
    "Lullaby",
+   "Memory Lane",
+   "Spell Book",
+   "Stamp Collection",
+   "Treasure Map",
+   "World Map",
    "Zen Stone"
   ]
  },
  {
   "name": "Bowling",
-  "group": "G017",
+  "group": "G019",
   "modelId": 15592,
   "nature": "service",
   "troves": [
@@ -1218,35 +1526,47 @@
   "recipes": [
    "applause-1",
    "back-slap-2",
+   "best-friend-1",
+   "block-party-1",
    "fresh-air-1",
    "frisbee-2",
    "good-times-2",
+   "healing-kit-1",
+   "huddle-1",
    "medal-2",
+   "medallion-1",
    "megaphone-2",
+   "moral-support-2",
+   "packed-house-2",
+   "parade-1",
    "pep-talk-2",
+   "secret-handshake-1",
+   "signed-jersey-1",
+   "squad-1",
+   "stadium-wave-1",
+   "standing-ovation-2",
    "stopwatch-1",
    "trophy-cup-1",
-   "varsity-jacket-1"
+   "varsity-jacket-1",
+   "whole-gang-1"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Block Party",
    "Come Anytime",
+   "Crowd Pleaser",
    "High Five",
    "Hooray",
-   "Huddle",
-   "Medallion",
+   "Jubilee",
+   "Laurel Wreath",
    "Microphone",
-   "Packed House",
-   "Stadium Wave",
-   "Standing Ovation",
+   "Photograph",
    "Tennis Racket"
   ]
  },
  {
   "name": "Brewery",
-  "group": "G025",
+  "group": "G028",
   "modelId": 16356,
   "nature": "service",
   "troves": [
@@ -1268,26 +1588,45 @@
   ],
   "recipes": [
    "back-slap-1",
+   "burger-1",
+   "casino-chip-2",
+   "chalice-1",
+   "cheers-1",
    "circuit-breaker-2",
    "dance-move-2",
+   "encore-1",
    "grape-2",
    "mic-drop-2",
-   "running-gag-1"
+   "radio-1",
+   "roast-2",
+   "running-gag-1",
+   "secret-handshake-2",
+   "standing-ovation-3",
+   "talent-show-1"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
+   "Aged Whiskey",
+   "Champagne",
+   "Confetti Toss",
+   "Dice",
+   "Electric Guitar",
+   "Hooray",
    "Huddle",
    "Microphone",
+   "Moonshine",
    "Packed House",
+   "Punchline",
    "Snappy Comeback",
    "Soldering Iron",
-   "Standing Ovation"
+   "Wine Bottle",
+   "Wink"
   ]
  },
  {
   "name": "Build-A-Bowl Workshop",
-  "group": "G026",
+  "group": "G029",
   "modelId": 17679,
   "nature": "service",
   "troves": [
@@ -1304,15 +1643,18 @@
    "Sand"
   ],
   "recipes": [
+   "antique-vase-1",
    "calipers-1",
    "chisel-set-2",
-   "group-selfie-2"
+   "group-selfie-2",
+   "jade-dragon-2",
+   "marble-bust-1"
   ],
   "source": "catalog+game",
   "verified": true,
   "bonusTroves": [
-   "Antique Vase",
-   "Marble Bust"
+   "Applause",
+   "Master Chisel"
   ]
  },
  {
@@ -1328,7 +1670,7 @@
  },
  {
   "name": "Bus Stop",
-  "group": "G027",
+  "group": "G030",
   "modelId": 16131,
   "nature": "service",
   "troves": [
@@ -1347,7 +1689,9 @@
    "Wink"
   ],
   "recipes": [
+   "compass-1",
    "embrace-1",
+   "favorite-person-1",
    "goofy-face-1",
    "hat-tip-2",
    "kiwifruit-1",
@@ -1356,28 +1700,34 @@
    "passion-fruit-1",
    "pendant-2",
    "side-eye-2",
+   "snappy-comeback-1",
    "sugar-beet-2",
    "treasure-map-2",
-   "umbrella-2"
+   "umbrella-2",
+   "vacation-2",
+   "walnut-1",
+   "world-map-1"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
    "Amulet",
    "Ginger",
+   "Homecoming",
    "Lollipop",
+   "Lucky Penny",
    "Maple Syrup",
    "Necklace",
    "Secret Handshake",
-   "Snappy Comeback",
    "Special Guest",
    "Sunlight",
-   "Tea Leaf"
+   "Tea Leaf",
+   "Welcome Home"
   ]
  },
  {
   "name": "Butcher Shop",
-  "group": "G028",
+  "group": "G031",
   "modelId": 16196,
   "nature": "service",
   "troves": [
@@ -1396,21 +1746,24 @@
   ],
   "recipes": [
    "beef-2",
+   "chicken-soup-1",
    "drumstick-2",
+   "horn-1",
    "lamb-1",
-   "rawhide-2"
+   "rawhide-2",
+   "salami-1"
   ],
   "source": "catalog+game",
   "verified": true,
   "bonusTroves": [
    "Burger",
-   "Milk Pail",
-   "Salami"
+   "Holiday Ham",
+   "Milk Pail"
   ]
  },
  {
   "name": "Camp World",
-  "group": "G029",
+  "group": "G032",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -1431,21 +1784,25 @@
   "recipes": [
    "binoculars-2",
    "flashlight-1",
+   "multitool-1",
    "pocket-knife-2",
+   "skateboard-1",
+   "telescope-1",
    "wrench-1"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
    "Compass",
+   "Life Jacket",
    "Lucky Penny",
-   "Multitool",
-   "Postcard"
+   "Postcard",
+   "Sea Shell"
   ]
  },
  {
   "name": "Candy shop",
-  "group": "G030",
+  "group": "G033",
   "modelId": 17028,
   "nature": "service",
   "troves": [
@@ -1464,21 +1821,32 @@
    "Twine"
   ],
   "recipes": [
-   "cheers-1",
+   "almond-1",
+   "cheers-2",
+   "cookie-1",
    "happy-tears-2",
-   "new-friend-2"
+   "high-spirits-2",
+   "lollipop-2",
+   "maple-syrup-1",
+   "new-friend-2",
+   "open-invitation-1",
+   "sugar-cane-1"
   ],
   "source": "catalog+game",
   "verified": true,
   "bonusTroves": [
+   "Birthday Wish",
+   "Chocolate Bar",
+   "Cloud Nine",
    "Fist Bump",
    "Pinky Promise",
+   "Pure Joy",
    "Secret Handshake"
   ]
  },
  {
   "name": "Cape Town Modular: Padstal Edition",
-  "group": "G031",
+  "group": "G034",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -1498,39 +1866,44 @@
    "Thumbs Up"
   ],
   "recipes": [
+   "asparagus-1",
    "avocado-2",
    "bell-pepper-2",
    "chickpea-1",
-   "chili-powder-2",
+   "chili-powder-3",
+   "cotton-boll-1",
    "cranberry-1",
    "cucumber-1",
+   "ginger-2",
+   "ginseng-root-1",
    "grape-1",
-   "jam-jar-1",
+   "hay-bale-1",
+   "jam-jar-2",
    "kiwifruit-2",
    "lentil-1",
    "mango-1",
+   "maple-syrup-2",
    "olive-2",
    "pumpkin-1",
    "soybean-2",
    "sugar-beet-1",
-   "tomato-1"
+   "tomato-1",
+   "walnut-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
    "Almond",
-   "Asparagus",
    "Fruit Basket",
    "Olive Oil",
    "Pizza Slice",
    "Taco",
-   "Walnut",
    "Wine Bottle"
   ]
  },
  {
   "name": "Car Rental",
-  "group": "G032",
+  "group": "G035",
   "modelId": 16909,
   "nature": "service",
   "troves": [
@@ -1549,20 +1922,20 @@
   "recipes": [
    "jumper-cables-1",
    "tire-gauge-1",
-   "wrench-2"
+   "wrench-2",
+   "wristwatch-1"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
    "Ingot",
    "Multitool",
-   "Tool Chest",
-   "Wristwatch"
+   "Tool Chest"
   ]
  },
  {
   "name": "Casual Dining Restaurant",
-  "group": "G059",
+  "group": "G036",
   "modelId": 15137,
   "nature": "service",
   "troves": [
@@ -1584,32 +1957,63 @@
   ],
   "recipes": [
    "all-here-2",
+   "apology-accepted-2",
    "avocado-1",
    "beef-1",
    "bell-pepper-1",
-   "bouquet-2",
-   "chili-powder-1",
+   "bouquet-3",
+   "bread-mother-1",
+   "casserole-1",
+   "caviar-1",
+   "charcoal-2",
+   "chicken-soup-2",
+   "chili-powder-2",
    "cod-1",
    "confetti-toss-2",
    "crab-2",
    "fire-extinguisher-1",
+   "graduation-1",
    "home-cooking-2",
    "lamb-2",
    "lentil-2",
+   "lobster-1",
+   "love-letter-1",
    "olive-1",
+   "olive-oil-2",
+   "oyster-1",
+   "pizza-slice-1",
+   "ramen-bowl-1",
+   "saffron-1",
+   "salami-2",
    "salmon-1",
+   "silver-spoon-2",
    "smoke-alarm-1",
    "soybean-1",
-   "stopwatch-2"
+   "stopwatch-2",
+   "sturgeon-1",
+   "sushi-roll-1",
+   "taco-1",
+   "truffle-1",
+   "wax-seal-3"
   ],
-  "source": "game-fiche",
+  "source": "catalog+game",
   "verified": true,
-  "sameTrovesAs": [
-   "East Coast Modular Apartments: Little Havana Grill Edition",
-   "European Modular Apartments: Restaurant Edition",
-   "Mother Cluckers Chicken"
-  ],
-  "status": "read"
+  "bonusTroves": [
+   "Birthday Wish",
+   "Block Party",
+   "Healing Kit",
+   "High Spirits",
+   "Moral Support",
+   "Packed House",
+   "Potluck",
+   "Roast",
+   "Royal Treatment",
+   "Second Family",
+   "Sunday Dinner",
+   "Swoon",
+   "Wine Bottle",
+   "Wristwatch"
+  ]
  },
  {
   "name": "Chic Hollywood Hills",
@@ -1624,7 +2028,7 @@
  },
  {
   "name": "CineSpark Theatre",
-  "group": "G033",
+  "group": "G037",
   "modelId": 17826,
   "nature": "service",
   "troves": [
@@ -1643,20 +2047,26 @@
   ],
   "recipes": [
    "applause-2",
+   "bouquet-1",
+   "crowd-pleaser-1",
    "good-times-1",
    "group-selfie-2",
-   "snow-globe-1"
+   "packed-house-1",
+   "snow-globe-1",
+   "special-guest-1"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
    "Action Figure",
-   "Birthday Wish"
+   "Birthday Wish",
+   "Cloud Nine",
+   "Opening Night"
   ]
  },
  {
   "name": "Cinnaboom",
-  "group": "G034",
+  "group": "G038",
   "modelId": 19180,
   "nature": "service",
   "troves": [
@@ -1673,25 +2083,36 @@
    "Wheat"
   ],
   "recipes": [
-   "cheers-1",
+   "almond-1",
+   "cheers-2",
+   "cookie-1",
    "flour-2",
    "happy-tears-2",
+   "high-spirits-2",
+   "maple-syrup-1",
    "new-friend-2",
-   "scissors-1"
+   "open-invitation-1",
+   "scissors-1",
+   "sugar-cane-1"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
    "Baguette Loaf",
+   "Birthday Wish",
+   "Bread Mother",
+   "Chocolate Bar",
+   "Cloud Nine",
    "Fist Bump",
    "Lollipop",
    "Pinky Promise",
+   "Pure Joy",
    "Secret Handshake"
   ]
  },
  {
   "name": "Cinnamon Bun Stand",
-  "group": "G035",
+  "group": "G039",
   "modelId": 16199,
   "nature": "service",
   "troves": [
@@ -1736,7 +2157,7 @@
  },
  {
   "name": "Circus",
-  "group": "G036",
+  "group": "G040",
   "modelId": 17042,
   "nature": "service",
   "troves": [
@@ -1756,18 +2177,26 @@
   "recipes": [
    "applause-2",
    "confetti-toss-1",
-   "snow-globe-1"
+   "crowd-pleaser-1",
+   "encore-2",
+   "packed-house-1",
+   "snow-globe-1",
+   "special-guest-1",
+   "standing-ovation-1"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
    "Action Figure",
-   "Birthday Wish"
+   "Birthday Wish",
+   "Blue Ribbon",
+   "Cloud Nine",
+   "Invisible Cloak"
   ]
  },
  {
   "name": "Classic Hotel",
-  "group": "G037",
+  "group": "G041",
   "modelId": 16141,
   "nature": "service",
   "troves": [
@@ -1789,31 +2218,49 @@
   ],
   "recipes": [
    "bathrobe-1",
+   "champagne-1",
+   "come-anytime-2",
    "deadbolt-2",
+   "fireworks-1",
    "fresh-air-2",
+   "full-recovery-1",
    "open-door-2",
    "plush-pillow-1",
    "sewing-kit-1",
    "sleepover-1",
    "smoke-alarm-2",
    "snow-globe-2",
-   "treasure-map-1"
+   "special-guest-2",
+   "treasure-map-1",
+   "vacation-1"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
+   "Aged Whiskey",
+   "Bed Rest",
+   "City Key",
    "Compass",
+   "Grand Reunion",
+   "Happy Tears",
+   "Homecoming",
    "Lucky Penny",
+   "Oasis",
    "Rare Coin",
+   "Safe Haven",
    "Sea Shell",
+   "Skeleton Key",
    "Strongbox",
+   "Support Group",
    "Teddy Bear",
+   "Treasure Chest",
+   "True Love",
    "Welcome Mat"
   ]
  },
  {
   "name": "Clinic",
-  "group": "G038",
+  "group": "G042",
   "modelId": 15762,
   "nature": "service",
   "troves": [
@@ -1833,25 +2280,45 @@
    "Wool"
   ],
   "recipes": [
-   "get-well-2",
+   "cold-compress-1",
+   "fruit-basket-2",
+   "get-well-1",
+   "get-well-3",
+   "healing-kit-2",
    "herbal-tea-2",
    "house-call-1",
+   "lanolin-2",
+   "lollipop-1",
+   "microscope-1",
    "pill-bottle-1",
    "scalpel-1",
    "steady-nerves-2",
+   "support-group-1",
    "tweezers-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Healing Kit",
-   "Microscope",
-   "Moral Support"
+   "Amethyst",
+   "Bed Rest",
+   "Blood Donation",
+   "Cookie",
+   "Crutches",
+   "Family Doctor",
+   "Full Recovery",
+   "Ginseng Root",
+   "Good Hands",
+   "Guardian Angel",
+   "Hearing Aid",
+   "Moral Support",
+   "Mushroom",
+   "Stethoscope",
+   "Thermometer"
   ]
  },
  {
   "name": "Club Mirage Night Club",
-  "group": "G039",
+  "group": "G043",
   "modelId": 16698,
   "nature": "service",
   "troves": [
@@ -1870,11 +2337,15 @@
   ],
   "recipes": [
    "dance-move-2",
+   "high-spirits-1",
+   "masquerade-1",
    "mic-drop-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
+   "Champagne",
+   "Confetti Toss",
    "Microphone",
    "Standing Ovation"
   ]
@@ -1903,7 +2374,7 @@
  },
  {
   "name": "Cobweb & Co Antiques",
-  "group": "G022",
+  "group": "G024",
   "modelId": 20360,
   "nature": "service",
   "troves": [
@@ -1924,39 +2395,54 @@
    "Wool"
   ],
   "recipes": [
+   "amulet-1",
+   "antique-vase-2",
    "brooch-1",
    "bubble-bath-1",
+   "charm-bracelet-2",
+   "cotton-boll-2",
    "earring-2",
+   "ebony-log-1",
    "electric-blanket-1",
    "flashlight-1",
+   "flax-2",
    "harmonica-2",
    "locket-1",
    "lotus-2",
    "mud-mask-1",
+   "necklace-1",
    "pendant-1",
    "pocket-knife-2",
    "rawhide-1",
+   "sandalwood-1",
    "sheepskin-2",
-   "straight-razor-2"
+   "straight-razor-2",
+   "welcome-mat-1",
+   "wristwatch-2"
   ],
   "source": "catalog+game",
   "verified": true,
   "bonusTroves": [
-   "Charm Bracelet",
+   "Baby Monitor",
    "Compass",
+   "Cradle",
+   "Crown Jewel",
    "Gold Ring",
    "Heart",
    "Horn",
    "Knitting Circle",
    "Lanolin",
    "Lucky Penny",
+   "Lullaby",
    "Multitool",
+   "Royal Robe",
+   "Tiara",
    "Tool Chest"
   ]
  },
  {
   "name": "Coffee Shop",
-  "group": "G023",
+  "group": "G025",
   "modelId": 15544,
   "nature": "service",
   "troves": [
@@ -1977,33 +2463,56 @@
    "Wink"
   ],
   "recipes": [
+   "baguette-loaf-1",
    "belly-laugh-1",
+   "cacao-pod-1",
    "check-in-2",
-   "cheers-2",
+   "cheers-3",
    "cheese-wheel-1",
+   "chocolate-bar-1",
    "day-off-2",
    "game-night-1",
-   "get-well-1",
+   "get-well-2",
+   "ginger-1",
+   "headphones-1",
    "hello-again-2",
    "herbal-tea-1",
    "inside-joke-2",
-   "jam-jar-2",
+   "jam-jar-3",
+   "locket-2",
+   "old-pal-1",
    "snuggle-1",
+   "tea-leaf-2",
    "wind-down-2"
   ],
-  "source": "game-fiche",
+  "source": "catalog+game",
   "verified": true,
-  "sameTrovesAs": [
-   "Block & Beans Coffee",
-   "French Cafe",
-   "The Rocket Cup Cafe",
-   "The Tipsy Teapot Cafe"
-  ],
-  "status": "read"
+  "bonusTroves": [
+   "Best Friend",
+   "Birthday Wish",
+   "Block Party",
+   "Chicken Soup",
+   "Come Anytime",
+   "Cookie",
+   "Favorite Person",
+   "Food Drive",
+   "Game Console",
+   "Ice Cream",
+   "Lullaby",
+   "Maple Syrup",
+   "Moral Support",
+   "Open Arms",
+   "Open Invitation",
+   "Pinky Promise",
+   "Secret Handshake",
+   "Snappy Comeback",
+   "Soulmate",
+   "Vacation"
+  ]
  },
  {
   "name": "Coffee Stand",
-  "group": "G040",
+  "group": "G044",
   "modelId": 16144,
   "nature": "service",
   "troves": [
@@ -2021,7 +2530,7 @@
   "recipes": [
    "belly-laugh-2",
    "bucket-2",
-   "cheers-2",
+   "cheers-3",
    "day-off-2",
    "good-times-1",
    "goofy-face-2",
@@ -2053,7 +2562,7 @@
  },
  {
   "name": "Comedy Club",
-  "group": "G041",
+  "group": "G045",
   "modelId": 16137,
   "nature": "service",
   "troves": [
@@ -2070,14 +2579,25 @@
   ],
   "recipes": [
    "applause-2",
-   "mic-drop-1"
+   "crowd-pleaser-1",
+   "encore-2",
+   "mic-drop-1",
+   "packed-house-1",
+   "punchline-1",
+   "special-guest-1",
+   "standing-ovation-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Blue Ribbon",
+   "Cloud Nine",
+   "Snappy Comeback"
+  ]
  },
  {
   "name": "Comic Book Store",
-  "group": "G042",
+  "group": "G046",
   "modelId": 17043,
   "nature": "service",
   "troves": [
@@ -2094,6 +2614,7 @@
    "Thumbs Up"
   ],
   "recipes": [
+   "action-figure-2",
    "comic-book-2",
    "frisbee-1",
    "game-night-1",
@@ -2104,7 +2625,6 @@
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Action Figure",
    "Best Friend",
    "Compass",
    "Cookie",
@@ -2119,7 +2639,7 @@
  },
  {
   "name": "Community Center",
-  "group": "G043",
+  "group": "G047",
   "modelId": 16045,
   "nature": "service",
   "troves": [
@@ -2142,12 +2662,30 @@
   ],
   "recipes": [
    "all-here-1",
+   "apology-accepted-1",
+   "babysitting-1",
    "baseball-bat-1",
+   "block-party-2",
+   "blood-donation-1",
+   "boxing-gloves-1",
    "care-package-1",
+   "clean-water-1",
+   "come-anytime-1",
    "common-ground-1",
+   "condolence-1",
+   "cookie-2",
+   "cradle-1",
    "dog-collar-1",
    "embrace-2",
+   "family-crest-1",
+   "flax-1",
+   "food-drive-1",
+   "holiday-ham-1",
+   "jigsaw-1",
    "kite-2",
+   "knitting-circle-1",
+   "lanolin-1",
+   "metal-detector-1",
    "open-door-1",
    "quilt-1",
    "rake-2",
@@ -2155,28 +2693,43 @@
    "sewing-kit-2",
    "sheepskin-1",
    "tape-measure-2",
-   "time-capsule-2"
+   "tennis-racket-1",
+   "time-capsule-2",
+   "welcome-mat-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Condolence",
-   "Flax",
+   "Casserole",
+   "Coat Drive",
+   "Cozy Blanket",
+   "Fresh Start",
    "Fruit Basket",
+   "Guardian Angel",
+   "Harmony",
    "Hay Bale",
    "Healing Kit",
+   "Homecoming",
    "Huddle",
-   "Knitting Circle",
    "Moral Support",
+   "Open Arms",
+   "Open Invitation",
+   "Potluck",
+   "Safe Haven",
+   "Second Family",
+   "Solemn Vow",
    "Special Guest",
    "Stadium Wave",
+   "Storm Relief",
+   "Support Group",
    "Warm Hug",
-   "Welcome Mat"
+   "Welcome Home",
+   "Whole Gang"
   ]
  },
  {
   "name": "Coney Island Franks",
-  "group": "G035",
+  "group": "G039",
   "modelId": 19204,
   "nature": "service",
   "troves": [
@@ -2221,7 +2774,7 @@
  },
  {
   "name": "Cornerstone Barbershop",
-  "group": "G044",
+  "group": "G015",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -2243,32 +2796,37 @@
   ],
   "recipes": [
    "brooch-2",
+   "charm-bracelet-1",
    "earring-1",
    "hat-tip-1",
+   "hearing-aid-2",
+   "necklace-2",
+   "royal-treatment-1",
    "running-gag-2",
    "scissors-2",
    "steady-nerves-1",
    "straight-razor-1",
+   "tiara-1",
    "tweezers-1"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
    "Amulet",
-   "Charm Bracelet",
    "Come Anytime",
    "Gold Ring",
+   "Good Hands",
    "Healing Kit",
+   "Inner Peace",
    "Moral Support",
    "Multitool",
-   "Necklace",
    "Pinky Promise",
    "Ruby"
   ]
  },
  {
   "name": "Court House",
-  "group": "G045",
+  "group": "G048",
   "modelId": 15591,
   "nature": "service",
   "troves": [
@@ -2290,14 +2848,25 @@
   ],
   "recipes": [
    "gavel-2",
-   "side-eye-1"
+   "pinky-promise-1",
+   "police-badge-1",
+   "rare-coin-2",
+   "side-eye-1",
+   "wedding-ring-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Bouquet",
+   "City Key",
+   "Fresh Start",
+   "Solemn Vow",
+   "Wedding"
+  ]
  },
  {
   "name": "Crêpe Stand",
-  "group": "G035",
+  "group": "G039",
   "modelId": 16184,
   "nature": "service",
   "troves": [
@@ -2342,7 +2911,7 @@
  },
  {
   "name": "Dairy King Ice Cream",
-  "group": "G046",
+  "group": "G049",
   "modelId": 19482,
   "nature": "service",
   "troves": [
@@ -2360,21 +2929,31 @@
    "Strawberry"
   ],
   "recipes": [
-   "cheers-1",
+   "almond-1",
+   "cheers-2",
+   "cookie-1",
    "happy-tears-2",
-   "new-friend-2"
+   "high-spirits-2",
+   "ice-cream-1",
+   "maple-syrup-1",
+   "new-friend-2",
+   "open-invitation-1"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
+   "Birthday Wish",
+   "Chocolate Bar",
+   "Cloud Nine",
    "Fist Bump",
    "Pinky Promise",
+   "Pure Joy",
    "Secret Handshake"
   ]
  },
  {
   "name": "Day Care Center",
-  "group": "G047",
+  "group": "G050",
   "modelId": 16145,
   "nature": "service",
   "troves": [
@@ -2392,22 +2971,34 @@
    "Wool"
   ],
   "recipes": [
+   "action-figure-1",
+   "baby-monitor-1",
+   "bedtime-story-1",
+   "belly-laugh-3",
+   "birthday-wish-1",
    "happy-tears-1",
+   "lullaby-1",
+   "moral-support-1",
    "new-friend-1",
    "oil-painting-1",
+   "pinky-promise-2",
+   "potluck-1",
    "snuggle-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Birthday Wish",
+   "Babysitting",
+   "Cradle",
+   "Pure Joy",
    "Shy Giggle",
+   "Sleepover",
    "Standing Ovation"
   ]
  },
  {
   "name": "Deep Fillings Empanadas",
-  "group": "G035",
+  "group": "G039",
   "modelId": 19727,
   "nature": "service",
   "troves": [
@@ -2452,7 +3043,7 @@
  },
  {
   "name": "Delicatessen shop",
-  "group": "G048",
+  "group": "G051",
   "modelId": 17054,
   "nature": "service",
   "troves": [
@@ -2471,20 +3062,21 @@
    "Thumbs Up"
   ],
   "recipes": [
+   "almond-2",
    "cheese-wheel-2",
-   "jam-jar-1",
-   "olive-1"
+   "fruit-basket-1",
+   "jam-jar-2",
+   "olive-1",
+   "olive-oil-1",
+   "salami-1",
+   "wine-bottle-1"
   ],
   "source": "catalog",
-  "verified": false,
-  "bonusTroves": [
-   "Olive Oil",
-   "Wine Bottle"
-  ]
+  "verified": false
  },
  {
   "name": "Dentistry",
-  "group": "G049",
+  "group": "G052",
   "modelId": 15685,
   "nature": "service",
   "troves": [
@@ -2502,7 +3094,9 @@
    "Wool"
   ],
   "recipes": [
-   "get-well-2",
+   "cold-compress-1",
+   "get-well-3",
+   "microscope-1",
    "pill-bottle-1",
    "scalpel-1",
    "steady-nerves-2",
@@ -2511,14 +3105,17 @@
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
+   "Amethyst",
+   "Full Recovery",
+   "Good Hands",
    "Healing Kit",
-   "Microscope",
-   "Moral Support"
+   "Moral Support",
+   "Thermometer"
   ]
  },
  {
   "name": "Department store",
-  "group": "G050",
+  "group": "G053",
   "modelId": 16772,
   "nature": "service",
   "troves": [
@@ -2541,6 +3138,7 @@
    "care-package-1",
    "goofy-face-2",
    "picnic-1",
+   "rare-coin-2",
    "scissors-1"
   ],
   "source": "catalog+game",
@@ -2559,7 +3157,7 @@
  },
  {
   "name": "DMV",
-  "group": "G051",
+  "group": "G054",
   "modelId": 16425,
   "nature": "service",
   "troves": [
@@ -2581,11 +3179,14 @@
    "side-eye-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Fresh Start"
+  ]
  },
  {
   "name": "Dollar Store",
-  "group": "G052",
+  "group": "G055",
   "modelId": 16887,
   "nature": "service",
   "troves": [
@@ -2607,6 +3208,7 @@
    "care-package-1",
    "goofy-face-2",
    "picnic-1",
+   "rare-coin-2",
    "scissors-1"
   ],
   "source": "catalog",
@@ -2625,7 +3227,7 @@
  },
  {
   "name": "Dreamspace VR",
-  "group": "G053",
+  "group": "G056",
   "modelId": 19486,
   "nature": "service",
   "troves": [
@@ -2643,6 +3245,9 @@
    "Warm Hug"
   ],
   "recipes": [
+   "action-figure-2",
+   "casino-chip-1",
+   "game-console-1",
    "game-night-2",
    "gold-coin-1",
    "good-times-1",
@@ -2654,18 +3259,19 @@
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Action Figure",
+   "Belly Laugh",
    "Birthday Wish",
-   "Casino Chip",
+   "Cloud Nine",
    "Fist Bump",
    "Pinky Promise",
    "Rare Coin",
-   "Secret Handshake"
+   "Secret Handshake",
+   "Snappy Comeback"
   ]
  },
  {
   "name": "Dry Cleaner",
-  "group": "G054",
+  "group": "G057",
   "modelId": 16528,
   "nature": "service",
   "troves": [
@@ -2684,20 +3290,24 @@
   ],
   "recipes": [
    "common-ground-1",
+   "flax-1",
+   "knitting-circle-1",
+   "lanolin-1",
    "quilt-1",
    "sewing-kit-2",
-   "sheepskin-1"
+   "sheepskin-1",
+   "welcome-mat-2"
   ],
   "source": "catalog+game",
   "verified": true,
   "bonusTroves": [
-   "Flax",
-   "Knitting Circle"
+   "Coat Drive",
+   "Warm Hug"
   ]
  },
  {
   "name": "Dunder Office Supplies",
-  "group": "G055",
+  "group": "G058",
   "modelId": 17680,
   "nature": "service",
   "troves": [
@@ -2714,14 +3324,23 @@
    "Twine"
   ],
   "recipes": [
-   "battery-pack-1"
+   "battery-pack-1",
+   "hourglass-1",
+   "welcome-mat-1",
+   "wristwatch-2"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Camera",
+   "Hello Again",
+   "Phone",
+   "Photograph"
+  ]
  },
  {
   "name": "East Coast Modular Apartments: Bakery Edition",
-  "group": "G056",
+  "group": "G013",
   "modelId": 16903,
   "nature": "mixed",
   "troves": [
@@ -2744,25 +3363,38 @@
    "Wheat"
   ],
   "recipes": [
-   "cheers-1",
+   "almond-1",
+   "cheers-2",
+   "cookie-1",
    "flour-2",
    "happy-tears-2",
+   "high-spirits-2",
+   "ice-cream-1",
+   "jam-jar-1",
+   "lollipop-2",
+   "maple-syrup-1",
    "new-friend-2",
-   "scissors-1"
+   "open-invitation-1",
+   "scissors-1",
+   "sugar-cane-1"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
    "Baguette Loaf",
+   "Birthday Wish",
+   "Bread Mother",
+   "Chocolate Bar",
+   "Cloud Nine",
    "Fist Bump",
-   "Lollipop",
    "Pinky Promise",
+   "Pure Joy",
    "Secret Handshake"
   ]
  },
  {
   "name": "East Coast Modular Apartments: Bank Edition",
-  "group": "G013",
+  "group": "G014",
   "modelId": 16790,
   "nature": "mixed",
   "troves": [
@@ -2781,15 +3413,29 @@
    "Silver Coin"
   ],
   "recipes": [
+   "blue-diamond-1",
+   "crown-jewel-1",
    "deadbolt-1",
-   "gold-coin-2"
+   "gold-coin-2",
+   "gold-nugget-1",
+   "gold-ring-2",
+   "pinky-promise-1",
+   "rare-coin-1",
+   "strongbox-1"
   ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Doubloon",
+   "Fresh Start",
+   "Gold Bar",
+   "Lucky Penny",
+   "Treasure Chest"
+  ]
  },
  {
   "name": "East Coast Modular Apartments: Barber Shop",
-  "group": "G044",
+  "group": "G015",
   "modelId": 17041,
   "nature": "mixed",
   "troves": [
@@ -2811,32 +3457,37 @@
   ],
   "recipes": [
    "brooch-2",
+   "charm-bracelet-1",
    "earring-1",
    "hat-tip-1",
+   "hearing-aid-2",
+   "necklace-2",
+   "royal-treatment-1",
    "running-gag-2",
    "scissors-2",
    "steady-nerves-1",
    "straight-razor-1",
+   "tiara-1",
    "tweezers-1"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
    "Amulet",
-   "Charm Bracelet",
    "Come Anytime",
    "Gold Ring",
+   "Good Hands",
    "Healing Kit",
+   "Inner Peace",
    "Moral Support",
    "Multitool",
-   "Necklace",
    "Pinky Promise",
    "Ruby"
   ]
  },
  {
   "name": "East Coast Modular Apartments: Fast Food Restaurant",
-  "group": "G057",
+  "group": "G059",
   "modelId": 17674,
   "nature": "mixed",
   "troves": [
@@ -2856,10 +3507,14 @@
   ],
   "recipes": [
    "all-here-2",
+   "apology-accepted-2",
    "beef-1",
    "bell-pepper-1",
-   "bouquet-2",
-   "chili-powder-1",
+   "bouquet-3",
+   "burger-2",
+   "casserole-1",
+   "chicken-soup-2",
+   "chili-powder-2",
    "fire-extinguisher-1",
    "home-cooking-2",
    "smoke-alarm-1",
@@ -2869,12 +3524,15 @@
   "verified": false,
   "bonusTroves": [
    "Birthday Wish",
-   "Casserole",
    "Healing Kit",
+   "High Spirits",
    "Moral Support",
    "Packed House",
    "Potluck",
    "Ramen Bowl",
+   "Roast",
+   "Second Family",
+   "Sunday Dinner",
    "Swoon",
    "Taco",
    "Wristwatch"
@@ -2882,7 +3540,7 @@
  },
  {
   "name": "East Coast Modular Apartments: Intimate Apparel Boutique",
-  "group": "G058",
+  "group": "G060",
   "modelId": 16911,
   "nature": "mixed",
   "troves": [
@@ -2912,7 +3570,7 @@
  },
  {
   "name": "East Coast Modular Apartments: Little Havana Grill Edition",
-  "group": "G059",
+  "group": "G061",
   "modelId": 19694,
   "nature": "mixed",
   "troves": [
@@ -2937,8 +3595,8 @@
    "avocado-1",
    "beef-1",
    "bell-pepper-1",
-   "bouquet-2",
-   "chili-powder-1",
+   "bouquet-3",
+   "chili-powder-2",
    "cod-1",
    "confetti-toss-2",
    "crab-2",
@@ -2947,6 +3605,7 @@
    "lamb-2",
    "lentil-2",
    "olive-1",
+   "oyster-1",
    "salmon-1",
    "smoke-alarm-1",
    "soybean-1",
@@ -2962,7 +3621,6 @@
    "Lobster",
    "Moral Support",
    "Olive Oil",
-   "Oyster",
    "Packed House",
    "Potluck",
    "Ramen Bowl",
@@ -2977,7 +3635,7 @@
  },
  {
   "name": "East Coast Modular Apartments: Mobile Phone Store",
-  "group": "G060",
+  "group": "G062",
   "modelId": 16704,
   "nature": "mixed",
   "troves": [
@@ -3013,7 +3671,7 @@
  },
  {
   "name": "East Coast Modular Apartments: Money Exchange Edition",
-  "group": "G061",
+  "group": "G063",
   "modelId": 19177,
   "nature": "mixed",
   "troves": [
@@ -3039,7 +3697,7 @@
  },
  {
   "name": "East Coast Modular Apartments: Nail Salon",
-  "group": "G044",
+  "group": "G064",
   "modelId": 17057,
   "nature": "mixed",
   "troves": [
@@ -3086,7 +3744,7 @@
  },
  {
   "name": "East Coast Modular Apartments: Pharmacy",
-  "group": "G062",
+  "group": "G065",
   "modelId": 16689,
   "nature": "mixed",
   "troves": [
@@ -3105,7 +3763,7 @@
    "Wool"
   ],
   "recipes": [
-   "get-well-2",
+   "get-well-3",
    "herbal-tea-2",
    "pill-bottle-1",
    "steady-nerves-2"
@@ -3119,7 +3777,7 @@
  },
  {
   "name": "East Coast Modular Apartments: Tattoo studio Edition",
-  "group": "G063",
+  "group": "G066",
   "modelId": 18177,
   "nature": "mixed",
   "troves": [
@@ -3159,7 +3817,7 @@
  },
  {
   "name": "East Coast Modular Apartments: Yeehaw Outfitters Edition",
-  "group": "G064",
+  "group": "G067",
   "modelId": 19001,
   "nature": "mixed",
   "troves": [
@@ -3196,7 +3854,7 @@
  },
  {
   "name": "East Coast Modular: Liquor Store Edition",
-  "group": "G022",
+  "group": "G068",
   "modelId": 20229,
   "nature": "mixed",
   "troves": [
@@ -3249,7 +3907,7 @@
  },
  {
   "name": "El Plate-o Grande",
-  "group": "G065",
+  "group": "G069",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -3271,8 +3929,8 @@
    "avocado-1",
    "beef-1",
    "bell-pepper-1",
-   "bouquet-2",
-   "chili-powder-1",
+   "bouquet-3",
+   "chili-powder-2",
    "fire-extinguisher-1",
    "home-cooking-2",
    "lentil-2",
@@ -3296,7 +3954,7 @@
  },
  {
   "name": "Electronic Store",
-  "group": "G066",
+  "group": "G070",
   "modelId": 16047,
   "nature": "service",
   "troves": [
@@ -3338,7 +3996,7 @@
  },
  {
   "name": "Elementary School",
-  "group": "G067",
+  "group": "G071",
   "modelId": 15138,
   "nature": "service",
   "troves": [
@@ -3358,13 +4016,61 @@
    "Scout Patch",
    "Scrapbook"
   ],
-  "recipes": [],
+  "recipes": [
+   "basketball-1",
+   "battery-pack-2",
+   "carpenter-square-1",
+   "chickpea-2",
+   "cranberry-2",
+   "cucumber-2",
+   "football-1",
+   "frisbee-1",
+   "hammer-1",
+   "happy-tears-1",
+   "kite-1",
+   "medal-1",
+   "new-friend-1",
+   "oil-painting-1",
+   "passion-fruit-2",
+   "pumpkin-2",
+   "sleepover-2",
+   "snuggle-2",
+   "time-capsule-1",
+   "time-capsule-2",
+   "tomato-2",
+   "varsity-jacket-2"
+  ],
   "source": "catalog",
-  "verified": false
+  "verified": false,
+  "bonusTroves": [
+   "Ancient Scroll",
+   "Babysitting",
+   "Bedtime Story",
+   "Birthday Wish",
+   "Boxing Gloves",
+   "Compass",
+   "Fruit Basket",
+   "Geode",
+   "Ginger",
+   "Gyroscope",
+   "Huddle",
+   "Ice Cream",
+   "Ingot",
+   "Multitool",
+   "Ramen Bowl",
+   "Shy Giggle",
+   "Skateboard",
+   "Soldering Iron",
+   "Squad",
+   "Standing Ovation",
+   "Sunlight",
+   "Tennis Racket",
+   "Tool Chest"
+  ]
  },
  {
   "name": "Empanada Stand",
-  "group": "G035",
+  "group": "G039",
   "modelId": 16266,
   "nature": "service",
   "troves": [
@@ -3409,7 +4115,7 @@
  },
  {
   "name": "European Modular Apartments: Antiquaire Edition",
-  "group": "G003",
+  "group": "G072",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -3442,7 +4148,7 @@
  },
  {
   "name": "European Modular Apartments: Big Ben’s Gift Shoppe",
-  "group": "G068",
+  "group": "G073",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -3477,7 +4183,7 @@
  },
  {
   "name": "European Modular Apartments: Butcher Edition",
-  "group": "G028",
+  "group": "G074",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -3510,7 +4216,7 @@
  },
  {
   "name": "European Modular Apartments: Galerie d'Art Edition",
-  "group": "G006",
+  "group": "G075",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -3543,7 +4249,7 @@
  },
  {
   "name": "European Modular Apartments: Ice Cream Shop",
-  "group": "G046",
+  "group": "G076",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -3561,7 +4267,7 @@
    "Strawberry"
   ],
   "recipes": [
-   "cheers-1",
+   "cheers-2",
    "happy-tears-2",
    "new-friend-2"
   ],
@@ -3575,7 +4281,7 @@
  },
  {
   "name": "European Modular Apartments: Mantequeria Edition",
-  "group": "G069",
+  "group": "G077",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -3593,7 +4299,7 @@
   ],
   "recipes": [
    "cheese-wheel-2",
-   "jam-jar-1",
+   "jam-jar-2",
    "olive-1"
   ],
   "source": "catalog",
@@ -3605,7 +4311,7 @@
  },
  {
   "name": "European Modular Apartments: Restaurant Edition",
-  "group": "G059",
+  "group": "G061",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -3630,8 +4336,8 @@
    "avocado-1",
    "beef-1",
    "bell-pepper-1",
-   "bouquet-2",
-   "chili-powder-1",
+   "bouquet-3",
+   "chili-powder-2",
    "cod-1",
    "confetti-toss-2",
    "crab-2",
@@ -3640,6 +4346,7 @@
    "lamb-2",
    "lentil-2",
    "olive-1",
+   "oyster-1",
    "salmon-1",
    "smoke-alarm-1",
    "soybean-1",
@@ -3655,7 +4362,6 @@
    "Lobster",
    "Moral Support",
    "Olive Oil",
-   "Oyster",
    "Packed House",
    "Potluck",
    "Ramen Bowl",
@@ -3670,7 +4376,7 @@
  },
  {
   "name": "European Modular Apartments: Sports Bar",
-  "group": "G070",
+  "group": "G078",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -3701,7 +4407,7 @@
  },
  {
   "name": "Exclusive Hockey Store Service Structure",
-  "group": "G071",
+  "group": "G079",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -3744,7 +4450,7 @@
  },
  {
   "name": "Farmers Market",
-  "group": "G072",
+  "group": "G080",
   "modelId": 16129,
   "nature": "service",
   "troves": [
@@ -3769,11 +4475,11 @@
    "avocado-2",
    "bell-pepper-2",
    "chickpea-1",
-   "chili-powder-2",
+   "chili-powder-3",
    "cranberry-1",
    "cucumber-1",
    "grape-1",
-   "jam-jar-1",
+   "jam-jar-2",
    "kiwifruit-2",
    "lentil-1",
    "mango-1",
@@ -3798,7 +4504,7 @@
  },
  {
   "name": "Fast Food Joint",
-  "group": "G057",
+  "group": "G081",
   "modelId": 16700,
   "nature": "service",
   "troves": [
@@ -3820,8 +4526,8 @@
    "all-here-2",
    "beef-1",
    "bell-pepper-1",
-   "bouquet-2",
-   "chili-powder-1",
+   "bouquet-3",
+   "chili-powder-2",
    "fire-extinguisher-1",
    "home-cooking-2",
    "smoke-alarm-1",
@@ -3844,7 +4550,7 @@
  },
  {
   "name": "Fine Dining Restaurant",
-  "group": "G073",
+  "group": "G082",
   "modelId": 16040,
   "nature": "service",
   "troves": [
@@ -3865,12 +4571,13 @@
   "recipes": [
    "all-here-2",
    "beef-1",
-   "bouquet-2",
+   "bouquet-3",
    "confetti-toss-2",
    "crab-2",
    "fire-extinguisher-1",
    "home-cooking-2",
    "lamb-2",
+   "oyster-1",
    "salmon-1",
    "smoke-alarm-1",
    "stopwatch-2"
@@ -3884,7 +4591,6 @@
    "Healing Kit",
    "Moral Support",
    "Olive Oil",
-   "Oyster",
    "Packed House",
    "Potluck",
    "Salami",
@@ -3896,7 +4602,7 @@
  },
  {
   "name": "Fire Station",
-  "group": "G074",
+  "group": "G083",
   "modelId": 15394,
   "nature": "service",
   "troves": [
@@ -3926,17 +4632,19 @@
    "shovel-1",
    "tool-belt-1"
   ],
-  "source": "game-fiche",
+  "source": "catalog+game",
   "verified": true,
-  "sameTrovesAs": [
-   "Fire Station Headquarters",
-   "The Atomic Firehouse"
-  ],
-  "status": "read"
+  "bonusTroves": [
+   "Hay Bale",
+   "Healing Kit",
+   "Multitool",
+   "Soldering Iron",
+   "Tool Chest"
+  ]
  },
  {
   "name": "Fire Station Headquarters",
-  "group": "G074",
+  "group": "G083",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -3978,7 +4686,7 @@
  },
  {
   "name": "Fish Ball Stand",
-  "group": "G020",
+  "group": "G084",
   "modelId": 16358,
   "nature": "service",
   "troves": [
@@ -4022,7 +4730,7 @@
  },
  {
   "name": "Fish Deli",
-  "group": "G075",
+  "group": "G085",
   "modelId": 16527,
   "nature": "service",
   "troves": [
@@ -4046,7 +4754,7 @@
    "catfish-2",
    "cod-2",
    "crab-1",
-   "oyster-1",
+   "oyster-2",
    "salmon-2",
    "squid-2"
   ],
@@ -4060,7 +4768,7 @@
  },
  {
   "name": "Fish Market",
-  "group": "G075",
+  "group": "G085",
   "modelId": 16787,
   "nature": "service",
   "troves": [
@@ -4084,7 +4792,7 @@
    "catfish-2",
    "cod-2",
    "crab-1",
-   "oyster-1",
+   "oyster-2",
    "salmon-2",
    "squid-2"
   ],
@@ -4098,7 +4806,7 @@
  },
  {
   "name": "Florence Retro Googie Farmers Market",
-  "group": "G072",
+  "group": "G080",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -4123,11 +4831,11 @@
    "avocado-2",
    "bell-pepper-2",
    "chickpea-1",
-   "chili-powder-2",
+   "chili-powder-3",
    "cranberry-1",
    "cucumber-1",
    "grape-1",
-   "jam-jar-1",
+   "jam-jar-2",
    "kiwifruit-2",
    "lentil-1",
    "mango-1",
@@ -4152,7 +4860,7 @@
  },
  {
   "name": "French Cafe",
-  "group": "G023",
+  "group": "G086",
   "modelId": 16135,
   "nature": "service",
   "troves": [
@@ -4175,15 +4883,15 @@
   "recipes": [
    "belly-laugh-1",
    "check-in-2",
-   "cheers-2",
+   "cheers-3",
    "cheese-wheel-1",
    "day-off-2",
    "game-night-1",
-   "get-well-1",
+   "get-well-2",
    "hello-again-2",
    "herbal-tea-1",
    "inside-joke-2",
-   "jam-jar-2",
+   "jam-jar-3",
    "snuggle-1",
    "wind-down-2"
   ],
@@ -4211,7 +4919,7 @@
  },
  {
   "name": "Fresh Pick Fruit Stand",
-  "group": "G076",
+  "group": "G087",
   "modelId": 19238,
   "nature": "service",
   "troves": [
@@ -4256,7 +4964,7 @@
  },
  {
   "name": "Funeral Home",
-  "group": "G077",
+  "group": "G088",
   "modelId": 16359,
   "nature": "service",
   "troves": [
@@ -4284,7 +4992,7 @@
  },
  {
   "name": "Game Exchange",
-  "group": "G078",
+  "group": "G089",
   "modelId": 17036,
   "nature": "service",
   "troves": [
@@ -4337,7 +5045,7 @@
  },
  {
   "name": "Glazed & Confused Donuts",
-  "group": "G079",
+  "group": "G090",
   "modelId": 19148,
   "nature": "service",
   "troves": [
@@ -4355,7 +5063,7 @@
    "Wheat"
   ],
   "recipes": [
-   "cheers-1",
+   "cheers-2",
    "flour-2",
    "happy-tears-2",
    "new-friend-2",
@@ -4373,7 +5081,7 @@
  },
  {
   "name": "Going Under Dive Shop",
-  "group": "G022",
+  "group": "G068",
   "modelId": 19726,
   "nature": "service",
   "troves": [
@@ -4426,18 +5134,45 @@
  },
  {
   "name": "Grimwood Apothecary",
-  "group": null,
+  "group": "G091",
   "modelId": 20839,
   "nature": "service",
-  "troves": [],
-  "recipes": [],
-  "source": "game",
+  "troves": [
+   "Bandage",
+   "Care Package",
+   "Glass Bead",
+   "Healing Kit",
+   "Honey",
+   "Hot Cocoa",
+   "Kind Word",
+   "Knowing Nod",
+   "Lens",
+   "Polite Bow",
+   "Rosemary",
+   "Salt",
+   "Thumbs Up",
+   "Wool"
+  ],
+  "recipes": [
+   "get-well-3",
+   "herbal-tea-2",
+   "house-call-1",
+   "pill-bottle-1",
+   "scalpel-1",
+   "steady-nerves-2",
+   "tweezers-2"
+  ],
+  "source": "catalog",
   "verified": false,
-  "status": "pending"
+  "bonusTroves": [
+   "Healing Kit",
+   "Microscope",
+   "Moral Support"
+  ]
  },
  {
   "name": "Gym",
-  "group": "G080",
+  "group": "G092",
   "modelId": 15395,
   "nature": "service",
   "troves": [
@@ -4486,7 +5221,7 @@
  },
  {
   "name": "Hallow Spirit Costumes",
-  "group": "G081",
+  "group": "G093",
   "modelId": 17046,
   "nature": "service",
   "troves": [
@@ -4509,7 +5244,7 @@
  },
  {
   "name": "Hardware Store",
-  "group": "G082",
+  "group": "G094",
   "modelId": 16041,
   "nature": "service",
   "troves": [
@@ -4560,7 +5295,7 @@
  },
  {
   "name": "High School",
-  "group": "G083",
+  "group": "G071",
   "modelId": 15686,
   "nature": "service",
   "troves": [
@@ -4645,7 +5380,7 @@
  },
  {
   "name": "Hook & Tackle Bait Shop",
-  "group": "G084",
+  "group": "G095",
   "modelId": 19237,
   "nature": "service",
   "troves": [
@@ -4681,7 +5416,7 @@
  },
  {
   "name": "Hospital",
-  "group": "G038",
+  "group": "G091",
   "modelId": 15543,
   "nature": "service",
   "troves": [
@@ -4701,7 +5436,7 @@
    "Wool"
   ],
   "recipes": [
-   "get-well-2",
+   "get-well-3",
    "herbal-tea-2",
    "house-call-1",
    "pill-bottle-1",
@@ -4709,19 +5444,17 @@
    "steady-nerves-2",
    "tweezers-2"
   ],
-  "source": "game-fiche",
+  "source": "catalog+game",
   "verified": true,
-  "sameTrovesAs": [
-   "Clinic",
-   "Regional Hospital",
-   "Skyline Medical Center",
-   "Urgent care center"
-  ],
-  "status": "read"
+  "bonusTroves": [
+   "Healing Kit",
+   "Microscope",
+   "Moral Support"
+  ]
  },
  {
   "name": "Ice cream Parlor",
-  "group": "G085",
+  "group": "G096",
   "modelId": 16127,
   "nature": "service",
   "troves": [
@@ -4738,7 +5471,7 @@
    "Strawberry"
   ],
   "recipes": [
-   "cheers-1",
+   "cheers-2",
    "happy-tears-2",
    "new-friend-2"
   ],
@@ -4752,7 +5485,7 @@
  },
  {
   "name": "Ice Rink",
-  "group": "G017",
+  "group": "G097",
   "modelId": 16681,
   "nature": "service",
   "troves": [
@@ -4803,7 +5536,7 @@
  },
  {
   "name": "Information Kiosk",
-  "group": "G086",
+  "group": "G098",
   "modelId": 16142,
   "nature": "service",
   "troves": [
@@ -4834,7 +5567,7 @@
  },
  {
   "name": "Jewelry",
-  "group": "G087",
+  "group": "G099",
   "modelId": 16139,
   "nature": "service",
   "troves": [
@@ -4867,7 +5600,7 @@
  },
  {
   "name": "Junior College",
-  "group": "G088",
+  "group": "G100",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -4932,7 +5665,7 @@
  },
  {
   "name": "Kentucky Fried Kiosk",
-  "group": "G089",
+  "group": "G101",
   "modelId": 18770,
   "nature": "service",
   "troves": [
@@ -4977,7 +5710,7 @@
  },
  {
   "name": "Kiosk - Donuts",
-  "group": "G035",
+  "group": "G039",
   "modelId": 16128,
   "nature": "service",
   "troves": [
@@ -5022,7 +5755,7 @@
  },
  {
   "name": "Kiosk - Fried Chicken",
-  "group": "G089",
+  "group": "G101",
   "modelId": 16138,
   "nature": "service",
   "troves": [
@@ -5067,7 +5800,7 @@
  },
  {
   "name": "Kiosk - Gelato",
-  "group": "G090",
+  "group": "G102",
   "modelId": 15912,
   "nature": "service",
   "troves": [
@@ -5106,7 +5839,7 @@
  },
  {
   "name": "Kiosk - Hamburger",
-  "group": "G091",
+  "group": "G103",
   "modelId": 16016,
   "nature": "service",
   "troves": [
@@ -5146,7 +5879,7 @@
  },
  {
   "name": "Kiosk - Hot Dog",
-  "group": "G035",
+  "group": "G039",
   "modelId": 15765,
   "nature": "service",
   "troves": [
@@ -5176,21 +5909,22 @@
    "pocket-knife-1",
    "umbrella-1"
   ],
-  "source": "game-fiche",
+  "source": "catalog+game",
   "verified": true,
-  "sameTrovesAs": [
-   "Cinnamon Bun Stand",
-   "Coney Island Franks",
-   "Crêpe Stand",
-   "Deep Fillings Empanadas",
-   "Empanada Stand",
-   "Kiosk - Donuts"
-  ],
-  "status": "read"
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Come Anytime",
+   "Multitool",
+   "Pizza Slice",
+   "Potluck",
+   "Snappy Comeback",
+   "Talent Show",
+   "Welcome Mat"
+  ]
  },
  {
   "name": "Kiosk - Pizza",
-  "group": "G092",
+  "group": "G104",
   "modelId": 15911,
   "nature": "service",
   "troves": [
@@ -5232,7 +5966,7 @@
  },
  {
   "name": "Kiosk - Sushi",
-  "group": "G093",
+  "group": "G105",
   "modelId": 16048,
   "nature": "service",
   "troves": [
@@ -5275,7 +6009,7 @@
  },
  {
   "name": "Kiosk - Taco",
-  "group": "G094",
+  "group": "G106",
   "modelId": 16042,
   "nature": "service",
   "troves": [
@@ -5315,7 +6049,7 @@
  },
  {
   "name": "Large Assisted Living Center",
-  "group": "G010",
+  "group": "G107",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -5338,7 +6072,7 @@
   "recipes": [
    "electric-blanket-2",
    "house-call-2",
-   "locket-2",
+   "locket-3",
    "pill-bottle-2",
    "quilt-2",
    "scrapbook-1",
@@ -5349,7 +6083,7 @@
  },
  {
   "name": "Large Court house",
-  "group": "G045",
+  "group": "G108",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -5378,7 +6112,7 @@
  },
  {
   "name": "Large Day care",
-  "group": "G047",
+  "group": "G109",
   "modelId": 16926,
   "nature": "service",
   "troves": [
@@ -5411,7 +6145,7 @@
  },
  {
   "name": "Large Electronic store",
-  "group": "G066",
+  "group": "G070",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -5464,7 +6198,7 @@
  },
  {
   "name": "Large Library",
-  "group": "G024",
+  "group": "G110",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -5503,7 +6237,7 @@
  },
  {
   "name": "Large Office",
-  "group": "G095",
+  "group": "G111",
   "modelId": 17024,
   "nature": "service",
   "troves": [
@@ -5566,7 +6300,7 @@
  },
  {
   "name": "Large Sports Bar",
-  "group": "G070",
+  "group": "G078",
   "modelId": 16916,
   "nature": "service",
   "troves": [
@@ -5597,7 +6331,7 @@
  },
  {
   "name": "Laundromat",
-  "group": "G054",
+  "group": "G112",
   "modelId": 15763,
   "nature": "service",
   "troves": [
@@ -5629,7 +6363,7 @@
  },
  {
   "name": "Library",
-  "group": "G024",
+  "group": "G110",
   "modelId": 16014,
   "nature": "service",
   "troves": [
@@ -5654,19 +6388,21 @@
    "quiet-hour-1",
    "scrapbook-2"
   ],
-  "source": "game-fiche",
+  "source": "catalog+game",
   "verified": true,
-  "sameTrovesAs": [
-   "Bookstore",
-   "Large Library",
-   "Mainstreet Modular Apartments: Bookstore Edition",
-   "The Moonbeam Bookstore"
-  ],
-  "status": "read"
+  "bonusTroves": [
+   "Action Figure",
+   "Ancient Scroll",
+   "Bedtime Story",
+   "Family Crest",
+   "Game Console",
+   "Lullaby",
+   "Zen Stone"
+  ]
  },
  {
   "name": "Live Jams Stage",
-  "group": "G096",
+  "group": "G113",
   "modelId": 19725,
   "nature": "service",
   "troves": [
@@ -5702,7 +6438,7 @@
  },
  {
   "name": "Live Theater",
-  "group": "G096",
+  "group": "G113",
   "modelId": 16140,
   "nature": "service",
   "troves": [
@@ -5738,7 +6474,7 @@
  },
  {
   "name": "Local Brewery",
-  "group": "G025",
+  "group": "G114",
   "modelId": 16928,
   "nature": "service",
   "troves": [
@@ -5779,7 +6515,7 @@
  },
  {
   "name": "Logistics center: Nexus Point",
-  "group": "G097",
+  "group": "G115",
   "modelId": 17403,
   "nature": "service",
   "troves": [
@@ -5815,7 +6551,7 @@
  },
  {
   "name": "Logistics center: Zenith Terminal",
-  "group": "G097",
+  "group": "G115",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -5884,7 +6620,7 @@
  },
  {
   "name": "Lotus of Upland Thai House",
-  "group": "G098",
+  "group": "G116",
   "modelId": 17903,
   "nature": "service",
   "troves": [
@@ -5903,8 +6639,8 @@
   "recipes": [
    "all-here-2",
    "beef-1",
-   "bouquet-2",
-   "chili-powder-1",
+   "bouquet-3",
+   "chili-powder-2",
    "crab-2",
    "fire-extinguisher-1",
    "home-cooking-2",
@@ -5933,7 +6669,7 @@
  },
  {
   "name": "Luxury Fashion Boutique",
-  "group": "G099",
+  "group": "G117",
   "modelId": 16587,
   "nature": "service",
   "troves": [
@@ -5989,7 +6725,7 @@
  },
  {
   "name": "Luxury Restaurant",
-  "group": "G073",
+  "group": "G082",
   "modelId": 16788,
   "nature": "service",
   "troves": [
@@ -6010,12 +6746,13 @@
   "recipes": [
    "all-here-2",
    "beef-1",
-   "bouquet-2",
+   "bouquet-3",
    "confetti-toss-2",
    "crab-2",
    "fire-extinguisher-1",
    "home-cooking-2",
    "lamb-2",
+   "oyster-1",
    "salmon-1",
    "smoke-alarm-1",
    "stopwatch-2"
@@ -6029,7 +6766,6 @@
    "Healing Kit",
    "Moral Support",
    "Olive Oil",
-   "Oyster",
    "Packed House",
    "Potluck",
    "Salami",
@@ -6041,18 +6777,43 @@
  },
  {
   "name": "Madame Moon's Fortune Telling",
-  "group": null,
+  "group": "G113",
   "modelId": 20841,
   "nature": "service",
-  "troves": [],
-  "recipes": [],
-  "source": "game",
+  "troves": [
+   "Brass Token",
+   "Cookie",
+   "Game Night",
+   "Glass Bead",
+   "Glee",
+   "Handshake",
+   "Hooray",
+   "Invite Card",
+   "Light Bulb",
+   "Microphone",
+   "Photograph",
+   "Playbill",
+   "Raffle Ticket",
+   "Scented Candle",
+   "Thread"
+  ],
+  "recipes": [
+   "applause-2",
+   "confetti-toss-1",
+   "megaphone-1",
+   "mic-drop-1",
+   "snow-globe-1"
+  ],
+  "source": "catalog",
   "verified": false,
-  "status": "pending"
+  "bonusTroves": [
+   "Action Figure",
+   "Birthday Wish"
+  ]
  },
  {
   "name": "Main Squeeze Lemonade",
-  "group": "G035",
+  "group": "G039",
   "modelId": 19149,
   "nature": "service",
   "troves": [
@@ -6097,7 +6858,7 @@
  },
  {
   "name": "Main Street Modular Apartments: Fashion Boutique Store Edition",
-  "group": "G099",
+  "group": "G117",
   "modelId": 17035,
   "nature": "mixed",
   "troves": [
@@ -6131,7 +6892,7 @@
  },
  {
   "name": "Main Street Modular Apartments: Pier Pressure Fish Market",
-  "group": "G075",
+  "group": "G085",
   "modelId": 17899,
   "nature": "mixed",
   "troves": [
@@ -6155,7 +6916,7 @@
    "catfish-2",
    "cod-2",
    "crab-1",
-   "oyster-1",
+   "oyster-2",
    "salmon-2",
    "squid-2"
   ],
@@ -6169,7 +6930,7 @@
  },
  {
   "name": "Main Street Modular Apartments: Pizzeria Edition",
-  "group": "G100",
+  "group": "G118",
   "modelId": 16919,
   "nature": "mixed",
   "troves": [
@@ -6189,7 +6950,7 @@
   "recipes": [
    "all-here-2",
    "bell-pepper-1",
-   "bouquet-2",
+   "bouquet-3",
    "confetti-toss-2",
    "fire-extinguisher-1",
    "home-cooking-2",
@@ -6215,7 +6976,7 @@
  },
  {
   "name": "Main Street Modular Apartments: Shoe Store Edition",
-  "group": "G101",
+  "group": "G119",
   "modelId": 17022,
   "nature": "mixed",
   "troves": [
@@ -6250,7 +7011,7 @@
  },
  {
   "name": "Main Street Modular Apartments: Texas Mercantile General Store",
-  "group": "G022",
+  "group": "G068",
   "modelId": 20772,
   "nature": "mixed",
   "troves": [
@@ -6286,21 +7047,24 @@
    "sheepskin-2",
    "straight-razor-2"
   ],
-  "source": "game-fiche",
+  "source": "catalog+game",
   "verified": true,
-  "sameTrovesAs": [
-   "Black Cat Curiosities Shop",
-   "Cobweb & Co Antiques",
-   "East Coast Modular: Liquor Store Edition",
-   "Going Under Dive Shop",
-   "Main Street Modular Apartments: Uppany & Co. Edition",
-   "Mainstreet Modular Apartments: Uppie Outfitters Edition"
-  ],
-  "status": "read"
+  "bonusTroves": [
+   "Charm Bracelet",
+   "Compass",
+   "Gold Ring",
+   "Heart",
+   "Horn",
+   "Knitting Circle",
+   "Lanolin",
+   "Lucky Penny",
+   "Multitool",
+   "Tool Chest"
+  ]
  },
  {
   "name": "Main Street Modular Apartments: Uppany & Co. Edition",
-  "group": "G022",
+  "group": "G068",
   "modelId": 17940,
   "nature": "mixed",
   "troves": [
@@ -6353,7 +7117,7 @@
  },
  {
   "name": "Main Street Modular: Pacific Northwest Trading Post Edition",
-  "group": "G102",
+  "group": "G120",
   "modelId": 17854,
   "nature": "mixed",
   "troves": [
@@ -6401,7 +7165,7 @@
  },
  {
   "name": "Mainstreet Modular Apartments: Arcade Edition",
-  "group": "G005",
+  "group": "G121",
   "modelId": 16896,
   "nature": "mixed",
   "troves": [
@@ -6443,7 +7207,7 @@
  },
  {
   "name": "Mainstreet Modular Apartments: Bookstore Edition",
-  "group": "G024",
+  "group": "G110",
   "modelId": 16885,
   "nature": "mixed",
   "troves": [
@@ -6482,7 +7246,7 @@
  },
  {
   "name": "Mainstreet Modular Apartments: Cafe Edition building",
-  "group": "G023",
+  "group": "G086",
   "modelId": 16308,
   "nature": "mixed",
   "troves": [
@@ -6505,31 +7269,43 @@
   "recipes": [
    "belly-laugh-1",
    "check-in-2",
-   "cheers-2",
+   "cheers-3",
    "cheese-wheel-1",
    "day-off-2",
    "game-night-1",
-   "get-well-1",
+   "get-well-2",
    "hello-again-2",
    "herbal-tea-1",
    "inside-joke-2",
-   "jam-jar-2",
+   "jam-jar-3",
    "snuggle-1",
    "wind-down-2"
   ],
-  "source": "game-fiche",
+  "source": "catalog+game",
   "verified": true,
-  "sameTrovesAs": [
-   "Block & Beans Coffee",
-   "French Cafe",
-   "The Rocket Cup Cafe",
-   "The Tipsy Teapot Cafe"
-  ],
-  "status": "read"
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Best Friend",
+   "Birthday Wish",
+   "Block Party",
+   "Chicken Soup",
+   "Come Anytime",
+   "Cookie",
+   "Game Console",
+   "Ginger",
+   "Ice Cream",
+   "Lullaby",
+   "Maple Syrup",
+   "Moral Support",
+   "Pinky Promise",
+   "Secret Handshake",
+   "Snappy Comeback",
+   "Tea Leaf"
+  ]
  },
  {
   "name": "Mainstreet Modular Apartments: Clothing Boutique",
-  "group": "G099",
+  "group": "G117",
   "modelId": 16422,
   "nature": "mixed",
   "troves": [
@@ -6563,7 +7339,7 @@
  },
  {
   "name": "Mainstreet Modular Apartments: Farmer Supply Editions",
-  "group": "G103",
+  "group": "G122",
   "modelId": 19047,
   "nature": "mixed",
   "troves": [
@@ -6604,7 +7380,7 @@
  },
  {
   "name": "Mainstreet Modular Apartments: Laundromat Edition",
-  "group": "G054",
+  "group": "G112",
   "modelId": 17018,
   "nature": "mixed",
   "troves": [
@@ -6636,7 +7412,7 @@
  },
  {
   "name": "Mainstreet Modular Apartments: Pawn Shop Edition",
-  "group": "G003",
+  "group": "G072",
   "modelId": 18567,
   "nature": "mixed",
   "troves": [
@@ -6669,7 +7445,7 @@
  },
  {
   "name": "Mainstreet Modular Apartments: Pub Edition building",
-  "group": "G025",
+  "group": "G114",
   "modelId": 16375,
   "nature": "mixed",
   "troves": [
@@ -6710,7 +7486,7 @@
  },
  {
   "name": "Mainstreet Modular Apartments: Uppie Outfitters Edition",
-  "group": "G022",
+  "group": "G068",
   "modelId": 20701,
   "nature": "mixed",
   "troves": [
@@ -6763,7 +7539,7 @@
  },
  {
   "name": "Mainstreet Modular Apartments: Zoomies Skate Shop Edition",
-  "group": "G104",
+  "group": "G123",
   "modelId": 19146,
   "nature": "mixed",
   "troves": [
@@ -6787,18 +7563,60 @@
  },
  {
   "name": "Mainstreet Modular: The Salty Anchor Marine Supply",
-  "group": null,
+  "group": "G068",
   "modelId": 20864,
   "nature": "mixed",
-  "troves": [],
-  "recipes": [],
-  "source": "game",
+  "troves": [
+   "Brass Token",
+   "Brooch",
+   "Charm Bracelet",
+   "Coil Spring",
+   "Dollar Bill",
+   "Glass Bead",
+   "Grin",
+   "Incense Stick",
+   "Silver Coin",
+   "Sunlight",
+   "Thread",
+   "Thumbs Up",
+   "Twine",
+   "Wink",
+   "Wool"
+  ],
+  "recipes": [
+   "brooch-1",
+   "bubble-bath-1",
+   "earring-2",
+   "electric-blanket-1",
+   "flashlight-1",
+   "harmonica-2",
+   "locket-1",
+   "lotus-2",
+   "mud-mask-1",
+   "pendant-1",
+   "pocket-knife-2",
+   "rawhide-1",
+   "sheepskin-2",
+   "straight-razor-2"
+  ],
+  "source": "catalog",
   "verified": false,
-  "status": "pending"
+  "bonusTroves": [
+   "Charm Bracelet",
+   "Compass",
+   "Gold Ring",
+   "Heart",
+   "Horn",
+   "Knitting Circle",
+   "Lanolin",
+   "Lucky Penny",
+   "Multitool",
+   "Tool Chest"
+  ]
  },
  {
   "name": "Mall of Upland",
-  "group": "G022",
+  "group": "G068",
   "modelId": 17864,
   "nature": "service",
   "troves": [
@@ -6851,7 +7669,7 @@
  },
  {
   "name": "Martial Arts Dojo",
-  "group": "G105",
+  "group": "G124",
   "modelId": 16789,
   "nature": "service",
   "troves": [
@@ -6892,7 +7710,7 @@
  },
  {
   "name": "Massage Parlor",
-  "group": "G106",
+  "group": "G125",
   "modelId": 15910,
   "nature": "service",
   "troves": [
@@ -6978,7 +7796,7 @@
  },
  {
   "name": "Mexican Restaurant",
-  "group": "G065",
+  "group": "G069",
   "modelId": 17055,
   "nature": "service",
   "troves": [
@@ -7000,8 +7818,8 @@
    "avocado-1",
    "beef-1",
    "bell-pepper-1",
-   "bouquet-2",
-   "chili-powder-1",
+   "bouquet-3",
+   "chili-powder-2",
    "fire-extinguisher-1",
    "home-cooking-2",
    "lentil-2",
@@ -7047,7 +7865,7 @@
  },
  {
   "name": "Mile's Beach Bikes",
-  "group": "G021",
+  "group": "G126",
   "modelId": 19051,
   "nature": "service",
   "troves": [
@@ -7084,7 +7902,7 @@
  },
  {
   "name": "Mile’s Popcorn",
-  "group": "G035",
+  "group": "G039",
   "modelId": 19179,
   "nature": "service",
   "troves": [
@@ -7129,7 +7947,7 @@
  },
  {
   "name": "Mini Golf",
-  "group": "G017",
+  "group": "G097",
   "modelId": 15764,
   "nature": "service",
   "troves": [
@@ -7180,7 +7998,7 @@
  },
  {
   "name": "Modern Hotel",
-  "group": "G037",
+  "group": "G127",
   "modelId": 16687,
   "nature": "service",
   "troves": [
@@ -7226,7 +8044,7 @@
  },
  {
   "name": "Moonbeam Diner",
-  "group": "G107",
+  "group": "G128",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -7247,7 +8065,7 @@
    "all-here-2",
    "beef-1",
    "bell-pepper-1",
-   "bouquet-2",
+   "bouquet-3",
    "fire-extinguisher-1",
    "home-cooking-2",
    "smoke-alarm-1",
@@ -7268,7 +8086,7 @@
  },
  {
   "name": "Motel",
-  "group": "G037",
+  "group": "G127",
   "modelId": 16701,
   "nature": "service",
   "troves": [
@@ -7314,7 +8132,7 @@
  },
  {
   "name": "Mother Cluckers Chicken",
-  "group": "G059",
+  "group": "G061",
   "modelId": 20842,
   "nature": "service",
   "troves": [
@@ -7339,8 +8157,8 @@
    "avocado-1",
    "beef-1",
    "bell-pepper-1",
-   "bouquet-2",
-   "chili-powder-1",
+   "bouquet-3",
+   "chili-powder-2",
    "cod-1",
    "confetti-toss-2",
    "crab-2",
@@ -7349,6 +8167,7 @@
    "lamb-2",
    "lentil-2",
    "olive-1",
+   "oyster-1",
    "salmon-1",
    "smoke-alarm-1",
    "soybean-1",
@@ -7364,7 +8183,6 @@
    "Lobster",
    "Moral Support",
    "Olive Oil",
-   "Oyster",
    "Packed House",
    "Potluck",
    "Ramen Bowl",
@@ -7379,7 +8197,7 @@
  },
  {
   "name": "Mother Putters",
-  "group": "G017",
+  "group": "G097",
   "modelId": 19728,
   "nature": "service",
   "troves": [
@@ -7430,7 +8248,7 @@
  },
  {
   "name": "Movie Theatre",
-  "group": "G033",
+  "group": "G129",
   "modelId": 15136,
   "nature": "service",
   "troves": [
@@ -7462,7 +8280,7 @@
  },
  {
   "name": "Musical Instrument Store",
-  "group": "G108",
+  "group": "G130",
   "modelId": 16888,
   "nature": "service",
   "troves": [
@@ -7485,7 +8303,7 @@
  },
  {
   "name": "Nail Salon",
-  "group": "G044",
+  "group": "G064",
   "modelId": 16588,
   "nature": "service",
   "troves": [
@@ -7532,7 +8350,7 @@
  },
  {
   "name": "Nathan’s Infamous Hot Dog Stand",
-  "group": "G035",
+  "group": "G039",
   "modelId": 17682,
   "nature": "service",
   "troves": [
@@ -7577,7 +8395,7 @@
  },
  {
   "name": "Natural History Museum",
-  "group": "G109",
+  "group": "G131",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -7610,7 +8428,7 @@
  },
  {
   "name": "Neighborhood Market",
-  "group": "G110",
+  "group": "G132",
   "modelId": 17017,
   "nature": "service",
   "troves": [
@@ -7636,13 +8454,13 @@
    "avocado-1",
    "beef-2",
    "bell-pepper-1",
-   "bouquet-1",
+   "bouquet-2",
    "bucket-2",
    "care-package-1",
    "catfish-2",
    "cheese-wheel-2",
    "chickpea-1",
-   "chili-powder-2",
+   "chili-powder-3",
    "cod-2",
    "crab-1",
    "cranberry-1",
@@ -7650,12 +8468,12 @@
    "goofy-face-2",
    "grape-1",
    "home-cooking-1",
-   "jam-jar-1",
+   "jam-jar-2",
    "lamb-1",
    "lemon-1",
    "lentil-1",
    "olive-1",
-   "oyster-1",
+   "oyster-2",
    "picnic-1",
    "pumpkin-1",
    "salmon-2",
@@ -7695,7 +8513,7 @@
  },
  {
   "name": "Neighborhood Police Station",
-  "group": "G123",
+  "group": "G133",
   "modelId": 16182,
   "nature": "service",
   "troves": [
@@ -7720,19 +8538,17 @@
    "flashlight-2",
    "gavel-1"
   ],
-  "source": "game-fiche",
+  "source": "catalog+game",
   "verified": true,
-  "sameTrovesAs": [
-   "Police Detention center",
-   "Police Headquarters",
-   "Regional Police Station",
-   "Starlite Precinct"
-  ],
-  "status": "read"
+  "bonusTroves": [
+   "Ancient Scroll",
+   "Compass",
+   "Police Badge"
+  ]
  },
  {
   "name": "Neon Glide Roller Rink",
-  "group": "G111",
+  "group": "G134",
   "modelId": 16699,
   "nature": "service",
   "troves": [
@@ -7771,7 +8587,7 @@
  },
  {
   "name": "Newspaper Headquarters",
-  "group": "G112",
+  "group": "G135",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -7800,7 +8616,7 @@
  },
  {
   "name": "Newspaper Stand",
-  "group": null,
+  "group": "G136",
   "modelId": 16265,
   "nature": "service",
   "troves": [
@@ -7819,14 +8635,19 @@
    "Sunlight",
    "Twine"
   ],
-  "recipes": [],
-  "source": "game-fiche",
+  "recipes": [
+   "comic-book-1",
+   "hello-again-1"
+  ],
+  "source": "catalog+game",
   "verified": true,
-  "status": "read"
+  "bonusTroves": [
+   "Grin"
+  ]
  },
  {
   "name": "Night Club",
-  "group": "G039",
+  "group": "G137",
   "modelId": 16015,
   "nature": "service",
   "troves": [
@@ -7856,7 +8677,7 @@
  },
  {
   "name": "Nomi Sushi Bar",
-  "group": "G113",
+  "group": "G138",
   "modelId": 17291,
   "nature": "service",
   "troves": [
@@ -7875,11 +8696,12 @@
   "recipes": [
    "all-here-2",
    "avocado-1",
-   "bouquet-2",
+   "bouquet-3",
    "cod-1",
    "crab-2",
    "fire-extinguisher-1",
    "home-cooking-2",
+   "oyster-1",
    "salmon-1",
    "smoke-alarm-1",
    "soybean-1",
@@ -7894,7 +8716,6 @@
    "Lobster",
    "Moral Support",
    "Olive Oil",
-   "Oyster",
    "Packed House",
    "Potluck",
    "Ramen Bowl",
@@ -7917,7 +8738,7 @@
  },
  {
   "name": "Off the Wall Skate Park",
-  "group": "G114",
+  "group": "G139",
   "modelId": 18772,
   "nature": "service",
   "troves": [
@@ -7959,7 +8780,7 @@
  },
  {
   "name": "Office Complex",
-  "group": "G095",
+  "group": "G111",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -8011,7 +8832,7 @@
  },
  {
   "name": "Office Tower",
-  "group": "G095",
+  "group": "G111",
   "modelId": 17025,
   "nature": "service",
   "troves": [
@@ -8063,7 +8884,7 @@
  },
  {
   "name": "Oil Change center",
-  "group": "G115",
+  "group": "G140",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -8100,7 +8921,7 @@
  },
  {
   "name": "Old Asylum",
-  "group": "G116",
+  "group": "G141",
   "modelId": 16360,
   "nature": "service",
   "troves": [
@@ -8132,7 +8953,7 @@
  },
  {
   "name": "Old Crow Farm Market",
-  "group": "G110",
+  "group": "G132",
   "modelId": 20708,
   "nature": "service",
   "troves": [
@@ -8158,13 +8979,13 @@
    "avocado-1",
    "beef-2",
    "bell-pepper-1",
-   "bouquet-1",
+   "bouquet-2",
    "bucket-2",
    "care-package-1",
    "catfish-2",
    "cheese-wheel-2",
    "chickpea-1",
-   "chili-powder-2",
+   "chili-powder-3",
    "cod-2",
    "crab-1",
    "cranberry-1",
@@ -8172,12 +8993,12 @@
    "goofy-face-2",
    "grape-1",
    "home-cooking-1",
-   "jam-jar-1",
+   "jam-jar-2",
    "lamb-1",
    "lemon-1",
    "lentil-1",
    "olive-1",
-   "oyster-1",
+   "oyster-2",
    "picnic-1",
    "pumpkin-1",
    "salmon-2",
@@ -8217,7 +9038,7 @@
  },
  {
   "name": "Olde Wonder Toys",
-  "group": "G022",
+  "group": "G068",
   "modelId": 20710,
   "nature": "service",
   "troves": [
@@ -8270,7 +9091,7 @@
  },
  {
   "name": "Omaha Retro Googie Farmers Market",
-  "group": "G072",
+  "group": "G080",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -8295,11 +9116,11 @@
    "avocado-2",
    "bell-pepper-2",
    "chickpea-1",
-   "chili-powder-2",
+   "chili-powder-3",
    "cranberry-1",
    "cucumber-1",
    "grape-1",
-   "jam-jar-1",
+   "jam-jar-2",
    "kiwifruit-2",
    "lentil-1",
    "mango-1",
@@ -8324,7 +9145,7 @@
  },
  {
   "name": "Optometrist",
-  "group": "G117",
+  "group": "G142",
   "modelId": 16589,
   "nature": "service",
   "troves": [
@@ -8340,7 +9161,7 @@
    "Thumbs Up"
   ],
   "recipes": [
-   "get-well-2",
+   "get-well-3",
    "steady-nerves-2",
    "tweezers-2"
   ],
@@ -8349,7 +9170,7 @@
  },
  {
   "name": "Paintball Upland",
-  "group": "G017",
+  "group": "G097",
   "modelId": 19206,
   "nature": "service",
   "troves": [
@@ -8455,7 +9276,7 @@
  },
  {
   "name": "Pawn shop",
-  "group": "G003",
+  "group": "G072",
   "modelId": 16683,
   "nature": "service",
   "troves": [
@@ -8488,7 +9309,7 @@
  },
  {
   "name": "Performing Arts Center",
-  "group": "G096",
+  "group": "G113",
   "modelId": 15909,
   "nature": "service",
   "troves": [
@@ -8524,7 +9345,7 @@
  },
  {
   "name": "Pet Shop",
-  "group": "G118",
+  "group": "G143",
   "modelId": 16529,
   "nature": "service",
   "troves": [
@@ -8562,7 +9383,7 @@
  },
  {
   "name": "Pharmacy",
-  "group": "G062",
+  "group": "G065",
   "modelId": 16357,
   "nature": "service",
   "troves": [
@@ -8581,7 +9402,7 @@
    "Wool"
   ],
   "recipes": [
-   "get-well-2",
+   "get-well-3",
    "herbal-tea-2",
    "pill-bottle-1",
    "steady-nerves-2"
@@ -8595,7 +9416,7 @@
  },
  {
   "name": "Pho Whoa",
-  "group": "G119",
+  "group": "G144",
   "modelId": 17865,
   "nature": "service",
   "troves": [
@@ -8615,8 +9436,8 @@
   "recipes": [
    "all-here-2",
    "beef-1",
-   "bouquet-2",
-   "chili-powder-1",
+   "bouquet-3",
+   "chili-powder-2",
    "fire-extinguisher-1",
    "home-cooking-2",
    "lentil-2",
@@ -8642,7 +9463,7 @@
  },
  {
   "name": "Physical Therapy Clinic",
-  "group": "G120",
+  "group": "G145",
   "modelId": 16198,
   "nature": "service",
   "troves": [
@@ -8666,7 +9487,7 @@
  },
  {
   "name": "Pickle Ball Courts",
-  "group": "G121",
+  "group": "G146",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -8701,7 +9522,7 @@
  },
  {
   "name": "Pixel Pulse Arcade",
-  "group": "G005",
+  "group": "G121",
   "modelId": 16696,
   "nature": "service",
   "troves": [
@@ -8743,7 +9564,7 @@
  },
  {
   "name": "Pizzeria",
-  "group": "G100",
+  "group": "G118",
   "modelId": 16893,
   "nature": "service",
   "troves": [
@@ -8763,7 +9584,7 @@
   "recipes": [
    "all-here-2",
    "bell-pepper-1",
-   "bouquet-2",
+   "bouquet-3",
    "confetti-toss-2",
    "fire-extinguisher-1",
    "home-cooking-2",
@@ -8789,7 +9610,7 @@
  },
  {
   "name": "Planetarium",
-  "group": "G122",
+  "group": "G147",
   "modelId": 16694,
   "nature": "service",
   "troves": [
@@ -8820,7 +9641,7 @@
  },
  {
   "name": "Police Detention center",
-  "group": "G123",
+  "group": "G133",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -8855,7 +9676,7 @@
  },
  {
   "name": "Police Headquarters",
-  "group": "G123",
+  "group": "G133",
   "modelId": 15135,
   "nature": "service",
   "troves": [
@@ -8890,7 +9711,7 @@
  },
  {
   "name": "Pool Hall",
-  "group": "G017",
+  "group": "G097",
   "modelId": 16423,
   "nature": "service",
   "troves": [
@@ -8941,7 +9762,7 @@
  },
  {
   "name": "Post Office",
-  "group": "G124",
+  "group": "G148",
   "modelId": 16183,
   "nature": "service",
   "troves": [
@@ -8968,7 +9789,7 @@
  },
  {
   "name": "Post Office Distribution Center",
-  "group": "G124",
+  "group": "G148",
   "modelId": 16695,
   "nature": "service",
   "troves": [
@@ -8995,7 +9816,7 @@
  },
  {
   "name": "Private Swim Club",
-  "group": "G125",
+  "group": "G149",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -9050,7 +9871,7 @@
  },
  {
   "name": "Pub",
-  "group": "G025",
+  "group": "G114",
   "modelId": 16046,
   "nature": "service",
   "troves": [
@@ -9078,20 +9899,20 @@
    "mic-drop-2",
    "running-gag-1"
   ],
-  "source": "game-fiche",
+  "source": "catalog+game",
   "verified": true,
-  "sameTrovesAs": [
-   "Brewery",
-   "Local Brewery",
-   "Mainstreet Modular Apartments: Pub Edition building",
-   "South America Modular Apartments: Two Can Tango Bar Edition",
-   "The Tipsy Tiki Bar"
-  ],
-  "status": "read"
+  "bonusTroves": [
+   "Huddle",
+   "Microphone",
+   "Packed House",
+   "Snappy Comeback",
+   "Soldering Iron",
+   "Standing Ovation"
+  ]
  },
  {
   "name": "Public Pool",
-  "group": "G126",
+  "group": "G150",
   "modelId": 16685,
   "nature": "service",
   "troves": [
@@ -9135,7 +9956,7 @@
  },
  {
   "name": "Pure Pose Yoga",
-  "group": "G127",
+  "group": "G151",
   "modelId": 17293,
   "nature": "service",
   "troves": [
@@ -9203,7 +10024,7 @@
  },
  {
   "name": "Quickserver Surf Co",
-  "group": "G128",
+  "group": "G152",
   "modelId": 18771,
   "nature": "service",
   "troves": [
@@ -9233,7 +10054,7 @@
  },
  {
   "name": "Radio Station",
-  "group": "G129",
+  "group": "G153",
   "modelId": 16883,
   "nature": "service",
   "troves": [
@@ -9259,7 +10080,7 @@
  },
  {
   "name": "Ramen Restaurant",
-  "group": "G130",
+  "group": "G154",
   "modelId": 16774,
   "nature": "service",
   "troves": [
@@ -9280,8 +10101,8 @@
   "recipes": [
    "all-here-2",
    "beef-1",
-   "bouquet-2",
-   "chili-powder-1",
+   "bouquet-3",
+   "chili-powder-2",
    "fire-extinguisher-1",
    "home-cooking-2",
    "lentil-2",
@@ -9318,7 +10139,7 @@
  },
  {
   "name": "Recycling Center",
-  "group": "G131",
+  "group": "G155",
   "modelId": 16264,
   "nature": "service",
   "troves": [
@@ -9351,7 +10172,7 @@
  },
  {
   "name": "Regal Roots Salon",
-  "group": "G044",
+  "group": "G064",
   "modelId": 17294,
   "nature": "service",
   "troves": [
@@ -9398,7 +10219,7 @@
  },
  {
   "name": "Regional Hospital",
-  "group": "G038",
+  "group": "G091",
   "modelId": 17295,
   "nature": "service",
   "troves": [
@@ -9418,7 +10239,7 @@
    "Wool"
   ],
   "recipes": [
-   "get-well-2",
+   "get-well-3",
    "herbal-tea-2",
    "house-call-1",
    "pill-bottle-1",
@@ -9436,7 +10257,7 @@
  },
  {
   "name": "Regional Police Station",
-  "group": "G123",
+  "group": "G133",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -9471,7 +10292,7 @@
  },
  {
   "name": "Rick's Sporting Goods",
-  "group": "G132",
+  "group": "G156",
   "modelId": 17290,
   "nature": "service",
   "troves": [
@@ -9506,7 +10327,7 @@
  },
  {
   "name": "Rip Curl’d Swimwear",
-  "group": "G133",
+  "group": "G157",
   "modelId": 19178,
   "nature": "service",
   "troves": [
@@ -9533,7 +10354,7 @@
  },
  {
   "name": "Salem Shawarma Kiosk",
-  "group": "G035",
+  "group": "G039",
   "modelId": 20711,
   "nature": "service",
   "troves": [
@@ -9578,7 +10399,7 @@
  },
  {
   "name": "Sausage Stand",
-  "group": "G035",
+  "group": "G039",
   "modelId": 16143,
   "nature": "service",
   "troves": [
@@ -9623,7 +10444,7 @@
  },
  {
   "name": "Science Museum",
-  "group": "G134",
+  "group": "G158",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -9655,7 +10476,7 @@
  },
  {
   "name": "Seattle Music Venue Service Structure",
-  "group": "G135",
+  "group": "G159",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -9692,7 +10513,7 @@
  },
  {
   "name": "Set Point Beach Club",
-  "group": "G136",
+  "group": "G160",
   "modelId": 19147,
   "nature": "service",
   "troves": [
@@ -9736,7 +10557,7 @@
  },
  {
   "name": "Shawarma Street Co.",
-  "group": "G035",
+  "group": "G039",
   "modelId": 17901,
   "nature": "service",
   "troves": [
@@ -9781,7 +10602,7 @@
  },
  {
   "name": "Singapore Kopitiam",
-  "group": "G137",
+  "group": "G161",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -9822,7 +10643,7 @@
  },
  {
   "name": "Skyline Medical Center",
-  "group": "G038",
+  "group": "G091",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -9842,7 +10663,7 @@
    "Wool"
   ],
   "recipes": [
-   "get-well-2",
+   "get-well-3",
    "herbal-tea-2",
    "house-call-1",
    "pill-bottle-1",
@@ -9871,7 +10692,7 @@
  },
  {
   "name": "Small Farmers Market",
-  "group": "G072",
+  "group": "G080",
   "modelId": 16901,
   "nature": "service",
   "troves": [
@@ -9896,11 +10717,11 @@
    "avocado-2",
    "bell-pepper-2",
    "chickpea-1",
-   "chili-powder-2",
+   "chili-powder-3",
    "cranberry-1",
    "cucumber-1",
    "grape-1",
-   "jam-jar-1",
+   "jam-jar-2",
    "kiwifruit-2",
    "lentil-1",
    "mango-1",
@@ -9925,7 +10746,7 @@
  },
  {
   "name": "Small Office",
-  "group": "G095",
+  "group": "G111",
   "modelId": 17023,
   "nature": "service",
   "troves": [
@@ -9962,14 +10783,18 @@
    "tape-measure-1",
    "wax-seal-2"
   ],
-  "source": "game-fiche",
+  "source": "catalog+game",
   "verified": true,
-  "sameTrovesAs": [
-   "Large Office",
-   "Office Complex",
-   "Office Tower"
-  ],
-  "status": "read"
+  "bonusTroves": [
+   "Ancient Scroll",
+   "Family Crest",
+   "Huddle",
+   "Multitool",
+   "Pinky Promise",
+   "Special Guest",
+   "Squad",
+   "Tool Chest"
+  ]
  },
  {
   "name": "Small Showroom I",
@@ -10017,7 +10842,7 @@
  },
  {
   "name": "Sneaker Store",
-  "group": "G101",
+  "group": "G119",
   "modelId": 16702,
   "nature": "service",
   "troves": [
@@ -10052,7 +10877,7 @@
  },
  {
   "name": "Soccer Field",
-  "group": "G138",
+  "group": "G162",
   "modelId": 17044,
   "nature": "service",
   "troves": [
@@ -10093,7 +10918,7 @@
  },
  {
   "name": "South America Modular Apartments: Almacén Edition",
-  "group": "G110",
+  "group": "G132",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -10119,13 +10944,13 @@
    "avocado-1",
    "beef-2",
    "bell-pepper-1",
-   "bouquet-1",
+   "bouquet-2",
    "bucket-2",
    "care-package-1",
    "catfish-2",
    "cheese-wheel-2",
    "chickpea-1",
-   "chili-powder-2",
+   "chili-powder-3",
    "cod-2",
    "crab-1",
    "cranberry-1",
@@ -10133,12 +10958,12 @@
    "goofy-face-2",
    "grape-1",
    "home-cooking-1",
-   "jam-jar-1",
+   "jam-jar-2",
    "lamb-1",
    "lemon-1",
    "lentil-1",
    "olive-1",
-   "oyster-1",
+   "oyster-2",
    "picnic-1",
    "pumpkin-1",
    "salmon-2",
@@ -10178,7 +11003,7 @@
  },
  {
   "name": "South America Modular Apartments: Rodizio Edition",
-  "group": "G139",
+  "group": "G163",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -10199,8 +11024,8 @@
   "recipes": [
    "all-here-2",
    "beef-1",
-   "bouquet-2",
-   "chili-powder-1",
+   "bouquet-3",
+   "chili-powder-2",
    "fire-extinguisher-1",
    "home-cooking-2",
    "lamb-2",
@@ -10226,7 +11051,7 @@
  },
  {
   "name": "South America Modular Apartments: Two Can Tango Bar Edition",
-  "group": "G025",
+  "group": "G114",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -10267,7 +11092,7 @@
  },
  {
   "name": "Southside Boxing Club",
-  "group": "G140",
+  "group": "G164",
   "modelId": 17060,
   "nature": "service",
   "troves": [
@@ -10309,14 +11134,32 @@
  },
  {
   "name": "Sparklet Refinery",
-  "group": null,
+  "group": "G108",
   "modelId": 20845,
   "nature": "service",
-  "troves": [],
-  "recipes": [],
-  "source": "game",
-  "verified": false,
-  "status": "pending"
+  "troves": [
+   "Brass Token",
+   "Dollar Bill",
+   "Eye Roll",
+   "Family Crest",
+   "Gavel",
+   "Handshake",
+   "Key Ring",
+   "Kind Word",
+   "Listening Ear",
+   "Love Letter",
+   "Photograph",
+   "Polite Bow",
+   "Postage Stamp",
+   "Postcard",
+   "Silver Coin"
+  ],
+  "recipes": [
+   "gavel-2",
+   "side-eye-1"
+  ],
+  "source": "catalog",
+  "verified": false
  },
  {
   "name": "Speedway Structure - Medium",
@@ -10331,7 +11174,7 @@
  },
  {
   "name": "Sports Courts",
-  "group": "G141",
+  "group": "G165",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -10375,7 +11218,7 @@
  },
  {
   "name": "Starlite Precinct",
-  "group": "G123",
+  "group": "G133",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -10410,7 +11253,7 @@
  },
  {
   "name": "Steakhouse",
-  "group": "G139",
+  "group": "G163",
   "modelId": 17021,
   "nature": "service",
   "troves": [
@@ -10431,8 +11274,8 @@
   "recipes": [
    "all-here-2",
    "beef-1",
-   "bouquet-2",
-   "chili-powder-1",
+   "bouquet-3",
+   "chili-powder-2",
    "fire-extinguisher-1",
    "home-cooking-2",
    "lamb-2",
@@ -10469,7 +11312,7 @@
  },
  {
   "name": "Sunglass Shack",
-  "group": "G142",
+  "group": "G166",
   "modelId": 19484,
   "nature": "service",
   "troves": [
@@ -10497,7 +11340,7 @@
  },
  {
   "name": "SuperKarts Mini Raceway",
-  "group": "G017",
+  "group": "G097",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -10548,7 +11391,7 @@
  },
  {
   "name": "Supermarket",
-  "group": "G110",
+  "group": "G132",
   "modelId": 15134,
   "nature": "service",
   "troves": [
@@ -10574,13 +11417,13 @@
    "avocado-1",
    "beef-2",
    "bell-pepper-1",
-   "bouquet-1",
+   "bouquet-2",
    "bucket-2",
    "care-package-1",
    "catfish-2",
    "cheese-wheel-2",
    "chickpea-1",
-   "chili-powder-2",
+   "chili-powder-3",
    "cod-2",
    "crab-1",
    "cranberry-1",
@@ -10588,12 +11431,12 @@
    "goofy-face-2",
    "grape-1",
    "home-cooking-1",
-   "jam-jar-1",
+   "jam-jar-2",
    "lamb-1",
    "lemon-1",
    "lentil-1",
    "olive-1",
-   "oyster-1",
+   "oyster-2",
    "picnic-1",
    "pumpkin-1",
    "salmon-2",
@@ -10602,19 +11445,38 @@
    "squid-2",
    "tomato-1"
   ],
-  "source": "game-fiche",
+  "source": "catalog+game",
   "verified": true,
-  "sameTrovesAs": [
-   "Neighborhood Market",
-   "Old Crow Farm Market",
-   "South America Modular Apartments: Almacén Edition",
-   "Supermarket Super Store"
-  ],
-  "status": "read"
+  "bonusTroves": [
+   "Air Kiss",
+   "Almond",
+   "Asparagus",
+   "Baguette Loaf",
+   "Burger",
+   "Fruit Basket",
+   "Healing Kit",
+   "Lobster",
+   "Lollipop",
+   "Milk Pail",
+   "Olive Oil",
+   "Pizza Slice",
+   "Potluck",
+   "Ramen Bowl",
+   "Salami",
+   "Snappy Comeback",
+   "Strawberry",
+   "Sturgeon",
+   "Taco",
+   "Talent Show",
+   "Tuna",
+   "Walnut",
+   "Welcome Mat",
+   "Wine Bottle"
+  ]
  },
  {
   "name": "Supermarket Super Store",
-  "group": "G110",
+  "group": "G132",
   "modelId": 15687,
   "nature": "service",
   "troves": [
@@ -10640,13 +11502,13 @@
    "avocado-1",
    "beef-2",
    "bell-pepper-1",
-   "bouquet-1",
+   "bouquet-2",
    "bucket-2",
    "care-package-1",
    "catfish-2",
    "cheese-wheel-2",
    "chickpea-1",
-   "chili-powder-2",
+   "chili-powder-3",
    "cod-2",
    "crab-1",
    "cranberry-1",
@@ -10654,12 +11516,12 @@
    "goofy-face-2",
    "grape-1",
    "home-cooking-1",
-   "jam-jar-1",
+   "jam-jar-2",
    "lamb-1",
    "lemon-1",
    "lentil-1",
    "olive-1",
-   "oyster-1",
+   "oyster-2",
    "picnic-1",
    "pumpkin-1",
    "salmon-2",
@@ -10699,7 +11561,7 @@
  },
  {
   "name": "Swiggly Soda Shop",
-  "group": "G143",
+  "group": "G167",
   "modelId": 17900,
   "nature": "service",
   "troves": [
@@ -10717,7 +11579,7 @@
    "Strawberry"
   ],
   "recipes": [
-   "cheers-1",
+   "cheers-2",
    "happy-tears-2",
    "new-friend-2"
   ],
@@ -10731,7 +11593,7 @@
  },
  {
   "name": "SynthTag Laser Tag",
-  "group": "G144",
+  "group": "G168",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -10770,7 +11632,7 @@
  },
  {
   "name": "Taco Stand",
-  "group": "G094",
+  "group": "G106",
   "modelId": 19050,
   "nature": "service",
   "troves": [
@@ -10810,7 +11672,7 @@
  },
  {
   "name": "Takasaki Retro Googie Farmers Market",
-  "group": "G072",
+  "group": "G080",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -10835,11 +11697,11 @@
    "avocado-2",
    "bell-pepper-2",
    "chickpea-1",
-   "chili-powder-2",
+   "chili-powder-3",
    "cranberry-1",
    "cucumber-1",
    "grape-1",
-   "jam-jar-1",
+   "jam-jar-2",
    "kiwifruit-2",
    "lentil-1",
    "mango-1",
@@ -10864,7 +11726,7 @@
  },
  {
   "name": "Tandoor House",
-  "group": "G145",
+  "group": "G169",
   "modelId": 17058,
   "nature": "service",
   "troves": [
@@ -10883,8 +11745,8 @@
   ],
   "recipes": [
    "all-here-2",
-   "bouquet-2",
-   "chili-powder-1",
+   "bouquet-3",
+   "chili-powder-2",
    "fire-extinguisher-1",
    "home-cooking-2",
    "lamb-2",
@@ -10911,7 +11773,7 @@
  },
  {
   "name": "Tapas Bar",
-  "group": "G146",
+  "group": "G170",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -10931,14 +11793,15 @@
   "recipes": [
    "all-here-2",
    "beef-1",
-   "bouquet-2",
-   "chili-powder-1",
+   "bouquet-3",
+   "chili-powder-2",
    "cod-1",
    "crab-2",
    "fire-extinguisher-1",
    "home-cooking-2",
    "lamb-2",
    "olive-1",
+   "oyster-1",
    "smoke-alarm-1",
    "stopwatch-2"
   ],
@@ -10951,7 +11814,6 @@
    "Lobster",
    "Moral Support",
    "Olive Oil",
-   "Oyster",
    "Packed House",
    "Potluck",
    "Ramen Bowl",
@@ -10965,7 +11827,7 @@
  },
  {
   "name": "Tattoo Studio",
-  "group": "G063",
+  "group": "G066",
   "modelId": 17029,
   "nature": "service",
   "troves": [
@@ -11005,7 +11867,7 @@
  },
  {
   "name": "Taxi Depot",
-  "group": "G147",
+  "group": "G171",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -11037,7 +11899,7 @@
  },
  {
   "name": "Tennis court",
-  "group": "G148",
+  "group": "G172",
   "modelId": 17056,
   "nature": "service",
   "troves": [
@@ -11074,7 +11936,7 @@
  },
  {
   "name": "The Amsterdam Cheese House",
-  "group": "G149",
+  "group": "G173",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -11092,7 +11954,7 @@
   ],
   "recipes": [
    "cheese-wheel-2",
-   "jam-jar-1",
+   "jam-jar-2",
    "olive-1"
   ],
   "source": "catalog",
@@ -11104,7 +11966,7 @@
  },
  {
   "name": "The Atomic Arcade",
-  "group": "G005",
+  "group": "G121",
   "modelId": 18178,
   "nature": "service",
   "troves": [
@@ -11146,7 +12008,7 @@
  },
  {
   "name": "The Atomic Firehouse",
-  "group": "G074",
+  "group": "G083",
   "modelId": 18540,
   "nature": "service",
   "troves": [
@@ -11188,7 +12050,7 @@
  },
  {
   "name": "The Atomic Oven Bakery",
-  "group": "G056",
+  "group": "G174",
   "modelId": 18180,
   "nature": "service",
   "troves": [
@@ -11211,7 +12073,7 @@
    "Wheat"
   ],
   "recipes": [
-   "cheers-1",
+   "cheers-2",
    "flour-2",
    "happy-tears-2",
    "new-friend-2",
@@ -11229,7 +12091,7 @@
  },
  {
   "name": "The Burger Stop",
-  "group": "G057",
+  "group": "G081",
   "modelId": 19235,
   "nature": "service",
   "troves": [
@@ -11251,8 +12113,8 @@
    "all-here-2",
    "beef-1",
    "bell-pepper-1",
-   "bouquet-2",
-   "chili-powder-1",
+   "bouquet-3",
+   "chili-powder-2",
    "fire-extinguisher-1",
    "home-cooking-2",
    "smoke-alarm-1",
@@ -11275,7 +12137,7 @@
  },
  {
   "name": "The Climbing Collective",
-  "group": "G150",
+  "group": "G175",
   "modelId": 19002,
   "nature": "service",
   "troves": [
@@ -11314,7 +12176,7 @@
  },
  {
   "name": "The Corner Drugstore",
-  "group": "G062",
+  "group": "G065",
   "modelId": 18572,
   "nature": "service",
   "troves": [
@@ -11333,7 +12195,7 @@
    "Wool"
   ],
   "recipes": [
-   "get-well-2",
+   "get-well-3",
    "herbal-tea-2",
    "pill-bottle-1",
    "steady-nerves-2"
@@ -11347,7 +12209,7 @@
  },
  {
   "name": "The Crepe Escape",
-  "group": "G035",
+  "group": "G039",
   "modelId": 18449,
   "nature": "service",
   "troves": [
@@ -11392,7 +12254,7 @@
  },
  {
   "name": "The Crispy Crust Pizza",
-  "group": "G035",
+  "group": "G039",
   "modelId": 20095,
   "nature": "service",
   "troves": [
@@ -11437,7 +12299,7 @@
  },
  {
   "name": "The Crispy Empanada Kiosk",
-  "group": "G035",
+  "group": "G039",
   "modelId": 18538,
   "nature": "service",
   "troves": [
@@ -11482,7 +12344,7 @@
  },
  {
   "name": "The Crooked Cod",
-  "group": "G035",
+  "group": "G039",
   "modelId": 20363,
   "nature": "service",
   "troves": [
@@ -11527,7 +12389,7 @@
  },
  {
   "name": "The Curious Cauldron",
-  "group": "G022",
+  "group": "G068",
   "modelId": 20094,
   "nature": "service",
   "troves": [
@@ -11580,7 +12442,7 @@
  },
  {
   "name": "The Flickering Wick",
-  "group": "G022",
+  "group": "G068",
   "modelId": 20092,
   "nature": "service",
   "troves": [
@@ -11633,7 +12495,7 @@
  },
  {
   "name": "The Golden Vault Bank",
-  "group": "G151",
+  "group": "G176",
   "modelId": 18571,
   "nature": "service",
   "troves": [
@@ -11660,8 +12522,95 @@
   "verified": false
  },
  {
+  "name": "The Grimwood Hotel",
+  "group": "G127",
+  "modelId": null,
+  "nature": "service",
+  "troves": [
+   "Bathrobe",
+   "Blue Ribbon",
+   "Brass Token",
+   "Cozy Blanket",
+   "Friendly Wave",
+   "Handkerchief",
+   "Hinge",
+   "Hooray",
+   "Incense Stick",
+   "Key Ring",
+   "Light Bulb",
+   "Postcard",
+   "Thread",
+   "Thumbs Up",
+   "Welcome Mat"
+  ],
+  "recipes": [
+   "bathrobe-1",
+   "deadbolt-2",
+   "fresh-air-2",
+   "open-door-2",
+   "plush-pillow-1",
+   "sewing-kit-1",
+   "sleepover-1",
+   "smoke-alarm-2",
+   "snow-globe-2",
+   "treasure-map-1"
+  ],
+  "source": "catalog",
+  "verified": false,
+  "bonusTroves": [
+   "Compass",
+   "Lucky Penny",
+   "Rare Coin",
+   "Sea Shell",
+   "Strongbox",
+   "Teddy Bear",
+   "Welcome Mat"
+  ]
+ },
+ {
+  "name": "The Happy Harvest Cider House",
+  "group": "G114",
+  "modelId": null,
+  "nature": "service",
+  "troves": [
+   "Barley",
+   "Cheers",
+   "Crossed Fingers",
+   "Dollar Bill",
+   "Glass Bead",
+   "Glee",
+   "Handkerchief",
+   "Hooray",
+   "Oak Log",
+   "Pennant",
+   "Raffle Ticket",
+   "Silver Coin",
+   "Warm Hug",
+   "Wheat",
+   "Wine Bottle"
+  ],
+  "recipes": [
+   "back-slap-1",
+   "circuit-breaker-2",
+   "dance-move-2",
+   "grape-2",
+   "mic-drop-2",
+   "running-gag-1"
+  ],
+  "source": "catalog",
+  "verified": false,
+  "bonusTroves": [
+   "Huddle",
+   "Microphone",
+   "Packed House",
+   "Snappy Comeback",
+   "Soldering Iron",
+   "Standing Ovation"
+  ]
+ },
+ {
   "name": "The Harvest Oven",
-  "group": "G056",
+  "group": "G174",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -11684,7 +12633,7 @@
    "Wheat"
   ],
   "recipes": [
-   "cheers-1",
+   "cheers-2",
    "flour-2",
    "happy-tears-2",
    "new-friend-2",
@@ -11702,7 +12651,7 @@
  },
  {
   "name": "The Lobster Shack",
-  "group": "G152",
+  "group": "G177",
   "modelId": 17047,
   "nature": "service",
   "troves": [
@@ -11721,11 +12670,12 @@
   ],
   "recipes": [
    "all-here-2",
-   "bouquet-2",
+   "bouquet-3",
    "cod-1",
    "crab-2",
    "fire-extinguisher-1",
    "home-cooking-2",
+   "oyster-1",
    "salmon-1",
    "smoke-alarm-1",
    "stopwatch-2"
@@ -11738,7 +12688,6 @@
    "Healing Kit",
    "Lobster",
    "Moral Support",
-   "Oyster",
    "Packed House",
    "Potluck",
    "Sturgeon",
@@ -11749,7 +12698,7 @@
  },
  {
   "name": "The Lucky Star Hotel",
-  "group": "G037",
+  "group": "G127",
   "modelId": 18451,
   "nature": "service",
   "troves": [
@@ -11795,7 +12744,7 @@
  },
  {
   "name": "The Moonbeam Bookstore",
-  "group": "G024",
+  "group": "G110",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -11834,7 +12783,7 @@
  },
  {
   "name": "The Patty Shack",
-  "group": "G057",
+  "group": "G081",
   "modelId": 17825,
   "nature": "service",
   "troves": [
@@ -11856,8 +12805,8 @@
    "all-here-2",
    "beef-1",
    "bell-pepper-1",
-   "bouquet-2",
-   "chili-powder-1",
+   "bouquet-3",
+   "chili-powder-2",
    "fire-extinguisher-1",
    "home-cooking-2",
    "smoke-alarm-1",
@@ -11880,7 +12829,7 @@
  },
  {
   "name": "The Rocket Cup Cafe",
-  "group": "G023",
+  "group": "G086",
   "modelId": 18452,
   "nature": "service",
   "troves": [
@@ -11903,15 +12852,15 @@
   "recipes": [
    "belly-laugh-1",
    "check-in-2",
-   "cheers-2",
+   "cheers-3",
    "cheese-wheel-1",
    "day-off-2",
    "game-night-1",
-   "get-well-1",
+   "get-well-2",
    "hello-again-2",
    "herbal-tea-1",
    "inside-joke-2",
-   "jam-jar-2",
+   "jam-jar-3",
    "snuggle-1",
    "wind-down-2"
   ],
@@ -11939,7 +12888,7 @@
  },
  {
   "name": "The Salty Twist Pretzel Stand",
-  "group": "G035",
+  "group": "G039",
   "modelId": 19005,
   "nature": "service",
   "troves": [
@@ -11984,7 +12933,7 @@
  },
  {
   "name": "The Skyline Courthouse",
-  "group": "G045",
+  "group": "G108",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -12013,7 +12962,7 @@
  },
  {
   "name": "The Slice Station",
-  "group": "G092",
+  "group": "G104",
   "modelId": 17867,
   "nature": "service",
   "troves": [
@@ -12055,7 +13004,7 @@
  },
  {
   "name": "The Starlight Senior Home",
-  "group": "G010",
+  "group": "G107",
   "modelId": 18179,
   "nature": "service",
   "troves": [
@@ -12078,7 +13027,7 @@
   "recipes": [
    "electric-blanket-2",
    "house-call-2",
-   "locket-2",
+   "locket-3",
    "pill-bottle-2",
    "quilt-2",
    "scrapbook-1",
@@ -12089,7 +13038,7 @@
  },
  {
   "name": "The Starline Theater",
-  "group": "G096",
+  "group": "G113",
   "modelId": 18541,
   "nature": "service",
   "troves": [
@@ -12125,7 +13074,7 @@
  },
  {
   "name": "The Thrift Gap",
-  "group": "G153",
+  "group": "G178",
   "modelId": 17828,
   "nature": "service",
   "troves": [
@@ -12171,7 +13120,7 @@
  },
  {
   "name": "The Tipsy Teapot Cafe",
-  "group": "G023",
+  "group": "G086",
   "modelId": 20361,
   "nature": "service",
   "troves": [
@@ -12194,15 +13143,15 @@
   "recipes": [
    "belly-laugh-1",
    "check-in-2",
-   "cheers-2",
+   "cheers-3",
    "cheese-wheel-1",
    "day-off-2",
    "game-night-1",
-   "get-well-1",
+   "get-well-2",
    "hello-again-2",
    "herbal-tea-1",
    "inside-joke-2",
-   "jam-jar-2",
+   "jam-jar-3",
    "snuggle-1",
    "wind-down-2"
   ],
@@ -12230,7 +13179,7 @@
  },
  {
   "name": "The Tipsy Tiki Bar",
-  "group": "G025",
+  "group": "G114",
   "modelId": 18769,
   "nature": "service",
   "troves": [
@@ -12271,7 +13220,7 @@
  },
  {
   "name": "The Totally Official Cup Flag Stand",
-  "group": "G154",
+  "group": "G179",
   "modelId": 18181,
   "nature": "service",
   "troves": [
@@ -12309,7 +13258,7 @@
  },
  {
   "name": "The Twisted Pretzel",
-  "group": "G035",
+  "group": "G039",
   "modelId": 20873,
   "nature": "service",
   "troves": [
@@ -12339,21 +13288,22 @@
    "pocket-knife-1",
    "umbrella-1"
   ],
-  "source": "game-fiche",
+  "source": "catalog+game",
   "verified": true,
-  "sameTrovesAs": [
-   "Cinnamon Bun Stand",
-   "Coney Island Franks",
-   "Crêpe Stand",
-   "Deep Fillings Empanadas",
-   "Empanada Stand",
-   "Kiosk - Donuts"
-  ],
-  "status": "read"
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Come Anytime",
+   "Multitool",
+   "Pizza Slice",
+   "Potluck",
+   "Snappy Comeback",
+   "Talent Show",
+   "Welcome Mat"
+  ]
  },
  {
   "name": "The Upland Needle",
-  "group": "G155",
+  "group": "G180",
   "modelId": 19004,
   "nature": "service",
   "troves": [
@@ -12383,7 +13333,7 @@
  },
  {
   "name": "The Upland Rodeo",
-  "group": "G156",
+  "group": "G181",
   "modelId": 19236,
   "nature": "service",
   "troves": [
@@ -12414,7 +13364,7 @@
  },
  {
   "name": "The Upland Y Rec Center",
-  "group": "G017",
+  "group": "G097",
   "modelId": 17902,
   "nature": "service",
   "troves": [
@@ -12465,7 +13415,7 @@
  },
  {
   "name": "The Victory Gym",
-  "group": "G080",
+  "group": "G092",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -12514,7 +13464,7 @@
  },
  {
   "name": "Theater",
-  "group": "G096",
+  "group": "G113",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -12550,7 +13500,7 @@
  },
  {
   "name": "Thee Olde Spaghetti Factory",
-  "group": "G157",
+  "group": "G182",
   "modelId": 17681,
   "nature": "service",
   "troves": [
@@ -12571,7 +13521,7 @@
    "all-here-2",
    "beef-1",
    "bell-pepper-1",
-   "bouquet-2",
+   "bouquet-3",
    "fire-extinguisher-1",
    "home-cooking-2",
    "lamb-2",
@@ -12597,7 +13547,7 @@
  },
  {
   "name": "Tire shop",
-  "group": "G158",
+  "group": "G183",
   "modelId": 16682,
   "nature": "service",
   "troves": [
@@ -12636,7 +13586,7 @@
  },
  {
   "name": "Totally Official Cup Merch Kiosk",
-  "group": "G154",
+  "group": "G179",
   "modelId": 17952,
   "nature": "service",
   "troves": [
@@ -12685,7 +13635,7 @@
  },
  {
   "name": "Toy Store",
-  "group": "G159",
+  "group": "G184",
   "modelId": 16686,
   "nature": "service",
   "troves": [
@@ -12728,7 +13678,7 @@
  },
  {
   "name": "Track & Field Complex",
-  "group": "G017",
+  "group": "G097",
   "modelId": 17038,
   "nature": "service",
   "troves": [
@@ -12779,7 +13729,7 @@
  },
  {
   "name": "Try Harder Gym",
-  "group": "G080",
+  "group": "G092",
   "modelId": 16918,
   "nature": "service",
   "troves": [
@@ -12828,7 +13778,7 @@
  },
  {
   "name": "Ultra Beauty Co",
-  "group": "G160",
+  "group": "G185",
   "modelId": 17037,
   "nature": "service",
   "troves": [
@@ -12873,7 +13823,7 @@
  },
  {
   "name": "University",
-  "group": "G088",
+  "group": "G100",
   "modelId": 15908,
   "nature": "service",
   "troves": [
@@ -12938,7 +13888,7 @@
  },
  {
   "name": "UPhone Store",
-  "group": "G060",
+  "group": "G062",
   "modelId": 17955,
   "nature": "service",
   "troves": [
@@ -12974,7 +13924,7 @@
  },
  {
   "name": "Upland Axes",
-  "group": "G017",
+  "group": "G097",
   "modelId": 19207,
   "nature": "service",
   "troves": [
@@ -13036,7 +13986,7 @@
  },
  {
   "name": "Upland Junior High",
-  "group": "G083",
+  "group": "G071",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -13132,7 +14082,7 @@
  },
  {
   "name": "Urgent care center",
-  "group": "G038",
+  "group": "G091",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -13152,7 +14102,7 @@
    "Wool"
   ],
   "recipes": [
-   "get-well-2",
+   "get-well-3",
    "herbal-tea-2",
    "house-call-1",
    "pill-bottle-1",
@@ -13181,7 +14131,7 @@
  },
  {
   "name": "Veterinary Clinic",
-  "group": "G161",
+  "group": "G186",
   "modelId": null,
   "nature": "service",
   "troves": [
@@ -13198,7 +14148,7 @@
    "Wool"
   ],
   "recipes": [
-   "get-well-2",
+   "get-well-3",
    "pill-bottle-1",
    "scalpel-1",
    "steady-nerves-2"
@@ -13213,7 +14163,7 @@
  },
  {
   "name": "Waffle Home Diner",
-  "group": "G162",
+  "group": "G187",
   "modelId": 19048,
   "nature": "service",
   "troves": [
@@ -13235,7 +14185,7 @@
    "all-here-2",
    "beef-1",
    "bell-pepper-1",
-   "bouquet-2",
+   "bouquet-3",
    "fire-extinguisher-1",
    "home-cooking-2",
    "smoke-alarm-1",
@@ -13256,7 +14206,7 @@
  },
  {
   "name": "Welcome Point Travel Center",
-  "group": "G086",
+  "group": "G098",
   "modelId": 19150,
   "nature": "service",
   "troves": [
@@ -13287,7 +14237,7 @@
  },
  {
   "name": "Wheel Alignment center",
-  "group": "G163",
+  "group": "G188",
   "modelId": 16894,
   "nature": "service",
   "troves": [
@@ -13323,7 +14273,7 @@
  },
  {
   "name": "ÜPKEA",
-  "group": "G164",
+  "group": "G189",
   "modelId": 17866,
   "nature": "service",
   "troves": [
