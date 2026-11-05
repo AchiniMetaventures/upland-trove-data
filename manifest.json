@@ -1,594 +1,594 @@
 {
- "schemaVersion": 1,
- "dataVersion": "2026.11.03-2",
- "generatedAt": "2026-11-03T19:43:08Z",
- "counts": {
-  "troves": 501,
-  "buildings": 360,
-  "recipes": 563,
-  "plants": 40
- },
- "files": {
-  "troves.json": {
-   "bytes": 301735,
-   "sha256": "0edcc45ba15c59856873f9a4a9786be097a2e60300c6634390bc9443f5a844e2"
+  "schemaVersion": 1,
+  "dataVersion": "2026.11.05-1",
+  "generatedAt": "2026-11-05T09:33:40Z",
+  "counts": {
+    "troves": 501,
+    "buildings": 362,
+    "recipes": 634,
+    "plants": 40
   },
-  "buildings.json": {
-   "bytes": 268722,
-   "sha256": "8979d9d2943125235d3a60480fb59283e021abecdfcedd663203e8f9d4253bc7"
+  "files": {
+    "troves.json": {
+      "bytes": 291509,
+      "sha256": "d8ae8c8f6a49fa8c5618892a793a66a7af938959b722e89f7477835342410f4c"
+    },
+    "buildings.json": {
+      "bytes": 272039,
+      "sha256": "800fa0401dc22d824347882a14dd5d1ac4501619ec4bd53464b59848d656a236"
+    },
+    "recipes.json": {
+      "bytes": 280901,
+      "sha256": "d8e6dadc0fc9406891433ba06e87811bd74bd7504e42b3aa98c1262cd8790e6d"
+    },
+    "plants.json": {
+      "bytes": 10438,
+      "sha256": "6b52faa44c4551b1c197cbe36e03e8848a40c4fee08b3454a38b753ef599277e"
+    }
   },
-  "recipes.json": {
-   "bytes": 249100,
-   "sha256": "f687d5a4bc0b38d7fabe8a7d633b9aa26fa47b88a8a62c6f93d45b63c4ac2b81"
+  "notice": "Community data for the Smart Address Clipboard extension.",
+  "suggestions": {
+    "amsterdam": {
+      "name": "Amsterdam",
+      "city": "AMSTERDAM",
+      "file": "suggestions/amsterdam.json",
+      "count": 10,
+      "bytes": 3367,
+      "sha256": "8c0b45a2a7310f6775d617d7b7b3aed90e9056f0d9c515d0abc9882ce1c2fae7"
+    },
+    "bakersfield": {
+      "name": "Bakersfield",
+      "city": "BAKERSFIELD",
+      "file": "suggestions/bakersfield.json",
+      "count": 7,
+      "bytes": 4889,
+      "sha256": "c6493f61dc5a8120704ee4da9af1fcf8f05a0290711a633fb89b4d004b1156b2"
+    },
+    "bronx": {
+      "name": "Bronx",
+      "city": "BRONX",
+      "file": "suggestions/bronx.json",
+      "count": 10,
+      "bytes": 2729,
+      "sha256": "ad336a9a7775a5992b8614d04c42255d7bc7a19dfccc4dfdcae556d68e91786f"
+    },
+    "detroit": {
+      "name": "Detroit",
+      "city": "DETROIT",
+      "file": "suggestions/detroit.json",
+      "count": 10,
+      "bytes": 3871,
+      "sha256": "f42940c65c32ab176fd6d1e37ae157eb6312d6dd04a3f1d956ea28972749e400"
+    },
+    "frederick": {
+      "name": "Frederick",
+      "city": "FREDERICK",
+      "file": "suggestions/frederick.json",
+      "count": 10,
+      "bytes": 1877,
+      "sha256": "939be5346e3fd5d0502dcdc06e47ea8ee16ad28746341055ada3e8a89608da12"
+    },
+    "las-vegas": {
+      "name": "Las Vegas",
+      "city": "LAS VEGAS",
+      "file": "suggestions/las-vegas.json",
+      "count": 10,
+      "bytes": 7243,
+      "sha256": "e85814cce0c0da075283b5adbed5f15b2452a57e4719436ac84ac6c4a145c6f8"
+    },
+    "london": {
+      "name": "London",
+      "city": "LONDON",
+      "file": "suggestions/london.json",
+      "count": 10,
+      "bytes": 3746,
+      "sha256": "3f7caf9b69f29638919446e371a525b78823038ef0ed8bda0f8481ff96f3ff3f"
+    },
+    "los-angeles": {
+      "name": "Los Angeles",
+      "city": "LOS ANGELES",
+      "file": "suggestions/los-angeles.json",
+      "count": 70,
+      "bytes": 43132,
+      "sha256": "c44323a09430fa7eec0fbeb1c2324fae6392d5df3560d55a1190c03ed597c809"
+    },
+    "manhattan": {
+      "name": "Manhattan",
+      "city": "MANHATTAN",
+      "file": "suggestions/manhattan.json",
+      "count": 10,
+      "bytes": 6461,
+      "sha256": "e381b6051c98e640dbe5384dfd51867a5dc1d5e0f4cb94de343fb88a38a5fa27"
+    },
+    "miami": {
+      "name": "Miami",
+      "city": "MIAMI",
+      "file": "suggestions/miami.json",
+      "count": 10,
+      "bytes": 4123,
+      "sha256": "e089b74027f993f72361b52b38ae22c2d30b3e19917355ec6f9be11c2f378475"
+    },
+    "paris": {
+      "name": "Paris",
+      "city": "PARIS",
+      "file": "suggestions/paris.json",
+      "count": 15,
+      "bytes": 3129,
+      "sha256": "b5d85a8c1902054753be9e700948d17de33832136ab17dce9bdcead8223660c0"
+    },
+    "queens": {
+      "name": "Queens",
+      "city": "QUEENS",
+      "file": "suggestions/queens.json",
+      "count": 10,
+      "bytes": 7970,
+      "sha256": "847c90ee993bf6e92e7f00361884751f80615a1587340b84c62037d099f3101f"
+    },
+    "rome": {
+      "name": "Rome",
+      "city": "ROME",
+      "file": "suggestions/rome.json",
+      "count": 10,
+      "bytes": 5221,
+      "sha256": "e99535757f76b88a693e2c1c8c5c97c9245f09ec87152f56b6b556fae6764967"
+    },
+    "seattle": {
+      "name": "Seattle",
+      "city": "SEATTLE",
+      "file": "suggestions/seattle.json",
+      "count": 12,
+      "bytes": 1739,
+      "sha256": "000fd8ae1c9506ebd9aafb7fa963f5e9e23a18129a45abf059249c065585ee46"
+    },
+    "trenton": {
+      "name": "Trenton",
+      "city": "TRENTON",
+      "file": "suggestions/trenton.json",
+      "count": 10,
+      "bytes": 3102,
+      "sha256": "5ec5f3dab75df6521f34d745c78536ef609f0b1499afb7d253d41234f2989623"
+    },
+    "vancouver": {
+      "name": "Vancouver",
+      "city": "VANCOUVER",
+      "file": "suggestions/vancouver.json",
+      "count": 3,
+      "bytes": 443,
+      "sha256": "42544683b08498f20c921983bbdf4a0d2a178d8ae5d4593a48cee1399cf09750"
+    }
   },
-  "plants.json": {
-   "bytes": 10438,
-   "sha256": "6b52faa44c4551b1c197cbe36e03e8848a40c4fee08b3454a38b753ef599277e"
+  "extended": {
+    "amsterdam": {
+      "name": "Amsterdam",
+      "city": "AMSTERDAM",
+      "file": "extended/amsterdam.json",
+      "count": 158,
+      "bytes": 20526,
+      "sha256": "54c1a5836509867590b6a9136d00b98bb8ac8cb6fe3aee63a476a683598c8845"
+    },
+    "arlington": {
+      "name": "Arlington",
+      "city": "ARLINGTON",
+      "file": "extended/arlington.json",
+      "count": 225,
+      "bytes": 26138,
+      "sha256": "ba85d253d652c77cb7e6ae1e9a5665a984d22c51d700a284e6bd115be0d3d669"
+    },
+    "bakersfield": {
+      "name": "Bakersfield",
+      "city": "BAKERSFIELD",
+      "file": "extended/bakersfield.json",
+      "count": 225,
+      "bytes": 27601,
+      "sha256": "771397904f421b40e8a5607b40991e4b4ccfeb11d406f6934fe706b079f31bae"
+    },
+    "berlin": {
+      "name": "Berlin",
+      "city": "BERLIN",
+      "file": "extended/berlin.json",
+      "count": 225,
+      "bytes": 27510,
+      "sha256": "b36ed2224c6169be176f81e3aa1cdfd27e336c26d6dd703ec7e3da078042038c"
+    },
+    "bermuda": {
+      "name": "Bermuda",
+      "city": "BERMUDA",
+      "file": "extended/bermuda.json",
+      "count": 182,
+      "bytes": 24526,
+      "sha256": "4176f659c77211e9361004553a37491b7baa8b164ffce7c35b004161249031be"
+    },
+    "birmingham": {
+      "name": "Birmingham",
+      "city": "BIRMINGHAM",
+      "file": "extended/birmingham.json",
+      "count": 84,
+      "bytes": 10168,
+      "sha256": "11a35b771e78df0edc03ec6b08c5b017c3ee30aecd5436b833fc56c388a5351c"
+    },
+    "bronx": {
+      "name": "Bronx",
+      "city": "BRONX",
+      "file": "extended/bronx.json",
+      "count": 225,
+      "bytes": 26837,
+      "sha256": "178315a7828ee8d05687897468d30d83084d65309b86f92972bd0fc95c94c8f9"
+    },
+    "brooklyn": {
+      "name": "Brooklyn",
+      "city": "BROOKLYN",
+      "file": "extended/brooklyn.json",
+      "count": 224,
+      "bytes": 26861,
+      "sha256": "34f0be3f6029c82d2ad98342012a271676832feae525bb02217deda3979c4711"
+    },
+    "buenos-aires": {
+      "name": "Buenos Aires",
+      "city": "BUENOS AIRES",
+      "file": "extended/buenos-aires.json",
+      "count": 225,
+      "bytes": 28909,
+      "sha256": "ea02212187082d27895f375ad243b6bdf7d76446d58342f8d65e6765c3ca45e2"
+    },
+    "cape-town": {
+      "name": "Cape Town",
+      "city": "CAPE TOWN",
+      "file": "extended/cape-town.json",
+      "count": 179,
+      "bytes": 21431,
+      "sha256": "e59e3e2dd5baea7388b3ac088c217552f7eea1347e07e772721fee1ee352bb21"
+    },
+    "chicago": {
+      "name": "Chicago",
+      "city": "CHICAGO",
+      "file": "extended/chicago.json",
+      "count": 225,
+      "bytes": 27088,
+      "sha256": "3a2793febd4a52b24322f0b293fd0230b767a869866e7580b7351b27a96a164e"
+    },
+    "cleveland": {
+      "name": "Cleveland",
+      "city": "CLEVELAND",
+      "file": "extended/cleveland.json",
+      "count": 161,
+      "bytes": 20272,
+      "sha256": "1caf341004abd0f35ded628ad1d529a786da750d4263bb4e19e2423dab3f68dd"
+    },
+    "cortez": {
+      "name": "Cortez",
+      "city": "CORTEZ",
+      "file": "extended/cortez.json",
+      "count": 175,
+      "bytes": 20610,
+      "sha256": "80e20cecd462430bce1270b7fd45e260285f509728aa1786db77e151ae323a04"
+    },
+    "dallas": {
+      "name": "Dallas",
+      "city": "DALLAS",
+      "file": "extended/dallas.json",
+      "count": 225,
+      "bytes": 27825,
+      "sha256": "15c1032993bc3b311648e817a057082e96eb31999ca2bd8065d844749ac359ee"
+    },
+    "detroit": {
+      "name": "Detroit",
+      "city": "DETROIT",
+      "file": "extended/detroit.json",
+      "count": 225,
+      "bytes": 27686,
+      "sha256": "2bb4f9af397132dbe40750acb2a40ff79dacf771d9eb10efa9fe52761102194f"
+    },
+    "florence": {
+      "name": "Florence",
+      "city": "FLORENCE",
+      "file": "extended/florence.json",
+      "count": 109,
+      "bytes": 14083,
+      "sha256": "61a13ab0ace2690627f7843a1d94b97b133b74503e899a1a6a395c170cf99c5f"
+    },
+    "frederick": {
+      "name": "Frederick",
+      "city": "FREDERICK",
+      "file": "extended/frederick.json",
+      "count": 163,
+      "bytes": 20583,
+      "sha256": "02e36d855140e57761959bd692057a44e34007cf874628a28b1b9bdf057c82dd"
+    },
+    "fresno": {
+      "name": "Fresno",
+      "city": "FRESNO",
+      "file": "extended/fresno.json",
+      "count": 225,
+      "bytes": 26740,
+      "sha256": "6e0d6440aee382ad159c74bb3aaa96b09429a8e0b39f2ffdf5f7ac91f8b3dd93"
+    },
+    "hong-kong": {
+      "name": "Hong Kong",
+      "city": "HONG KONG",
+      "file": "extended/hong-kong.json",
+      "count": 225,
+      "bytes": 30177,
+      "sha256": "2f8949b7c97238ff180098aeb8917ffa136daa6c5f8a5238289abb88021f4d57"
+    },
+    "istanbul": {
+      "name": "Istanbul",
+      "city": "ISTANBUL",
+      "file": "extended/istanbul.json",
+      "count": 2,
+      "bytes": 322,
+      "sha256": "f4c4ecc3b968d96ef380d96702b057e9ffd17b1e3f9a155e954f8845ffe041ab"
+    },
+    "kansas-city": {
+      "name": "Kansas City",
+      "city": "KANSAS CITY",
+      "file": "extended/kansas-city.json",
+      "count": 225,
+      "bytes": 28334,
+      "sha256": "b889d0032e2d2fd640f6ea73452186f72cc0ab00d386223d941367bba3e97aed"
+    },
+    "las-vegas": {
+      "name": "Las Vegas",
+      "city": "LAS VEGAS",
+      "file": "extended/las-vegas.json",
+      "count": 218,
+      "bytes": 26268,
+      "sha256": "f88b9df71f12b47ee80fdb3e5840c3d14d8fe8e5cf88db230df4a0d79468d30a"
+    },
+    "london": {
+      "name": "London",
+      "city": "LONDON",
+      "file": "extended/london.json",
+      "count": 225,
+      "bytes": 26747,
+      "sha256": "cf7a9f21e917555a545a7069539b564f909cfcbfb6b260fe8d8800ab10a03642"
+    },
+    "los-angeles": {
+      "name": "Los Angeles",
+      "city": "LOS ANGELES",
+      "file": "extended/los-angeles.json",
+      "count": 225,
+      "bytes": 27778,
+      "sha256": "be1f0559bc3e7fac93c7f47dbdf146c4b8167a974686d851fe00a4f2aa636f6f"
+    },
+    "lusail": {
+      "name": "Lusail",
+      "city": "LUSAIL",
+      "file": "extended/lusail.json",
+      "count": 2,
+      "bytes": 293,
+      "sha256": "60c5c58f740a9dcbcbc0acc702925365309adaaf6acd2071ea9e64d411f26c8e"
+    },
+    "madrid": {
+      "name": "Madrid",
+      "city": "MADRID",
+      "file": "extended/madrid.json",
+      "count": 225,
+      "bytes": 31094,
+      "sha256": "d462411c50b24b0219ad05ab2c355fb82e785f48bed476f7876a80386be9d7a4"
+    },
+    "manhattan": {
+      "name": "Manhattan",
+      "city": "MANHATTAN",
+      "file": "extended/manhattan.json",
+      "count": 225,
+      "bytes": 27284,
+      "sha256": "fa0cad9d48555fbaecaf7ea8e7d442532c8d910a4a7cf7b052c34cf26334996c"
+    },
+    "miami-beach": {
+      "name": "Miami Beach",
+      "city": "MIAMI BEACH",
+      "file": "extended/miami-beach.json",
+      "count": 225,
+      "bytes": 28009,
+      "sha256": "0ed33556f8a9624ffd47c2c5b5ddc294099983cf0f4f4d56304077de46d1e6b7"
+    },
+    "miami": {
+      "name": "Miami",
+      "city": "MIAMI",
+      "file": "extended/miami.json",
+      "count": 225,
+      "bytes": 27317,
+      "sha256": "2e7cc2203d5514e7d55a2b6595140a2129a2532798fe2064f953d121708e5236"
+    },
+    "nashville": {
+      "name": "Nashville",
+      "city": "NASHVILLE",
+      "file": "extended/nashville.json",
+      "count": 225,
+      "bytes": 27157,
+      "sha256": "b373b74dcd2413e4f83c4c99af83f39ca0b2f77e81ce6feddf31c871fff2088a"
+    },
+    "new-orleans": {
+      "name": "New Orleans",
+      "city": "NEW ORLEANS",
+      "file": "extended/new-orleans.json",
+      "count": 225,
+      "bytes": 27887,
+      "sha256": "2cbbd50644c92abf027c5d427c05de841eef6e13359f5bfe560f5f799f1d1b41"
+    },
+    "oakland": {
+      "name": "Oakland",
+      "city": "OAKLAND",
+      "file": "extended/oakland.json",
+      "count": 225,
+      "bytes": 27269,
+      "sha256": "ecc8c89720582a1b19b1f14c097629d50deab4b4ac7c224ec16505324672de2f"
+    },
+    "omaha": {
+      "name": "Omaha",
+      "city": "OMAHA",
+      "file": "extended/omaha.json",
+      "count": 173,
+      "bytes": 20404,
+      "sha256": "8fcc213a35f0793581a6ef57d304d0655bb22996f2856ff22b2cc0da262db8d6"
+    },
+    "paris": {
+      "name": "Paris",
+      "city": "PARIS",
+      "file": "extended/paris.json",
+      "count": 225,
+      "bytes": 27451,
+      "sha256": "ba43c7de3d193b72b26ecf5f05956f839b0e537fa3e2095ea8d48e60ea88c7ed"
+    },
+    "park-city": {
+      "name": "Park City",
+      "city": "PARK CITY",
+      "file": "extended/park-city.json",
+      "count": 118,
+      "bytes": 14563,
+      "sha256": "fbb087c32c9bbf2600559bef95193ef65f1ada6602caa836cac0cb762654f95c"
+    },
+    "porto": {
+      "name": "Porto",
+      "city": "PORTO",
+      "file": "extended/porto.json",
+      "count": 216,
+      "bytes": 26967,
+      "sha256": "d2c78d606546d97e072512cd2ab3ab8f363eec19ee629a489a91cf85066f389c"
+    },
+    "queens": {
+      "name": "Queens",
+      "city": "QUEENS",
+      "file": "extended/queens.json",
+      "count": 225,
+      "bytes": 26381,
+      "sha256": "ac09d4a3210a84caa019db5b6f31c639625e979a283fb339569b0149100021a1"
+    },
+    "rio-de-janeiro": {
+      "name": "Rio de Janeiro",
+      "city": "RIO DE JANEIRO",
+      "file": "extended/rio-de-janeiro.json",
+      "count": 224,
+      "bytes": 31337,
+      "sha256": "03e3981d2a1825fea56021301aaef033b30c974c94bba81a63469e6e9c44c499"
+    },
+    "rome": {
+      "name": "Rome",
+      "city": "ROME",
+      "file": "extended/rome.json",
+      "count": 225,
+      "bytes": 26793,
+      "sha256": "39dc7c8827ecc5c3f633ab572a4000bec5ad0d61b83bb643bdfe0c56340b73ce"
+    },
+    "rutherford": {
+      "name": "Rutherford",
+      "city": "RUTHERFORD",
+      "file": "extended/rutherford.json",
+      "count": 40,
+      "bytes": 4999,
+      "sha256": "94d9133aaf914a13c0c15fa3254c0b221841bd8dabf7e64ba0515c5b2cfb5498"
+    },
+    "san-francisco": {
+      "name": "San Francisco",
+      "city": "SAN FRANCISCO",
+      "file": "extended/san-francisco.json",
+      "count": 225,
+      "bytes": 28469,
+      "sha256": "0a0e97294b3bfc304ccd420024580c62ca9397da9769aa3f5ce882e063855856"
+    },
+    "santa-clara": {
+      "name": "Santa Clara",
+      "city": "SANTA CLARA",
+      "file": "extended/santa-clara.json",
+      "count": 225,
+      "bytes": 28172,
+      "sha256": "8edb973000a7a6a4eceb4592a8899f06b540d1d03f6ad3db80a1719270c3e8c8"
+    },
+    "seattle": {
+      "name": "Seattle",
+      "city": "SEATTLE",
+      "file": "extended/seattle.json",
+      "count": 225,
+      "bytes": 27202,
+      "sha256": "c4257ed069ff092fa6496715a6066dc646e6cf9c84d03af59a9858239e4cbccb"
+    },
+    "singapore": {
+      "name": "Singapore",
+      "city": "SINGAPORE",
+      "file": "extended/singapore.json",
+      "count": 225,
+      "bytes": 27180,
+      "sha256": "750126e75aa7acb96a8b7b3c0729360282447843b4f03b6e384405b03a8ea7b8"
+    },
+    "slough": {
+      "name": "Slough",
+      "city": "SLOUGH",
+      "file": "extended/slough.json",
+      "count": 58,
+      "bytes": 6950,
+      "sha256": "7f6073336def121f348a8e9520f2a8d51aa079d2606981f21611de2c6f5f3200"
+    },
+    "south-lake-tahoe": {
+      "name": "South Lake Tahoe",
+      "city": "SOUTH LAKE TAHOE",
+      "file": "extended/south-lake-tahoe.json",
+      "count": 133,
+      "bytes": 17380,
+      "sha256": "a88d302a0ec8f9c7a4a2b04025db6dcde747ff5246675407662a605741d90a99"
+    },
+    "staten-island": {
+      "name": "Staten Island",
+      "city": "STATEN ISLAND",
+      "file": "extended/staten-island.json",
+      "count": 151,
+      "bytes": 19007,
+      "sha256": "7618617dc3fff6c1ad33d501a9333caa565555aa2e5cd34aea9527a037f6b5fc"
+    },
+    "stockton": {
+      "name": "Stockton",
+      "city": "STOCKTON",
+      "file": "extended/stockton.json",
+      "count": 225,
+      "bytes": 26943,
+      "sha256": "ab690beaf2f1fa36a6ccac03045b70fc5834e4532ee82be8d16b5ea713879cf7"
+    },
+    "sydney": {
+      "name": "Sydney",
+      "city": "SYDNEY",
+      "file": "extended/sydney.json",
+      "count": 225,
+      "bytes": 28747,
+      "sha256": "8b6c5301087a0c170f4febd6f0c92578e87a7d5d375af7edc549b82df4ea09ee"
+    },
+    "takasaki": {
+      "name": "Takasaki",
+      "city": "TAKASAKI",
+      "file": "extended/takasaki.json",
+      "count": 52,
+      "bytes": 6288,
+      "sha256": "9cea9f24267b59c308379a596a1301ba290cd3323f0a41bd8d6104fcf9e3e301"
+    },
+    "tokyo": {
+      "name": "Tokyo",
+      "city": "TOKYO",
+      "file": "extended/tokyo.json",
+      "count": 224,
+      "bytes": 30173,
+      "sha256": "61bfd49fb0294295a9aa406fe3f9cfd39fc28fd2398c5c89cd5c0e6b7d7d27b7"
+    },
+    "trenton": {
+      "name": "Trenton",
+      "city": "TRENTON",
+      "file": "extended/trenton.json",
+      "count": 142,
+      "bytes": 17242,
+      "sha256": "1f7a7c0d25ff19e4e18d3ad5acd68d24b63fd6db40c0feaccec76ce1baa09e18"
+    },
+    "vancouver": {
+      "name": "Vancouver",
+      "city": "VANCOUVER",
+      "file": "extended/vancouver.json",
+      "count": 225,
+      "bytes": 27492,
+      "sha256": "1feee873bc119c495cb09f19adb4c7f488874245a252ec246dac8c17bff02ffc"
+    },
+    "washington": {
+      "name": "Washington",
+      "city": "WASHINGTON",
+      "file": "extended/washington.json",
+      "count": 225,
+      "bytes": 27945,
+      "sha256": "02401cd9fe90be094584ff4cf305cc64207680563526d4ba854c61e6690df8b0"
+    }
   }
- },
- "notice": "Community data for the Smart Address Clipboard extension.",
- "suggestions": {
-  "amsterdam": {
-   "name": "Amsterdam",
-   "city": "AMSTERDAM",
-   "file": "suggestions/amsterdam.json",
-   "count": 10,
-   "bytes": 3367,
-   "sha256": "8c0b45a2a7310f6775d617d7b7b3aed90e9056f0d9c515d0abc9882ce1c2fae7"
-  },
-  "bakersfield": {
-   "name": "Bakersfield",
-   "city": "BAKERSFIELD",
-   "file": "suggestions/bakersfield.json",
-   "count": 7,
-   "bytes": 4889,
-   "sha256": "c6493f61dc5a8120704ee4da9af1fcf8f05a0290711a633fb89b4d004b1156b2"
-  },
-  "bronx": {
-   "name": "Bronx",
-   "city": "BRONX",
-   "file": "suggestions/bronx.json",
-   "count": 10,
-   "bytes": 2729,
-   "sha256": "ad336a9a7775a5992b8614d04c42255d7bc7a19dfccc4dfdcae556d68e91786f"
-  },
-  "detroit": {
-   "name": "Detroit",
-   "city": "DETROIT",
-   "file": "suggestions/detroit.json",
-   "count": 10,
-   "bytes": 3871,
-   "sha256": "f42940c65c32ab176fd6d1e37ae157eb6312d6dd04a3f1d956ea28972749e400"
-  },
-  "frederick": {
-   "name": "Frederick",
-   "city": "FREDERICK",
-   "file": "suggestions/frederick.json",
-   "count": 10,
-   "bytes": 1877,
-   "sha256": "939be5346e3fd5d0502dcdc06e47ea8ee16ad28746341055ada3e8a89608da12"
-  },
-  "las-vegas": {
-   "name": "Las Vegas",
-   "city": "LAS VEGAS",
-   "file": "suggestions/las-vegas.json",
-   "count": 10,
-   "bytes": 7243,
-   "sha256": "e85814cce0c0da075283b5adbed5f15b2452a57e4719436ac84ac6c4a145c6f8"
-  },
-  "london": {
-   "name": "London",
-   "city": "LONDON",
-   "file": "suggestions/london.json",
-   "count": 10,
-   "bytes": 3746,
-   "sha256": "3f7caf9b69f29638919446e371a525b78823038ef0ed8bda0f8481ff96f3ff3f"
-  },
-  "los-angeles": {
-   "name": "Los Angeles",
-   "city": "LOS ANGELES",
-   "file": "suggestions/los-angeles.json",
-   "count": 70,
-   "bytes": 43132,
-   "sha256": "c44323a09430fa7eec0fbeb1c2324fae6392d5df3560d55a1190c03ed597c809"
-  },
-  "manhattan": {
-   "name": "Manhattan",
-   "city": "MANHATTAN",
-   "file": "suggestions/manhattan.json",
-   "count": 10,
-   "bytes": 6461,
-   "sha256": "e381b6051c98e640dbe5384dfd51867a5dc1d5e0f4cb94de343fb88a38a5fa27"
-  },
-  "miami": {
-   "name": "Miami",
-   "city": "MIAMI",
-   "file": "suggestions/miami.json",
-   "count": 10,
-   "bytes": 4123,
-   "sha256": "e089b74027f993f72361b52b38ae22c2d30b3e19917355ec6f9be11c2f378475"
-  },
-  "paris": {
-   "name": "Paris",
-   "city": "PARIS",
-   "file": "suggestions/paris.json",
-   "count": 15,
-   "bytes": 3129,
-   "sha256": "b5d85a8c1902054753be9e700948d17de33832136ab17dce9bdcead8223660c0"
-  },
-  "queens": {
-   "name": "Queens",
-   "city": "QUEENS",
-   "file": "suggestions/queens.json",
-   "count": 10,
-   "bytes": 7970,
-   "sha256": "847c90ee993bf6e92e7f00361884751f80615a1587340b84c62037d099f3101f"
-  },
-  "rome": {
-   "name": "Rome",
-   "city": "ROME",
-   "file": "suggestions/rome.json",
-   "count": 10,
-   "bytes": 5221,
-   "sha256": "e99535757f76b88a693e2c1c8c5c97c9245f09ec87152f56b6b556fae6764967"
-  },
-  "seattle": {
-   "name": "Seattle",
-   "city": "SEATTLE",
-   "file": "suggestions/seattle.json",
-   "count": 12,
-   "bytes": 1739,
-   "sha256": "000fd8ae1c9506ebd9aafb7fa963f5e9e23a18129a45abf059249c065585ee46"
-  },
-  "trenton": {
-   "name": "Trenton",
-   "city": "TRENTON",
-   "file": "suggestions/trenton.json",
-   "count": 10,
-   "bytes": 3102,
-   "sha256": "5ec5f3dab75df6521f34d745c78536ef609f0b1499afb7d253d41234f2989623"
-  },
-  "vancouver": {
-   "name": "Vancouver",
-   "city": "VANCOUVER",
-   "file": "suggestions/vancouver.json",
-   "count": 3,
-   "bytes": 443,
-   "sha256": "42544683b08498f20c921983bbdf4a0d2a178d8ae5d4593a48cee1399cf09750"
-  }
- },
- "extended": {
-  "amsterdam": {
-   "name": "Amsterdam",
-   "city": "AMSTERDAM",
-   "file": "extended/amsterdam.json",
-   "count": 158,
-   "bytes": 20526,
-   "sha256": "54c1a5836509867590b6a9136d00b98bb8ac8cb6fe3aee63a476a683598c8845"
-  },
-  "arlington": {
-   "name": "Arlington",
-   "city": "ARLINGTON",
-   "file": "extended/arlington.json",
-   "count": 225,
-   "bytes": 26138,
-   "sha256": "ba85d253d652c77cb7e6ae1e9a5665a984d22c51d700a284e6bd115be0d3d669"
-  },
-  "bakersfield": {
-   "name": "Bakersfield",
-   "city": "BAKERSFIELD",
-   "file": "extended/bakersfield.json",
-   "count": 225,
-   "bytes": 27601,
-   "sha256": "771397904f421b40e8a5607b40991e4b4ccfeb11d406f6934fe706b079f31bae"
-  },
-  "berlin": {
-   "name": "Berlin",
-   "city": "BERLIN",
-   "file": "extended/berlin.json",
-   "count": 225,
-   "bytes": 27510,
-   "sha256": "b36ed2224c6169be176f81e3aa1cdfd27e336c26d6dd703ec7e3da078042038c"
-  },
-  "bermuda": {
-   "name": "Bermuda",
-   "city": "BERMUDA",
-   "file": "extended/bermuda.json",
-   "count": 182,
-   "bytes": 24526,
-   "sha256": "4176f659c77211e9361004553a37491b7baa8b164ffce7c35b004161249031be"
-  },
-  "birmingham": {
-   "name": "Birmingham",
-   "city": "BIRMINGHAM",
-   "file": "extended/birmingham.json",
-   "count": 84,
-   "bytes": 10168,
-   "sha256": "11a35b771e78df0edc03ec6b08c5b017c3ee30aecd5436b833fc56c388a5351c"
-  },
-  "bronx": {
-   "name": "Bronx",
-   "city": "BRONX",
-   "file": "extended/bronx.json",
-   "count": 225,
-   "bytes": 26837,
-   "sha256": "178315a7828ee8d05687897468d30d83084d65309b86f92972bd0fc95c94c8f9"
-  },
-  "brooklyn": {
-   "name": "Brooklyn",
-   "city": "BROOKLYN",
-   "file": "extended/brooklyn.json",
-   "count": 224,
-   "bytes": 26861,
-   "sha256": "34f0be3f6029c82d2ad98342012a271676832feae525bb02217deda3979c4711"
-  },
-  "buenos-aires": {
-   "name": "Buenos Aires",
-   "city": "BUENOS AIRES",
-   "file": "extended/buenos-aires.json",
-   "count": 225,
-   "bytes": 28909,
-   "sha256": "ea02212187082d27895f375ad243b6bdf7d76446d58342f8d65e6765c3ca45e2"
-  },
-  "cape-town": {
-   "name": "Cape Town",
-   "city": "CAPE TOWN",
-   "file": "extended/cape-town.json",
-   "count": 179,
-   "bytes": 21431,
-   "sha256": "e59e3e2dd5baea7388b3ac088c217552f7eea1347e07e772721fee1ee352bb21"
-  },
-  "chicago": {
-   "name": "Chicago",
-   "city": "CHICAGO",
-   "file": "extended/chicago.json",
-   "count": 225,
-   "bytes": 27088,
-   "sha256": "3a2793febd4a52b24322f0b293fd0230b767a869866e7580b7351b27a96a164e"
-  },
-  "cleveland": {
-   "name": "Cleveland",
-   "city": "CLEVELAND",
-   "file": "extended/cleveland.json",
-   "count": 161,
-   "bytes": 20272,
-   "sha256": "1caf341004abd0f35ded628ad1d529a786da750d4263bb4e19e2423dab3f68dd"
-  },
-  "cortez": {
-   "name": "Cortez",
-   "city": "CORTEZ",
-   "file": "extended/cortez.json",
-   "count": 175,
-   "bytes": 20610,
-   "sha256": "80e20cecd462430bce1270b7fd45e260285f509728aa1786db77e151ae323a04"
-  },
-  "dallas": {
-   "name": "Dallas",
-   "city": "DALLAS",
-   "file": "extended/dallas.json",
-   "count": 225,
-   "bytes": 27825,
-   "sha256": "15c1032993bc3b311648e817a057082e96eb31999ca2bd8065d844749ac359ee"
-  },
-  "detroit": {
-   "name": "Detroit",
-   "city": "DETROIT",
-   "file": "extended/detroit.json",
-   "count": 225,
-   "bytes": 27686,
-   "sha256": "2bb4f9af397132dbe40750acb2a40ff79dacf771d9eb10efa9fe52761102194f"
-  },
-  "florence": {
-   "name": "Florence",
-   "city": "FLORENCE",
-   "file": "extended/florence.json",
-   "count": 109,
-   "bytes": 14083,
-   "sha256": "61a13ab0ace2690627f7843a1d94b97b133b74503e899a1a6a395c170cf99c5f"
-  },
-  "frederick": {
-   "name": "Frederick",
-   "city": "FREDERICK",
-   "file": "extended/frederick.json",
-   "count": 163,
-   "bytes": 20583,
-   "sha256": "02e36d855140e57761959bd692057a44e34007cf874628a28b1b9bdf057c82dd"
-  },
-  "fresno": {
-   "name": "Fresno",
-   "city": "FRESNO",
-   "file": "extended/fresno.json",
-   "count": 225,
-   "bytes": 26740,
-   "sha256": "6e0d6440aee382ad159c74bb3aaa96b09429a8e0b39f2ffdf5f7ac91f8b3dd93"
-  },
-  "hong-kong": {
-   "name": "Hong Kong",
-   "city": "HONG KONG",
-   "file": "extended/hong-kong.json",
-   "count": 225,
-   "bytes": 30177,
-   "sha256": "2f8949b7c97238ff180098aeb8917ffa136daa6c5f8a5238289abb88021f4d57"
-  },
-  "istanbul": {
-   "name": "Istanbul",
-   "city": "ISTANBUL",
-   "file": "extended/istanbul.json",
-   "count": 2,
-   "bytes": 322,
-   "sha256": "f4c4ecc3b968d96ef380d96702b057e9ffd17b1e3f9a155e954f8845ffe041ab"
-  },
-  "kansas-city": {
-   "name": "Kansas City",
-   "city": "KANSAS CITY",
-   "file": "extended/kansas-city.json",
-   "count": 225,
-   "bytes": 28334,
-   "sha256": "b889d0032e2d2fd640f6ea73452186f72cc0ab00d386223d941367bba3e97aed"
-  },
-  "las-vegas": {
-   "name": "Las Vegas",
-   "city": "LAS VEGAS",
-   "file": "extended/las-vegas.json",
-   "count": 218,
-   "bytes": 26268,
-   "sha256": "f88b9df71f12b47ee80fdb3e5840c3d14d8fe8e5cf88db230df4a0d79468d30a"
-  },
-  "london": {
-   "name": "London",
-   "city": "LONDON",
-   "file": "extended/london.json",
-   "count": 225,
-   "bytes": 26747,
-   "sha256": "cf7a9f21e917555a545a7069539b564f909cfcbfb6b260fe8d8800ab10a03642"
-  },
-  "los-angeles": {
-   "name": "Los Angeles",
-   "city": "LOS ANGELES",
-   "file": "extended/los-angeles.json",
-   "count": 225,
-   "bytes": 27778,
-   "sha256": "be1f0559bc3e7fac93c7f47dbdf146c4b8167a974686d851fe00a4f2aa636f6f"
-  },
-  "lusail": {
-   "name": "Lusail",
-   "city": "LUSAIL",
-   "file": "extended/lusail.json",
-   "count": 2,
-   "bytes": 293,
-   "sha256": "60c5c58f740a9dcbcbc0acc702925365309adaaf6acd2071ea9e64d411f26c8e"
-  },
-  "madrid": {
-   "name": "Madrid",
-   "city": "MADRID",
-   "file": "extended/madrid.json",
-   "count": 225,
-   "bytes": 31094,
-   "sha256": "d462411c50b24b0219ad05ab2c355fb82e785f48bed476f7876a80386be9d7a4"
-  },
-  "manhattan": {
-   "name": "Manhattan",
-   "city": "MANHATTAN",
-   "file": "extended/manhattan.json",
-   "count": 225,
-   "bytes": 27284,
-   "sha256": "fa0cad9d48555fbaecaf7ea8e7d442532c8d910a4a7cf7b052c34cf26334996c"
-  },
-  "miami-beach": {
-   "name": "Miami Beach",
-   "city": "MIAMI BEACH",
-   "file": "extended/miami-beach.json",
-   "count": 225,
-   "bytes": 28009,
-   "sha256": "0ed33556f8a9624ffd47c2c5b5ddc294099983cf0f4f4d56304077de46d1e6b7"
-  },
-  "miami": {
-   "name": "Miami",
-   "city": "MIAMI",
-   "file": "extended/miami.json",
-   "count": 225,
-   "bytes": 27317,
-   "sha256": "2e7cc2203d5514e7d55a2b6595140a2129a2532798fe2064f953d121708e5236"
-  },
-  "nashville": {
-   "name": "Nashville",
-   "city": "NASHVILLE",
-   "file": "extended/nashville.json",
-   "count": 225,
-   "bytes": 27157,
-   "sha256": "b373b74dcd2413e4f83c4c99af83f39ca0b2f77e81ce6feddf31c871fff2088a"
-  },
-  "new-orleans": {
-   "name": "New Orleans",
-   "city": "NEW ORLEANS",
-   "file": "extended/new-orleans.json",
-   "count": 225,
-   "bytes": 27887,
-   "sha256": "2cbbd50644c92abf027c5d427c05de841eef6e13359f5bfe560f5f799f1d1b41"
-  },
-  "oakland": {
-   "name": "Oakland",
-   "city": "OAKLAND",
-   "file": "extended/oakland.json",
-   "count": 225,
-   "bytes": 27269,
-   "sha256": "ecc8c89720582a1b19b1f14c097629d50deab4b4ac7c224ec16505324672de2f"
-  },
-  "omaha": {
-   "name": "Omaha",
-   "city": "OMAHA",
-   "file": "extended/omaha.json",
-   "count": 173,
-   "bytes": 20404,
-   "sha256": "8fcc213a35f0793581a6ef57d304d0655bb22996f2856ff22b2cc0da262db8d6"
-  },
-  "paris": {
-   "name": "Paris",
-   "city": "PARIS",
-   "file": "extended/paris.json",
-   "count": 225,
-   "bytes": 27451,
-   "sha256": "ba43c7de3d193b72b26ecf5f05956f839b0e537fa3e2095ea8d48e60ea88c7ed"
-  },
-  "park-city": {
-   "name": "Park City",
-   "city": "PARK CITY",
-   "file": "extended/park-city.json",
-   "count": 118,
-   "bytes": 14563,
-   "sha256": "fbb087c32c9bbf2600559bef95193ef65f1ada6602caa836cac0cb762654f95c"
-  },
-  "porto": {
-   "name": "Porto",
-   "city": "PORTO",
-   "file": "extended/porto.json",
-   "count": 216,
-   "bytes": 26967,
-   "sha256": "d2c78d606546d97e072512cd2ab3ab8f363eec19ee629a489a91cf85066f389c"
-  },
-  "queens": {
-   "name": "Queens",
-   "city": "QUEENS",
-   "file": "extended/queens.json",
-   "count": 225,
-   "bytes": 26381,
-   "sha256": "ac09d4a3210a84caa019db5b6f31c639625e979a283fb339569b0149100021a1"
-  },
-  "rio-de-janeiro": {
-   "name": "Rio de Janeiro",
-   "city": "RIO DE JANEIRO",
-   "file": "extended/rio-de-janeiro.json",
-   "count": 224,
-   "bytes": 31337,
-   "sha256": "03e3981d2a1825fea56021301aaef033b30c974c94bba81a63469e6e9c44c499"
-  },
-  "rome": {
-   "name": "Rome",
-   "city": "ROME",
-   "file": "extended/rome.json",
-   "count": 225,
-   "bytes": 26793,
-   "sha256": "39dc7c8827ecc5c3f633ab572a4000bec5ad0d61b83bb643bdfe0c56340b73ce"
-  },
-  "rutherford": {
-   "name": "Rutherford",
-   "city": "RUTHERFORD",
-   "file": "extended/rutherford.json",
-   "count": 40,
-   "bytes": 4999,
-   "sha256": "94d9133aaf914a13c0c15fa3254c0b221841bd8dabf7e64ba0515c5b2cfb5498"
-  },
-  "san-francisco": {
-   "name": "San Francisco",
-   "city": "SAN FRANCISCO",
-   "file": "extended/san-francisco.json",
-   "count": 225,
-   "bytes": 28469,
-   "sha256": "0a0e97294b3bfc304ccd420024580c62ca9397da9769aa3f5ce882e063855856"
-  },
-  "santa-clara": {
-   "name": "Santa Clara",
-   "city": "SANTA CLARA",
-   "file": "extended/santa-clara.json",
-   "count": 225,
-   "bytes": 28172,
-   "sha256": "8edb973000a7a6a4eceb4592a8899f06b540d1d03f6ad3db80a1719270c3e8c8"
-  },
-  "seattle": {
-   "name": "Seattle",
-   "city": "SEATTLE",
-   "file": "extended/seattle.json",
-   "count": 225,
-   "bytes": 27202,
-   "sha256": "c4257ed069ff092fa6496715a6066dc646e6cf9c84d03af59a9858239e4cbccb"
-  },
-  "singapore": {
-   "name": "Singapore",
-   "city": "SINGAPORE",
-   "file": "extended/singapore.json",
-   "count": 225,
-   "bytes": 27180,
-   "sha256": "750126e75aa7acb96a8b7b3c0729360282447843b4f03b6e384405b03a8ea7b8"
-  },
-  "slough": {
-   "name": "Slough",
-   "city": "SLOUGH",
-   "file": "extended/slough.json",
-   "count": 58,
-   "bytes": 6950,
-   "sha256": "7f6073336def121f348a8e9520f2a8d51aa079d2606981f21611de2c6f5f3200"
-  },
-  "south-lake-tahoe": {
-   "name": "South Lake Tahoe",
-   "city": "SOUTH LAKE TAHOE",
-   "file": "extended/south-lake-tahoe.json",
-   "count": 133,
-   "bytes": 17380,
-   "sha256": "a88d302a0ec8f9c7a4a2b04025db6dcde747ff5246675407662a605741d90a99"
-  },
-  "staten-island": {
-   "name": "Staten Island",
-   "city": "STATEN ISLAND",
-   "file": "extended/staten-island.json",
-   "count": 151,
-   "bytes": 19007,
-   "sha256": "7618617dc3fff6c1ad33d501a9333caa565555aa2e5cd34aea9527a037f6b5fc"
-  },
-  "stockton": {
-   "name": "Stockton",
-   "city": "STOCKTON",
-   "file": "extended/stockton.json",
-   "count": 225,
-   "bytes": 26943,
-   "sha256": "ab690beaf2f1fa36a6ccac03045b70fc5834e4532ee82be8d16b5ea713879cf7"
-  },
-  "sydney": {
-   "name": "Sydney",
-   "city": "SYDNEY",
-   "file": "extended/sydney.json",
-   "count": 225,
-   "bytes": 28747,
-   "sha256": "8b6c5301087a0c170f4febd6f0c92578e87a7d5d375af7edc549b82df4ea09ee"
-  },
-  "takasaki": {
-   "name": "Takasaki",
-   "city": "TAKASAKI",
-   "file": "extended/takasaki.json",
-   "count": 52,
-   "bytes": 6288,
-   "sha256": "9cea9f24267b59c308379a596a1301ba290cd3323f0a41bd8d6104fcf9e3e301"
-  },
-  "tokyo": {
-   "name": "Tokyo",
-   "city": "TOKYO",
-   "file": "extended/tokyo.json",
-   "count": 224,
-   "bytes": 30173,
-   "sha256": "61bfd49fb0294295a9aa406fe3f9cfd39fc28fd2398c5c89cd5c0e6b7d7d27b7"
-  },
-  "trenton": {
-   "name": "Trenton",
-   "city": "TRENTON",
-   "file": "extended/trenton.json",
-   "count": 142,
-   "bytes": 17242,
-   "sha256": "1f7a7c0d25ff19e4e18d3ad5acd68d24b63fd6db40c0feaccec76ce1baa09e18"
-  },
-  "vancouver": {
-   "name": "Vancouver",
-   "city": "VANCOUVER",
-   "file": "extended/vancouver.json",
-   "count": 225,
-   "bytes": 27492,
-   "sha256": "1feee873bc119c495cb09f19adb4c7f488874245a252ec246dac8c17bff02ffc"
-  },
-  "washington": {
-   "name": "Washington",
-   "city": "WASHINGTON",
-   "file": "extended/washington.json",
-   "count": 225,
-   "bytes": 27945,
-   "sha256": "02401cd9fe90be094584ff4cf305cc64207680563526d4ba854c61e6690df8b0"
-  }
- }
 }

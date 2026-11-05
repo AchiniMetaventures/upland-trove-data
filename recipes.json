@@ -12,6 +12,7 @@
    }
   ],
   "craftedAt": [
+   "Creepy Old Hollow Schoolhouse",
    "Day Care Center",
    "Elementary School",
    "High School",
@@ -44,6 +45,29 @@
    "Toy Store"
   ],
   "id": "action-figure-2"
+ },
+ {
+  "product": "Aged Whiskey",
+  "ingredients": [
+   {
+    "name": "Moonshine",
+    "qty": 3
+   },
+   {
+    "name": "Wristwatch",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Brewery",
+   "Local Brewery",
+   "Mainstreet Modular Apartments: Pub Edition building",
+   "Pub",
+   "South America Modular Apartments: Two Can Tango Bar Edition",
+   "The Happy Harvest Cider House",
+   "The Tipsy Tiki Bar"
+  ],
+  "id": "aged-whiskey-1"
  },
  {
   "product": "All Here",
@@ -230,6 +254,7 @@
    "Mall of Upland",
    "Olde Wonder Toys",
    "Pawn shop",
+   "Stitch & Spell Tailors",
    "The Curious Cauldron",
    "The Flickering Wick"
   ],
@@ -274,6 +299,7 @@
    }
   ],
   "craftedAt": [
+   "Creepy Old Hollow Schoolhouse",
    "Elementary School",
    "High School",
    "Junior College",
@@ -365,6 +391,7 @@
    "Mall of Upland",
    "Olde Wonder Toys",
    "Pawn shop",
+   "Stitch & Spell Tailors",
    "The Curious Cauldron",
    "The Flickering Wick"
   ],
@@ -472,6 +499,23 @@
   "product": "Applause",
   "ingredients": [
    {
+    "name": "Headphones",
+    "qty": 2
+   },
+   {
+    "name": "Wristwatch",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Radio Station"
+  ],
+  "id": "applause-1"
+ },
+ {
+  "product": "Applause",
+  "ingredients": [
+   {
     "name": "High Five",
     "qty": 2
    },
@@ -507,7 +551,7 @@
    "Try Harder Gym",
    "Upland Axes"
   ],
-  "id": "applause-1"
+  "id": "applause-2"
  },
  {
   "product": "Applause",
@@ -537,7 +581,7 @@
    "The Upland Rodeo",
    "Theater"
   ],
-  "id": "applause-2"
+  "id": "applause-3"
  },
  {
   "product": "Asparagus",
@@ -580,6 +624,7 @@
    }
   ],
   "craftedAt": [
+   "Creepy Old Hollow Schoolhouse",
    "Elementary School",
    "High School",
    "Junior College",
@@ -661,6 +706,41 @@
    "Large Day care"
   ],
   "id": "baby-monitor-1"
+ },
+ {
+  "product": "Baby Monitor",
+  "ingredients": [
+   {
+    "name": "Microphone",
+    "qty": 1
+   },
+   {
+    "name": "Headphones",
+    "qty": 1
+   },
+   {
+    "name": "Check In",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Black Cat Curiosities Shop",
+   "Cobweb & Co Antiques",
+   "East Coast Modular: Liquor Store Edition",
+   "Electronic Store",
+   "Going Under Dive Shop",
+   "Large Electronic store",
+   "Main Street Modular Apartments: Texas Mercantile General Store",
+   "Main Street Modular Apartments: Uppany & Co. Edition",
+   "Mainstreet Modular Apartments: Uppie Outfitters Edition",
+   "Mainstreet Modular: The Salty Anchor Marine Supply",
+   "Mall of Upland",
+   "Olde Wonder Toys",
+   "Stitch & Spell Tailors",
+   "The Curious Cauldron",
+   "The Flickering Wick"
+  ],
+  "id": "baby-monitor-2"
  },
  {
   "product": "Babysitting",
@@ -824,6 +904,7 @@
    }
   ],
   "craftedAt": [
+   "Creepy Old Hollow Schoolhouse",
    "Elementary School",
    "High School",
    "Junior College",
@@ -933,6 +1014,7 @@
    }
   ],
   "craftedAt": [
+   "Creepy Old Hollow Schoolhouse",
    "Elementary School",
    "High School",
    "Junior College",
@@ -941,6 +1023,31 @@
    "Upland Junior High"
   ],
   "id": "battery-pack-2"
+ },
+ {
+  "product": "Bed Rest",
+  "ingredients": [
+   {
+    "name": "Plush Pillow",
+    "qty": 2
+   },
+   {
+    "name": "Care Package",
+    "qty": 2
+   },
+   {
+    "name": "Comic Book",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Classic Hotel",
+   "Modern Hotel",
+   "Motel",
+   "The Grimwood Hotel",
+   "The Lucky Star Hotel"
+  ],
+  "id": "bed-rest-1"
  },
  {
   "product": "Bedtime Story",
@@ -959,6 +1066,7 @@
    }
   ],
   "craftedAt": [
+   "Creepy Old Hollow Schoolhouse",
    "Day Care Center",
    "Elementary School",
    "High School",
@@ -1188,6 +1296,7 @@
    }
   ],
   "craftedAt": [
+   "Creepy Old Hollow Schoolhouse",
    "Day Care Center",
    "Elementary School",
    "High School",
@@ -1332,6 +1441,7 @@
    }
   ],
   "craftedAt": [
+   "Creepy Old Hollow Schoolhouse",
    "Day Care Center",
    "Elementary School",
    "High School",
@@ -1673,6 +1783,7 @@
    "Mainstreet Modular: The Salty Anchor Marine Supply",
    "Mall of Upland",
    "Olde Wonder Toys",
+   "Stitch & Spell Tailors",
    "The Curious Cauldron",
    "The Flickering Wick",
    "The Thrift Gap"
@@ -1731,6 +1842,7 @@
    "Mainstreet Modular: The Salty Anchor Marine Supply",
    "Mall of Upland",
    "Olde Wonder Toys",
+   "Stitch & Spell Tailors",
    "The Curious Cauldron",
    "The Flickering Wick"
   ],
@@ -1898,6 +2010,28 @@
   "product": "Cacao Pod",
   "ingredients": [
    {
+    "name": "Almond",
+    "qty": 2
+   },
+   {
+    "name": "Gold Coin",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Bodega",
+   "Neighborhood Market",
+   "Old Crow Farm Market",
+   "South America Modular Apartments: Almacén Edition",
+   "Supermarket",
+   "Supermarket Super Store"
+  ],
+  "id": "cacao-pod-1"
+ },
+ {
+  "product": "Cacao Pod",
+  "ingredients": [
+   {
     "name": "Coffee Bean",
     "qty": 5
    },
@@ -1922,7 +2056,7 @@
    "The Rocket Cup Cafe",
    "The Tipsy Teapot Cafe"
   ],
-  "id": "cacao-pod-1"
+  "id": "cacao-pod-2"
  },
  {
   "product": "Calipers",
@@ -1994,6 +2128,33 @@
   "id": "camera-1"
  },
  {
+  "product": "Camera",
+  "ingredients": [
+   {
+    "name": "Microscope",
+    "qty": 1
+   },
+   {
+    "name": "Soldering Iron",
+    "qty": 1
+   },
+   {
+    "name": "Wristwatch",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Antique Store",
+   "Dunder Office Supplies",
+   "Electronic Store",
+   "European Modular Apartments: Antiquaire Edition",
+   "Large Electronic store",
+   "Mainstreet Modular Apartments: Pawn Shop Edition",
+   "Pawn shop"
+  ],
+  "id": "camera-2"
+ },
+ {
   "product": "Care Package",
   "ingredients": [
    {
@@ -2057,6 +2218,7 @@
    }
   ],
   "craftedAt": [
+   "Creepy Old Hollow Schoolhouse",
    "Elementary School",
    "High School",
    "Junior College",
@@ -2464,6 +2626,7 @@
    "Mainstreet Modular: The Salty Anchor Marine Supply",
    "Mall of Upland",
    "Olde Wonder Toys",
+   "Stitch & Spell Tailors",
    "The Curious Cauldron",
    "The Flickering Wick",
    "The Thrift Gap"
@@ -2757,6 +2920,7 @@
    }
   ],
   "craftedAt": [
+   "Creepy Old Hollow Schoolhouse",
    "Elementary School",
    "High School",
    "Junior College",
@@ -2917,6 +3081,33 @@
   "id": "chocolate-bar-1"
  },
  {
+  "product": "Chocolate Bar",
+  "ingredients": [
+   {
+    "name": "Cacao Pod",
+    "qty": 3
+   },
+   {
+    "name": "Swoon",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Bakery",
+   "Candy shop",
+   "Cinnaboom",
+   "Dairy King Ice Cream",
+   "East Coast Modular Apartments: Bakery Edition",
+   "European Modular Apartments: Ice Cream Shop",
+   "Glazed & Confused Donuts",
+   "Ice cream Parlor",
+   "Swiggly Soda Shop",
+   "The Atomic Oven Bakery",
+   "The Harvest Oven"
+  ],
+  "id": "chocolate-bar-2"
+ },
+ {
   "product": "Circuit Breaker",
   "ingredients": [
    {
@@ -2959,6 +3150,54 @@
   "id": "circuit-breaker-2"
  },
  {
+  "product": "City Key",
+  "ingredients": [
+   {
+    "name": "Gold Coin",
+    "qty": 2
+   },
+   {
+    "name": "Deadbolt",
+    "qty": 1
+   },
+   {
+    "name": "Family Crest",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Classic Hotel",
+   "Modern Hotel",
+   "Motel",
+   "The Grimwood Hotel",
+   "The Lucky Star Hotel"
+  ],
+  "id": "city-key-1"
+ },
+ {
+  "product": "City Key",
+  "ingredients": [
+   {
+    "name": "Medallion",
+    "qty": 1
+   },
+   {
+    "name": "Gold Ring",
+    "qty": 1
+   },
+   {
+    "name": "Gavel",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Court House",
+   "Large Court house",
+   "The Skyline Courthouse"
+  ],
+  "id": "city-key-2"
+ },
+ {
   "product": "Clean Water",
   "ingredients": [
    {
@@ -2997,6 +3236,7 @@
    }
   ],
   "craftedAt": [
+   "Creepy Old Hollow Schoolhouse",
    "Elementary School",
    "High School",
    "Junior College",
@@ -3376,6 +3616,56 @@
   "id": "confetti-toss-2"
  },
  {
+  "product": "Confetti Toss",
+  "ingredients": [
+   {
+    "name": "Stadium Wave",
+    "qty": 1
+   },
+   {
+    "name": "Opening Night",
+    "qty": 1
+   },
+   {
+    "name": "Circuit Breaker",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Live Jams Stage",
+   "Live Theater",
+   "Performing Arts Center",
+   "The Starline Theater",
+   "Theater"
+  ],
+  "id": "confetti-toss-3"
+ },
+ {
+  "product": "Confetti Toss",
+  "ingredients": [
+   {
+    "name": "Wine Bottle",
+    "qty": 2
+   },
+   {
+    "name": "Cheers",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Brewery",
+   "Club Mirage Night Club",
+   "Local Brewery",
+   "Mainstreet Modular Apartments: Pub Edition building",
+   "Night Club",
+   "Pub",
+   "South America Modular Apartments: Two Can Tango Bar Edition",
+   "The Happy Harvest Cider House",
+   "The Tipsy Tiki Bar"
+  ],
+  "id": "confetti-toss-4"
+ },
+ {
   "product": "Cookie",
   "ingredients": [
    {
@@ -3410,6 +3700,31 @@
   "product": "Cookie",
   "ingredients": [
    {
+    "name": "Healing Kit",
+    "qty": 1
+   },
+   {
+    "name": "Microscope",
+    "qty": 1
+   },
+   {
+    "name": "Care Package",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Clinic",
+   "Hospital",
+   "Regional Hospital",
+   "Skyline Medical Center",
+   "Urgent care center"
+  ],
+  "id": "cookie-2"
+ },
+ {
+  "product": "Cookie",
+  "ingredients": [
+   {
     "name": "Home Cooking",
     "qty": 2
    },
@@ -3421,7 +3736,7 @@
   "craftedAt": [
    "Community Center"
   ],
-  "id": "cookie-2"
+  "id": "cookie-3"
  },
  {
   "product": "Copper Wire",
@@ -3515,11 +3830,33 @@
    "Mainstreet Modular: The Salty Anchor Marine Supply",
    "Mall of Upland",
    "Olde Wonder Toys",
+   "Stitch & Spell Tailors",
    "The Curious Cauldron",
    "The Flickering Wick",
    "The Thrift Gap"
   ],
   "id": "cotton-boll-2"
+ },
+ {
+  "product": "Cozy Blanket",
+  "ingredients": [
+   {
+    "name": "Healing Kit",
+    "qty": 1
+   },
+   {
+    "name": "Potluck",
+    "qty": 1
+   },
+   {
+    "name": "Umbrella",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Community Center"
+  ],
+  "id": "cozy-blanket-1"
  },
  {
   "product": "Crab",
@@ -3576,6 +3913,28 @@
   "product": "Cradle",
   "ingredients": [
    {
+    "name": "Sawn Plank",
+    "qty": 5
+   },
+   {
+    "name": "Quilt",
+    "qty": 5
+   },
+   {
+    "name": "Lullaby",
+    "qty": 4
+   }
+  ],
+  "craftedAt": [
+   "Day Care Center",
+   "Large Day care"
+  ],
+  "id": "cradle-1"
+ },
+ {
+  "product": "Cradle",
+  "ingredients": [
+   {
     "name": "Whole Gang",
     "qty": 6
    },
@@ -3596,7 +3955,7 @@
    "Animal Shelter",
    "Community Center"
   ],
-  "id": "cradle-1"
+  "id": "cradle-2"
  },
  {
   "product": "Cranberry",
@@ -3640,6 +3999,7 @@
    }
   ],
   "craftedAt": [
+   "Creepy Old Hollow Schoolhouse",
    "Elementary School",
    "High School",
    "Junior College",
@@ -3681,6 +4041,37 @@
    "Theater"
   ],
   "id": "crowd-pleaser-1"
+ },
+ {
+  "product": "Crowd Pleaser",
+  "ingredients": [
+   {
+    "name": "Snappy Comeback",
+    "qty": 1
+   },
+   {
+    "name": "Stadium Wave",
+    "qty": 1
+   },
+   {
+    "name": "Trophy Cup",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Beach Pavilion",
+   "Bowling",
+   "Ice Rink",
+   "Mini Golf",
+   "Mother Putters",
+   "Paintball Upland",
+   "Pool Hall",
+   "SuperKarts Mini Raceway",
+   "The Upland Y Rec Center",
+   "Track & Field Complex",
+   "Upland Axes"
+  ],
+  "id": "crowd-pleaser-2"
  },
  {
   "product": "Crown Jewel",
@@ -3728,6 +4119,36 @@
   "product": "Crutches",
   "ingredients": [
    {
+    "name": "Healing Kit",
+    "qty": 1
+   },
+   {
+    "name": "Tool Chest",
+    "qty": 1
+   },
+   {
+    "name": "Sawn Plank",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Clinic",
+   "East Coast Modular Apartments: Pharmacy",
+   "Grimwood Apothecary",
+   "Hospital",
+   "Pharmacy",
+   "Physical Therapy Clinic",
+   "Regional Hospital",
+   "Skyline Medical Center",
+   "The Corner Drugstore",
+   "Urgent care center"
+  ],
+  "id": "crutches-1"
+ },
+ {
+  "product": "Crutches",
+  "ingredients": [
+   {
     "name": "Sawn Plank",
     "qty": 3
    },
@@ -3749,7 +4170,7 @@
    "The Victory Gym",
    "Try Harder Gym"
   ],
-  "id": "crutches-1"
+  "id": "crutches-2"
  },
  {
   "product": "Crystal Ball",
@@ -3820,6 +4241,7 @@
    }
   ],
   "craftedAt": [
+   "Creepy Old Hollow Schoolhouse",
    "Elementary School",
    "High School",
    "Junior College",
@@ -4032,6 +4454,34 @@
   "id": "dog-collar-2"
  },
  {
+  "product": "Doubloon",
+  "ingredients": [
+   {
+    "name": "Gold Bar",
+    "qty": 8
+   },
+   {
+    "name": "Ancient Scroll",
+    "qty": 5
+   },
+   {
+    "name": "Anvil",
+    "qty": 5
+   },
+   {
+    "name": "Cheers",
+    "qty": 10
+   }
+  ],
+  "craftedAt": [
+   "Antique Store",
+   "European Modular Apartments: Antiquaire Edition",
+   "Mainstreet Modular Apartments: Pawn Shop Edition",
+   "Pawn shop"
+  ],
+  "id": "doubloon-1"
+ },
+ {
   "product": "Drone",
   "ingredients": [
    {
@@ -4182,6 +4632,7 @@
    "Mainstreet Modular: The Salty Anchor Marine Supply",
    "Mall of Upland",
    "Olde Wonder Toys",
+   "Stitch & Spell Tailors",
    "The Curious Cauldron",
    "The Flickering Wick",
    "The Thrift Gap"
@@ -4222,6 +4673,7 @@
    "Mall of Upland",
    "Musical Instrument Store",
    "Olde Wonder Toys",
+   "Stitch & Spell Tailors",
    "The Curious Cauldron",
    "The Flickering Wick"
   ],
@@ -4254,6 +4706,7 @@
    "Mainstreet Modular: The Salty Anchor Marine Supply",
    "Mall of Upland",
    "Olde Wonder Toys",
+   "Stitch & Spell Tailors",
    "The Curious Cauldron",
    "The Flickering Wick",
    "ÜPKEA"
@@ -4278,6 +4731,53 @@
    "The Starlight Senior Home"
   ],
   "id": "electric-blanket-2"
+ },
+ {
+  "product": "Electric Guitar",
+  "ingredients": [
+   {
+    "name": "Sandalwood",
+    "qty": 2
+   },
+   {
+    "name": "Radio",
+    "qty": 1
+   },
+   {
+    "name": "Microphone",
+    "qty": 2
+   }
+  ],
+  "craftedAt": [
+   "Antique Store",
+   "European Modular Apartments: Antiquaire Edition",
+   "Mainstreet Modular Apartments: Pawn Shop Edition",
+   "Musical Instrument Store",
+   "Pawn shop"
+  ],
+  "id": "electric-guitar-1"
+ },
+ {
+  "product": "Electromagnet",
+  "ingredients": [
+   {
+    "name": "Copper Wire",
+    "qty": 8
+   },
+   {
+    "name": "Ingot",
+    "qty": 3
+   },
+   {
+    "name": "Battery Pack",
+    "qty": 5
+   }
+  ],
+  "craftedAt": [
+   "Atomic Auto Service",
+   "Auto Repair"
+  ],
+  "id": "electromagnet-1"
  },
  {
   "product": "Embrace",
@@ -4342,6 +4842,25 @@
    "Jewelry"
   ],
   "id": "emerald-1"
+ },
+ {
+  "product": "Emerald",
+  "ingredients": [
+   {
+    "name": "Sapphire",
+    "qty": 3
+   },
+   {
+    "name": "Microscope",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Art Gallery",
+   "Art Museum",
+   "European Modular Apartments: Galerie d'Art Edition"
+  ],
+  "id": "emerald-2"
  },
  {
   "product": "Encore",
@@ -4415,6 +4934,7 @@
    }
   ],
   "craftedAt": [
+   "Creepy Old Hollow Schoolhouse",
    "Elementary School",
    "High School",
    "Junior College",
@@ -4446,6 +4966,80 @@
   "id": "family-crest-2"
  },
  {
+  "product": "Family Doctor",
+  "ingredients": [
+   {
+    "name": "House Call",
+    "qty": 8
+   },
+   {
+    "name": "Scalpel",
+    "qty": 6
+   },
+   {
+    "name": "Healing Kit",
+    "qty": 2
+   }
+  ],
+  "craftedAt": [
+   "Assisted Living Center",
+   "Large Assisted Living Center",
+   "The Starlight Senior Home"
+  ],
+  "id": "family-doctor-1"
+ },
+ {
+  "product": "Family Doctor",
+  "ingredients": [
+   {
+    "name": "Stethoscope",
+    "qty": 1
+   },
+   {
+    "name": "Thermometer",
+    "qty": 1
+   },
+   {
+    "name": "Blood Donation",
+    "qty": 1
+   },
+   {
+    "name": "Microscope",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Clinic",
+   "Hospital",
+   "Regional Hospital",
+   "Skyline Medical Center",
+   "Urgent care center"
+  ],
+  "id": "family-doctor-2"
+ },
+ {
+  "product": "Favorite Person",
+  "ingredients": [
+   {
+    "name": "Best Friend",
+    "qty": 2
+   },
+   {
+    "name": "Locket",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Block & Beans Coffee",
+   "Coffee Shop",
+   "French Cafe",
+   "Mainstreet Modular Apartments: Cafe Edition building",
+   "The Rocket Cup Cafe",
+   "The Tipsy Teapot Cafe"
+  ],
+  "id": "favorite-person-1"
+ },
+ {
   "product": "Favorite Person",
   "ingredients": [
    {
@@ -4464,7 +5058,7 @@
   "craftedAt": [
    "Bus Stop"
   ],
-  "id": "favorite-person-1"
+  "id": "favorite-person-2"
  },
  {
   "product": "Fire Extinguisher",
@@ -4531,6 +5125,25 @@
   "product": "Fire Helmet",
   "ingredients": [
    {
+    "name": "Ingot",
+    "qty": 2
+   },
+   {
+    "name": "Flashlight",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Fire Station",
+   "Fire Station Headquarters",
+   "The Atomic Firehouse"
+  ],
+  "id": "fire-helmet-1"
+ },
+ {
+  "product": "Fire Helmet",
+  "ingredients": [
+   {
     "name": "Sheepskin",
     "qty": 3
    },
@@ -4549,7 +5162,7 @@
    "Mainstreet Modular Apartments: Pawn Shop Edition",
    "Pawn shop"
   ],
-  "id": "fire-helmet-1"
+  "id": "fire-helmet-2"
  },
  {
   "product": "Fireworks",
@@ -4615,6 +5228,7 @@
    "Mile's Beach Bikes",
    "Olde Wonder Toys",
    "Rick's Sporting Goods",
+   "Stitch & Spell Tailors",
    "The Curious Cauldron",
    "The Flickering Wick"
   ],
@@ -4692,6 +5306,7 @@
    "Mainstreet Modular: The Salty Anchor Marine Supply",
    "Mall of Upland",
    "Olde Wonder Toys",
+   "Stitch & Spell Tailors",
    "The Curious Cauldron",
    "The Flickering Wick",
    "The Thrift Gap"
@@ -4793,6 +5408,29 @@
   "id": "food-drive-1"
  },
  {
+  "product": "Food Drive",
+  "ingredients": [
+   {
+    "name": "Storm Relief",
+    "qty": 2
+   },
+   {
+    "name": "Holiday Ham",
+    "qty": 1
+   },
+   {
+    "name": "Baguette Loaf",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Fire Station",
+   "Fire Station Headquarters",
+   "The Atomic Firehouse"
+  ],
+  "id": "food-drive-2"
+ },
+ {
   "product": "Football",
   "ingredients": [
    {
@@ -4805,6 +5443,7 @@
    }
   ],
   "craftedAt": [
+   "Creepy Old Hollow Schoolhouse",
    "Elementary School",
    "High School",
    "Junior College",
@@ -4830,6 +5469,29 @@
    "Sports Courts"
   ],
   "id": "football-2"
+ },
+ {
+  "product": "Fossil",
+  "ingredients": [
+   {
+    "name": "Metal Detector",
+    "qty": 2
+   },
+   {
+    "name": "World Map",
+    "qty": 1
+   },
+   {
+    "name": "Ancient Scroll",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Natural History Museum",
+   "Planetarium",
+   "Science Museum"
+  ],
+  "id": "fossil-1"
  },
  {
   "product": "Fresh Air",
@@ -4917,6 +5579,7 @@
   ],
   "craftedAt": [
    "Comic Book Store",
+   "Creepy Old Hollow Schoolhouse",
    "Elementary School",
    "Game Exchange",
    "High School",
@@ -5047,6 +5710,31 @@
   "product": "Game Console",
   "ingredients": [
    {
+    "name": "Battery Pack",
+    "qty": 1
+   },
+   {
+    "name": "Stopwatch",
+    "qty": 1
+   },
+   {
+    "name": "Dice",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Comic Book Store",
+   "Electronic Store",
+   "Game Exchange",
+   "Large Electronic store",
+   "Toy Store"
+  ],
+  "id": "game-console-1"
+ },
+ {
+  "product": "Game Console",
+  "ingredients": [
+   {
     "name": "Joystick",
     "qty": 1
    },
@@ -5067,7 +5755,7 @@
    "Pixel Pulse Arcade",
    "The Atomic Arcade"
   ],
-  "id": "game-console-1"
+  "id": "game-console-2"
  },
  {
   "product": "Game Night",
@@ -5154,7 +5842,6 @@
   "craftedAt": [
    "Court House",
    "Large Court house",
-   "Sparklet Refinery",
    "The Skyline Courthouse"
   ],
   "id": "gavel-2"
@@ -5197,6 +5884,7 @@
    }
   ],
   "craftedAt": [
+   "Creepy Old Hollow Schoolhouse",
    "Elementary School",
    "High School",
    "Junior College",
@@ -5737,6 +6425,28 @@
   "id": "graduation-1"
  },
  {
+  "product": "Graduation",
+  "ingredients": [
+   {
+    "name": "Standing Ovation",
+    "qty": 2
+   },
+   {
+    "name": "Medal",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Creepy Old Hollow Schoolhouse",
+   "Elementary School",
+   "High School",
+   "Junior College",
+   "University",
+   "Upland Junior High"
+  ],
+  "id": "graduation-2"
+ },
+ {
   "product": "Grail",
   "ingredients": [
    {
@@ -5771,6 +6481,31 @@
   "product": "Grand Reunion",
   "ingredients": [
    {
+    "name": "Best Friend",
+    "qty": 1
+   },
+   {
+    "name": "Special Guest",
+    "qty": 1
+   },
+   {
+    "name": "Scrapbook",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Classic Hotel",
+   "Modern Hotel",
+   "Motel",
+   "The Grimwood Hotel",
+   "The Lucky Star Hotel"
+  ],
+  "id": "grand-reunion-1"
+ },
+ {
+  "product": "Grand Reunion",
+  "ingredients": [
+   {
     "name": "Hello Again",
     "qty": 3
    },
@@ -5788,7 +6523,7 @@
    "Large Assisted Living Center",
    "The Starlight Senior Home"
   ],
-  "id": "grand-reunion-1"
+  "id": "grand-reunion-2"
  },
  {
   "product": "Grape",
@@ -5958,6 +6693,7 @@
    }
   ],
   "craftedAt": [
+   "Creepy Old Hollow Schoolhouse",
    "Elementary School",
    "High School",
    "Junior College",
@@ -6006,6 +6742,7 @@
    }
   ],
   "craftedAt": [
+   "Creepy Old Hollow Schoolhouse",
    "Day Care Center",
    "Elementary School",
    "High School",
@@ -6092,6 +6829,7 @@
    "Mall of Upland",
    "Musical Instrument Store",
    "Olde Wonder Toys",
+   "Stitch & Spell Tailors",
    "The Curious Cauldron",
    "The Flickering Wick"
   ],
@@ -6490,6 +7228,52 @@
   "product": "High Spirits",
   "ingredients": [
    {
+    "name": "Cheers",
+    "qty": 8
+   },
+   {
+    "name": "Fireworks",
+    "qty": 1
+   },
+   {
+    "name": "Holiday Ham",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Casual Dining Restaurant",
+   "East Coast Modular Apartments: Fast Food Restaurant",
+   "East Coast Modular Apartments: Little Havana Grill Edition",
+   "El Plate-o Grande",
+   "European Modular Apartments: Restaurant Edition",
+   "Fast Food Joint",
+   "Fine Dining Restaurant",
+   "Lotus of Upland Thai House",
+   "Luxury Restaurant",
+   "Main Street Modular Apartments: Pizzeria Edition",
+   "Mexican Restaurant",
+   "Moonbeam Diner",
+   "Mother Cluckers Chicken",
+   "Nomi Sushi Bar",
+   "Pho Whoa",
+   "Pizzeria",
+   "Ramen Restaurant",
+   "South America Modular Apartments: Rodizio Edition",
+   "Steakhouse",
+   "Tandoor House",
+   "Tapas Bar",
+   "The Burger Stop",
+   "The Lobster Shack",
+   "The Patty Shack",
+   "Thee Olde Spaghetti Factory",
+   "Waffle Home Diner"
+  ],
+  "id": "high-spirits-1"
+ },
+ {
+  "product": "High Spirits",
+  "ingredients": [
+   {
     "name": "Encore",
     "qty": 2
    },
@@ -6506,7 +7290,7 @@
    "Club Mirage Night Club",
    "Night Club"
   ],
-  "id": "high-spirits-1"
+  "id": "high-spirits-2"
  },
  {
   "product": "High Spirits",
@@ -6541,7 +7325,29 @@
    "The Atomic Oven Bakery",
    "The Harvest Oven"
   ],
-  "id": "high-spirits-2"
+  "id": "high-spirits-3"
+ },
+ {
+  "product": "Holiday Ham",
+  "ingredients": [
+   {
+    "name": "Maple Syrup",
+    "qty": 1
+   },
+   {
+    "name": "Charcoal",
+    "qty": 1
+   },
+   {
+    "name": "Cheers",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Butcher Shop",
+   "European Modular Apartments: Butcher Edition"
+  ],
+  "id": "holiday-ham-1"
  },
  {
   "product": "Holiday Ham",
@@ -6562,7 +7368,7 @@
   "craftedAt": [
    "Community Center"
   ],
-  "id": "holiday-ham-1"
+  "id": "holiday-ham-2"
  },
  {
   "product": "Home Cooking",
@@ -6635,6 +7441,27 @@
    "Waffle Home Diner"
   ],
   "id": "home-cooking-2"
+ },
+ {
+  "product": "Homecoming",
+  "ingredients": [
+   {
+    "name": "Embrace",
+    "qty": 8
+   },
+   {
+    "name": "Hello Again",
+    "qty": 5
+   },
+   {
+    "name": "Welcome Mat",
+    "qty": 3
+   }
+  ],
+  "craftedAt": [
+   "Bus Stop"
+  ],
+  "id": "homecoming-1"
  },
  {
   "product": "Horn",
@@ -6970,6 +7797,24 @@
   "id": "inner-peace-1"
  },
  {
+  "product": "Inner Peace",
+  "ingredients": [
+   {
+    "name": "Sandalwood",
+    "qty": 3
+   },
+   {
+    "name": "Lullaby",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Massage Parlor",
+   "Ultra Beauty Co"
+  ],
+  "id": "inner-peace-2"
+ },
+ {
   "product": "Inside Joke",
   "ingredients": [
    {
@@ -7142,6 +7987,25 @@
   "product": "Jigsaw",
   "ingredients": [
    {
+    "name": "Ingot",
+    "qty": 2
+   },
+   {
+    "name": "Power Drill",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Art Gallery",
+   "Art Museum",
+   "European Modular Apartments: Galerie d'Art Edition"
+  ],
+  "id": "jigsaw-1"
+ },
+ {
+  "product": "Jigsaw",
+  "ingredients": [
+   {
     "name": "Saw",
     "qty": 3
    },
@@ -7158,7 +8022,7 @@
    "Community Center",
    "Recycling Center"
   ],
-  "id": "jigsaw-1"
+  "id": "jigsaw-2"
  },
  {
   "product": "Joystick",
@@ -7210,6 +8074,49 @@
    "The Atomic Arcade"
   ],
   "id": "joystick-2"
+ },
+ {
+  "product": "Jubilee",
+  "ingredients": [
+   {
+    "name": "Confetti Toss",
+    "qty": 5
+   },
+   {
+    "name": "Stadium Wave",
+    "qty": 3
+   },
+   {
+    "name": "Trophy Cup",
+    "qty": 7
+   }
+  ],
+  "craftedAt": [
+   "Basketball court",
+   "Beach Pavilion",
+   "Bowling",
+   "Gym",
+   "Ice Rink",
+   "Martial Arts Dojo",
+   "Mini Golf",
+   "Mother Putters",
+   "Off the Wall Skate Park",
+   "Paintball Upland",
+   "Pool Hall",
+   "Private Swim Club",
+   "Public Pool",
+   "Set Point Beach Club",
+   "Soccer Field",
+   "Southside Boxing Club",
+   "Sports Courts",
+   "SuperKarts Mini Raceway",
+   "The Upland Y Rec Center",
+   "The Victory Gym",
+   "Track & Field Complex",
+   "Try Harder Gym",
+   "Upland Axes"
+  ],
+  "id": "jubilee-1"
  },
  {
   "product": "Jumper Cables",
@@ -7266,6 +8173,7 @@
   ],
   "craftedAt": [
    "Comic Book Store",
+   "Creepy Old Hollow Schoolhouse",
    "Elementary School",
    "Game Exchange",
    "High School",
@@ -7541,6 +8449,7 @@
    }
   ],
   "craftedAt": [
+   "Creepy Old Hollow Schoolhouse",
    "Elementary School",
    "High School",
    "Junior College",
@@ -7820,6 +8729,7 @@
    "Mall of Upland",
    "Olde Wonder Toys",
    "Pawn shop",
+   "Stitch & Spell Tailors",
    "The Curious Cauldron",
    "The Flickering Wick"
   ],
@@ -7959,6 +8869,7 @@
    "Mainstreet Modular: The Salty Anchor Marine Supply",
    "Mall of Upland",
    "Olde Wonder Toys",
+   "Stitch & Spell Tailors",
    "The Curious Cauldron",
    "The Flickering Wick"
   ],
@@ -8271,6 +9182,30 @@
   "id": "masquerade-1"
  },
  {
+  "product": "Masquerade",
+  "ingredients": [
+   {
+    "name": "Opening Night",
+    "qty": 1
+   },
+   {
+    "name": "Special Guest",
+    "qty": 1
+   },
+   {
+    "name": "Locket",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Art Gallery",
+   "Art Museum",
+   "European Modular Apartments: Galerie d'Art Edition",
+   "Hallow Spirit Costumes"
+  ],
+  "id": "masquerade-2"
+ },
+ {
   "product": "Master Chisel",
   "ingredients": [
    {
@@ -8312,6 +9247,7 @@
    }
   ],
   "craftedAt": [
+   "Creepy Old Hollow Schoolhouse",
    "Elementary School",
    "High School",
    "Junior College",
@@ -8426,6 +9362,7 @@
    }
   ],
   "craftedAt": [
+   "Creepy Old Hollow Schoolhouse",
    "Elementary School",
    "High School",
    "Junior College",
@@ -8488,6 +9425,35 @@
   "product": "Memory Lane",
   "ingredients": [
    {
+    "name": "Best Friend",
+    "qty": 1
+   },
+   {
+    "name": "Secret Handshake",
+    "qty": 1
+   },
+   {
+    "name": "Comic Book",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Aquarium",
+   "Barn & Nobles",
+   "Bookstore",
+   "Large Library",
+   "Library",
+   "Mainstreet Modular Apartments: Bookstore Edition",
+   "Natural History Museum",
+   "Old Asylum",
+   "The Moonbeam Bookstore"
+  ],
+  "id": "memory-lane-1"
+ },
+ {
+  "product": "Memory Lane",
+  "ingredients": [
+   {
     "name": "Scrapbook",
     "qty": 3
    },
@@ -8505,7 +9471,7 @@
    "Large Assisted Living Center",
    "The Starlight Senior Home"
   ],
-  "id": "memory-lane-1"
+  "id": "memory-lane-2"
  },
  {
   "product": "Metal Detector",
@@ -8532,6 +9498,31 @@
    "Recycling Center"
   ],
   "id": "metal-detector-1"
+ },
+ {
+  "product": "Metal Detector",
+  "ingredients": [
+   {
+    "name": "Headphones",
+    "qty": 1
+   },
+   {
+    "name": "Compass",
+    "qty": 1
+   },
+   {
+    "name": "Sawn Plank",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Neighborhood Police Station",
+   "Police Detention center",
+   "Police Headquarters",
+   "Regional Police Station",
+   "Starlite Precinct"
+  ],
+  "id": "metal-detector-2"
  },
  {
   "product": "Mic Drop",
@@ -8685,6 +9676,7 @@
    }
   ],
   "craftedAt": [
+   "Creepy Old Hollow Schoolhouse",
    "Elementary School",
    "High School",
    "Junior College",
@@ -8746,6 +9738,33 @@
   "id": "moonshine-1"
  },
  {
+  "product": "Moonshine",
+  "ingredients": [
+   {
+    "name": "Maple Syrup",
+    "qty": 1
+   },
+   {
+    "name": "Wine Bottle",
+    "qty": 1
+   },
+   {
+    "name": "Gold Coin",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Brewery",
+   "Local Brewery",
+   "Mainstreet Modular Apartments: Pub Edition building",
+   "Pub",
+   "South America Modular Apartments: Two Can Tango Bar Edition",
+   "The Happy Harvest Cider House",
+   "The Tipsy Tiki Bar"
+  ],
+  "id": "moonshine-2"
+ },
+ {
   "product": "Moral Support",
   "ingredients": [
    {
@@ -8762,6 +9781,7 @@
    }
   ],
   "craftedAt": [
+   "Creepy Old Hollow Schoolhouse",
    "Day Care Center",
    "Elementary School",
    "High School",
@@ -8847,6 +9867,7 @@
    "Mainstreet Modular: The Salty Anchor Marine Supply",
    "Mall of Upland",
    "Olde Wonder Toys",
+   "Stitch & Spell Tailors",
    "The Curious Cauldron",
    "The Flickering Wick"
   ],
@@ -8925,6 +9946,31 @@
   "id": "multitool-2"
  },
  {
+  "product": "Mushroom",
+  "ingredients": [
+   {
+    "name": "Sandalwood",
+    "qty": 3
+   },
+   {
+    "name": "Compass",
+    "qty": 2
+   }
+  ],
+  "craftedAt": [
+   "Clinic",
+   "East Coast Modular Apartments: Pharmacy",
+   "Grimwood Apothecary",
+   "Hospital",
+   "Pharmacy",
+   "Regional Hospital",
+   "Skyline Medical Center",
+   "The Corner Drugstore",
+   "Urgent care center"
+  ],
+  "id": "mushroom-1"
+ },
+ {
   "product": "Necklace",
   "ingredients": [
    {
@@ -8957,6 +10003,7 @@
    "Mall of Upland",
    "Olde Wonder Toys",
    "Pawn shop",
+   "Stitch & Spell Tailors",
    "The Curious Cauldron",
    "The Flickering Wick",
    "The Thrift Gap"
@@ -9008,6 +10055,7 @@
    }
   ],
   "craftedAt": [
+   "Creepy Old Hollow Schoolhouse",
    "Day Care Center",
    "Elementary School",
    "High School",
@@ -9101,6 +10149,7 @@
    }
   ],
   "craftedAt": [
+   "Creepy Old Hollow Schoolhouse",
    "Day Care Center",
    "Elementary School",
    "High School",
@@ -9371,6 +10420,36 @@
   "id": "open-invitation-1"
  },
  {
+  "product": "Open Invitation",
+  "ingredients": [
+   {
+    "name": "Embrace",
+    "qty": 25
+   },
+   {
+    "name": "Come Anytime",
+    "qty": 10
+   },
+   {
+    "name": "Care Package",
+    "qty": 10
+   },
+   {
+    "name": "Coffee Bean",
+    "qty": 30
+   }
+  ],
+  "craftedAt": [
+   "Block & Beans Coffee",
+   "Coffee Shop",
+   "French Cafe",
+   "Mainstreet Modular Apartments: Cafe Edition building",
+   "The Rocket Cup Cafe",
+   "The Tipsy Teapot Cafe"
+  ],
+  "id": "open-invitation-2"
+ },
+ {
   "product": "Opening Night",
   "ingredients": [
    {
@@ -9578,6 +10657,7 @@
    }
   ],
   "craftedAt": [
+   "Creepy Old Hollow Schoolhouse",
    "Elementary School",
    "High School",
    "Junior College",
@@ -9615,6 +10695,7 @@
    "Mainstreet Modular: The Salty Anchor Marine Supply",
    "Mall of Upland",
    "Olde Wonder Toys",
+   "Stitch & Spell Tailors",
    "The Curious Cauldron",
    "The Flickering Wick",
    "The Thrift Gap"
@@ -9764,6 +10845,31 @@
    "Small Office"
   ],
   "id": "phone-1"
+ },
+ {
+  "product": "Phone",
+  "ingredients": [
+   {
+    "name": "Microphone",
+    "qty": 1
+   },
+   {
+    "name": "Headphones",
+    "qty": 1
+   },
+   {
+    "name": "Locket",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Dunder Office Supplies",
+   "East Coast Modular Apartments: Mobile Phone Store",
+   "Electronic Store",
+   "Large Electronic store",
+   "UPhone Store"
+  ],
+  "id": "phone-2"
  },
  {
   "product": "Picnic",
@@ -9920,7 +11026,6 @@
    "East Coast Modular Apartments: Bank Edition",
    "East Coast Modular Apartments: Money Exchange Edition",
    "Large Court house",
-   "Sparklet Refinery",
    "The Golden Vault Bank",
    "The Skyline Courthouse"
   ],
@@ -9943,6 +11048,7 @@
    }
   ],
   "craftedAt": [
+   "Creepy Old Hollow Schoolhouse",
    "Day Care Center",
    "Elementary School",
    "High School",
@@ -10191,6 +11297,7 @@
    "Mall of Upland",
    "Olde Wonder Toys",
    "Rick's Sporting Goods",
+   "Stitch & Spell Tailors",
    "The Curious Cauldron",
    "The Flickering Wick"
   ],
@@ -10261,6 +11368,7 @@
    }
   ],
   "craftedAt": [
+   "Creepy Old Hollow Schoolhouse",
    "Day Care Center",
    "Elementary School",
    "High School",
@@ -10398,6 +11506,7 @@
    }
   ],
   "craftedAt": [
+   "Creepy Old Hollow Schoolhouse",
    "Elementary School",
    "High School",
    "Junior College",
@@ -10542,6 +11651,27 @@
    "Sports Courts"
   ],
   "id": "radar-gun-1"
+ },
+ {
+  "product": "Radar Gun",
+  "ingredients": [
+   {
+    "name": "Radio",
+    "qty": 3
+   },
+   {
+    "name": "Wristwatch",
+    "qty": 2
+   }
+  ],
+  "craftedAt": [
+   "Neighborhood Police Station",
+   "Police Detention center",
+   "Police Headquarters",
+   "Regional Police Station",
+   "Starlite Precinct"
+  ],
+  "id": "radar-gun-2"
  },
  {
   "product": "Radio",
@@ -10704,7 +11834,6 @@
    "Neighborhood Market",
    "Old Crow Farm Market",
    "South America Modular Apartments: Almacén Edition",
-   "Sparklet Refinery",
    "Supermarket",
    "Supermarket Super Store",
    "The Skyline Courthouse"
@@ -10749,6 +11878,7 @@
    "Olde Wonder Toys",
    "Pet Shop",
    "Sneaker Store",
+   "Stitch & Spell Tailors",
    "The Curious Cauldron",
    "The Flickering Wick",
    "The Thrift Gap"
@@ -10817,6 +11947,38 @@
   "product": "Roast",
   "ingredients": [
    {
+    "name": "Crowd Pleaser",
+    "qty": 2
+   },
+   {
+    "name": "Old Pal",
+    "qty": 1
+   },
+   {
+    "name": "Burger",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Casual Dining Restaurant",
+   "East Coast Modular Apartments: Fast Food Restaurant",
+   "East Coast Modular Apartments: Little Havana Grill Edition",
+   "European Modular Apartments: Restaurant Edition",
+   "Fast Food Joint",
+   "Moonbeam Diner",
+   "Mother Cluckers Chicken",
+   "South America Modular Apartments: Rodizio Edition",
+   "Steakhouse",
+   "The Burger Stop",
+   "The Patty Shack",
+   "Waffle Home Diner"
+  ],
+  "id": "roast-1"
+ },
+ {
+  "product": "Roast",
+  "ingredients": [
+   {
     "name": "Holiday Ham",
     "qty": 4
    },
@@ -10841,7 +12003,7 @@
    "Supermarket",
    "Supermarket Super Store"
   ],
-  "id": "roast-1"
+  "id": "roast-2"
  },
  {
   "product": "Roast",
@@ -10868,7 +12030,7 @@
    "The Happy Harvest Cider House",
    "The Tipsy Tiki Bar"
   ],
-  "id": "roast-2"
+  "id": "roast-3"
  },
  {
   "product": "Rocket Fuel",
@@ -10891,6 +12053,77 @@
    "University"
   ],
   "id": "rocket-fuel-1"
+ },
+ {
+  "product": "Royal Orb",
+  "ingredients": [
+   {
+    "name": "Gold Bar",
+    "qty": 20
+   },
+   {
+    "name": "Sapphire",
+    "qty": 10
+   },
+   {
+    "name": "Chalice",
+    "qty": 10
+   },
+   {
+    "name": "Jubilee",
+    "qty": 1
+   },
+   {
+    "name": "Standing Ovation",
+    "qty": 5
+   }
+  ],
+  "craftedAt": [
+   "Live Jams Stage",
+   "Live Theater",
+   "Performing Arts Center",
+   "The Starline Theater",
+   "Theater"
+  ],
+  "id": "royal-orb-1"
+ },
+ {
+  "product": "Royal Robe",
+  "ingredients": [
+   {
+    "name": "Cotton Boll",
+    "qty": 5
+   },
+   {
+    "name": "Sheepskin",
+    "qty": 3
+   },
+   {
+    "name": "Gold Bar",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Antique Store",
+   "Black Cat Curiosities Shop",
+   "Cobweb & Co Antiques",
+   "East Coast Modular: Liquor Store Edition",
+   "European Modular Apartments: Antiquaire Edition",
+   "Going Under Dive Shop",
+   "Hallow Spirit Costumes",
+   "Main Street Modular Apartments: Texas Mercantile General Store",
+   "Main Street Modular Apartments: Uppany & Co. Edition",
+   "Mainstreet Modular Apartments: Pawn Shop Edition",
+   "Mainstreet Modular Apartments: Uppie Outfitters Edition",
+   "Mainstreet Modular: The Salty Anchor Marine Supply",
+   "Mall of Upland",
+   "Olde Wonder Toys",
+   "Pawn shop",
+   "Stitch & Spell Tailors",
+   "The Curious Cauldron",
+   "The Flickering Wick"
+  ],
+  "id": "royal-robe-1"
  },
  {
   "product": "Royal Treatment",
@@ -11012,6 +12245,62 @@
   "id": "running-gag-2"
  },
  {
+  "product": "Safe Haven",
+  "ingredients": [
+   {
+    "name": "Full Recovery",
+    "qty": 3
+   },
+   {
+    "name": "Good Hands",
+    "qty": 2
+   },
+   {
+    "name": "Grail",
+    "qty": 2
+   },
+   {
+    "name": "Hourglass",
+    "qty": 2
+   },
+   {
+    "name": "Second Family",
+    "qty": 3
+   },
+   {
+    "name": "Deadbolt",
+    "qty": 80
+   }
+  ],
+  "craftedAt": [
+   "Animal Shelter",
+   "Community Center"
+  ],
+  "id": "safe-haven-1"
+ },
+ {
+  "product": "Saffron",
+  "ingredients": [
+   {
+    "name": "Ginger",
+    "qty": 2
+   },
+   {
+    "name": "Gold Coin",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Bodega",
+   "Neighborhood Market",
+   "Old Crow Farm Market",
+   "South America Modular Apartments: Almacén Edition",
+   "Supermarket",
+   "Supermarket Super Store"
+  ],
+  "id": "saffron-1"
+ },
+ {
   "product": "Saffron",
   "ingredients": [
    {
@@ -11037,7 +12326,7 @@
    "Tandoor House",
    "Tapas Bar"
   ],
-  "id": "saffron-1"
+  "id": "saffron-2"
  },
  {
   "product": "Salami",
@@ -11160,6 +12449,25 @@
   "product": "Sandalwood",
   "ingredients": [
    {
+    "name": "Compass",
+    "qty": 2
+   },
+   {
+    "name": "Care Package",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Art Gallery",
+   "Art Museum",
+   "European Modular Apartments: Galerie d'Art Edition"
+  ],
+  "id": "sandalwood-1"
+ },
+ {
+  "product": "Sandalwood",
+  "ingredients": [
+   {
     "name": "Saw",
     "qty": 2
    },
@@ -11186,10 +12494,11 @@
    "Mall of Upland",
    "Musical Instrument Store",
    "Olde Wonder Toys",
+   "Stitch & Spell Tailors",
    "The Curious Cauldron",
    "The Flickering Wick"
   ],
-  "id": "sandalwood-1"
+  "id": "sandalwood-2"
  },
  {
   "product": "Sapphire",
@@ -11492,6 +12801,74 @@
   "id": "screwdriver-2"
  },
  {
+  "product": "Sea Shell",
+  "ingredients": [
+   {
+    "name": "Yoga Mat",
+    "qty": 3
+   },
+   {
+    "name": "Sewing Kit",
+    "qty": 2
+   }
+  ],
+  "craftedAt": [
+   "Camp World",
+   "Hook & Tackle Bait Shop",
+   "Main Street Modular: Pacific Northwest Trading Post Edition",
+   "Quickserver Surf Co",
+   "Rick's Sporting Goods",
+   "Rip Curl’d Swimwear"
+  ],
+  "id": "sea-shell-1"
+ },
+ {
+  "product": "Second Family",
+  "ingredients": [
+   {
+    "name": "Homecoming",
+    "qty": 2
+   },
+   {
+    "name": "Support Group",
+    "qty": 1
+   },
+   {
+    "name": "Holiday Ham",
+    "qty": 3
+   }
+  ],
+  "craftedAt": [
+   "Casual Dining Restaurant",
+   "East Coast Modular Apartments: Fast Food Restaurant",
+   "East Coast Modular Apartments: Little Havana Grill Edition",
+   "El Plate-o Grande",
+   "European Modular Apartments: Restaurant Edition",
+   "Fast Food Joint",
+   "Fine Dining Restaurant",
+   "Lotus of Upland Thai House",
+   "Luxury Restaurant",
+   "Main Street Modular Apartments: Pizzeria Edition",
+   "Mexican Restaurant",
+   "Moonbeam Diner",
+   "Mother Cluckers Chicken",
+   "Nomi Sushi Bar",
+   "Pho Whoa",
+   "Pizzeria",
+   "Ramen Restaurant",
+   "South America Modular Apartments: Rodizio Edition",
+   "Steakhouse",
+   "Tandoor House",
+   "Tapas Bar",
+   "The Burger Stop",
+   "The Lobster Shack",
+   "The Patty Shack",
+   "Thee Olde Spaghetti Factory",
+   "Waffle Home Diner"
+  ],
+  "id": "second-family-1"
+ },
+ {
   "product": "Secret Handshake",
   "ingredients": [
    {
@@ -11687,6 +13064,7 @@
    "Mainstreet Modular: The Salty Anchor Marine Supply",
    "Mall of Upland",
    "Olde Wonder Toys",
+   "Stitch & Spell Tailors",
    "The Curious Cauldron",
    "The Flickering Wick",
    "The Thrift Gap"
@@ -11746,7 +13124,6 @@
    "Court House",
    "DMV",
    "Large Court house",
-   "Sparklet Refinery",
    "The Skyline Courthouse"
   ],
   "id": "side-eye-1"
@@ -11934,6 +13311,7 @@
    }
   ],
   "craftedAt": [
+   "Creepy Old Hollow Schoolhouse",
    "Elementary School",
    "High School",
    "Upland Junior High"
@@ -12027,6 +13405,41 @@
    "Bus Stop"
   ],
   "id": "snappy-comeback-1"
+ },
+ {
+  "product": "Snappy Comeback",
+  "ingredients": [
+   {
+    "name": "Running Gag",
+    "qty": 1
+   },
+   {
+    "name": "Side Eye",
+    "qty": 1
+   },
+   {
+    "name": "Fire",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Arcade",
+   "Blockade Arcade",
+   "Comedy Club",
+   "Dreamspace VR",
+   "Live Jams Stage",
+   "Live Theater",
+   "Madame Moon's Fortune Telling",
+   "Mainstreet Modular Apartments: Arcade Edition",
+   "Neon Glide Roller Rink",
+   "Performing Arts Center",
+   "Pixel Pulse Arcade",
+   "SynthTag Laser Tag",
+   "The Atomic Arcade",
+   "The Starline Theater",
+   "Theater"
+  ],
+  "id": "snappy-comeback-2"
  },
  {
   "product": "Snow Globe",
@@ -12133,6 +13546,7 @@
    }
   ],
   "craftedAt": [
+   "Creepy Old Hollow Schoolhouse",
    "Day Care Center",
    "Elementary School",
    "High School",
@@ -12183,6 +13597,47 @@
    "Radio Station"
   ],
   "id": "soldering-iron-2"
+ },
+ {
+  "product": "Solemn Vow",
+  "ingredients": [
+   {
+    "name": "Pinky Promise",
+    "qty": 2
+   },
+   {
+    "name": "Wax Seal",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Court House",
+   "Large Court house",
+   "The Skyline Courthouse"
+  ],
+  "id": "solemn-vow-1"
+ },
+ {
+  "product": "Solemn Vow",
+  "ingredients": [
+   {
+    "name": "Praying Hands",
+    "qty": 6
+   },
+   {
+    "name": "Common Ground",
+    "qty": 3
+   },
+   {
+    "name": "Wax Seal",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Community Center",
+   "Funeral Home"
+  ],
+  "id": "solemn-vow-2"
  },
  {
   "product": "Soybean",
@@ -12327,6 +13782,27 @@
   "product": "Spell Book",
   "ingredients": [
    {
+    "name": "Ancient Scroll",
+    "qty": 6
+   },
+   {
+    "name": "Rawhide",
+    "qty": 4
+   }
+  ],
+  "craftedAt": [
+   "Bookstore",
+   "Large Library",
+   "Library",
+   "Mainstreet Modular Apartments: Bookstore Edition",
+   "The Moonbeam Bookstore"
+  ],
+  "id": "spell-book-1"
+ },
+ {
+  "product": "Spell Book",
+  "ingredients": [
+   {
     "name": "Treasure Map",
     "qty": 8
    },
@@ -12350,7 +13826,7 @@
    "Mainstreet Modular Apartments: Pawn Shop Edition",
    "Pawn shop"
   ],
-  "id": "spell-book-1"
+  "id": "spell-book-2"
  },
  {
   "product": "Squad",
@@ -12365,6 +13841,7 @@
    }
   ],
   "craftedAt": [
+   "Creepy Old Hollow Schoolhouse",
    "Elementary School",
    "High School",
    "Junior College",
@@ -12537,6 +14014,30 @@
   "id": "stamp-collection-1"
  },
  {
+  "product": "Stamp Collection",
+  "ingredients": [
+   {
+    "name": "Scrapbook",
+    "qty": 4
+   },
+   {
+    "name": "Tweezers",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Barn & Nobles",
+   "Bookstore",
+   "Large Library",
+   "Library",
+   "Mainstreet Modular Apartments: Bookstore Edition",
+   "Post Office",
+   "Post Office Distribution Center",
+   "The Moonbeam Bookstore"
+  ],
+  "id": "stamp-collection-2"
+ },
+ {
   "product": "Standing Ovation",
   "ingredients": [
    {
@@ -12608,6 +14109,27 @@
   "product": "Standing Ovation",
   "ingredients": [
    {
+    "name": "Sandalwood",
+    "qty": 3
+   },
+   {
+    "name": "Opening Night",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Antique Store",
+   "European Modular Apartments: Antiquaire Edition",
+   "Mainstreet Modular Apartments: Pawn Shop Edition",
+   "Musical Instrument Store",
+   "Pawn shop"
+  ],
+  "id": "standing-ovation-3"
+ },
+ {
+  "product": "Standing Ovation",
+  "ingredients": [
+   {
     "name": "Talent Show",
     "qty": 2
    },
@@ -12629,7 +14151,7 @@
    "The Happy Harvest Cider House",
    "The Tipsy Tiki Bar"
   ],
-  "id": "standing-ovation-3"
+  "id": "standing-ovation-4"
  },
  {
   "product": "Steady Nerves",
@@ -12737,6 +14259,29 @@
    "The Starlight Senior Home"
   ],
   "id": "stethoscope-1"
+ },
+ {
+  "product": "Stethoscope",
+  "ingredients": [
+   {
+    "name": "Headphones",
+    "qty": 2
+   },
+   {
+    "name": "Healing Kit",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Clinic",
+   "Grimwood Apothecary",
+   "Hospital",
+   "Regional Hospital",
+   "Skyline Medical Center",
+   "Urgent care center",
+   "Veterinary Clinic"
+  ],
+  "id": "stethoscope-2"
  },
  {
   "product": "Stopwatch",
@@ -12892,6 +14437,7 @@
    "Mainstreet Modular: The Salty Anchor Marine Supply",
    "Mall of Upland",
    "Olde Wonder Toys",
+   "Stitch & Spell Tailors",
    "The Curious Cauldron",
    "The Flickering Wick"
   ],
@@ -13068,6 +14614,74 @@
   "id": "sugar-cane-1"
  },
  {
+  "product": "Sugar Cane",
+  "ingredients": [
+   {
+    "name": "Tea Leaf",
+    "qty": 2
+   },
+   {
+    "name": "Gold Coin",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Bodega",
+   "Neighborhood Market",
+   "Old Crow Farm Market",
+   "South America Modular Apartments: Almacén Edition",
+   "Supermarket",
+   "Supermarket Super Store"
+  ],
+  "id": "sugar-cane-2"
+ },
+ {
+  "product": "Sunday Dinner",
+  "ingredients": [
+   {
+    "name": "Food Drive",
+    "qty": 2
+   },
+   {
+    "name": "Open Invitation",
+    "qty": 1
+   },
+   {
+    "name": "Holiday Ham",
+    "qty": 3
+   }
+  ],
+  "craftedAt": [
+   "Casual Dining Restaurant",
+   "East Coast Modular Apartments: Fast Food Restaurant",
+   "East Coast Modular Apartments: Little Havana Grill Edition",
+   "El Plate-o Grande",
+   "European Modular Apartments: Restaurant Edition",
+   "Fast Food Joint",
+   "Fine Dining Restaurant",
+   "Lotus of Upland Thai House",
+   "Luxury Restaurant",
+   "Main Street Modular Apartments: Pizzeria Edition",
+   "Mexican Restaurant",
+   "Moonbeam Diner",
+   "Mother Cluckers Chicken",
+   "Nomi Sushi Bar",
+   "Pho Whoa",
+   "Pizzeria",
+   "Ramen Restaurant",
+   "South America Modular Apartments: Rodizio Edition",
+   "Steakhouse",
+   "Tandoor House",
+   "Tapas Bar",
+   "The Burger Stop",
+   "The Lobster Shack",
+   "The Patty Shack",
+   "Thee Olde Spaghetti Factory",
+   "Waffle Home Diner"
+  ],
+  "id": "sunday-dinner-1"
+ },
+ {
   "product": "Support Group",
   "ingredients": [
    {
@@ -13098,6 +14712,28 @@
    "Urgent care center"
   ],
   "id": "support-group-1"
+ },
+ {
+  "product": "Support Group",
+  "ingredients": [
+   {
+    "name": "Whole Gang",
+    "qty": 2
+   },
+   {
+    "name": "Crutches",
+    "qty": 1
+   },
+   {
+    "name": "Potluck",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Community Center",
+   "Funeral Home"
+  ],
+  "id": "support-group-2"
  },
  {
   "product": "Sushi Roll",
@@ -13213,6 +14849,7 @@
    }
   ],
   "craftedAt": [
+   "Creepy Old Hollow Schoolhouse",
    "Elementary School",
    "High School",
    "Junior College",
@@ -13495,6 +15132,27 @@
   "product": "Tiara",
   "ingredients": [
    {
+    "name": "Gold Bar",
+    "qty": 3
+   },
+   {
+    "name": "Standing Ovation",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Live Jams Stage",
+   "Live Theater",
+   "Performing Arts Center",
+   "The Starline Theater",
+   "Theater"
+  ],
+  "id": "tiara-1"
+ },
+ {
+  "product": "Tiara",
+  "ingredients": [
+   {
     "name": "Gold Coin",
     "qty": 3
    },
@@ -13517,7 +15175,7 @@
    "Regal Roots Salon",
    "Tattoo Studio"
   ],
-  "id": "tiara-1"
+  "id": "tiara-2"
  },
  {
   "product": "Time Capsule",
@@ -13532,6 +15190,7 @@
    }
   ],
   "craftedAt": [
+   "Creepy Old Hollow Schoolhouse",
    "Elementary School",
    "High School",
    "Junior College",
@@ -13556,6 +15215,7 @@
   ],
   "craftedAt": [
    "Community Center",
+   "Creepy Old Hollow Schoolhouse",
    "Elementary School",
    "High School",
    "Junior College",
@@ -13610,6 +15270,54 @@
   "id": "tire-gauge-2"
  },
  {
+  "product": "Title Belt",
+  "ingredients": [
+   {
+    "name": "Gold Bar",
+    "qty": 2
+   },
+   {
+    "name": "Signed Jersey",
+    "qty": 1
+   },
+   {
+    "name": "Boxing Gloves",
+    "qty": 2
+   }
+  ],
+  "craftedAt": [
+   "Martial Arts Dojo",
+   "Southside Boxing Club"
+  ],
+  "id": "title-belt-1"
+ },
+ {
+  "product": "Title Belt",
+  "ingredients": [
+   {
+    "name": "Medallion",
+    "qty": 3
+   },
+   {
+    "name": "Rawhide",
+    "qty": 4
+   },
+   {
+    "name": "Gold Coin",
+    "qty": 5
+   },
+   {
+    "name": "Boxing Gloves",
+    "qty": 2
+   }
+  ],
+  "craftedAt": [
+   "European Modular Apartments: Sports Bar",
+   "Large Sports Bar"
+  ],
+  "id": "title-belt-2"
+ },
+ {
   "product": "Tomato",
   "ingredients": [
    {
@@ -13650,6 +15358,7 @@
    }
   ],
   "craftedAt": [
+   "Creepy Old Hollow Schoolhouse",
    "Elementary School",
    "High School",
    "Junior College",
@@ -13743,6 +15452,51 @@
   "id": "tool-chest-2"
  },
  {
+  "product": "Treasure Chest",
+  "ingredients": [
+   {
+    "name": "Gold Bar",
+    "qty": 3
+   },
+   {
+    "name": "Compass",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Bank",
+   "Bank Headquarters",
+   "East Coast Modular Apartments: Bank Edition",
+   "East Coast Modular Apartments: Money Exchange Edition",
+   "The Golden Vault Bank"
+  ],
+  "id": "treasure-chest-1"
+ },
+ {
+  "product": "Treasure Chest",
+  "ingredients": [
+   {
+    "name": "Rare Coin",
+    "qty": 6
+   },
+   {
+    "name": "Necklace",
+    "qty": 2
+   },
+   {
+    "name": "Sawn Plank",
+    "qty": 4
+   }
+  ],
+  "craftedAt": [
+   "Antique Store",
+   "European Modular Apartments: Antiquaire Edition",
+   "Mainstreet Modular Apartments: Pawn Shop Edition",
+   "Pawn shop"
+  ],
+  "id": "treasure-chest-2"
+ },
+ {
   "product": "Treasure Map",
   "ingredients": [
    {
@@ -13771,6 +15525,33 @@
   "product": "Treasure Map",
   "ingredients": [
    {
+    "name": "Compass",
+    "qty": 2
+   },
+   {
+    "name": "Scrapbook",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Aquarium",
+   "Barn & Nobles",
+   "Bookstore",
+   "Large Library",
+   "Library",
+   "Mainstreet Modular Apartments: Bookstore Edition",
+   "Natural History Museum",
+   "Planetarium",
+   "Science Museum",
+   "The Moonbeam Bookstore",
+   "The Upland Needle"
+  ],
+  "id": "treasure-map-2"
+ },
+ {
+  "product": "Treasure Map",
+  "ingredients": [
+   {
     "name": "Postcard",
     "qty": 1
    },
@@ -13786,7 +15567,7 @@
   "craftedAt": [
    "Bus Stop"
   ],
-  "id": "treasure-map-2"
+  "id": "treasure-map-3"
  },
  {
   "product": "Trophy Cup",
@@ -14194,6 +15975,7 @@
    }
   ],
   "craftedAt": [
+   "Creepy Old Hollow Schoolhouse",
    "Elementary School",
    "High School",
    "Junior College",
@@ -14271,6 +16053,26 @@
    "Takasaki Retro Googie Farmers Market"
   ],
   "id": "walnut-2"
+ },
+ {
+  "product": "Warm Hug",
+  "ingredients": [
+   {
+    "name": "Knitting Circle",
+    "qty": 2
+   },
+   {
+    "name": "Sheepskin",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Community Center",
+   "Dry Cleaner",
+   "Laundromat",
+   "Mainstreet Modular Apartments: Laundromat Edition"
+  ],
+  "id": "warm-hug-1"
  },
  {
   "product": "Wax Seal",
@@ -14387,6 +16189,51 @@
   "id": "wedding-ring-1"
  },
  {
+  "product": "Wedding Ring",
+  "ingredients": [
+   {
+    "name": "Gold Ring",
+    "qty": 2
+   },
+   {
+    "name": "Embrace",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Jewelry"
+  ],
+  "id": "wedding-ring-2"
+ },
+ {
+  "product": "Welcome Home",
+  "ingredients": [
+   {
+    "name": "Parade",
+    "qty": 1
+   },
+   {
+    "name": "True Love",
+    "qty": 1
+   },
+   {
+    "name": "Pure Joy",
+    "qty": 1
+   },
+   {
+    "name": "Come Anytime",
+    "qty": 20
+   }
+  ],
+  "craftedAt": [
+   "Animal Shelter",
+   "Community Center",
+   "Information Kiosk",
+   "Welcome Point Travel Center"
+  ],
+  "id": "welcome-home-1"
+ },
+ {
   "product": "Welcome Mat",
   "ingredients": [
    {
@@ -14417,6 +16264,7 @@
    "Mall of Upland",
    "Olde Wonder Toys",
    "Pet Shop",
+   "Stitch & Spell Tailors",
    "The Curious Cauldron",
    "The Flickering Wick",
    "ÜPKEA"
@@ -14487,6 +16335,23 @@
    "Upland Axes"
   ],
   "id": "whole-gang-1"
+ },
+ {
+  "product": "Whole Gang",
+  "ingredients": [
+   {
+    "name": "Squad",
+    "qty": 2
+   },
+   {
+    "name": "Care Package",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Community Center"
+  ],
+  "id": "whole-gang-2"
  },
  {
   "product": "Wind Down",
@@ -14690,6 +16555,7 @@
    "Mall of Upland",
    "Olde Wonder Toys",
    "Pawn shop",
+   "Stitch & Spell Tailors",
    "Sunglass Shack",
    "The Curious Cauldron",
    "The Flickering Wick",
