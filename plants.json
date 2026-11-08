@@ -288,6 +288,25 @@
   "source": "catalog"
  },
  {
+  "species": "Marigold",
+  "troves": [
+   "Air Kiss",
+   "Bouquet",
+   "Deep Breath",
+   "Friendly Wave",
+   "Geode",
+   "Glee",
+   "Grin",
+   "Heart",
+   "Honey",
+   "Kind Word",
+   "Shy Giggle",
+   "Soft Heart",
+   "Sunlight"
+  ],
+  "source": "catalog"
+ },
+ {
   "species": "Monstera",
   "troves": [
    "Deep Breath",

@@ -1,29 +1,29 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "2026.11.05-1",
-  "generatedAt": "2026-11-05T09:33:40Z",
+  "dataVersion": "2026.11.08-1",
+  "generatedAt": "2026-11-08T20:03:46Z",
   "counts": {
     "troves": 501,
-    "buildings": 362,
-    "recipes": 634,
-    "plants": 40
+    "buildings": 364,
+    "recipes": 696,
+    "plants": 41
   },
   "files": {
     "troves.json": {
-      "bytes": 291509,
-      "sha256": "d8ae8c8f6a49fa8c5618892a793a66a7af938959b722e89f7477835342410f4c"
+      "bytes": 281288,
+      "sha256": "d4062df6cef964a7d945ef42a7a720bcbf18296c1b8e669539b5217cf4c25da5"
     },
     "buildings.json": {
-      "bytes": 272039,
-      "sha256": "800fa0401dc22d824347882a14dd5d1ac4501619ec4bd53464b59848d656a236"
+      "bytes": 272585,
+      "sha256": "8884d4927dff592c44cea2e92c4c1cbd80180faf0b1b2fc4074d225045244511"
     },
     "recipes.json": {
-      "bytes": 280901,
-      "sha256": "d8e6dadc0fc9406891433ba06e87811bd74bd7504e42b3aa98c1262cd8790e6d"
+      "bytes": 307760,
+      "sha256": "c65f5d1c0cbbd49f93328a9d2a27907b9620b6f36b924ff0e88c78c91b0c242d"
     },
     "plants.json": {
-      "bytes": 10438,
-      "sha256": "6b52faa44c4551b1c197cbe36e03e8848a40c4fee08b3454a38b753ef599277e"
+      "bytes": 10700,
+      "sha256": "47615da73c17514e64506b3b75c6429203a67024b9b16a1efb8a213e63c3de86"
     }
   },
   "notice": "Community data for the Smart Address Clipboard extension.",

@@ -65,8 +65,10 @@
    "Wool"
   ],
   "recipes": [
-   "cradle-2",
+   "cradle-3",
    "dog-collar-1",
+   "fresh-start-2",
+   "open-arms-2",
    "open-door-1",
    "safe-haven-1",
    "welcome-home-1"
@@ -74,10 +76,7 @@
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Fresh Start",
    "Homecoming",
-   "Open Arms",
-   "Second Family",
    "Special Guest",
    "Warm Hug",
    "Welcome Mat"
@@ -106,13 +105,16 @@
    "Thumbs Up"
   ],
   "recipes": [
-   "amber-1",
+   "amber-2",
    "amulet-1",
    "antique-vase-2",
+   "blue-diamond-1",
    "camera-2",
-   "crystal-ball-1",
+   "cheers-4",
+   "crown-1",
+   "crystal-ball-2",
    "doubloon-1",
-   "electric-guitar-1",
+   "electric-guitar-2",
    "fire-helmet-2",
    "gold-bar-1",
    "gold-ring-1",
@@ -136,12 +138,9 @@
   "bonusTroves": [
    "Aged Whiskey",
    "Black Opal",
-   "Blue Diamond",
    "Caviar",
    "Chalice",
    "Charm Bracelet",
-   "Cheers",
-   "Crown",
    "Crown Jewel",
    "Diamond",
    "Ebony Log",
@@ -152,7 +151,6 @@
    "Moon Rock",
    "Photograph",
    "Skeleton Key",
-   "Violin",
    "Wedding"
   ]
  },
@@ -191,14 +189,13 @@
   "recipes": [
    "group-selfie-2",
    "memory-lane-1",
+   "sea-shell-1",
    "treasure-map-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Sea Shell",
-   "Sextant",
-   "World Map"
+   "Sextant"
   ]
  },
  {
@@ -225,6 +222,7 @@
   "recipes": [
    "action-figure-2",
    "casino-chip-1",
+   "cloud-nine-2",
    "game-console-2",
    "game-night-2",
    "gold-coin-1",
@@ -240,7 +238,6 @@
   "bonusTroves": [
    "Belly Laugh",
    "Birthday Wish",
-   "Cloud Nine",
    "Fist Bump",
    "Pinky Promise",
    "Rare Coin",
@@ -271,12 +268,17 @@
    "antique-vase-1",
    "calipers-1",
    "chisel-set-2",
+   "confetti-toss-1",
+   "crystal-ball-1",
+   "ebony-log-2",
    "emerald-2",
+   "grail-2",
    "group-selfie-2",
    "jade-dragon-2",
    "jigsaw-1",
    "marble-bust-1",
    "masquerade-2",
+   "master-chisel-2",
    "oil-painting-2",
    "opening-night-1",
    "ruby-1",
@@ -291,14 +293,9 @@
    "Amethyst",
    "Applause",
    "Blue Diamond",
-   "Confetti Toss",
-   "Crystal Ball",
-   "Ebony Log",
-   "Grail",
    "Invisible Cloak",
    "Jubilee",
    "Magic Lamp",
-   "Master Chisel",
    "Photograph",
    "Royal Orb",
    "Scepter"
@@ -328,12 +325,17 @@
    "antique-vase-1",
    "calipers-1",
    "chisel-set-2",
+   "confetti-toss-1",
+   "crystal-ball-1",
+   "ebony-log-2",
    "emerald-2",
+   "grail-2",
    "group-selfie-2",
    "jade-dragon-2",
    "jigsaw-1",
    "marble-bust-1",
    "masquerade-2",
+   "master-chisel-2",
    "oil-painting-2",
    "opening-night-1",
    "ruby-1",
@@ -348,14 +350,9 @@
    "Amethyst",
    "Applause",
    "Blue Diamond",
-   "Confetti Toss",
-   "Crystal Ball",
-   "Ebony Log",
-   "Grail",
    "Invisible Cloak",
    "Jubilee",
    "Magic Lamp",
-   "Master Chisel",
    "Photograph",
    "Royal Orb",
    "Scepter"
@@ -424,6 +421,7 @@
    "Twine"
   ],
   "recipes": [
+   "cradle-1",
    "electric-blanket-1",
    "sawn-plank-2",
    "welcome-mat-1"
@@ -432,7 +430,6 @@
   "verified": false,
   "bonusTroves": [
    "Charcoal",
-   "Cradle",
    "Knitting Circle",
    "Lanolin",
    "Lullaby",
@@ -467,10 +464,10 @@
    "family-doctor-1",
    "grail-1",
    "grand-reunion-2",
-   "hearing-aid-1",
+   "hearing-aid-2",
    "house-call-2",
    "knitting-circle-2",
-   "locket-3",
+   "locket-2",
    "lullaby-2",
    "memory-lane-2",
    "old-pal-2",
@@ -478,6 +475,7 @@
    "quilt-2",
    "scrapbook-1",
    "silver-spoon-1",
+   "soulmate-2",
    "stethoscope-1",
    "true-love-1",
    "wind-down-1"
@@ -486,7 +484,6 @@
   "verified": false,
   "bonusTroves": [
    "Emerald",
-   "Soulmate",
    "Spell Book"
   ]
  },
@@ -515,6 +512,7 @@
   "recipes": [
    "anvil-1",
    "bench-vise-2",
+   "blowtorch-2",
    "bucket-1",
    "calipers-2",
    "charcoal-1",
@@ -529,8 +527,10 @@
    "plasma-cutter-1",
    "pliers-2",
    "rivet-gun-2",
+   "rocket-fuel-2",
    "sawn-plank-1",
    "soldering-iron-1",
+   "steel-wire-1",
    "tire-gauge-1",
    "tool-belt-2",
    "tool-chest-1",
@@ -540,11 +540,8 @@
   "source": "catalog+game",
   "verified": true,
   "bonusTroves": [
-   "Blowtorch",
    "Multitool",
-   "Police Badge",
-   "Rocket Fuel",
-   "Steel Wire"
+   "Police Badge"
   ]
  },
  {
@@ -567,13 +564,13 @@
   ],
   "recipes": [
    "bucket-1",
+   "clean-water-2",
    "day-off-2",
    "hello-again-1"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Clean Water",
    "Come Anytime",
    "Fresh Start",
    "Ice Cream"
@@ -604,6 +601,7 @@
   "recipes": [
    "anvil-1",
    "bench-vise-2",
+   "blowtorch-2",
    "bucket-1",
    "calipers-2",
    "charcoal-1",
@@ -618,8 +616,10 @@
    "plasma-cutter-1",
    "pliers-2",
    "rivet-gun-2",
+   "rocket-fuel-2",
    "sawn-plank-1",
    "soldering-iron-1",
+   "steel-wire-1",
    "tire-gauge-1",
    "tool-belt-2",
    "tool-chest-1",
@@ -629,11 +629,8 @@
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Blowtorch",
    "Multitool",
-   "Police Badge",
-   "Rocket Fuel",
-   "Steel Wire"
+   "Police Badge"
   ]
  },
  {
@@ -662,14 +659,16 @@
   ],
   "recipes": [
    "almond-1",
+   "baguette-loaf-2",
+   "birthday-wish-1",
+   "bread-mother-2",
    "cheers-2",
    "chocolate-bar-2",
-   "cookie-1",
+   "cloud-nine-1",
    "flour-2",
    "happy-tears-2",
    "high-spirits-3",
    "ice-cream-1",
-   "jam-jar-1",
    "lollipop-2",
    "maple-syrup-1",
    "new-friend-2",
@@ -680,13 +679,8 @@
   "source": "catalog+game",
   "verified": true,
   "bonusTroves": [
-   "Baguette Loaf",
-   "Birthday Wish",
-   "Bread Mother",
-   "Cloud Nine",
    "Fist Bump",
    "Pinky Promise",
-   "Pure Joy",
    "Secret Handshake"
   ]
  },
@@ -711,9 +705,12 @@
    "Silver Coin"
   ],
   "recipes": [
-   "blue-diamond-1",
+   "blue-diamond-2",
    "crown-jewel-1",
    "deadbolt-1",
+   "doubloon-2",
+   "fresh-start-1",
+   "gold-bar-2",
    "gold-coin-2",
    "gold-nugget-1",
    "gold-ring-2",
@@ -725,9 +722,6 @@
   "source": "catalog+game",
   "verified": true,
   "bonusTroves": [
-   "Doubloon",
-   "Fresh Start",
-   "Gold Bar",
    "Lucky Penny"
   ]
  },
@@ -752,9 +746,12 @@
    "Silver Coin"
   ],
   "recipes": [
-   "blue-diamond-1",
+   "blue-diamond-2",
    "crown-jewel-1",
    "deadbolt-1",
+   "doubloon-2",
+   "fresh-start-1",
+   "gold-bar-2",
    "gold-coin-2",
    "gold-nugget-1",
    "gold-ring-2",
@@ -766,9 +763,6 @@
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Doubloon",
-   "Fresh Start",
-   "Gold Bar",
    "Lucky Penny"
   ]
  },
@@ -798,15 +792,15 @@
    "brooch-2",
    "charm-bracelet-1",
    "earring-1",
+   "good-hands-2",
    "hat-tip-1",
-   "hearing-aid-2",
    "necklace-2",
    "royal-treatment-1",
    "running-gag-2",
    "scissors-2",
    "steady-nerves-1",
    "straight-razor-1",
-   "tiara-2",
+   "tiara-1",
    "tweezers-1"
   ],
   "source": "catalog+game",
@@ -815,8 +809,8 @@
    "Amulet",
    "Come Anytime",
    "Gold Ring",
-   "Good Hands",
    "Healing Kit",
+   "Hearing Aid",
    "Inner Peace",
    "Moral Support",
    "Multitool",
@@ -845,24 +839,24 @@
   ],
   "recipes": [
    "ancient-scroll-2",
+   "bedtime-story-1",
    "comic-book-2",
    "memory-lane-1",
    "quiet-hour-1",
    "scrapbook-2",
    "spell-book-2",
    "stamp-collection-2",
-   "teddy-bear-1",
    "treasure-map-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
    "Action Figure",
-   "Bedtime Story",
    "Family Crest",
    "Game Console",
    "Lullaby",
-   "World Map",
+   "Teddy Bear",
+   "Treasure Map",
    "Zen Stone"
   ]
  },
@@ -891,6 +885,7 @@
    "good-times-2",
    "huddle-2",
    "jubilee-1",
+   "laurel-wreath-2",
    "medal-2",
    "medallion-1",
    "moral-support-2",
@@ -911,7 +906,6 @@
    "Block Party",
    "High Five",
    "Hooray",
-   "Laurel Wreath",
    "Photograph",
    "Stadium Wave"
   ]
@@ -986,12 +980,13 @@
    "healing-kit-1",
    "huddle-2",
    "jubilee-1",
+   "laurel-wreath-2",
    "medal-2",
    "medallion-1",
    "megaphone-2",
    "moral-support-2",
    "packed-house-2",
-   "parade-1",
+   "parade-2",
    "pep-talk-2",
    "secret-handshake-1",
    "signed-jersey-1",
@@ -1009,7 +1004,6 @@
    "Come Anytime",
    "High Five",
    "Hooray",
-   "Laurel Wreath",
    "Microphone",
    "Photograph",
    "Tennis Racket"
@@ -1037,22 +1031,22 @@
   "recipes": [
    "belly-laugh-2",
    "bucket-2",
-   "chili-powder-1",
    "good-times-1",
    "goofy-face-2",
    "picnic-2",
    "pocket-knife-1",
+   "taco-1",
    "umbrella-1"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
    "Baguette Loaf",
+   "Chili Powder",
    "Come Anytime",
    "Multitool",
    "Potluck",
    "Snappy Comeback",
-   "Taco",
    "Talent Show",
    "Welcome Mat"
   ]
@@ -1157,7 +1151,7 @@
   "recipes": [
    "compass-1",
    "day-off-2",
-   "flashlight-1",
+   "flashlight-2",
    "fresh-air-1",
    "multitool-1",
    "tire-gauge-1",
@@ -1203,10 +1197,11 @@
    "bubble-bath-1",
    "charm-bracelet-2",
    "cotton-boll-2",
+   "cradle-1",
    "earring-2",
    "ebony-log-1",
    "electric-blanket-1",
-   "flashlight-1",
+   "flashlight-2",
    "flax-2",
    "harmonica-2",
    "locket-1",
@@ -1220,6 +1215,7 @@
    "sandalwood-2",
    "sheepskin-2",
    "straight-razor-2",
+   "tiara-2",
    "welcome-mat-1",
    "wristwatch-2"
   ],
@@ -1227,7 +1223,6 @@
   "verified": true,
   "bonusTroves": [
    "Compass",
-   "Cradle",
    "Crown Jewel",
    "Gold Ring",
    "Heart",
@@ -1237,7 +1232,6 @@
    "Lucky Penny",
    "Lullaby",
    "Multitool",
-   "Tiara",
    "Tool Chest"
   ]
  },
@@ -1266,6 +1260,7 @@
   "recipes": [
    "baguette-loaf-1",
    "belly-laugh-1",
+   "best-friend-2",
    "cacao-pod-2",
    "check-in-2",
    "cheers-3",
@@ -1274,24 +1269,23 @@
    "day-off-2",
    "favorite-person-1",
    "game-night-1",
-   "get-well-2",
+   "get-well-1",
    "ginger-1",
    "headphones-2",
    "hello-again-2",
    "herbal-tea-1",
    "inside-joke-2",
-   "jam-jar-3",
-   "locket-2",
+   "jam-jar-2",
    "old-pal-1",
-   "open-invitation-2",
+   "open-arms-1",
    "snuggle-1",
+   "soulmate-1",
    "tea-leaf-2",
    "wind-down-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Best Friend",
    "Birthday Wish",
    "Block Party",
    "Chicken Soup",
@@ -1303,11 +1297,9 @@
    "Lullaby",
    "Maple Syrup",
    "Moral Support",
-   "Open Arms",
    "Pinky Promise",
    "Secret Handshake",
    "Snappy Comeback",
-   "Soulmate",
    "Vacation"
   ]
  },
@@ -1335,6 +1327,7 @@
   "recipes": [
    "action-figure-2",
    "casino-chip-1",
+   "cloud-nine-2",
    "game-console-2",
    "game-night-2",
    "gold-coin-1",
@@ -1350,7 +1343,6 @@
   "bonusTroves": [
    "Belly Laugh",
    "Birthday Wish",
-   "Cloud Nine",
    "Fist Bump",
    "Pinky Promise",
    "Rare Coin",
@@ -1395,7 +1387,7 @@
    "cheese-wheel-2",
    "chicken-soup-1",
    "chickpea-1",
-   "chili-powder-3",
+   "chili-powder-2",
    "cod-2",
    "crab-1",
    "cranberry-1",
@@ -1406,7 +1398,7 @@
    "goofy-face-2",
    "grape-1",
    "home-cooking-1",
-   "jam-jar-2",
+   "jam-jar-1",
    "lamb-1",
    "lemon-1",
    "lentil-1",
@@ -1427,6 +1419,7 @@
    "sugar-cane-2",
    "tea-leaf-1",
    "tomato-1",
+   "truffle-2",
    "wine-bottle-1"
   ],
   "source": "catalog+game",
@@ -1446,10 +1439,8 @@
    "Snappy Comeback",
    "Strawberry",
    "Sturgeon",
-   "Sunday Dinner",
    "Taco",
    "Talent Show",
-   "Truffle",
    "Tuna",
    "Walnut",
    "Welcome Mat"
@@ -1479,6 +1470,7 @@
   ],
   "recipes": [
    "ancient-scroll-2",
+   "bedtime-story-1",
    "comic-book-2",
    "inner-peace-1",
    "memory-lane-1",
@@ -1486,18 +1478,17 @@
    "scrapbook-2",
    "spell-book-1",
    "stamp-collection-2",
-   "teddy-bear-1",
    "treasure-map-2"
   ],
   "source": "catalog+game",
   "verified": true,
   "bonusTroves": [
    "Action Figure",
-   "Bedtime Story",
    "Family Crest",
    "Game Console",
    "Lullaby",
-   "World Map",
+   "Teddy Bear",
+   "Treasure Map",
    "Zen Stone"
   ]
  },
@@ -1535,12 +1526,13 @@
    "healing-kit-1",
    "huddle-2",
    "jubilee-1",
+   "laurel-wreath-2",
    "medal-2",
    "medallion-1",
    "megaphone-2",
    "moral-support-2",
    "packed-house-2",
-   "parade-1",
+   "parade-2",
    "pep-talk-2",
    "secret-handshake-1",
    "signed-jersey-1",
@@ -1558,7 +1550,6 @@
    "Come Anytime",
    "High Five",
    "Hooray",
-   "Laurel Wreath",
    "Microphone",
    "Photograph",
    "Tennis Racket"
@@ -1587,40 +1578,37 @@
    "Wine Bottle"
   ],
   "recipes": [
-   "aged-whiskey-1",
+   "aged-whiskey-2",
    "back-slap-1",
    "burger-1",
    "casino-chip-2",
    "chalice-1",
+   "champagne-1",
    "cheers-1",
    "circuit-breaker-2",
-   "confetti-toss-4",
    "dance-move-2",
+   "electric-guitar-3",
    "encore-1",
    "grape-2",
    "mic-drop-2",
    "moonshine-2",
+   "punchline-2",
    "radio-1",
    "roast-3",
    "running-gag-1",
    "secret-handshake-2",
-   "standing-ovation-4",
    "talent-show-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Champagne",
    "Dice",
-   "Electric Guitar",
    "Hooray",
    "Huddle",
    "Microphone",
    "Packed House",
-   "Punchline",
    "Snappy Comeback",
    "Soldering Iron",
-   "Wine Bottle",
    "Wink"
   ]
  },
@@ -1648,13 +1636,13 @@
    "chisel-set-2",
    "group-selfie-2",
    "jade-dragon-2",
-   "marble-bust-1"
+   "marble-bust-1",
+   "master-chisel-2"
   ],
   "source": "catalog+game",
   "verified": true,
   "bonusTroves": [
-   "Applause",
-   "Master Chisel"
+   "Applause"
   ]
  },
  {
@@ -1707,6 +1695,7 @@
    "umbrella-2",
    "vacation-2",
    "walnut-1",
+   "welcome-home-2",
    "world-map-1"
   ],
   "source": "catalog",
@@ -1721,8 +1710,7 @@
    "Secret Handshake",
    "Special Guest",
    "Sunlight",
-   "Tea Leaf",
-   "Welcome Home"
+   "Tea Leaf"
   ]
  },
  {
@@ -1783,21 +1771,21 @@
   ],
   "recipes": [
    "binoculars-2",
-   "flashlight-1",
+   "flashlight-2",
+   "life-jacket-2",
    "multitool-1",
    "pocket-knife-2",
-   "sea-shell-1",
    "skateboard-1",
-   "telescope-1",
+   "telescope-2",
    "wrench-1"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
    "Compass",
-   "Life Jacket",
    "Lucky Penny",
-   "Postcard"
+   "Postcard",
+   "Sea Shell"
   ]
  },
  {
@@ -1822,9 +1810,10 @@
   ],
   "recipes": [
    "almond-1",
+   "birthday-wish-1",
    "cheers-2",
    "chocolate-bar-2",
-   "cookie-1",
+   "cloud-nine-1",
    "happy-tears-2",
    "high-spirits-3",
    "lollipop-2",
@@ -1836,11 +1825,8 @@
   "source": "catalog+game",
   "verified": true,
   "bonusTroves": [
-   "Birthday Wish",
-   "Cloud Nine",
    "Fist Bump",
    "Pinky Promise",
-   "Pure Joy",
    "Secret Handshake"
   ]
  },
@@ -1870,15 +1856,15 @@
    "avocado-2",
    "bell-pepper-2",
    "chickpea-1",
-   "chili-powder-3",
+   "chili-powder-2",
    "cotton-boll-1",
    "cranberry-1",
    "cucumber-1",
    "ginger-2",
-   "ginseng-root-1",
+   "ginseng-root-2",
    "grape-1",
    "hay-bale-1",
-   "jam-jar-2",
+   "jam-jar-1",
    "kiwifruit-2",
    "lentil-1",
    "mango-1",
@@ -1967,9 +1953,9 @@
    "caviar-1",
    "charcoal-2",
    "chicken-soup-2",
-   "chili-powder-2",
+   "chili-powder-1",
    "cod-1",
-   "confetti-toss-2",
+   "confetti-toss-3",
    "crab-2",
    "fire-extinguisher-1",
    "graduation-1",
@@ -1978,13 +1964,13 @@
    "lamb-2",
    "lentil-2",
    "lobster-2",
-   "love-letter-1",
    "olive-1",
    "olive-oil-2",
    "oyster-1",
    "pizza-slice-1",
    "ramen-bowl-1",
    "roast-1",
+   "royal-treatment-2",
    "saffron-2",
    "salami-2",
    "salmon-1",
@@ -1996,9 +1982,9 @@
    "sturgeon-2",
    "sunday-dinner-1",
    "sushi-roll-1",
-   "taco-1",
-   "truffle-1",
-   "wax-seal-3"
+   "swoon-1",
+   "taco-2",
+   "truffle-1"
   ],
   "source": "catalog+game",
   "verified": true,
@@ -2006,11 +1992,11 @@
    "Birthday Wish",
    "Block Party",
    "Healing Kit",
+   "Love Letter",
    "Moral Support",
    "Packed House",
    "Potluck",
-   "Royal Treatment",
-   "Swoon",
+   "Wax Seal",
    "Wine Bottle",
    "Wristwatch"
   ]
@@ -2048,6 +2034,7 @@
   "recipes": [
    "applause-3",
    "bouquet-1",
+   "cloud-nine-2",
    "crowd-pleaser-1",
    "good-times-1",
    "group-selfie-2",
@@ -2059,9 +2046,7 @@
   "verified": false,
   "bonusTroves": [
    "Action Figure",
-   "Birthday Wish",
-   "Cloud Nine",
-   "Opening Night"
+   "Birthday Wish"
   ]
  },
  {
@@ -2084,9 +2069,11 @@
   ],
   "recipes": [
    "almond-1",
+   "birthday-wish-1",
+   "bread-mother-2",
    "cheers-2",
    "chocolate-bar-2",
-   "cookie-1",
+   "cloud-nine-1",
    "flour-2",
    "happy-tears-2",
    "high-spirits-3",
@@ -2100,13 +2087,9 @@
   "verified": false,
   "bonusTroves": [
    "Baguette Loaf",
-   "Birthday Wish",
-   "Bread Mother",
-   "Cloud Nine",
    "Fist Bump",
    "Lollipop",
    "Pinky Promise",
-   "Pure Joy",
    "Secret Handshake"
   ]
  },
@@ -2176,9 +2159,11 @@
   ],
   "recipes": [
    "applause-3",
-   "confetti-toss-1",
+   "cloud-nine-2",
+   "confetti-toss-2",
    "crowd-pleaser-1",
    "encore-2",
+   "invisible-cloak-1",
    "packed-house-1",
    "snow-globe-1",
    "special-guest-1",
@@ -2189,9 +2174,7 @@
   "bonusTroves": [
    "Action Figure",
    "Birthday Wish",
-   "Blue Ribbon",
-   "Cloud Nine",
-   "Invisible Cloak"
+   "Blue Ribbon"
   ]
  },
  {
@@ -2217,9 +2200,10 @@
    "Welcome Mat"
   ],
   "recipes": [
+   "aged-whiskey-1",
    "bathrobe-1",
-   "bed-rest-1",
-   "champagne-1",
+   "bed-rest-2",
+   "champagne-2",
    "city-key-1",
    "come-anytime-2",
    "deadbolt-2",
@@ -2227,6 +2211,8 @@
    "fresh-air-2",
    "full-recovery-1",
    "grand-reunion-1",
+   "homecoming-2",
+   "oasis-2",
    "open-door-2",
    "plush-pillow-1",
    "sewing-kit-1",
@@ -2235,17 +2221,15 @@
    "snow-globe-2",
    "special-guest-2",
    "treasure-map-1",
+   "true-love-2",
    "vacation-1"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Aged Whiskey",
    "Compass",
    "Happy Tears",
-   "Homecoming",
    "Lucky Penny",
-   "Oasis",
    "Rare Coin",
    "Safe Haven",
    "Sea Shell",
@@ -2254,7 +2238,6 @@
    "Support Group",
    "Teddy Bear",
    "Treasure Chest",
-   "True Love",
    "Welcome Mat"
   ]
  },
@@ -2280,20 +2263,24 @@
    "Wool"
   ],
   "recipes": [
+   "bed-rest-1",
+   "blood-donation-2",
    "cold-compress-1",
-   "cookie-2",
    "crutches-1",
    "family-doctor-2",
    "fruit-basket-2",
-   "get-well-1",
-   "get-well-3",
+   "full-recovery-2",
+   "get-well-2",
+   "ginseng-root-1",
+   "good-hands-1",
+   "guardian-angel-1",
    "healing-kit-2",
+   "hearing-aid-1",
    "herbal-tea-2",
    "house-call-1",
    "lanolin-2",
    "lollipop-1",
    "microscope-1",
-   "mushroom-1",
    "pill-bottle-1",
    "scalpel-1",
    "steady-nerves-2",
@@ -2305,15 +2292,7 @@
   "verified": false,
   "bonusTroves": [
    "Amethyst",
-   "Bed Rest",
-   "Blood Donation",
-   "Full Recovery",
-   "Ginseng Root",
-   "Good Hands",
-   "Guardian Angel",
-   "Hearing Aid",
-   "Moral Support",
-   "Thermometer"
+   "Moral Support"
   ]
  },
  {
@@ -2336,7 +2315,7 @@
    "Wine Bottle"
   ],
   "recipes": [
-   "confetti-toss-4",
+   "champagne-1",
    "dance-move-2",
    "high-spirits-2",
    "masquerade-1",
@@ -2345,7 +2324,7 @@
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Champagne",
+   "Confetti Toss",
    "Microphone",
    "Standing Ovation"
   ]
@@ -2402,10 +2381,11 @@
    "bubble-bath-1",
    "charm-bracelet-2",
    "cotton-boll-2",
+   "cradle-1",
    "earring-2",
    "ebony-log-1",
    "electric-blanket-1",
-   "flashlight-1",
+   "flashlight-2",
    "flax-2",
    "harmonica-2",
    "locket-1",
@@ -2419,6 +2399,7 @@
    "sandalwood-2",
    "sheepskin-2",
    "straight-razor-2",
+   "tiara-2",
    "welcome-mat-1",
    "wristwatch-2"
   ],
@@ -2426,7 +2407,6 @@
   "verified": true,
   "bonusTroves": [
    "Compass",
-   "Cradle",
    "Crown Jewel",
    "Gold Ring",
    "Heart",
@@ -2436,7 +2416,6 @@
    "Lucky Penny",
    "Lullaby",
    "Multitool",
-   "Tiara",
    "Tool Chest"
   ]
  },
@@ -2465,6 +2444,7 @@
   "recipes": [
    "baguette-loaf-1",
    "belly-laugh-1",
+   "best-friend-2",
    "cacao-pod-2",
    "check-in-2",
    "cheers-3",
@@ -2473,24 +2453,23 @@
    "day-off-2",
    "favorite-person-1",
    "game-night-1",
-   "get-well-2",
+   "get-well-1",
    "ginger-1",
    "headphones-2",
    "hello-again-2",
    "herbal-tea-1",
    "inside-joke-2",
-   "jam-jar-3",
-   "locket-2",
+   "jam-jar-2",
    "old-pal-1",
-   "open-invitation-2",
+   "open-arms-1",
    "snuggle-1",
+   "soulmate-1",
    "tea-leaf-2",
    "wind-down-2"
   ],
   "source": "catalog+game",
   "verified": true,
   "bonusTroves": [
-   "Best Friend",
    "Birthday Wish",
    "Block Party",
    "Chicken Soup",
@@ -2502,11 +2481,9 @@
    "Lullaby",
    "Maple Syrup",
    "Moral Support",
-   "Open Arms",
    "Pinky Promise",
    "Secret Handshake",
    "Snappy Comeback",
-   "Soulmate",
    "Vacation"
   ]
  },
@@ -2579,6 +2556,7 @@
   ],
   "recipes": [
    "applause-3",
+   "cloud-nine-2",
    "crowd-pleaser-1",
    "encore-2",
    "mic-drop-1",
@@ -2591,8 +2569,7 @@
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Blue Ribbon",
-   "Cloud Nine"
+   "Blue Ribbon"
   ]
  },
  {
@@ -2670,24 +2647,30 @@
    "boxing-gloves-2",
    "care-package-1",
    "clean-water-1",
+   "coat-drive-1",
    "come-anytime-1",
    "common-ground-1",
    "condolence-1",
-   "cookie-3",
+   "cookie-1",
    "cozy-blanket-1",
-   "cradle-2",
+   "cradle-3",
    "dog-collar-1",
    "embrace-2",
    "family-crest-2",
    "flax-1",
    "food-drive-1",
+   "fresh-start-2",
+   "guardian-angel-2",
+   "harmony-2",
    "holiday-ham-2",
    "jigsaw-2",
    "kite-2",
    "knitting-circle-1",
    "lanolin-1",
    "metal-detector-1",
+   "open-arms-2",
    "open-door-1",
+   "open-invitation-2",
    "quilt-1",
    "rake-2",
    "safe-haven-1",
@@ -2699,7 +2682,6 @@
    "tape-measure-2",
    "tennis-racket-1",
    "time-capsule-2",
-   "warm-hug-1",
    "welcome-home-1",
    "welcome-mat-2",
    "whole-gang-2"
@@ -2708,23 +2690,14 @@
   "verified": false,
   "bonusTroves": [
    "Casserole",
-   "Coat Drive",
-   "Fresh Start",
    "Fruit Basket",
-   "Guardian Angel",
-   "Harmony",
    "Hay Bale",
    "Healing Kit",
    "Homecoming",
    "Huddle",
    "Moral Support",
-   "Open Arms",
-   "Open Invitation",
-   "Potluck",
-   "Second Family",
    "Special Guest",
-   "Stadium Wave",
-   "Storm Relief"
+   "Stadium Wave"
   ]
  },
  {
@@ -2798,15 +2771,15 @@
    "brooch-2",
    "charm-bracelet-1",
    "earring-1",
+   "good-hands-2",
    "hat-tip-1",
-   "hearing-aid-2",
    "necklace-2",
    "royal-treatment-1",
    "running-gag-2",
    "scissors-2",
    "steady-nerves-1",
    "straight-razor-1",
-   "tiara-2",
+   "tiara-1",
    "tweezers-1"
   ],
   "source": "catalog",
@@ -2815,8 +2788,8 @@
    "Amulet",
    "Come Anytime",
    "Gold Ring",
-   "Good Hands",
    "Healing Kit",
+   "Hearing Aid",
    "Inner Peace",
    "Moral Support",
    "Multitool",
@@ -2847,7 +2820,9 @@
    "Silver Coin"
   ],
   "recipes": [
+   "bouquet-4",
    "city-key-2",
+   "fresh-start-1",
    "gavel-2",
    "pinky-promise-1",
    "police-badge-1",
@@ -2859,8 +2834,6 @@
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Bouquet",
-   "Fresh Start",
    "Wedding"
   ]
  },
@@ -2890,14 +2863,14 @@
    "action-figure-1",
    "ancient-scroll-1",
    "asparagus-2",
+   "babysitting-2",
    "basketball-1",
    "battery-pack-2",
-   "bedtime-story-1",
-   "belly-laugh-3",
-   "birthday-wish-1",
+   "bedtime-story-2",
+   "birthday-wish-2",
    "carpenter-square-1",
    "chickpea-2",
-   "coat-drive-1",
+   "coat-drive-2",
    "cranberry-2",
    "cucumber-2",
    "family-crest-1",
@@ -2919,6 +2892,7 @@
    "pinky-promise-2",
    "potluck-1",
    "pumpkin-2",
+   "pure-joy-1",
    "sleepover-2",
    "snuggle-2",
    "squad-1",
@@ -2931,7 +2905,6 @@
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Babysitting",
    "Boxing Gloves",
    "Compass",
    "Fruit Basket",
@@ -2942,7 +2915,6 @@
    "Ingot",
    "Multitool",
    "Photograph",
-   "Pure Joy",
    "Ramen Bowl",
    "Shy Giggle",
    "Skateboard",
@@ -3020,9 +2992,10 @@
   ],
   "recipes": [
    "almond-1",
+   "birthday-wish-1",
    "cheers-2",
    "chocolate-bar-2",
-   "cookie-1",
+   "cloud-nine-1",
    "happy-tears-2",
    "high-spirits-3",
    "ice-cream-1",
@@ -3033,11 +3006,8 @@
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Birthday Wish",
-   "Cloud Nine",
    "Fist Bump",
    "Pinky Promise",
-   "Pure Joy",
    "Secret Handshake"
   ]
  },
@@ -3063,10 +3033,10 @@
   "recipes": [
    "action-figure-1",
    "baby-monitor-1",
-   "bedtime-story-1",
-   "belly-laugh-3",
-   "birthday-wish-1",
-   "cradle-1",
+   "babysitting-2",
+   "bedtime-story-2",
+   "birthday-wish-2",
+   "cradle-2",
    "happy-tears-1",
    "lullaby-1",
    "moral-support-1",
@@ -3074,13 +3044,12 @@
    "oil-painting-1",
    "pinky-promise-2",
    "potluck-1",
+   "pure-joy-1",
    "snuggle-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Babysitting",
-   "Pure Joy",
    "Shy Giggle",
    "Sleepover",
    "Standing Ovation"
@@ -3155,7 +3124,7 @@
    "almond-2",
    "cheese-wheel-2",
    "fruit-basket-1",
-   "jam-jar-2",
+   "jam-jar-1",
    "olive-1",
    "olive-oil-1",
    "salami-1",
@@ -3185,7 +3154,9 @@
   ],
   "recipes": [
    "cold-compress-1",
-   "get-well-3",
+   "full-recovery-2",
+   "get-well-2",
+   "good-hands-1",
    "microscope-1",
    "pill-bottle-1",
    "scalpel-1",
@@ -3196,11 +3167,8 @@
   "verified": false,
   "bonusTroves": [
    "Amethyst",
-   "Full Recovery",
-   "Good Hands",
    "Healing Kit",
-   "Moral Support",
-   "Thermometer"
+   "Moral Support"
   ]
  },
  {
@@ -3265,14 +3233,12 @@
    "Postcard"
   ],
   "recipes": [
+   "fresh-start-1",
    "license-plate-1",
    "side-eye-1"
   ],
   "source": "catalog",
-  "verified": false,
-  "bonusTroves": [
-   "Fresh Start"
-  ]
+  "verified": false
  },
  {
   "name": "Dollar Store",
@@ -3337,6 +3303,7 @@
   "recipes": [
    "action-figure-2",
    "casino-chip-1",
+   "cloud-nine-2",
    "game-console-2",
    "game-night-2",
    "gold-coin-1",
@@ -3352,7 +3319,6 @@
   "bonusTroves": [
    "Belly Laugh",
    "Birthday Wish",
-   "Cloud Nine",
    "Fist Bump",
    "Pinky Promise",
    "Rare Coin",
@@ -3379,6 +3345,7 @@
    "Wool"
   ],
   "recipes": [
+   "coat-drive-1",
    "common-ground-1",
    "flax-1",
    "knitting-circle-1",
@@ -3386,13 +3353,12 @@
    "quilt-1",
    "sewing-kit-2",
    "sheepskin-1",
-   "warm-hug-1",
    "welcome-mat-2"
   ],
   "source": "catalog+game",
   "verified": true,
   "bonusTroves": [
-   "Coat Drive"
+   "Warm Hug"
   ]
  },
  {
@@ -3454,14 +3420,16 @@
   ],
   "recipes": [
    "almond-1",
+   "baguette-loaf-2",
+   "birthday-wish-1",
+   "bread-mother-2",
    "cheers-2",
    "chocolate-bar-2",
-   "cookie-1",
+   "cloud-nine-1",
    "flour-2",
    "happy-tears-2",
    "high-spirits-3",
    "ice-cream-1",
-   "jam-jar-1",
    "lollipop-2",
    "maple-syrup-1",
    "new-friend-2",
@@ -3472,13 +3440,8 @@
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Baguette Loaf",
-   "Birthday Wish",
-   "Bread Mother",
-   "Cloud Nine",
    "Fist Bump",
    "Pinky Promise",
-   "Pure Joy",
    "Secret Handshake"
   ]
  },
@@ -3503,9 +3466,12 @@
    "Silver Coin"
   ],
   "recipes": [
-   "blue-diamond-1",
+   "blue-diamond-2",
    "crown-jewel-1",
    "deadbolt-1",
+   "doubloon-2",
+   "fresh-start-1",
+   "gold-bar-2",
    "gold-coin-2",
    "gold-nugget-1",
    "gold-ring-2",
@@ -3517,9 +3483,6 @@
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Doubloon",
-   "Fresh Start",
-   "Gold Bar",
    "Lucky Penny"
   ]
  },
@@ -3549,15 +3512,15 @@
    "brooch-2",
    "charm-bracelet-1",
    "earring-1",
+   "good-hands-2",
    "hat-tip-1",
-   "hearing-aid-2",
    "necklace-2",
    "royal-treatment-1",
    "running-gag-2",
    "scissors-2",
    "steady-nerves-1",
    "straight-razor-1",
-   "tiara-2",
+   "tiara-1",
    "tweezers-1"
   ],
   "source": "catalog",
@@ -3566,8 +3529,8 @@
    "Amulet",
    "Come Anytime",
    "Gold Ring",
-   "Good Hands",
    "Healing Kit",
+   "Hearing Aid",
    "Inner Peace",
    "Moral Support",
    "Multitool",
@@ -3604,7 +3567,7 @@
    "burger-2",
    "casserole-1",
    "chicken-soup-2",
-   "chili-powder-2",
+   "chili-powder-1",
    "fire-extinguisher-1",
    "high-spirits-1",
    "home-cooking-2",
@@ -3692,9 +3655,9 @@
    "caviar-1",
    "charcoal-2",
    "chicken-soup-2",
-   "chili-powder-2",
+   "chili-powder-1",
    "cod-1",
-   "confetti-toss-2",
+   "confetti-toss-3",
    "crab-2",
    "fire-extinguisher-1",
    "graduation-1",
@@ -3703,13 +3666,13 @@
    "lamb-2",
    "lentil-2",
    "lobster-2",
-   "love-letter-1",
    "olive-1",
    "olive-oil-2",
    "oyster-1",
    "pizza-slice-1",
    "ramen-bowl-1",
    "roast-1",
+   "royal-treatment-2",
    "saffron-2",
    "salami-2",
    "salmon-1",
@@ -3721,9 +3684,9 @@
    "sturgeon-2",
    "sunday-dinner-1",
    "sushi-roll-1",
-   "taco-1",
-   "truffle-1",
-   "wax-seal-3"
+   "swoon-1",
+   "taco-2",
+   "truffle-1"
   ],
   "source": "catalog",
   "verified": false,
@@ -3731,11 +3694,11 @@
    "Birthday Wish",
    "Block Party",
    "Healing Kit",
+   "Love Letter",
    "Moral Support",
    "Packed House",
    "Potluck",
-   "Royal Treatment",
-   "Swoon",
+   "Wax Seal",
    "Wine Bottle",
    "Wristwatch"
   ]
@@ -3799,9 +3762,12 @@
    "Silver Coin"
   ],
   "recipes": [
-   "blue-diamond-1",
+   "blue-diamond-2",
    "crown-jewel-1",
    "deadbolt-1",
+   "doubloon-2",
+   "fresh-start-1",
+   "gold-bar-2",
    "gold-coin-2",
    "gold-nugget-1",
    "gold-ring-2",
@@ -3813,9 +3779,6 @@
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Doubloon",
-   "Fresh Start",
-   "Gold Bar",
    "Lucky Penny"
   ]
  },
@@ -3845,15 +3808,15 @@
    "brooch-2",
    "charm-bracelet-1",
    "earring-1",
+   "good-hands-2",
    "hat-tip-1",
-   "hearing-aid-2",
    "necklace-2",
    "royal-treatment-1",
    "running-gag-2",
    "scissors-2",
    "steady-nerves-1",
    "straight-razor-1",
-   "tiara-2",
+   "tiara-1",
    "tweezers-1"
   ],
   "source": "catalog",
@@ -3862,8 +3825,8 @@
    "Amulet",
    "Come Anytime",
    "Gold Ring",
-   "Good Hands",
    "Healing Kit",
+   "Hearing Aid",
    "Inner Peace",
    "Moral Support",
    "Multitool",
@@ -3895,22 +3858,20 @@
    "cold-compress-1",
    "crutches-1",
    "fruit-basket-2",
-   "get-well-3",
+   "get-well-2",
+   "ginseng-root-1",
    "healing-kit-2",
+   "hearing-aid-1",
    "herbal-tea-2",
    "lanolin-2",
    "lollipop-1",
-   "mushroom-1",
    "pill-bottle-1",
    "steady-nerves-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Ginseng Root",
-   "Hearing Aid",
-   "Moral Support",
-   "Thermometer"
+   "Moral Support"
   ]
  },
  {
@@ -3937,21 +3898,21 @@
    "brooch-2",
    "charm-bracelet-1",
    "earring-1",
+   "good-hands-2",
    "hat-tip-1",
-   "hearing-aid-2",
    "necklace-2",
    "royal-treatment-1",
    "scalpel-2",
    "steady-nerves-1",
-   "tiara-2",
+   "tiara-1",
    "tweezers-1"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
    "Gold Ring",
-   "Good Hands",
    "Healing Kit",
+   "Hearing Aid",
    "Inner Peace",
    "Moral Support",
    "Pinky Promise",
@@ -4026,10 +3987,11 @@
    "bubble-bath-1",
    "charm-bracelet-2",
    "cotton-boll-2",
+   "cradle-1",
    "earring-2",
    "ebony-log-1",
    "electric-blanket-1",
-   "flashlight-1",
+   "flashlight-2",
    "flax-2",
    "harmonica-2",
    "locket-1",
@@ -4043,6 +4005,7 @@
    "sandalwood-2",
    "sheepskin-2",
    "straight-razor-2",
+   "tiara-2",
    "welcome-mat-1",
    "wristwatch-2"
   ],
@@ -4050,7 +4013,6 @@
   "verified": false,
   "bonusTroves": [
    "Compass",
-   "Cradle",
    "Crown Jewel",
    "Gold Ring",
    "Heart",
@@ -4060,7 +4022,6 @@
    "Lucky Penny",
    "Lullaby",
    "Multitool",
-   "Tiara",
    "Tool Chest"
   ]
  },
@@ -4092,28 +4053,28 @@
    "bouquet-3",
    "casserole-1",
    "chicken-soup-2",
-   "chili-powder-2",
+   "chili-powder-1",
    "fire-extinguisher-1",
    "high-spirits-1",
    "home-cooking-2",
    "lentil-2",
-   "love-letter-1",
    "second-family-1",
    "smoke-alarm-1",
    "stopwatch-2",
    "sunday-dinner-1",
-   "taco-1"
+   "swoon-1",
+   "taco-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
    "Birthday Wish",
    "Healing Kit",
+   "Love Letter",
    "Moral Support",
    "Packed House",
    "Potluck",
    "Ramen Bowl",
-   "Swoon",
    "Wristwatch"
   ]
  },
@@ -4145,7 +4106,7 @@
    "circuit-breaker-1",
    "copper-wire-1",
    "electric-blanket-1",
-   "flashlight-1",
+   "flashlight-2",
    "game-console-1",
    "joystick-1",
    "microphone-2",
@@ -4192,14 +4153,14 @@
    "action-figure-1",
    "ancient-scroll-1",
    "asparagus-2",
+   "babysitting-2",
    "basketball-1",
    "battery-pack-2",
-   "bedtime-story-1",
-   "belly-laugh-3",
-   "birthday-wish-1",
+   "bedtime-story-2",
+   "birthday-wish-2",
    "carpenter-square-1",
    "chickpea-2",
-   "coat-drive-1",
+   "coat-drive-2",
    "cranberry-2",
    "cucumber-2",
    "family-crest-1",
@@ -4221,6 +4182,7 @@
    "pinky-promise-2",
    "potluck-1",
    "pumpkin-2",
+   "pure-joy-1",
    "sleepover-2",
    "snuggle-2",
    "squad-1",
@@ -4233,7 +4195,6 @@
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Babysitting",
    "Boxing Gloves",
    "Compass",
    "Fruit Basket",
@@ -4244,7 +4205,6 @@
    "Ingot",
    "Multitool",
    "Photograph",
-   "Pure Joy",
    "Ramen Bowl",
    "Shy Giggle",
    "Skateboard",
@@ -4324,13 +4284,16 @@
    "Thumbs Up"
   ],
   "recipes": [
-   "amber-1",
+   "amber-2",
    "amulet-1",
    "antique-vase-2",
+   "blue-diamond-1",
    "camera-2",
-   "crystal-ball-1",
+   "cheers-4",
+   "crown-1",
+   "crystal-ball-2",
    "doubloon-1",
-   "electric-guitar-1",
+   "electric-guitar-2",
    "fire-helmet-2",
    "gold-bar-1",
    "gold-ring-1",
@@ -4354,12 +4317,9 @@
   "bonusTroves": [
    "Aged Whiskey",
    "Black Opal",
-   "Blue Diamond",
    "Caviar",
    "Chalice",
    "Charm Bracelet",
-   "Cheers",
-   "Crown",
    "Crown Jewel",
    "Diamond",
    "Ebony Log",
@@ -4370,7 +4330,6 @@
    "Moon Rock",
    "Photograph",
    "Skeleton Key",
-   "Violin",
    "Wedding"
   ]
  },
@@ -4473,12 +4432,17 @@
    "antique-vase-1",
    "calipers-1",
    "chisel-set-2",
+   "confetti-toss-1",
+   "crystal-ball-1",
+   "ebony-log-2",
    "emerald-2",
+   "grail-2",
    "group-selfie-2",
    "jade-dragon-2",
    "jigsaw-1",
    "marble-bust-1",
    "masquerade-2",
+   "master-chisel-2",
    "oil-painting-2",
    "opening-night-1",
    "ruby-1",
@@ -4493,14 +4457,9 @@
    "Amethyst",
    "Applause",
    "Blue Diamond",
-   "Confetti Toss",
-   "Crystal Ball",
-   "Ebony Log",
-   "Grail",
    "Invisible Cloak",
    "Jubilee",
    "Magic Lamp",
-   "Master Chisel",
    "Photograph",
    "Royal Orb",
    "Scepter"
@@ -4527,9 +4486,10 @@
   ],
   "recipes": [
    "almond-1",
+   "birthday-wish-1",
    "cheers-2",
    "chocolate-bar-2",
-   "cookie-1",
+   "cloud-nine-1",
    "happy-tears-2",
    "high-spirits-3",
    "ice-cream-1",
@@ -4540,11 +4500,8 @@
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Birthday Wish",
-   "Cloud Nine",
    "Fist Bump",
    "Pinky Promise",
-   "Pure Joy",
    "Secret Handshake"
   ]
  },
@@ -4570,7 +4527,7 @@
    "almond-2",
    "cheese-wheel-2",
    "fruit-basket-1",
-   "jam-jar-2",
+   "jam-jar-1",
    "olive-1",
    "olive-oil-1",
    "salami-1",
@@ -4613,9 +4570,9 @@
    "caviar-1",
    "charcoal-2",
    "chicken-soup-2",
-   "chili-powder-2",
+   "chili-powder-1",
    "cod-1",
-   "confetti-toss-2",
+   "confetti-toss-3",
    "crab-2",
    "fire-extinguisher-1",
    "graduation-1",
@@ -4624,13 +4581,13 @@
    "lamb-2",
    "lentil-2",
    "lobster-2",
-   "love-letter-1",
    "olive-1",
    "olive-oil-2",
    "oyster-1",
    "pizza-slice-1",
    "ramen-bowl-1",
    "roast-1",
+   "royal-treatment-2",
    "saffron-2",
    "salami-2",
    "salmon-1",
@@ -4642,9 +4599,9 @@
    "sturgeon-2",
    "sunday-dinner-1",
    "sushi-roll-1",
-   "taco-1",
-   "truffle-1",
-   "wax-seal-3"
+   "swoon-1",
+   "taco-2",
+   "truffle-1"
   ],
   "source": "catalog",
   "verified": false,
@@ -4652,11 +4609,11 @@
    "Birthday Wish",
    "Block Party",
    "Healing Kit",
+   "Love Letter",
    "Moral Support",
    "Packed House",
    "Potluck",
-   "Royal Treatment",
-   "Swoon",
+   "Wax Seal",
    "Wine Bottle",
    "Wristwatch"
   ]
@@ -4769,15 +4726,15 @@
    "avocado-2",
    "bell-pepper-2",
    "chickpea-1",
-   "chili-powder-3",
+   "chili-powder-2",
    "cotton-boll-1",
    "cranberry-1",
    "cucumber-1",
    "ginger-2",
-   "ginseng-root-1",
+   "ginseng-root-2",
    "grape-1",
    "hay-bale-1",
-   "jam-jar-2",
+   "jam-jar-1",
    "kiwifruit-2",
    "lentil-1",
    "mango-1",
@@ -4829,7 +4786,7 @@
    "burger-2",
    "casserole-1",
    "chicken-soup-2",
-   "chili-powder-2",
+   "chili-powder-1",
    "fire-extinguisher-1",
    "high-spirits-1",
    "home-cooking-2",
@@ -4881,7 +4838,7 @@
    "casserole-1",
    "caviar-1",
    "chicken-soup-2",
-   "confetti-toss-2",
+   "confetti-toss-3",
    "crab-2",
    "fire-extinguisher-1",
    "graduation-1",
@@ -4889,9 +4846,9 @@
    "home-cooking-2",
    "lamb-2",
    "lobster-2",
-   "love-letter-1",
    "olive-oil-2",
    "oyster-1",
+   "royal-treatment-2",
    "saffron-2",
    "salami-2",
    "salmon-1",
@@ -4901,8 +4858,8 @@
    "stopwatch-2",
    "sturgeon-2",
    "sunday-dinner-1",
-   "truffle-1",
-   "wax-seal-3"
+   "swoon-1",
+   "truffle-1"
   ],
   "source": "catalog",
   "verified": false,
@@ -4910,12 +4867,12 @@
    "Birthday Wish",
    "Block Party",
    "Healing Kit",
+   "Love Letter",
    "Moral Support",
    "Packed House",
    "Potluck",
-   "Royal Treatment",
    "Sushi Roll",
-   "Swoon",
+   "Wax Seal",
    "Wristwatch"
   ]
  },
@@ -4944,12 +4901,16 @@
   ],
   "recipes": [
    "blowtorch-1",
+   "clean-water-2",
    "fire-extinguisher-2",
    "fire-helmet-1",
+   "flashlight-1",
    "food-drive-2",
    "jumper-cables-2",
    "ladder-1",
    "life-jacket-1",
+   "lifeline-1",
+   "plasma-cutter-2",
    "power-drill-2",
    "screwdriver-2",
    "shovel-1",
@@ -4960,14 +4921,10 @@
   "source": "catalog+game",
   "verified": true,
   "bonusTroves": [
-   "Clean Water",
-   "Flashlight",
    "Hay Bale",
    "Healing Kit",
    "Infrared Goggles",
-   "Lifeline",
    "Multitool",
-   "Plasma Cutter",
    "Soldering Iron",
    "Tool Chest"
   ]
@@ -4997,12 +4954,16 @@
   ],
   "recipes": [
    "blowtorch-1",
+   "clean-water-2",
    "fire-extinguisher-2",
    "fire-helmet-1",
+   "flashlight-1",
    "food-drive-2",
    "jumper-cables-2",
    "ladder-1",
    "life-jacket-1",
+   "lifeline-1",
+   "plasma-cutter-2",
    "power-drill-2",
    "screwdriver-2",
    "shovel-1",
@@ -5013,14 +4974,10 @@
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Clean Water",
-   "Flashlight",
    "Hay Bale",
    "Healing Kit",
    "Infrared Goggles",
-   "Lifeline",
    "Multitool",
-   "Plasma Cutter",
    "Soldering Iron",
    "Tool Chest"
   ]
@@ -5171,15 +5128,15 @@
    "avocado-2",
    "bell-pepper-2",
    "chickpea-1",
-   "chili-powder-3",
+   "chili-powder-2",
    "cotton-boll-1",
    "cranberry-1",
    "cucumber-1",
    "ginger-2",
-   "ginseng-root-1",
+   "ginseng-root-2",
    "grape-1",
    "hay-bale-1",
-   "jam-jar-2",
+   "jam-jar-1",
    "kiwifruit-2",
    "lentil-1",
    "mango-1",
@@ -5227,6 +5184,7 @@
   "recipes": [
    "baguette-loaf-1",
    "belly-laugh-1",
+   "best-friend-2",
    "cacao-pod-2",
    "check-in-2",
    "cheers-3",
@@ -5235,24 +5193,23 @@
    "day-off-2",
    "favorite-person-1",
    "game-night-1",
-   "get-well-2",
+   "get-well-1",
    "ginger-1",
    "headphones-2",
    "hello-again-2",
    "herbal-tea-1",
    "inside-joke-2",
-   "jam-jar-3",
-   "locket-2",
+   "jam-jar-2",
    "old-pal-1",
-   "open-invitation-2",
+   "open-arms-1",
    "snuggle-1",
+   "soulmate-1",
    "tea-leaf-2",
    "wind-down-2"
   ],
   "source": "catalog+game",
   "verified": true,
   "bonusTroves": [
-   "Best Friend",
    "Birthday Wish",
    "Block Party",
    "Chicken Soup",
@@ -5264,11 +5221,9 @@
    "Lullaby",
    "Maple Syrup",
    "Moral Support",
-   "Open Arms",
    "Pinky Promise",
    "Secret Handshake",
    "Snappy Comeback",
-   "Soulmate",
    "Vacation"
   ]
  },
@@ -5339,14 +5294,14 @@
    "condolence-1",
    "embrace-2",
    "family-crest-2",
+   "open-arms-2",
    "solemn-vow-2",
    "support-group-2"
   ],
   "source": "catalog+game",
   "verified": true,
   "bonusTroves": [
-   "Moral Support",
-   "Open Arms"
+   "Moral Support"
   ]
  },
  {
@@ -5423,9 +5378,11 @@
   ],
   "recipes": [
    "almond-1",
+   "birthday-wish-1",
+   "bread-mother-2",
    "cheers-2",
    "chocolate-bar-2",
-   "cookie-1",
+   "cloud-nine-1",
    "flour-2",
    "happy-tears-2",
    "high-spirits-3",
@@ -5439,13 +5396,9 @@
   "verified": false,
   "bonusTroves": [
    "Baguette Loaf",
-   "Birthday Wish",
-   "Bread Mother",
-   "Cloud Nine",
    "Fist Bump",
    "Lollipop",
    "Pinky Promise",
-   "Pure Joy",
    "Secret Handshake"
   ]
  },
@@ -5479,10 +5432,11 @@
    "bubble-bath-1",
    "charm-bracelet-2",
    "cotton-boll-2",
+   "cradle-1",
    "earring-2",
    "ebony-log-1",
    "electric-blanket-1",
-   "flashlight-1",
+   "flashlight-2",
    "flax-2",
    "harmonica-2",
    "locket-1",
@@ -5496,6 +5450,7 @@
    "sandalwood-2",
    "sheepskin-2",
    "straight-razor-2",
+   "tiara-2",
    "welcome-mat-1",
    "wristwatch-2"
   ],
@@ -5503,7 +5458,6 @@
   "verified": false,
   "bonusTroves": [
    "Compass",
-   "Cradle",
    "Crown Jewel",
    "Gold Ring",
    "Heart",
@@ -5513,7 +5467,6 @@
    "Lucky Penny",
    "Lullaby",
    "Multitool",
-   "Tiara",
    "Tool Chest"
   ]
  },
@@ -5539,17 +5492,20 @@
    "Wool"
   ],
   "recipes": [
+   "bed-rest-1",
    "cold-compress-1",
    "crutches-1",
    "fruit-basket-2",
-   "get-well-1",
-   "get-well-3",
+   "full-recovery-2",
+   "get-well-2",
+   "ginseng-root-1",
+   "good-hands-1",
    "healing-kit-2",
+   "hearing-aid-1",
    "herbal-tea-2",
    "house-call-1",
    "lanolin-2",
    "lollipop-1",
-   "mushroom-1",
    "pill-bottle-1",
    "scalpel-1",
    "steady-nerves-2",
@@ -5560,14 +5516,8 @@
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Bed Rest",
-   "Full Recovery",
-   "Ginseng Root",
-   "Good Hands",
-   "Hearing Aid",
    "Microscope",
-   "Moral Support",
-   "Thermometer"
+   "Moral Support"
   ]
  },
  {
@@ -5599,6 +5549,7 @@
    "healing-kit-1",
    "huddle-2",
    "jubilee-1",
+   "laurel-wreath-2",
    "medal-2",
    "medallion-1",
    "moral-support-2",
@@ -5622,7 +5573,6 @@
    "Come Anytime",
    "High Five",
    "Hooray",
-   "Laurel Wreath",
    "Stadium Wave",
    "Tennis Racket"
   ]
@@ -5646,16 +5596,16 @@
   "recipes": [
    "brooch-1",
    "hat-tip-1",
+   "invisible-cloak-1",
    "masquerade-2",
-   "royal-robe-1"
+   "royal-robe-1",
+   "tiara-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
    "Crown Jewel",
-   "Invisible Cloak",
-   "Photograph",
-   "Tiara"
+   "Photograph"
   ]
  },
  {
@@ -5688,7 +5638,7 @@
    "chisel-set-1",
    "circuit-breaker-1",
    "copper-wire-1",
-   "flashlight-1",
+   "flashlight-2",
    "hammer-2",
    "ingot-2",
    "ladder-2",
@@ -5699,7 +5649,7 @@
    "saw-2",
    "sawn-plank-2",
    "screwdriver-1",
-   "steel-wire-1",
+   "steel-wire-2",
    "tool-chest-2"
   ],
   "source": "catalog+game",
@@ -5738,14 +5688,14 @@
    "action-figure-1",
    "ancient-scroll-1",
    "asparagus-2",
+   "babysitting-2",
    "basketball-1",
    "battery-pack-2",
-   "bedtime-story-1",
-   "belly-laugh-3",
-   "birthday-wish-1",
+   "bedtime-story-2",
+   "birthday-wish-2",
    "carpenter-square-1",
    "chickpea-2",
-   "coat-drive-1",
+   "coat-drive-2",
    "cranberry-2",
    "cucumber-2",
    "family-crest-1",
@@ -5767,6 +5717,7 @@
    "pinky-promise-2",
    "potluck-1",
    "pumpkin-2",
+   "pure-joy-1",
    "sleepover-2",
    "snuggle-2",
    "squad-1",
@@ -5779,7 +5730,6 @@
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Babysitting",
    "Boxing Gloves",
    "Compass",
    "Fruit Basket",
@@ -5790,7 +5740,6 @@
    "Ingot",
    "Multitool",
    "Photograph",
-   "Pure Joy",
    "Ramen Bowl",
    "Shy Giggle",
    "Skateboard",
@@ -5835,19 +5784,19 @@
   "recipes": [
    "binoculars-2",
    "fresh-air-1",
+   "life-jacket-2",
    "multitool-1",
    "pocket-knife-2",
-   "quiet-hour-1",
-   "sea-shell-1"
+   "quiet-hour-1"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
    "Bedtime Story",
    "Come Anytime",
-   "Life Jacket",
    "Lullaby",
    "Postcard",
+   "Sea Shell",
    "Tennis Racket",
    "Zen Stone"
   ]
@@ -5874,20 +5823,24 @@
    "Wool"
   ],
   "recipes": [
+   "bed-rest-1",
+   "blood-donation-2",
    "cold-compress-1",
-   "cookie-2",
    "crutches-1",
    "family-doctor-2",
    "fruit-basket-2",
-   "get-well-1",
-   "get-well-3",
+   "full-recovery-2",
+   "get-well-2",
+   "ginseng-root-1",
+   "good-hands-1",
+   "guardian-angel-1",
    "healing-kit-2",
+   "hearing-aid-1",
    "herbal-tea-2",
    "house-call-1",
    "lanolin-2",
    "lollipop-1",
    "microscope-1",
-   "mushroom-1",
    "pill-bottle-1",
    "scalpel-1",
    "steady-nerves-2",
@@ -5899,15 +5852,7 @@
   "verified": true,
   "bonusTroves": [
    "Amethyst",
-   "Bed Rest",
-   "Blood Donation",
-   "Full Recovery",
-   "Ginseng Root",
-   "Good Hands",
-   "Guardian Angel",
-   "Hearing Aid",
-   "Moral Support",
-   "Thermometer"
+   "Moral Support"
   ]
  },
  {
@@ -5930,9 +5875,10 @@
   ],
   "recipes": [
    "almond-1",
+   "birthday-wish-1",
    "cheers-2",
    "chocolate-bar-2",
-   "cookie-1",
+   "cloud-nine-1",
    "happy-tears-2",
    "high-spirits-3",
    "ice-cream-1",
@@ -5943,11 +5889,8 @@
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Birthday Wish",
-   "Cloud Nine",
    "Fist Bump",
    "Pinky Promise",
-   "Pure Joy",
    "Secret Handshake"
   ]
  },
@@ -5985,12 +5928,13 @@
    "healing-kit-1",
    "huddle-2",
    "jubilee-1",
+   "laurel-wreath-2",
    "medal-2",
    "medallion-1",
    "megaphone-2",
    "moral-support-2",
    "packed-house-2",
-   "parade-1",
+   "parade-2",
    "pep-talk-2",
    "secret-handshake-1",
    "signed-jersey-1",
@@ -6008,7 +5952,6 @@
    "Come Anytime",
    "High Five",
    "Hooray",
-   "Laurel Wreath",
    "Microphone",
    "Photograph",
    "Tennis Racket"
@@ -6039,6 +5982,7 @@
    "compass-1",
    "hello-again-1",
    "open-door-1",
+   "open-invitation-2",
    "welcome-home-1",
    "welcome-mat-2",
    "world-map-1"
@@ -6048,7 +5992,6 @@
   "bonusTroves": [
    "Casserole",
    "Lucky Penny",
-   "Open Invitation",
    "Special Guest"
   ]
  },
@@ -6073,9 +6016,12 @@
   ],
   "recipes": [
    "amulet-1",
+   "blue-diamond-1",
    "brooch-1",
    "charm-bracelet-2",
+   "crown-1",
    "crown-jewel-2",
+   "diamond-2",
    "earring-2",
    "emerald-1",
    "gold-bar-1",
@@ -6085,6 +6031,7 @@
    "pendant-1",
    "ruby-2",
    "sapphire-2",
+   "tiara-2",
    "wedding-ring-2",
    "wristwatch-2"
   ],
@@ -6092,14 +6039,10 @@
   "verified": false,
   "bonusTroves": [
    "Black Opal",
-   "Blue Diamond",
-   "Crown",
-   "Diamond",
    "Happy Tears",
    "Heart",
    "Jubilee",
    "Moon Rock",
-   "Tiara",
    "Wedding"
   ]
  },
@@ -6131,9 +6074,10 @@
    "battery-pack-2",
    "carpenter-square-1",
    "chickpea-2",
-   "coat-drive-1",
+   "coat-drive-2",
    "cranberry-2",
    "cucumber-2",
+   "dynamite-1",
    "family-crest-1",
    "football-1",
    "frisbee-1",
@@ -6153,6 +6097,7 @@
    "pinky-promise-2",
    "potluck-1",
    "pumpkin-2",
+   "pure-joy-1",
    "rocket-fuel-1",
    "space-suit-1",
    "squad-1",
@@ -6169,7 +6114,6 @@
   "bonusTroves": [
    "Birthday Wish",
    "Boxing Gloves",
-   "Dynamite",
    "Electromagnet",
    "Fruit Basket",
    "Ginger",
@@ -6180,7 +6124,6 @@
    "Ingot",
    "Multitool",
    "Photograph",
-   "Pure Joy",
    "Radar Gun",
    "Ramen Bowl",
    "Skateboard",
@@ -6560,22 +6503,22 @@
   "recipes": [
    "belly-laugh-2",
    "bucket-2",
-   "chili-powder-1",
    "good-times-1",
    "goofy-face-2",
    "picnic-2",
    "pocket-knife-1",
+   "taco-1",
    "umbrella-1"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
    "Baguette Loaf",
+   "Chili Powder",
    "Come Anytime",
    "Multitool",
    "Potluck",
    "Snappy Comeback",
-   "Taco",
    "Talent Show",
    "Welcome Mat"
   ]
@@ -6608,10 +6551,10 @@
    "family-doctor-1",
    "grail-1",
    "grand-reunion-2",
-   "hearing-aid-1",
+   "hearing-aid-2",
    "house-call-2",
    "knitting-circle-2",
-   "locket-3",
+   "locket-2",
    "lullaby-2",
    "memory-lane-2",
    "old-pal-2",
@@ -6619,6 +6562,7 @@
    "quilt-2",
    "scrapbook-1",
    "silver-spoon-1",
+   "soulmate-2",
    "stethoscope-1",
    "true-love-1",
    "wind-down-1"
@@ -6627,7 +6571,6 @@
   "verified": false,
   "bonusTroves": [
    "Emerald",
-   "Soulmate",
    "Spell Book"
   ]
  },
@@ -6654,7 +6597,9 @@
    "Silver Coin"
   ],
   "recipes": [
+   "bouquet-4",
    "city-key-2",
+   "fresh-start-1",
    "gavel-2",
    "pinky-promise-1",
    "police-badge-1",
@@ -6666,8 +6611,6 @@
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Bouquet",
-   "Fresh Start",
    "Wedding"
   ]
  },
@@ -6693,10 +6636,10 @@
   "recipes": [
    "action-figure-1",
    "baby-monitor-1",
-   "bedtime-story-1",
-   "belly-laugh-3",
-   "birthday-wish-1",
-   "cradle-1",
+   "babysitting-2",
+   "bedtime-story-2",
+   "birthday-wish-2",
+   "cradle-2",
    "happy-tears-1",
    "lullaby-1",
    "moral-support-1",
@@ -6704,13 +6647,12 @@
    "oil-painting-1",
    "pinky-promise-2",
    "potluck-1",
+   "pure-joy-1",
    "snuggle-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Babysitting",
-   "Pure Joy",
    "Shy Giggle",
    "Sleepover",
    "Standing Ovation"
@@ -6744,7 +6686,7 @@
    "circuit-breaker-1",
    "copper-wire-1",
    "electric-blanket-1",
-   "flashlight-1",
+   "flashlight-2",
    "game-console-1",
    "joystick-1",
    "microphone-2",
@@ -6800,6 +6742,7 @@
   ],
   "recipes": [
    "ancient-scroll-2",
+   "bedtime-story-1",
    "comic-book-2",
    "inner-peace-1",
    "memory-lane-1",
@@ -6807,18 +6750,17 @@
    "scrapbook-2",
    "spell-book-1",
    "stamp-collection-2",
-   "teddy-bear-1",
    "treasure-map-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
    "Action Figure",
-   "Bedtime Story",
    "Family Crest",
    "Game Console",
    "Lullaby",
-   "World Map",
+   "Teddy Bear",
+   "Treasure Map",
    "Zen Stone"
   ]
  },
@@ -6940,6 +6882,7 @@
    "Wool"
   ],
   "recipes": [
+   "coat-drive-1",
    "common-ground-1",
    "flax-1",
    "knitting-circle-1",
@@ -6947,13 +6890,12 @@
    "quilt-1",
    "sewing-kit-2",
    "sheepskin-1",
-   "warm-hug-1",
    "welcome-mat-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Coat Drive"
+   "Warm Hug"
   ]
  },
  {
@@ -6980,6 +6922,7 @@
   ],
   "recipes": [
    "ancient-scroll-2",
+   "bedtime-story-1",
    "comic-book-2",
    "inner-peace-1",
    "memory-lane-1",
@@ -6987,18 +6930,17 @@
    "scrapbook-2",
    "spell-book-1",
    "stamp-collection-2",
-   "teddy-bear-1",
    "treasure-map-2"
   ],
   "source": "catalog+game",
   "verified": true,
   "bonusTroves": [
    "Action Figure",
-   "Bedtime Story",
    "Family Crest",
    "Game Console",
    "Lullaby",
-   "World Map",
+   "Teddy Bear",
+   "Treasure Map",
    "Zen Stone"
   ]
  },
@@ -7027,21 +6969,27 @@
   "recipes": [
    "applause-3",
    "bouquet-1",
-   "confetti-toss-1",
-   "confetti-toss-3",
+   "cloud-nine-2",
+   "confetti-toss-2",
+   "confetti-toss-4",
    "crowd-pleaser-1",
+   "crown-2",
    "encore-2",
+   "harmony-1",
+   "invisible-cloak-1",
    "megaphone-1",
    "mic-drop-1",
    "packed-house-1",
+   "parade-1",
    "punchline-1",
    "royal-orb-1",
+   "royal-robe-2",
+   "scepter-1",
    "snappy-comeback-2",
    "snow-globe-1",
    "special-guest-1",
    "stadium-wave-2",
-   "standing-ovation-1",
-   "tiara-1"
+   "standing-ovation-1"
   ],
   "source": "catalog",
   "verified": false,
@@ -7049,16 +6997,7 @@
    "Action Figure",
    "Birthday Wish",
    "Blue Ribbon",
-   "Cloud Nine",
-   "Crown",
-   "Fireworks",
    "Golden Record",
-   "Harmony",
-   "Invisible Cloak",
-   "Opening Night",
-   "Parade",
-   "Royal Robe",
-   "Scepter",
    "Violin"
   ]
  },
@@ -7087,21 +7026,27 @@
   "recipes": [
    "applause-3",
    "bouquet-1",
-   "confetti-toss-1",
-   "confetti-toss-3",
+   "cloud-nine-2",
+   "confetti-toss-2",
+   "confetti-toss-4",
    "crowd-pleaser-1",
+   "crown-2",
    "encore-2",
+   "harmony-1",
+   "invisible-cloak-1",
    "megaphone-1",
    "mic-drop-1",
    "packed-house-1",
+   "parade-1",
    "punchline-1",
    "royal-orb-1",
+   "royal-robe-2",
+   "scepter-1",
    "snappy-comeback-2",
    "snow-globe-1",
    "special-guest-1",
    "stadium-wave-2",
-   "standing-ovation-1",
-   "tiara-1"
+   "standing-ovation-1"
   ],
   "source": "catalog",
   "verified": false,
@@ -7109,16 +7054,7 @@
    "Action Figure",
    "Birthday Wish",
    "Blue Ribbon",
-   "Cloud Nine",
-   "Crown",
-   "Fireworks",
    "Golden Record",
-   "Harmony",
-   "Invisible Cloak",
-   "Opening Night",
-   "Parade",
-   "Royal Robe",
-   "Scepter",
    "Violin"
   ]
  },
@@ -7145,40 +7081,37 @@
    "Wine Bottle"
   ],
   "recipes": [
-   "aged-whiskey-1",
+   "aged-whiskey-2",
    "back-slap-1",
    "burger-1",
    "casino-chip-2",
    "chalice-1",
+   "champagne-1",
    "cheers-1",
    "circuit-breaker-2",
-   "confetti-toss-4",
    "dance-move-2",
+   "electric-guitar-3",
    "encore-1",
    "grape-2",
    "mic-drop-2",
    "moonshine-2",
+   "punchline-2",
    "radio-1",
    "roast-3",
    "running-gag-1",
    "secret-handshake-2",
-   "standing-ovation-4",
    "talent-show-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Champagne",
    "Dice",
-   "Electric Guitar",
    "Hooray",
    "Huddle",
    "Microphone",
    "Packed House",
-   "Punchline",
    "Snappy Comeback",
    "Soldering Iron",
-   "Wine Bottle",
    "Wink"
   ]
  },
@@ -7211,8 +7144,10 @@
    "rivet-gun-1",
    "sawn-plank-2",
    "sextant-1",
+   "steel-wire-1",
    "tire-gauge-2",
    "tool-chest-2",
+   "welcome-home-2",
    "world-map-1"
   ],
   "source": "catalog",
@@ -7220,9 +7155,7 @@
   "bonusTroves": [
    "Charcoal",
    "Ingot",
-   "Lucky Penny",
-   "Steel Wire",
-   "Welcome Home"
+   "Lucky Penny"
   ]
  },
  {
@@ -7254,8 +7187,10 @@
    "rivet-gun-1",
    "sawn-plank-2",
    "sextant-1",
+   "steel-wire-1",
    "tire-gauge-2",
    "tool-chest-2",
+   "welcome-home-2",
    "world-map-1"
   ],
   "source": "catalog",
@@ -7263,9 +7198,7 @@
   "bonusTroves": [
    "Charcoal",
    "Ingot",
-   "Lucky Penny",
-   "Steel Wire",
-   "Welcome Home"
+   "Lucky Penny"
   ]
  },
  {
@@ -7326,7 +7259,7 @@
    "bouquet-3",
    "casserole-1",
    "chicken-soup-2",
-   "chili-powder-2",
+   "chili-powder-1",
    "crab-2",
    "fire-extinguisher-1",
    "high-spirits-1",
@@ -7382,7 +7315,8 @@
    "necklace-1",
    "pendant-1",
    "rawhide-1",
-   "sheepskin-2"
+   "sheepskin-2",
+   "tiara-2"
   ],
   "source": "catalog",
   "verified": false,
@@ -7390,7 +7324,6 @@
    "Horn",
    "Knitting Circle",
    "Lanolin",
-   "Tiara",
    "Tool Chest"
   ]
  },
@@ -7444,7 +7377,7 @@
    "casserole-1",
    "caviar-1",
    "chicken-soup-2",
-   "confetti-toss-2",
+   "confetti-toss-3",
    "crab-2",
    "fire-extinguisher-1",
    "graduation-1",
@@ -7452,9 +7385,9 @@
    "home-cooking-2",
    "lamb-2",
    "lobster-2",
-   "love-letter-1",
    "olive-oil-2",
    "oyster-1",
+   "royal-treatment-2",
    "saffron-2",
    "salami-2",
    "salmon-1",
@@ -7464,8 +7397,8 @@
    "stopwatch-2",
    "sturgeon-2",
    "sunday-dinner-1",
-   "truffle-1",
-   "wax-seal-3"
+   "swoon-1",
+   "truffle-1"
   ],
   "source": "catalog",
   "verified": false,
@@ -7473,12 +7406,12 @@
    "Birthday Wish",
    "Block Party",
    "Healing Kit",
+   "Love Letter",
    "Moral Support",
    "Packed House",
    "Potluck",
-   "Royal Treatment",
    "Sushi Roll",
-   "Swoon",
+   "Wax Seal",
    "Wristwatch"
   ]
  },
@@ -7507,8 +7440,11 @@
   "recipes": [
    "amulet-1",
    "applause-3",
-   "confetti-toss-1",
+   "cloud-nine-2",
+   "confetti-toss-2",
    "crowd-pleaser-1",
+   "crystal-ball-1",
+   "invisible-cloak-1",
    "megaphone-1",
    "mic-drop-1",
    "punchline-1",
@@ -7521,10 +7457,7 @@
   "bonusTroves": [
    "Action Figure",
    "Amethyst",
-   "Birthday Wish",
-   "Cloud Nine",
-   "Crystal Ball",
-   "Invisible Cloak"
+   "Birthday Wish"
   ]
  },
  {
@@ -7599,7 +7532,8 @@
    "necklace-1",
    "pendant-1",
    "rawhide-1",
-   "sheepskin-2"
+   "sheepskin-2",
+   "tiara-2"
   ],
   "source": "catalog",
   "verified": false,
@@ -7607,7 +7541,6 @@
    "Horn",
    "Knitting Circle",
    "Lanolin",
-   "Tiara",
    "Tool Chest"
   ]
  },
@@ -7675,7 +7608,7 @@
    "casserole-1",
    "charcoal-2",
    "chicken-soup-2",
-   "confetti-toss-2",
+   "confetti-toss-3",
    "fire-extinguisher-1",
    "graduation-1",
    "high-spirits-1",
@@ -7768,10 +7701,11 @@
    "bubble-bath-1",
    "charm-bracelet-2",
    "cotton-boll-2",
+   "cradle-1",
    "earring-2",
    "ebony-log-1",
    "electric-blanket-1",
-   "flashlight-1",
+   "flashlight-2",
    "flax-2",
    "harmonica-2",
    "locket-1",
@@ -7785,6 +7719,7 @@
    "sandalwood-2",
    "sheepskin-2",
    "straight-razor-2",
+   "tiara-2",
    "welcome-mat-1",
    "wristwatch-2"
   ],
@@ -7792,7 +7727,6 @@
   "verified": true,
   "bonusTroves": [
    "Compass",
-   "Cradle",
    "Crown Jewel",
    "Gold Ring",
    "Heart",
@@ -7802,7 +7736,6 @@
    "Lucky Penny",
    "Lullaby",
    "Multitool",
-   "Tiara",
    "Tool Chest"
   ]
  },
@@ -7836,10 +7769,11 @@
    "bubble-bath-1",
    "charm-bracelet-2",
    "cotton-boll-2",
+   "cradle-1",
    "earring-2",
    "ebony-log-1",
    "electric-blanket-1",
-   "flashlight-1",
+   "flashlight-2",
    "flax-2",
    "harmonica-2",
    "locket-1",
@@ -7853,6 +7787,7 @@
    "sandalwood-2",
    "sheepskin-2",
    "straight-razor-2",
+   "tiara-2",
    "welcome-mat-1",
    "wristwatch-2"
   ],
@@ -7860,7 +7795,6 @@
   "verified": false,
   "bonusTroves": [
    "Compass",
-   "Cradle",
    "Crown Jewel",
    "Gold Ring",
    "Heart",
@@ -7870,7 +7804,6 @@
    "Lucky Penny",
    "Lullaby",
    "Multitool",
-   "Tiara",
    "Tool Chest"
   ]
  },
@@ -7898,12 +7831,13 @@
    "binoculars-2",
    "cotton-boll-2",
    "ebony-log-1",
-   "flashlight-1",
+   "flashlight-2",
    "flax-2",
    "hammer-2",
    "hay-bale-2",
    "horn-1",
    "ladder-2",
+   "life-jacket-2",
    "multitool-1",
    "pocket-knife-2",
    "rake-1",
@@ -7911,10 +7845,9 @@
    "sandalwood-2",
    "saw-2",
    "sawn-plank-2",
-   "sea-shell-1",
    "sheepskin-2",
    "shovel-2",
-   "telescope-1",
+   "telescope-2",
    "wrench-1"
   ],
   "source": "catalog",
@@ -7924,9 +7857,9 @@
    "Compass",
    "Knitting Circle",
    "Lanolin",
-   "Life Jacket",
    "Lucky Penny",
    "Postcard",
+   "Sea Shell",
    "Tool Chest"
   ]
  },
@@ -7954,6 +7887,7 @@
   "recipes": [
    "action-figure-2",
    "casino-chip-1",
+   "cloud-nine-2",
    "game-console-2",
    "game-night-2",
    "gold-coin-1",
@@ -7969,7 +7903,6 @@
   "bonusTroves": [
    "Belly Laugh",
    "Birthday Wish",
-   "Cloud Nine",
    "Fist Bump",
    "Pinky Promise",
    "Rare Coin",
@@ -8000,6 +7933,7 @@
   ],
   "recipes": [
    "ancient-scroll-2",
+   "bedtime-story-1",
    "comic-book-2",
    "inner-peace-1",
    "memory-lane-1",
@@ -8007,18 +7941,17 @@
    "scrapbook-2",
    "spell-book-1",
    "stamp-collection-2",
-   "teddy-bear-1",
    "treasure-map-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
    "Action Figure",
-   "Bedtime Story",
    "Family Crest",
    "Game Console",
    "Lullaby",
-   "World Map",
+   "Teddy Bear",
+   "Treasure Map",
    "Zen Stone"
   ]
  },
@@ -8047,6 +7980,7 @@
   "recipes": [
    "baguette-loaf-1",
    "belly-laugh-1",
+   "best-friend-2",
    "cacao-pod-2",
    "check-in-2",
    "cheers-3",
@@ -8055,24 +7989,23 @@
    "day-off-2",
    "favorite-person-1",
    "game-night-1",
-   "get-well-2",
+   "get-well-1",
    "ginger-1",
    "headphones-2",
    "hello-again-2",
    "herbal-tea-1",
    "inside-joke-2",
-   "jam-jar-3",
-   "locket-2",
+   "jam-jar-2",
    "old-pal-1",
-   "open-invitation-2",
+   "open-arms-1",
    "snuggle-1",
+   "soulmate-1",
    "tea-leaf-2",
    "wind-down-2"
   ],
   "source": "catalog+game",
   "verified": true,
   "bonusTroves": [
-   "Best Friend",
    "Birthday Wish",
    "Block Party",
    "Chicken Soup",
@@ -8084,11 +8017,9 @@
    "Lullaby",
    "Maple Syrup",
    "Moral Support",
-   "Open Arms",
    "Pinky Promise",
    "Secret Handshake",
    "Snappy Comeback",
-   "Soulmate",
    "Vacation"
   ]
  },
@@ -8119,7 +8050,8 @@
    "necklace-1",
    "pendant-1",
    "rawhide-1",
-   "sheepskin-2"
+   "sheepskin-2",
+   "tiara-2"
   ],
   "source": "catalog",
   "verified": false,
@@ -8127,7 +8059,6 @@
    "Horn",
    "Knitting Circle",
    "Lanolin",
-   "Tiara",
    "Tool Chest"
   ]
  },
@@ -8195,6 +8126,7 @@
    "Wool"
   ],
   "recipes": [
+   "coat-drive-1",
    "common-ground-1",
    "flax-1",
    "knitting-circle-1",
@@ -8202,13 +8134,12 @@
    "quilt-1",
    "sewing-kit-2",
    "sheepskin-1",
-   "warm-hug-1",
    "welcome-mat-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Coat Drive"
+   "Warm Hug"
   ]
  },
  {
@@ -8234,13 +8165,16 @@
    "Thumbs Up"
   ],
   "recipes": [
-   "amber-1",
+   "amber-2",
    "amulet-1",
    "antique-vase-2",
+   "blue-diamond-1",
    "camera-2",
-   "crystal-ball-1",
+   "cheers-4",
+   "crown-1",
+   "crystal-ball-2",
    "doubloon-1",
-   "electric-guitar-1",
+   "electric-guitar-2",
    "fire-helmet-2",
    "gold-bar-1",
    "gold-ring-1",
@@ -8264,12 +8198,9 @@
   "bonusTroves": [
    "Aged Whiskey",
    "Black Opal",
-   "Blue Diamond",
    "Caviar",
    "Chalice",
    "Charm Bracelet",
-   "Cheers",
-   "Crown",
    "Crown Jewel",
    "Diamond",
    "Ebony Log",
@@ -8280,7 +8211,6 @@
    "Moon Rock",
    "Photograph",
    "Skeleton Key",
-   "Violin",
    "Wedding"
   ]
  },
@@ -8307,40 +8237,37 @@
    "Wine Bottle"
   ],
   "recipes": [
-   "aged-whiskey-1",
+   "aged-whiskey-2",
    "back-slap-1",
    "burger-1",
    "casino-chip-2",
    "chalice-1",
+   "champagne-1",
    "cheers-1",
    "circuit-breaker-2",
-   "confetti-toss-4",
    "dance-move-2",
+   "electric-guitar-3",
    "encore-1",
    "grape-2",
    "mic-drop-2",
    "moonshine-2",
+   "punchline-2",
    "radio-1",
    "roast-3",
    "running-gag-1",
    "secret-handshake-2",
-   "standing-ovation-4",
    "talent-show-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Champagne",
    "Dice",
-   "Electric Guitar",
    "Hooray",
    "Huddle",
    "Microphone",
    "Packed House",
-   "Punchline",
    "Snappy Comeback",
    "Soldering Iron",
-   "Wine Bottle",
    "Wink"
   ]
  },
@@ -8374,10 +8301,11 @@
    "bubble-bath-1",
    "charm-bracelet-2",
    "cotton-boll-2",
+   "cradle-1",
    "earring-2",
    "ebony-log-1",
    "electric-blanket-1",
-   "flashlight-1",
+   "flashlight-2",
    "flax-2",
    "harmonica-2",
    "locket-1",
@@ -8391,6 +8319,7 @@
    "sandalwood-2",
    "sheepskin-2",
    "straight-razor-2",
+   "tiara-2",
    "welcome-mat-1",
    "wristwatch-2"
   ],
@@ -8398,7 +8327,6 @@
   "verified": false,
   "bonusTroves": [
    "Compass",
-   "Cradle",
    "Crown Jewel",
    "Gold Ring",
    "Heart",
@@ -8408,7 +8336,6 @@
    "Lucky Penny",
    "Lullaby",
    "Multitool",
-   "Tiara",
    "Tool Chest"
   ]
  },
@@ -8469,10 +8396,11 @@
    "bubble-bath-1",
    "charm-bracelet-2",
    "cotton-boll-2",
+   "cradle-1",
    "earring-2",
    "ebony-log-1",
    "electric-blanket-1",
-   "flashlight-1",
+   "flashlight-2",
    "flax-2",
    "harmonica-2",
    "locket-1",
@@ -8486,6 +8414,7 @@
    "sandalwood-2",
    "sheepskin-2",
    "straight-razor-2",
+   "tiara-2",
    "welcome-mat-1",
    "wristwatch-2"
   ],
@@ -8493,7 +8422,6 @@
   "verified": false,
   "bonusTroves": [
    "Compass",
-   "Cradle",
    "Crown Jewel",
    "Gold Ring",
    "Heart",
@@ -8503,7 +8431,6 @@
    "Lucky Penny",
    "Lullaby",
    "Multitool",
-   "Tiara",
    "Tool Chest"
   ]
  },
@@ -8537,10 +8464,11 @@
    "bubble-bath-1",
    "charm-bracelet-2",
    "cotton-boll-2",
+   "cradle-1",
    "earring-2",
    "ebony-log-1",
    "electric-blanket-1",
-   "flashlight-1",
+   "flashlight-2",
    "flax-2",
    "harmonica-2",
    "locket-1",
@@ -8554,6 +8482,7 @@
    "sandalwood-2",
    "sheepskin-2",
    "straight-razor-2",
+   "tiara-2",
    "welcome-mat-1",
    "wristwatch-2"
   ],
@@ -8561,7 +8490,6 @@
   "verified": false,
   "bonusTroves": [
    "Compass",
-   "Cradle",
    "Crown Jewel",
    "Gold Ring",
    "Heart",
@@ -8571,7 +8499,6 @@
    "Lucky Penny",
    "Lullaby",
    "Multitool",
-   "Tiara",
    "Tool Chest"
   ]
  },
@@ -8603,6 +8530,7 @@
    "healing-kit-1",
    "huddle-2",
    "jubilee-1",
+   "laurel-wreath-2",
    "medal-2",
    "medallion-1",
    "moral-support-2",
@@ -8623,7 +8551,6 @@
    "Block Party",
    "High Five",
    "Hooray",
-   "Laurel Wreath",
    "Stadium Wave"
   ]
  },
@@ -8648,7 +8575,7 @@
   "recipes": [
    "bathrobe-2",
    "bubble-bath-2",
-   "hearing-aid-2",
+   "good-hands-2",
    "inner-peace-2",
    "lotus-1",
    "mud-mask-2",
@@ -8666,7 +8593,7 @@
    "Bedtime Story",
    "Come Anytime",
    "Cotton Boll",
-   "Good Hands",
+   "Hearing Aid",
    "Knitting Circle",
    "Lanolin",
    "Lullaby",
@@ -8746,28 +8673,28 @@
    "bouquet-3",
    "casserole-1",
    "chicken-soup-2",
-   "chili-powder-2",
+   "chili-powder-1",
    "fire-extinguisher-1",
    "high-spirits-1",
    "home-cooking-2",
    "lentil-2",
-   "love-letter-1",
    "second-family-1",
    "smoke-alarm-1",
    "stopwatch-2",
    "sunday-dinner-1",
-   "taco-1"
+   "swoon-1",
+   "taco-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
    "Birthday Wish",
    "Healing Kit",
+   "Love Letter",
    "Moral Support",
    "Packed House",
    "Potluck",
    "Ramen Bowl",
-   "Swoon",
    "Wristwatch"
   ]
  },
@@ -8814,7 +8741,7 @@
   "recipes": [
    "compass-1",
    "day-off-2",
-   "flashlight-1",
+   "flashlight-2",
    "fresh-air-1",
    "multitool-1",
    "tire-gauge-1",
@@ -8909,12 +8836,13 @@
    "healing-kit-1",
    "huddle-2",
    "jubilee-1",
+   "laurel-wreath-2",
    "medal-2",
    "medallion-1",
    "megaphone-2",
    "moral-support-2",
    "packed-house-2",
-   "parade-1",
+   "parade-2",
    "pep-talk-2",
    "secret-handshake-1",
    "signed-jersey-1",
@@ -8932,7 +8860,6 @@
    "Come Anytime",
    "High Five",
    "Hooray",
-   "Laurel Wreath",
    "Microphone",
    "Photograph",
    "Tennis Racket"
@@ -8961,9 +8888,10 @@
    "Welcome Mat"
   ],
   "recipes": [
+   "aged-whiskey-1",
    "bathrobe-1",
-   "bed-rest-1",
-   "champagne-1",
+   "bed-rest-2",
+   "champagne-2",
    "city-key-1",
    "come-anytime-2",
    "deadbolt-2",
@@ -8971,6 +8899,8 @@
    "fresh-air-2",
    "full-recovery-1",
    "grand-reunion-1",
+   "homecoming-2",
+   "oasis-2",
    "open-door-2",
    "plush-pillow-1",
    "sewing-kit-1",
@@ -8979,17 +8909,15 @@
    "snow-globe-2",
    "special-guest-2",
    "treasure-map-1",
+   "true-love-2",
    "vacation-1"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Aged Whiskey",
    "Compass",
    "Happy Tears",
-   "Homecoming",
    "Lucky Penny",
-   "Oasis",
    "Rare Coin",
    "Safe Haven",
    "Sea Shell",
@@ -8998,7 +8926,6 @@
    "Support Group",
    "Teddy Bear",
    "Treasure Chest",
-   "True Love",
    "Welcome Mat"
   ]
  },
@@ -9076,9 +9003,10 @@
    "Welcome Mat"
   ],
   "recipes": [
+   "aged-whiskey-1",
    "bathrobe-1",
-   "bed-rest-1",
-   "champagne-1",
+   "bed-rest-2",
+   "champagne-2",
    "city-key-1",
    "come-anytime-2",
    "deadbolt-2",
@@ -9086,6 +9014,8 @@
    "fresh-air-2",
    "full-recovery-1",
    "grand-reunion-1",
+   "homecoming-2",
+   "oasis-2",
    "open-door-2",
    "plush-pillow-1",
    "sewing-kit-1",
@@ -9094,17 +9024,15 @@
    "snow-globe-2",
    "special-guest-2",
    "treasure-map-1",
+   "true-love-2",
    "vacation-1"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Aged Whiskey",
    "Compass",
    "Happy Tears",
-   "Homecoming",
    "Lucky Penny",
-   "Oasis",
    "Rare Coin",
    "Safe Haven",
    "Sea Shell",
@@ -9113,7 +9041,6 @@
    "Support Group",
    "Teddy Bear",
    "Treasure Chest",
-   "True Love",
    "Welcome Mat"
   ]
  },
@@ -9151,9 +9078,9 @@
    "caviar-1",
    "charcoal-2",
    "chicken-soup-2",
-   "chili-powder-2",
+   "chili-powder-1",
    "cod-1",
-   "confetti-toss-2",
+   "confetti-toss-3",
    "crab-2",
    "fire-extinguisher-1",
    "graduation-1",
@@ -9162,13 +9089,13 @@
    "lamb-2",
    "lentil-2",
    "lobster-2",
-   "love-letter-1",
    "olive-1",
    "olive-oil-2",
    "oyster-1",
    "pizza-slice-1",
    "ramen-bowl-1",
    "roast-1",
+   "royal-treatment-2",
    "saffron-2",
    "salami-2",
    "salmon-1",
@@ -9180,9 +9107,9 @@
    "sturgeon-2",
    "sunday-dinner-1",
    "sushi-roll-1",
-   "taco-1",
-   "truffle-1",
-   "wax-seal-3"
+   "swoon-1",
+   "taco-2",
+   "truffle-1"
   ],
   "source": "catalog",
   "verified": false,
@@ -9190,11 +9117,11 @@
    "Birthday Wish",
    "Block Party",
    "Healing Kit",
+   "Love Letter",
    "Moral Support",
    "Packed House",
    "Potluck",
-   "Royal Treatment",
-   "Swoon",
+   "Wax Seal",
    "Wine Bottle",
    "Wristwatch"
   ]
@@ -9233,12 +9160,13 @@
    "healing-kit-1",
    "huddle-2",
    "jubilee-1",
+   "laurel-wreath-2",
    "medal-2",
    "medallion-1",
    "megaphone-2",
    "moral-support-2",
    "packed-house-2",
-   "parade-1",
+   "parade-2",
    "pep-talk-2",
    "secret-handshake-1",
    "signed-jersey-1",
@@ -9256,7 +9184,6 @@
    "Come Anytime",
    "High Five",
    "Hooray",
-   "Laurel Wreath",
    "Microphone",
    "Photograph",
    "Tennis Racket"
@@ -9284,6 +9211,7 @@
   "recipes": [
    "applause-3",
    "bouquet-1",
+   "cloud-nine-2",
    "crowd-pleaser-1",
    "good-times-1",
    "group-selfie-2",
@@ -9295,9 +9223,7 @@
   "verified": false,
   "bonusTroves": [
    "Action Figure",
-   "Birthday Wish",
-   "Cloud Nine",
-   "Opening Night"
+   "Birthday Wish"
   ]
  },
  {
@@ -9319,7 +9245,7 @@
   ],
   "recipes": [
    "ebony-log-1",
-   "electric-guitar-1",
+   "electric-guitar-2",
    "harmonica-2",
    "horn-1",
    "microphone-2",
@@ -9329,7 +9255,7 @@
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Violin"
+   "Standing Ovation"
   ]
  },
  {
@@ -9358,15 +9284,15 @@
    "brooch-2",
    "charm-bracelet-1",
    "earring-1",
+   "good-hands-2",
    "hat-tip-1",
-   "hearing-aid-2",
    "necklace-2",
    "royal-treatment-1",
    "running-gag-2",
    "scissors-2",
    "steady-nerves-1",
    "straight-razor-1",
-   "tiara-2",
+   "tiara-1",
    "tweezers-1"
   ],
   "source": "catalog",
@@ -9375,8 +9301,8 @@
    "Amulet",
    "Come Anytime",
    "Gold Ring",
-   "Good Hands",
    "Healing Kit",
+   "Hearing Aid",
    "Inner Peace",
    "Moral Support",
    "Multitool",
@@ -9452,30 +9378,28 @@
    "Rough Gem"
   ],
   "recipes": [
+   "amber-1",
    "ancient-scroll-2",
    "calipers-1",
-   "dynamite-1",
+   "dynamite-2",
    "fossil-1",
    "geode-1",
    "memory-lane-1",
+   "meteorite-1",
+   "pharaoh-mask-2",
+   "telescope-1",
    "time-capsule-1",
    "treasure-map-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Amber",
    "Black Opal",
    "Ginseng Root",
    "Gold Nugget",
    "Mammoth Tusk",
-   "Meteorite",
-   "Moon Rock",
-   "Pharaoh Mask",
    "Rough Gem",
-   "Telescope",
-   "Uranium Ore",
-   "World Map"
+   "Uranium Ore"
   ]
  },
  {
@@ -9516,7 +9440,7 @@
    "cheese-wheel-2",
    "chicken-soup-1",
    "chickpea-1",
-   "chili-powder-3",
+   "chili-powder-2",
    "cod-2",
    "crab-1",
    "cranberry-1",
@@ -9527,7 +9451,7 @@
    "goofy-face-2",
    "grape-1",
    "home-cooking-1",
-   "jam-jar-2",
+   "jam-jar-1",
    "lamb-1",
    "lemon-1",
    "lentil-1",
@@ -9548,6 +9472,7 @@
    "sugar-cane-2",
    "tea-leaf-1",
    "tomato-1",
+   "truffle-2",
    "wine-bottle-1"
   ],
   "source": "catalog",
@@ -9567,10 +9492,8 @@
    "Snappy Comeback",
    "Strawberry",
    "Sturgeon",
-   "Sunday Dinner",
    "Taco",
    "Talent Show",
-   "Truffle",
    "Tuna",
    "Walnut",
    "Welcome Mat"
@@ -9600,10 +9523,11 @@
   ],
   "recipes": [
    "binoculars-1",
-   "flashlight-2",
+   "drone-2",
+   "flashlight-3",
    "gavel-1",
    "infrared-goggles-1",
-   "lifeline-1",
+   "lifeline-2",
    "metal-detector-2",
    "police-badge-2",
    "radar-gun-2"
@@ -9613,7 +9537,6 @@
   "bonusTroves": [
    "Ancient Scroll",
    "Compass",
-   "Drone",
    "Family Doctor",
    "Lucky Penny",
    "Sextant"
@@ -9639,6 +9562,7 @@
   ],
   "recipes": [
    "applause-3",
+   "cloud-nine-2",
    "crowd-pleaser-1",
    "dance-move-1",
    "game-night-2",
@@ -9653,7 +9577,6 @@
   "bonusTroves": [
    "Action Figure",
    "Birthday Wish",
-   "Cloud Nine",
    "Fist Bump",
    "Opening Night",
    "Pinky Promise",
@@ -9750,7 +9673,7 @@
    "Wine Bottle"
   ],
   "recipes": [
-   "confetti-toss-4",
+   "champagne-1",
    "dance-move-2",
    "high-spirits-2",
    "masquerade-1",
@@ -9759,7 +9682,7 @@
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Champagne",
+   "Confetti Toss",
    "Microphone",
    "Standing Ovation"
   ]
@@ -9794,8 +9717,8 @@
    "fire-extinguisher-1",
    "high-spirits-1",
    "home-cooking-2",
-   "love-letter-1",
    "oyster-1",
+   "royal-treatment-2",
    "salmon-1",
    "second-family-1",
    "smoke-alarm-1",
@@ -9804,7 +9727,7 @@
    "sturgeon-2",
    "sunday-dinner-1",
    "sushi-roll-1",
-   "wax-seal-3"
+   "swoon-1"
   ],
   "source": "catalog",
   "verified": false,
@@ -9812,13 +9735,13 @@
    "Birthday Wish",
    "Healing Kit",
    "Lobster",
+   "Love Letter",
    "Moral Support",
    "Olive Oil",
    "Packed House",
    "Potluck",
    "Ramen Bowl",
-   "Royal Treatment",
-   "Swoon",
+   "Wax Seal",
    "Wristwatch"
   ]
  },
@@ -9861,6 +9784,7 @@
    "high-five-1",
    "huddle-2",
    "jubilee-1",
+   "laurel-wreath-2",
    "medal-2",
    "medallion-1",
    "moral-support-2",
@@ -9879,8 +9803,6 @@
    "Block Party",
    "Come Anytime",
    "Hooray",
-   "Laurel Wreath",
-   "Skateboard",
    "Stadium Wave",
    "Tennis Racket"
   ]
@@ -10047,6 +9969,7 @@
    "Wool"
   ],
   "recipes": [
+   "good-hands-1",
    "memory-lane-1",
    "quiet-hour-1",
    "scrapbook-2",
@@ -10058,7 +9981,6 @@
    "Ancient Scroll",
    "Bedtime Story",
    "Family Crest",
-   "Good Hands",
    "Lullaby",
    "Zen Stone"
   ]
@@ -10101,7 +10023,7 @@
    "cheese-wheel-2",
    "chicken-soup-1",
    "chickpea-1",
-   "chili-powder-3",
+   "chili-powder-2",
    "cod-2",
    "crab-1",
    "cranberry-1",
@@ -10112,7 +10034,7 @@
    "goofy-face-2",
    "grape-1",
    "home-cooking-1",
-   "jam-jar-2",
+   "jam-jar-1",
    "lamb-1",
    "lemon-1",
    "lentil-1",
@@ -10133,6 +10055,7 @@
    "sugar-cane-2",
    "tea-leaf-1",
    "tomato-1",
+   "truffle-2",
    "wine-bottle-1"
   ],
   "source": "catalog",
@@ -10152,10 +10075,8 @@
    "Snappy Comeback",
    "Strawberry",
    "Sturgeon",
-   "Sunday Dinner",
    "Taco",
    "Talent Show",
-   "Truffle",
    "Tuna",
    "Walnut",
    "Welcome Mat"
@@ -10191,10 +10112,11 @@
    "bubble-bath-1",
    "charm-bracelet-2",
    "cotton-boll-2",
+   "cradle-1",
    "earring-2",
    "ebony-log-1",
    "electric-blanket-1",
-   "flashlight-1",
+   "flashlight-2",
    "flax-2",
    "harmonica-2",
    "locket-1",
@@ -10208,6 +10130,7 @@
    "sandalwood-2",
    "sheepskin-2",
    "straight-razor-2",
+   "tiara-2",
    "welcome-mat-1",
    "wristwatch-2"
   ],
@@ -10215,7 +10138,6 @@
   "verified": false,
   "bonusTroves": [
    "Compass",
-   "Cradle",
    "Crown Jewel",
    "Gold Ring",
    "Heart",
@@ -10225,7 +10147,6 @@
    "Lucky Penny",
    "Lullaby",
    "Multitool",
-   "Tiara",
    "Tool Chest"
   ]
  },
@@ -10257,15 +10178,15 @@
    "avocado-2",
    "bell-pepper-2",
    "chickpea-1",
-   "chili-powder-3",
+   "chili-powder-2",
    "cotton-boll-1",
    "cranberry-1",
    "cucumber-1",
    "ginger-2",
-   "ginseng-root-1",
+   "ginseng-root-2",
    "grape-1",
    "hay-bale-1",
-   "jam-jar-2",
+   "jam-jar-1",
    "kiwifruit-2",
    "lentil-1",
    "mango-1",
@@ -10306,7 +10227,8 @@
    "Thumbs Up"
   ],
   "recipes": [
-   "get-well-3",
+   "get-well-2",
+   "good-hands-1",
    "microscope-1",
    "steady-nerves-2",
    "tweezers-2"
@@ -10314,8 +10236,7 @@
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Amethyst",
-   "Good Hands"
+   "Amethyst"
   ]
  },
  {
@@ -10352,12 +10273,13 @@
    "healing-kit-1",
    "huddle-2",
    "jubilee-1",
+   "laurel-wreath-2",
    "medal-2",
    "medallion-1",
    "megaphone-2",
    "moral-support-2",
    "packed-house-2",
-   "parade-1",
+   "parade-2",
    "pep-talk-2",
    "secret-handshake-1",
    "signed-jersey-1",
@@ -10375,7 +10297,6 @@
    "Come Anytime",
    "High Five",
    "Hooray",
-   "Laurel Wreath",
    "Microphone",
    "Photograph",
    "Tennis Racket"
@@ -10459,13 +10380,16 @@
    "Thumbs Up"
   ],
   "recipes": [
-   "amber-1",
+   "amber-2",
    "amulet-1",
    "antique-vase-2",
+   "blue-diamond-1",
    "camera-2",
-   "crystal-ball-1",
+   "cheers-4",
+   "crown-1",
+   "crystal-ball-2",
    "doubloon-1",
-   "electric-guitar-1",
+   "electric-guitar-2",
    "fire-helmet-2",
    "gold-bar-1",
    "gold-ring-1",
@@ -10489,12 +10413,9 @@
   "bonusTroves": [
    "Aged Whiskey",
    "Black Opal",
-   "Blue Diamond",
    "Caviar",
    "Chalice",
    "Charm Bracelet",
-   "Cheers",
-   "Crown",
    "Crown Jewel",
    "Diamond",
    "Ebony Log",
@@ -10505,7 +10426,6 @@
    "Moon Rock",
    "Photograph",
    "Skeleton Key",
-   "Violin",
    "Wedding"
   ]
  },
@@ -10534,21 +10454,27 @@
   "recipes": [
    "applause-3",
    "bouquet-1",
-   "confetti-toss-1",
-   "confetti-toss-3",
+   "cloud-nine-2",
+   "confetti-toss-2",
+   "confetti-toss-4",
    "crowd-pleaser-1",
+   "crown-2",
    "encore-2",
+   "harmony-1",
+   "invisible-cloak-1",
    "megaphone-1",
    "mic-drop-1",
    "packed-house-1",
+   "parade-1",
    "punchline-1",
    "royal-orb-1",
+   "royal-robe-2",
+   "scepter-1",
    "snappy-comeback-2",
    "snow-globe-1",
    "special-guest-1",
    "stadium-wave-2",
-   "standing-ovation-1",
-   "tiara-1"
+   "standing-ovation-1"
   ],
   "source": "catalog",
   "verified": false,
@@ -10556,16 +10482,7 @@
    "Action Figure",
    "Birthday Wish",
    "Blue Ribbon",
-   "Cloud Nine",
-   "Crown",
-   "Fireworks",
    "Golden Record",
-   "Harmony",
-   "Invisible Cloak",
-   "Opening Night",
-   "Parade",
-   "Royal Robe",
-   "Scepter",
    "Violin"
   ]
  },
@@ -10588,8 +10505,8 @@
    "Wool"
   ],
   "recipes": [
+   "best-friend-2",
    "dog-collar-2",
-   "locket-2",
    "new-friend-2",
    "plush-pillow-2",
    "rawhide-1",
@@ -10599,10 +10516,10 @@
   "verified": true,
   "bonusTroves": [
    "Bedtime Story",
-   "Best Friend",
    "Cotton Boll",
    "Fist Bump",
    "Horn",
+   "Locket",
    "Pinky Promise",
    "Secret Handshake",
    "Tool Chest"
@@ -10632,22 +10549,20 @@
    "cold-compress-1",
    "crutches-1",
    "fruit-basket-2",
-   "get-well-3",
+   "get-well-2",
+   "ginseng-root-1",
    "healing-kit-2",
+   "hearing-aid-1",
    "herbal-tea-2",
    "lanolin-2",
    "lollipop-1",
-   "mushroom-1",
    "pill-bottle-1",
    "steady-nerves-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Ginseng Root",
-   "Hearing Aid",
-   "Moral Support",
-   "Thermometer"
+   "Moral Support"
   ]
  },
  {
@@ -10676,7 +10591,7 @@
    "bouquet-3",
    "casserole-1",
    "chicken-soup-2",
-   "chili-powder-2",
+   "chili-powder-1",
    "fire-extinguisher-1",
    "high-spirits-1",
    "home-cooking-2",
@@ -10723,16 +10638,14 @@
   ],
   "recipes": [
    "crutches-1",
+   "full-recovery-2",
+   "good-hands-1",
    "healing-kit-2",
    "steady-nerves-2",
    "support-group-1"
   ],
   "source": "catalog",
-  "verified": false,
-  "bonusTroves": [
-   "Full Recovery",
-   "Good Hands"
-  ]
+  "verified": false
  },
  {
   "name": "Pickle Ball Courts",
@@ -10796,6 +10709,7 @@
   "recipes": [
    "action-figure-2",
    "casino-chip-1",
+   "cloud-nine-2",
    "game-console-2",
    "game-night-2",
    "gold-coin-1",
@@ -10811,7 +10725,6 @@
   "bonusTroves": [
    "Belly Laugh",
    "Birthday Wish",
-   "Cloud Nine",
    "Fist Bump",
    "Pinky Promise",
    "Rare Coin",
@@ -10845,7 +10758,7 @@
    "casserole-1",
    "charcoal-2",
    "chicken-soup-2",
-   "confetti-toss-2",
+   "confetti-toss-3",
    "fire-extinguisher-1",
    "graduation-1",
    "high-spirits-1",
@@ -10895,8 +10808,15 @@
   "recipes": [
    "binoculars-2",
    "compass-2",
+   "electromagnet-2",
    "fossil-1",
    "gyroscope-1",
+   "hourglass-2",
+   "meteorite-1",
+   "sea-shell-1",
+   "space-suit-2",
+   "telescope-1",
+   "tesla-coil-2",
    "time-capsule-1",
    "treasure-map-2"
   ],
@@ -10904,19 +10824,10 @@
   "verified": false,
   "bonusTroves": [
    "Ancient Scroll",
-   "Electromagnet",
    "Geode",
-   "Hourglass",
-   "Meteorite",
-   "Moon Rock",
    "Postcard",
-   "Sea Shell",
    "Sextant",
-   "Space Suit",
-   "Telescope",
-   "Tesla Coil",
-   "Uranium Ore",
-   "World Map"
+   "Uranium Ore"
   ]
  },
  {
@@ -10943,10 +10854,11 @@
   ],
   "recipes": [
    "binoculars-1",
-   "flashlight-2",
+   "drone-2",
+   "flashlight-3",
    "gavel-1",
    "infrared-goggles-1",
-   "lifeline-1",
+   "lifeline-2",
    "metal-detector-2",
    "police-badge-2",
    "radar-gun-2"
@@ -10956,7 +10868,6 @@
   "bonusTroves": [
    "Ancient Scroll",
    "Compass",
-   "Drone",
    "Family Doctor",
    "Lucky Penny",
    "Sextant"
@@ -10986,10 +10897,11 @@
   ],
   "recipes": [
    "binoculars-1",
-   "flashlight-2",
+   "drone-2",
+   "flashlight-3",
    "gavel-1",
    "infrared-goggles-1",
-   "lifeline-1",
+   "lifeline-2",
    "metal-detector-2",
    "police-badge-2",
    "radar-gun-2"
@@ -10999,7 +10911,6 @@
   "bonusTroves": [
    "Ancient Scroll",
    "Compass",
-   "Drone",
    "Family Doctor",
    "Lucky Penny",
    "Sextant"
@@ -11039,12 +10950,13 @@
    "healing-kit-1",
    "huddle-2",
    "jubilee-1",
+   "laurel-wreath-2",
    "medal-2",
    "medallion-1",
    "megaphone-2",
    "moral-support-2",
    "packed-house-2",
-   "parade-1",
+   "parade-2",
    "pep-talk-2",
    "secret-handshake-1",
    "signed-jersey-1",
@@ -11062,7 +10974,6 @@
    "Come Anytime",
    "High Five",
    "Hooray",
-   "Laurel Wreath",
    "Microphone",
    "Photograph",
    "Tennis Racket"
@@ -11153,6 +11064,7 @@
    "healing-kit-1",
    "huddle-2",
    "jubilee-1",
+   "laurel-wreath-2",
    "life-jacket-1",
    "medal-2",
    "medallion-1",
@@ -11174,7 +11086,6 @@
    "Come Anytime",
    "High Five",
    "Hooray",
-   "Laurel Wreath",
    "Stadium Wave",
    "Tennis Racket"
   ]
@@ -11213,40 +11124,37 @@
    "Wine Bottle"
   ],
   "recipes": [
-   "aged-whiskey-1",
+   "aged-whiskey-2",
    "back-slap-1",
    "burger-1",
    "casino-chip-2",
    "chalice-1",
+   "champagne-1",
    "cheers-1",
    "circuit-breaker-2",
-   "confetti-toss-4",
    "dance-move-2",
+   "electric-guitar-3",
    "encore-1",
    "grape-2",
    "mic-drop-2",
    "moonshine-2",
+   "punchline-2",
    "radio-1",
    "roast-3",
    "running-gag-1",
    "secret-handshake-2",
-   "standing-ovation-4",
    "talent-show-2"
   ],
   "source": "catalog+game",
   "verified": true,
   "bonusTroves": [
-   "Champagne",
    "Dice",
-   "Electric Guitar",
    "Hooray",
    "Huddle",
    "Microphone",
    "Packed House",
-   "Punchline",
    "Snappy Comeback",
    "Soldering Iron",
-   "Wine Bottle",
    "Wink"
   ]
  },
@@ -11277,6 +11185,7 @@
    "healing-kit-1",
    "huddle-2",
    "jubilee-1",
+   "laurel-wreath-2",
    "life-jacket-1",
    "medal-2",
    "medallion-1",
@@ -11298,7 +11207,6 @@
    "Come Anytime",
    "High Five",
    "Hooray",
-   "Laurel Wreath",
    "Stadium Wave",
    "Tennis Racket"
   ]
@@ -11364,13 +11272,13 @@
   ],
   "recipes": [
    "bucket-1",
+   "clean-water-2",
    "day-off-2",
    "hello-again-1"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Clean Water",
    "Come Anytime",
    "Fresh Start",
    "Ice Cream"
@@ -11397,7 +11305,7 @@
    "day-off-2",
    "fresh-air-1",
    "good-times-1",
-   "sea-shell-1",
+   "life-jacket-2",
    "vacation-1"
   ],
   "source": "catalog",
@@ -11405,7 +11313,7 @@
   "bonusTroves": [
    "Come Anytime",
    "Ice Cream",
-   "Life Jacket",
+   "Sea Shell",
    "Tennis Racket"
   ]
  },
@@ -11432,18 +11340,17 @@
   "recipes": [
    "applause-1",
    "camera-1",
+   "electric-guitar-1",
    "headphones-1",
    "hello-again-1",
    "microphone-1",
    "soldering-iron-2",
-   "swoon-1"
+   "swoon-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Electric Guitar",
    "Golden Record",
-   "Radio",
    "Royal Robe"
   ]
  },
@@ -11474,7 +11381,7 @@
    "bouquet-3",
    "casserole-1",
    "chicken-soup-2",
-   "chili-powder-2",
+   "chili-powder-1",
    "fire-extinguisher-1",
    "high-spirits-1",
    "home-cooking-2",
@@ -11536,6 +11443,7 @@
   "recipes": [
    "clean-water-1",
    "flax-1",
+   "fresh-start-2",
    "jigsaw-2",
    "metal-detector-1",
    "rake-2",
@@ -11545,7 +11453,6 @@
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Fresh Start",
    "Hay Bale"
   ]
  },
@@ -11575,15 +11482,15 @@
    "brooch-2",
    "charm-bracelet-1",
    "earring-1",
+   "good-hands-2",
    "hat-tip-1",
-   "hearing-aid-2",
    "necklace-2",
    "royal-treatment-1",
    "running-gag-2",
    "scissors-2",
    "steady-nerves-1",
    "straight-razor-1",
-   "tiara-2",
+   "tiara-1",
    "tweezers-1"
   ],
   "source": "catalog",
@@ -11592,8 +11499,8 @@
    "Amulet",
    "Come Anytime",
    "Gold Ring",
-   "Good Hands",
    "Healing Kit",
+   "Hearing Aid",
    "Inner Peace",
    "Moral Support",
    "Multitool",
@@ -11623,20 +11530,24 @@
    "Wool"
   ],
   "recipes": [
+   "bed-rest-1",
+   "blood-donation-2",
    "cold-compress-1",
-   "cookie-2",
    "crutches-1",
    "family-doctor-2",
    "fruit-basket-2",
-   "get-well-1",
-   "get-well-3",
+   "full-recovery-2",
+   "get-well-2",
+   "ginseng-root-1",
+   "good-hands-1",
+   "guardian-angel-1",
    "healing-kit-2",
+   "hearing-aid-1",
    "herbal-tea-2",
    "house-call-1",
    "lanolin-2",
    "lollipop-1",
    "microscope-1",
-   "mushroom-1",
    "pill-bottle-1",
    "scalpel-1",
    "steady-nerves-2",
@@ -11648,15 +11559,7 @@
   "verified": false,
   "bonusTroves": [
    "Amethyst",
-   "Bed Rest",
-   "Blood Donation",
-   "Full Recovery",
-   "Ginseng Root",
-   "Good Hands",
-   "Guardian Angel",
-   "Hearing Aid",
-   "Moral Support",
-   "Thermometer"
+   "Moral Support"
   ]
  },
  {
@@ -11683,10 +11586,11 @@
   ],
   "recipes": [
    "binoculars-1",
-   "flashlight-2",
+   "drone-2",
+   "flashlight-3",
    "gavel-1",
    "infrared-goggles-1",
-   "lifeline-1",
+   "lifeline-2",
    "metal-detector-2",
    "police-badge-2",
    "radar-gun-2"
@@ -11696,7 +11600,6 @@
   "bonusTroves": [
    "Ancient Scroll",
    "Compass",
-   "Drone",
    "Family Doctor",
    "Lucky Penny",
    "Sextant"
@@ -11724,21 +11627,21 @@
   ],
   "recipes": [
    "binoculars-2",
-   "flashlight-1",
+   "flashlight-2",
+   "life-jacket-2",
    "multitool-1",
    "pocket-knife-2",
-   "sea-shell-1",
    "skateboard-1",
-   "telescope-1",
+   "telescope-2",
    "wrench-1"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
    "Compass",
-   "Life Jacket",
    "Lucky Penny",
-   "Postcard"
+   "Postcard",
+   "Sea Shell"
   ]
  },
  {
@@ -11761,14 +11664,15 @@
   "recipes": [
    "day-off-2",
    "life-jacket-1",
-   "sea-shell-1",
+   "life-jacket-2",
    "vacation-1"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
    "Come Anytime",
-   "Ice Cream"
+   "Ice Cream",
+   "Sea Shell"
   ]
  },
  {
@@ -11886,25 +11790,23 @@
    "battery-pack-2",
    "calipers-1",
    "compass-2",
+   "electromagnet-2",
    "fossil-1",
    "gyroscope-1",
+   "hourglass-2",
+   "meteorite-1",
+   "sea-shell-1",
+   "space-suit-2",
+   "telescope-1",
+   "tesla-coil-2",
    "treasure-map-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Electromagnet",
-   "Hourglass",
-   "Meteorite",
-   "Moon Rock",
-   "Sea Shell",
    "Sextant",
    "Soldering Iron",
-   "Space Suit",
-   "Telescope",
-   "Tesla Coil",
-   "Uranium Ore",
-   "World Map"
+   "Uranium Ore"
   ]
  },
  {
@@ -11927,8 +11829,10 @@
   ],
   "recipes": [
    "applause-3",
+   "cloud-nine-2",
    "crowd-pleaser-1",
    "encore-2",
+   "harmony-1",
    "megaphone-1",
    "mic-drop-1",
    "packed-house-1",
@@ -11939,9 +11843,7 @@
   "verified": false,
   "bonusTroves": [
    "Blue Ribbon",
-   "Cloud Nine",
    "Golden Record",
-   "Harmony",
    "Violin"
   ]
  },
@@ -11983,6 +11885,7 @@
    "healing-kit-1",
    "huddle-2",
    "jubilee-1",
+   "laurel-wreath-2",
    "life-jacket-1",
    "medal-2",
    "medallion-1",
@@ -12004,7 +11907,6 @@
    "Come Anytime",
    "High Five",
    "Hooray",
-   "Laurel Wreath",
    "Stadium Wave",
    "Tennis Racket"
   ]
@@ -12119,20 +12021,24 @@
    "Wool"
   ],
   "recipes": [
+   "bed-rest-1",
+   "blood-donation-2",
    "cold-compress-1",
-   "cookie-2",
    "crutches-1",
    "family-doctor-2",
    "fruit-basket-2",
-   "get-well-1",
-   "get-well-3",
+   "full-recovery-2",
+   "get-well-2",
+   "ginseng-root-1",
+   "good-hands-1",
+   "guardian-angel-1",
    "healing-kit-2",
+   "hearing-aid-1",
    "herbal-tea-2",
    "house-call-1",
    "lanolin-2",
    "lollipop-1",
    "microscope-1",
-   "mushroom-1",
    "pill-bottle-1",
    "scalpel-1",
    "steady-nerves-2",
@@ -12144,15 +12050,7 @@
   "verified": false,
   "bonusTroves": [
    "Amethyst",
-   "Bed Rest",
-   "Blood Donation",
-   "Full Recovery",
-   "Ginseng Root",
-   "Good Hands",
-   "Guardian Angel",
-   "Hearing Aid",
-   "Moral Support",
-   "Thermometer"
+   "Moral Support"
   ]
  },
  {
@@ -12194,15 +12092,15 @@
    "avocado-2",
    "bell-pepper-2",
    "chickpea-1",
-   "chili-powder-3",
+   "chili-powder-2",
    "cotton-boll-1",
    "cranberry-1",
    "cucumber-1",
    "ginger-2",
-   "ginseng-root-1",
+   "ginseng-root-2",
    "grape-1",
    "hay-bale-1",
-   "jam-jar-2",
+   "jam-jar-1",
    "kiwifruit-2",
    "lentil-1",
    "mango-1",
@@ -12382,6 +12280,7 @@
    "good-times-2",
    "huddle-2",
    "jubilee-1",
+   "laurel-wreath-2",
    "medal-2",
    "medallion-1",
    "moral-support-2",
@@ -12402,7 +12301,6 @@
    "Block Party",
    "High Five",
    "Hooray",
-   "Laurel Wreath",
    "Photograph",
    "Stadium Wave"
   ]
@@ -12445,7 +12343,7 @@
    "cheese-wheel-2",
    "chicken-soup-1",
    "chickpea-1",
-   "chili-powder-3",
+   "chili-powder-2",
    "cod-2",
    "crab-1",
    "cranberry-1",
@@ -12456,7 +12354,7 @@
    "goofy-face-2",
    "grape-1",
    "home-cooking-1",
-   "jam-jar-2",
+   "jam-jar-1",
    "lamb-1",
    "lemon-1",
    "lentil-1",
@@ -12477,6 +12375,7 @@
    "sugar-cane-2",
    "tea-leaf-1",
    "tomato-1",
+   "truffle-2",
    "wine-bottle-1"
   ],
   "source": "catalog",
@@ -12496,10 +12395,8 @@
    "Snappy Comeback",
    "Strawberry",
    "Sturgeon",
-   "Sunday Dinner",
    "Taco",
    "Talent Show",
-   "Truffle",
    "Tuna",
    "Walnut",
    "Welcome Mat"
@@ -12533,34 +12430,34 @@
    "casserole-1",
    "charcoal-2",
    "chicken-soup-2",
-   "chili-powder-2",
+   "chili-powder-1",
    "fire-extinguisher-1",
    "high-spirits-1",
    "home-cooking-2",
    "lamb-2",
-   "love-letter-1",
    "roast-1",
+   "royal-treatment-2",
    "saffron-2",
    "salami-2",
    "second-family-1",
    "smoke-alarm-1",
    "stopwatch-2",
    "sunday-dinner-1",
-   "wax-seal-3"
+   "swoon-1"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
    "Birthday Wish",
    "Healing Kit",
+   "Love Letter",
    "Moral Support",
    "Olive Oil",
    "Packed House",
    "Potluck",
    "Ramen Bowl",
-   "Royal Treatment",
-   "Swoon",
    "Taco",
+   "Wax Seal",
    "Wristwatch"
   ]
  },
@@ -12587,40 +12484,37 @@
    "Wine Bottle"
   ],
   "recipes": [
-   "aged-whiskey-1",
+   "aged-whiskey-2",
    "back-slap-1",
    "burger-1",
    "casino-chip-2",
    "chalice-1",
+   "champagne-1",
    "cheers-1",
    "circuit-breaker-2",
-   "confetti-toss-4",
    "dance-move-2",
+   "electric-guitar-3",
    "encore-1",
    "grape-2",
    "mic-drop-2",
    "moonshine-2",
+   "punchline-2",
    "radio-1",
    "roast-3",
    "running-gag-1",
    "secret-handshake-2",
-   "standing-ovation-4",
    "talent-show-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Champagne",
    "Dice",
-   "Electric Guitar",
    "Hooray",
    "Huddle",
    "Microphone",
    "Packed House",
-   "Punchline",
    "Snappy Comeback",
    "Soldering Iron",
-   "Wine Bottle",
    "Wink"
   ]
  },
@@ -12653,6 +12547,7 @@
    "healing-kit-1",
    "huddle-2",
    "jubilee-1",
+   "laurel-wreath-2",
    "medal-2",
    "medallion-1",
    "moral-support-2",
@@ -12673,7 +12568,6 @@
    "Block Party",
    "High Five",
    "Hooray",
-   "Laurel Wreath",
    "Stadium Wave"
   ]
  },
@@ -12686,10 +12580,7 @@
   "recipes": [],
   "source": "game",
   "verified": false,
-  "status": "pending",
-  "bonusTroves": [
-   "Fresh Start"
-  ]
+  "status": "pending"
  },
  {
   "name": "Speedway Structure - Medium",
@@ -12730,6 +12621,7 @@
    "good-times-2",
    "huddle-2",
    "jubilee-1",
+   "laurel-wreath-2",
    "medal-2",
    "medallion-1",
    "moral-support-2",
@@ -12752,7 +12644,6 @@
    "Block Party",
    "High Five",
    "Hooray",
-   "Laurel Wreath",
    "Photograph",
    "Stadium Wave"
   ]
@@ -12781,10 +12672,11 @@
   ],
   "recipes": [
    "binoculars-1",
-   "flashlight-2",
+   "drone-2",
+   "flashlight-3",
    "gavel-1",
    "infrared-goggles-1",
-   "lifeline-1",
+   "lifeline-2",
    "metal-detector-2",
    "police-badge-2",
    "radar-gun-2"
@@ -12794,7 +12686,6 @@
   "bonusTroves": [
    "Ancient Scroll",
    "Compass",
-   "Drone",
    "Family Doctor",
    "Lucky Penny",
    "Sextant"
@@ -12828,34 +12719,34 @@
    "casserole-1",
    "charcoal-2",
    "chicken-soup-2",
-   "chili-powder-2",
+   "chili-powder-1",
    "fire-extinguisher-1",
    "high-spirits-1",
    "home-cooking-2",
    "lamb-2",
-   "love-letter-1",
    "roast-1",
+   "royal-treatment-2",
    "saffron-2",
    "salami-2",
    "second-family-1",
    "smoke-alarm-1",
    "stopwatch-2",
    "sunday-dinner-1",
-   "wax-seal-3"
+   "swoon-1"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
    "Birthday Wish",
    "Healing Kit",
+   "Love Letter",
    "Moral Support",
    "Olive Oil",
    "Packed House",
    "Potluck",
    "Ramen Bowl",
-   "Royal Treatment",
-   "Swoon",
    "Taco",
+   "Wax Seal",
    "Wristwatch"
   ]
  },
@@ -12900,10 +12791,11 @@
    "bubble-bath-1",
    "charm-bracelet-2",
    "cotton-boll-2",
+   "cradle-1",
    "earring-2",
    "ebony-log-1",
    "electric-blanket-1",
-   "flashlight-1",
+   "flashlight-2",
    "flax-2",
    "harmonica-2",
    "locket-1",
@@ -12917,6 +12809,7 @@
    "sandalwood-2",
    "sheepskin-2",
    "straight-razor-2",
+   "tiara-2",
    "welcome-mat-1",
    "wristwatch-2"
   ],
@@ -12924,7 +12817,6 @@
   "verified": false,
   "bonusTroves": [
    "Compass",
-   "Cradle",
    "Crown Jewel",
    "Gold Ring",
    "Heart",
@@ -12934,8 +12826,61 @@
    "Lucky Penny",
    "Lullaby",
    "Multitool",
-   "Tiara",
    "Tool Chest"
+  ]
+ },
+ {
+  "name": "Sugar & Spell Candy Shop",
+  "group": "G013",
+  "modelId": null,
+  "nature": "service",
+  "troves": [
+   "Baguette Loaf",
+   "Blackberry",
+   "Blackcurrant",
+   "Blueberry",
+   "Coal Lump",
+   "Cookie",
+   "Flour",
+   "Fresh Egg",
+   "Grin",
+   "Handshake",
+   "Hooray",
+   "Hot Cocoa",
+   "Milk Pail",
+   "Raspberry",
+   "Salt",
+   "Twine",
+   "Wheat"
+  ],
+  "recipes": [
+   "almond-1",
+   "baguette-loaf-2",
+   "birthday-wish-1",
+   "bread-mother-2",
+   "cheers-2",
+   "chocolate-bar-2",
+   "cloud-nine-1",
+   "flour-2",
+   "happy-tears-2",
+   "high-spirits-3",
+   "ice-cream-1",
+   "lollipop-2",
+   "maple-syrup-1",
+   "new-friend-2",
+   "open-invitation-1",
+   "scissors-1",
+   "sugar-cane-1"
+  ],
+  "source": "catalog",
+  "verified": false,
+  "bonusTroves": [
+   "Cookie",
+   "Fist Bump",
+   "High Spirits",
+   "Jam Jar",
+   "Pinky Promise",
+   "Secret Handshake"
   ]
  },
  {
@@ -13001,12 +12946,13 @@
    "healing-kit-1",
    "huddle-2",
    "jubilee-1",
+   "laurel-wreath-2",
    "medal-2",
    "medallion-1",
    "megaphone-2",
    "moral-support-2",
    "packed-house-2",
-   "parade-1",
+   "parade-2",
    "pep-talk-2",
    "secret-handshake-1",
    "signed-jersey-1",
@@ -13024,7 +12970,6 @@
    "Come Anytime",
    "High Five",
    "Hooray",
-   "Laurel Wreath",
    "Microphone",
    "Photograph",
    "Tennis Racket"
@@ -13068,7 +13013,7 @@
    "cheese-wheel-2",
    "chicken-soup-1",
    "chickpea-1",
-   "chili-powder-3",
+   "chili-powder-2",
    "cod-2",
    "crab-1",
    "cranberry-1",
@@ -13079,7 +13024,7 @@
    "goofy-face-2",
    "grape-1",
    "home-cooking-1",
-   "jam-jar-2",
+   "jam-jar-1",
    "lamb-1",
    "lemon-1",
    "lentil-1",
@@ -13100,6 +13045,7 @@
    "sugar-cane-2",
    "tea-leaf-1",
    "tomato-1",
+   "truffle-2",
    "wine-bottle-1"
   ],
   "source": "catalog+game",
@@ -13119,10 +13065,8 @@
    "Snappy Comeback",
    "Strawberry",
    "Sturgeon",
-   "Sunday Dinner",
    "Taco",
    "Talent Show",
-   "Truffle",
    "Tuna",
    "Walnut",
    "Welcome Mat"
@@ -13166,7 +13110,7 @@
    "cheese-wheel-2",
    "chicken-soup-1",
    "chickpea-1",
-   "chili-powder-3",
+   "chili-powder-2",
    "cod-2",
    "crab-1",
    "cranberry-1",
@@ -13177,7 +13121,7 @@
    "goofy-face-2",
    "grape-1",
    "home-cooking-1",
-   "jam-jar-2",
+   "jam-jar-1",
    "lamb-1",
    "lemon-1",
    "lentil-1",
@@ -13198,6 +13142,7 @@
    "sugar-cane-2",
    "tea-leaf-1",
    "tomato-1",
+   "truffle-2",
    "wine-bottle-1"
   ],
   "source": "catalog",
@@ -13217,10 +13162,8 @@
    "Snappy Comeback",
    "Strawberry",
    "Sturgeon",
-   "Sunday Dinner",
    "Taco",
    "Talent Show",
-   "Truffle",
    "Tuna",
    "Walnut",
    "Welcome Mat"
@@ -13246,9 +13189,10 @@
    "Strawberry"
   ],
   "recipes": [
+   "birthday-wish-1",
    "cheers-2",
    "chocolate-bar-2",
-   "cookie-1",
+   "cloud-nine-1",
    "happy-tears-2",
    "high-spirits-3",
    "ice-cream-1",
@@ -13258,11 +13202,8 @@
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Birthday Wish",
-   "Cloud Nine",
    "Fist Bump",
    "Pinky Promise",
-   "Pure Joy",
    "Secret Handshake"
   ]
  },
@@ -13286,6 +13227,7 @@
   ],
   "recipes": [
    "applause-3",
+   "cloud-nine-2",
    "crowd-pleaser-1",
    "dance-move-1",
    "game-night-2",
@@ -13300,7 +13242,6 @@
   "bonusTroves": [
    "Action Figure",
    "Birthday Wish",
-   "Cloud Nine",
    "Fist Bump",
    "Opening Night",
    "Pinky Promise",
@@ -13330,22 +13271,22 @@
   "recipes": [
    "belly-laugh-2",
    "bucket-2",
-   "chili-powder-1",
    "good-times-1",
    "goofy-face-2",
    "picnic-2",
    "pocket-knife-1",
+   "taco-1",
    "umbrella-1"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
    "Baguette Loaf",
+   "Chili Powder",
    "Come Anytime",
    "Multitool",
    "Potluck",
    "Snappy Comeback",
-   "Taco",
    "Talent Show",
    "Welcome Mat"
   ]
@@ -13378,15 +13319,15 @@
    "avocado-2",
    "bell-pepper-2",
    "chickpea-1",
-   "chili-powder-3",
+   "chili-powder-2",
    "cotton-boll-1",
    "cranberry-1",
    "cucumber-1",
    "ginger-2",
-   "ginseng-root-1",
+   "ginseng-root-2",
    "grape-1",
    "hay-bale-1",
-   "jam-jar-2",
+   "jam-jar-1",
    "kiwifruit-2",
    "lentil-1",
    "mango-1",
@@ -13436,7 +13377,7 @@
    "casserole-1",
    "charcoal-2",
    "chicken-soup-2",
-   "chili-powder-2",
+   "chili-powder-1",
    "fire-extinguisher-1",
    "high-spirits-1",
    "home-cooking-2",
@@ -13490,24 +13431,24 @@
    "bouquet-3",
    "casserole-1",
    "chicken-soup-2",
-   "chili-powder-2",
+   "chili-powder-1",
    "cod-1",
    "crab-2",
    "fire-extinguisher-1",
    "high-spirits-1",
    "home-cooking-2",
    "lamb-2",
-   "love-letter-1",
    "olive-1",
    "olive-oil-2",
    "oyster-1",
+   "royal-treatment-2",
    "saffron-2",
    "salami-2",
    "second-family-1",
    "smoke-alarm-1",
    "stopwatch-2",
    "sunday-dinner-1",
-   "wax-seal-3"
+   "swoon-1"
   ],
   "source": "catalog",
   "verified": false,
@@ -13515,14 +13456,14 @@
    "Birthday Wish",
    "Healing Kit",
    "Lobster",
+   "Love Letter",
    "Moral Support",
    "Packed House",
    "Potluck",
    "Ramen Bowl",
-   "Royal Treatment",
    "Sushi Roll",
-   "Swoon",
    "Taco",
+   "Wax Seal",
    "Wine Bottle",
    "Wristwatch"
   ]
@@ -13551,21 +13492,21 @@
    "brooch-2",
    "charm-bracelet-1",
    "earring-1",
+   "good-hands-2",
    "hat-tip-1",
-   "hearing-aid-2",
    "necklace-2",
    "royal-treatment-1",
    "scalpel-2",
    "steady-nerves-1",
-   "tiara-2",
+   "tiara-1",
    "tweezers-1"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
    "Gold Ring",
-   "Good Hands",
    "Healing Kit",
+   "Hearing Aid",
    "Inner Peace",
    "Moral Support",
    "Pinky Promise",
@@ -13666,7 +13607,7 @@
    "almond-2",
    "cheese-wheel-2",
    "fruit-basket-1",
-   "jam-jar-2",
+   "jam-jar-1",
    "olive-1",
    "olive-oil-1",
    "salami-1",
@@ -13699,6 +13640,7 @@
   "recipes": [
    "action-figure-2",
    "casino-chip-1",
+   "cloud-nine-2",
    "game-console-2",
    "game-night-2",
    "gold-coin-1",
@@ -13714,7 +13656,6 @@
   "bonusTroves": [
    "Belly Laugh",
    "Birthday Wish",
-   "Cloud Nine",
    "Fist Bump",
    "Pinky Promise",
    "Rare Coin",
@@ -13746,12 +13687,16 @@
   ],
   "recipes": [
    "blowtorch-1",
+   "clean-water-2",
    "fire-extinguisher-2",
    "fire-helmet-1",
+   "flashlight-1",
    "food-drive-2",
    "jumper-cables-2",
    "ladder-1",
    "life-jacket-1",
+   "lifeline-1",
+   "plasma-cutter-2",
    "power-drill-2",
    "screwdriver-2",
    "shovel-1",
@@ -13762,14 +13707,10 @@
   "source": "catalog+game",
   "verified": true,
   "bonusTroves": [
-   "Clean Water",
-   "Flashlight",
    "Hay Bale",
    "Healing Kit",
    "Infrared Goggles",
-   "Lifeline",
    "Multitool",
-   "Plasma Cutter",
    "Soldering Iron",
    "Tool Chest"
   ]
@@ -13800,14 +13741,16 @@
   ],
   "recipes": [
    "almond-1",
+   "baguette-loaf-2",
+   "birthday-wish-1",
+   "bread-mother-2",
    "cheers-2",
    "chocolate-bar-2",
-   "cookie-1",
+   "cloud-nine-1",
    "flour-2",
    "happy-tears-2",
    "high-spirits-3",
    "ice-cream-1",
-   "jam-jar-1",
    "lollipop-2",
    "maple-syrup-1",
    "new-friend-2",
@@ -13818,13 +13761,8 @@
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Baguette Loaf",
-   "Birthday Wish",
-   "Bread Mother",
-   "Cloud Nine",
    "Fist Bump",
    "Pinky Promise",
-   "Pure Joy",
    "Secret Handshake"
   ]
  },
@@ -13857,7 +13795,7 @@
    "burger-2",
    "casserole-1",
    "chicken-soup-2",
-   "chili-powder-2",
+   "chili-powder-1",
    "fire-extinguisher-1",
    "high-spirits-1",
    "home-cooking-2",
@@ -13948,22 +13886,20 @@
    "cold-compress-1",
    "crutches-1",
    "fruit-basket-2",
-   "get-well-3",
+   "get-well-2",
+   "ginseng-root-1",
    "healing-kit-2",
+   "hearing-aid-1",
    "herbal-tea-2",
    "lanolin-2",
    "lollipop-1",
-   "mushroom-1",
    "pill-bottle-1",
    "steady-nerves-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Ginseng Root",
-   "Hearing Aid",
-   "Moral Support",
-   "Thermometer"
+   "Moral Support"
   ]
  },
  {
@@ -14176,10 +14112,11 @@
    "bubble-bath-1",
    "charm-bracelet-2",
    "cotton-boll-2",
+   "cradle-1",
    "earring-2",
    "ebony-log-1",
    "electric-blanket-1",
-   "flashlight-1",
+   "flashlight-2",
    "flax-2",
    "harmonica-2",
    "locket-1",
@@ -14193,6 +14130,7 @@
    "sandalwood-2",
    "sheepskin-2",
    "straight-razor-2",
+   "tiara-2",
    "welcome-mat-1",
    "wristwatch-2"
   ],
@@ -14200,7 +14138,6 @@
   "verified": false,
   "bonusTroves": [
    "Compass",
-   "Cradle",
    "Crown Jewel",
    "Gold Ring",
    "Heart",
@@ -14210,7 +14147,6 @@
    "Lucky Penny",
    "Lullaby",
    "Multitool",
-   "Tiara",
    "Tool Chest"
   ]
  },
@@ -14244,10 +14180,11 @@
    "bubble-bath-1",
    "charm-bracelet-2",
    "cotton-boll-2",
+   "cradle-1",
    "earring-2",
    "ebony-log-1",
    "electric-blanket-1",
-   "flashlight-1",
+   "flashlight-2",
    "flax-2",
    "harmonica-2",
    "locket-1",
@@ -14261,6 +14198,7 @@
    "sandalwood-2",
    "sheepskin-2",
    "straight-razor-2",
+   "tiara-2",
    "welcome-mat-1",
    "wristwatch-2"
   ],
@@ -14268,7 +14206,6 @@
   "verified": false,
   "bonusTroves": [
    "Compass",
-   "Cradle",
    "Crown Jewel",
    "Gold Ring",
    "Heart",
@@ -14278,7 +14215,6 @@
    "Lucky Penny",
    "Lullaby",
    "Multitool",
-   "Tiara",
    "Tool Chest"
   ]
  },
@@ -14304,9 +14240,12 @@
    "Silver Coin"
   ],
   "recipes": [
-   "blue-diamond-1",
+   "blue-diamond-2",
    "crown-jewel-1",
    "deadbolt-1",
+   "doubloon-2",
+   "fresh-start-1",
+   "gold-bar-2",
    "gold-coin-2",
    "gold-nugget-1",
    "gold-ring-2",
@@ -14318,9 +14257,6 @@
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Doubloon",
-   "Fresh Start",
-   "Gold Bar",
    "Lucky Penny"
   ]
  },
@@ -14347,9 +14283,10 @@
    "Welcome Mat"
   ],
   "recipes": [
+   "aged-whiskey-1",
    "bathrobe-1",
-   "bed-rest-1",
-   "champagne-1",
+   "bed-rest-2",
+   "champagne-2",
    "city-key-1",
    "come-anytime-2",
    "deadbolt-2",
@@ -14357,6 +14294,8 @@
    "fresh-air-2",
    "full-recovery-1",
    "grand-reunion-1",
+   "homecoming-2",
+   "oasis-2",
    "open-door-2",
    "plush-pillow-1",
    "sewing-kit-1",
@@ -14365,17 +14304,15 @@
    "snow-globe-2",
    "special-guest-2",
    "treasure-map-1",
+   "true-love-2",
    "vacation-1"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Aged Whiskey",
    "Compass",
    "Happy Tears",
-   "Homecoming",
    "Lucky Penny",
-   "Oasis",
    "Rare Coin",
    "Safe Haven",
    "Sea Shell",
@@ -14384,7 +14321,6 @@
    "Support Group",
    "Teddy Bear",
    "Treasure Chest",
-   "True Love",
    "Welcome Mat"
   ]
  },
@@ -14411,40 +14347,37 @@
    "Wine Bottle"
   ],
   "recipes": [
-   "aged-whiskey-1",
+   "aged-whiskey-2",
    "back-slap-1",
    "burger-1",
    "casino-chip-2",
    "chalice-1",
+   "champagne-1",
    "cheers-1",
    "circuit-breaker-2",
-   "confetti-toss-4",
    "dance-move-2",
+   "electric-guitar-3",
    "encore-1",
    "grape-2",
    "mic-drop-2",
    "moonshine-2",
+   "punchline-2",
    "radio-1",
    "roast-3",
    "running-gag-1",
    "secret-handshake-2",
-   "standing-ovation-4",
    "talent-show-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Champagne",
    "Dice",
-   "Electric Guitar",
    "Hooray",
    "Huddle",
    "Microphone",
    "Packed House",
-   "Punchline",
    "Snappy Comeback",
    "Soldering Iron",
-   "Wine Bottle",
    "Wink"
   ]
  },
@@ -14474,14 +14407,16 @@
   ],
   "recipes": [
    "almond-1",
+   "baguette-loaf-2",
+   "birthday-wish-1",
+   "bread-mother-2",
    "cheers-2",
    "chocolate-bar-2",
-   "cookie-1",
+   "cloud-nine-1",
    "flour-2",
    "happy-tears-2",
    "high-spirits-3",
    "ice-cream-1",
-   "jam-jar-1",
    "lollipop-2",
    "maple-syrup-1",
    "new-friend-2",
@@ -14492,14 +14427,41 @@
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Baguette Loaf",
-   "Birthday Wish",
-   "Bread Mother",
-   "Cloud Nine",
    "Fist Bump",
    "Pinky Promise",
-   "Pure Joy",
    "Secret Handshake"
+  ]
+ },
+ {
+  "name": "The Hollow Grave Funeral Home",
+  "group": "G078",
+  "modelId": null,
+  "nature": "service",
+  "troves": [
+   "Friendly Wave",
+   "Gather Round",
+   "Handkerchief",
+   "Kind Word",
+   "Love Letter",
+   "Open Door",
+   "Photograph",
+   "Postcard",
+   "Praying Hands",
+   "Warm Hug",
+   "Welcome Mat"
+  ],
+  "recipes": [
+   "condolence-1",
+   "embrace-2",
+   "family-crest-2",
+   "open-arms-2",
+   "solemn-vow-2",
+   "support-group-2"
+  ],
+  "source": "catalog",
+  "verified": false,
+  "bonusTroves": [
+   "Moral Support"
   ]
  },
  {
@@ -14578,9 +14540,10 @@
    "Welcome Mat"
   ],
   "recipes": [
+   "aged-whiskey-1",
    "bathrobe-1",
-   "bed-rest-1",
-   "champagne-1",
+   "bed-rest-2",
+   "champagne-2",
    "city-key-1",
    "come-anytime-2",
    "deadbolt-2",
@@ -14588,6 +14551,8 @@
    "fresh-air-2",
    "full-recovery-1",
    "grand-reunion-1",
+   "homecoming-2",
+   "oasis-2",
    "open-door-2",
    "plush-pillow-1",
    "sewing-kit-1",
@@ -14596,17 +14561,15 @@
    "snow-globe-2",
    "special-guest-2",
    "treasure-map-1",
+   "true-love-2",
    "vacation-1"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Aged Whiskey",
    "Compass",
    "Happy Tears",
-   "Homecoming",
    "Lucky Penny",
-   "Oasis",
    "Rare Coin",
    "Safe Haven",
    "Sea Shell",
@@ -14615,7 +14578,6 @@
    "Support Group",
    "Teddy Bear",
    "Treasure Chest",
-   "True Love",
    "Welcome Mat"
   ]
  },
@@ -14643,6 +14605,7 @@
   ],
   "recipes": [
    "ancient-scroll-2",
+   "bedtime-story-1",
    "comic-book-2",
    "inner-peace-1",
    "memory-lane-1",
@@ -14650,18 +14613,17 @@
    "scrapbook-2",
    "spell-book-1",
    "stamp-collection-2",
-   "teddy-bear-1",
    "treasure-map-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
    "Action Figure",
-   "Bedtime Story",
    "Family Crest",
    "Game Console",
    "Lullaby",
-   "World Map",
+   "Teddy Bear",
+   "Treasure Map",
    "Zen Stone"
   ]
  },
@@ -14694,7 +14656,7 @@
    "burger-2",
    "casserole-1",
    "chicken-soup-2",
-   "chili-powder-2",
+   "chili-powder-1",
    "fire-extinguisher-1",
    "high-spirits-1",
    "home-cooking-2",
@@ -14743,6 +14705,7 @@
   "recipes": [
    "baguette-loaf-1",
    "belly-laugh-1",
+   "best-friend-2",
    "cacao-pod-2",
    "check-in-2",
    "cheers-3",
@@ -14751,24 +14714,23 @@
    "day-off-2",
    "favorite-person-1",
    "game-night-1",
-   "get-well-2",
+   "get-well-1",
    "ginger-1",
    "headphones-2",
    "hello-again-2",
    "herbal-tea-1",
    "inside-joke-2",
-   "jam-jar-3",
-   "locket-2",
+   "jam-jar-2",
    "old-pal-1",
-   "open-invitation-2",
+   "open-arms-1",
    "snuggle-1",
+   "soulmate-1",
    "tea-leaf-2",
    "wind-down-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Best Friend",
    "Birthday Wish",
    "Block Party",
    "Chicken Soup",
@@ -14780,11 +14742,9 @@
    "Lullaby",
    "Maple Syrup",
    "Moral Support",
-   "Open Arms",
    "Pinky Promise",
    "Secret Handshake",
    "Snappy Comeback",
-   "Soulmate",
    "Vacation"
   ]
  },
@@ -14856,7 +14816,9 @@
    "Silver Coin"
   ],
   "recipes": [
+   "bouquet-4",
    "city-key-2",
+   "fresh-start-1",
    "gavel-2",
    "pinky-promise-1",
    "police-badge-1",
@@ -14868,8 +14830,6 @@
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Bouquet",
-   "Fresh Start",
    "Wedding"
   ]
  },
@@ -14944,10 +14904,10 @@
    "family-doctor-1",
    "grail-1",
    "grand-reunion-2",
-   "hearing-aid-1",
+   "hearing-aid-2",
    "house-call-2",
    "knitting-circle-2",
-   "locket-3",
+   "locket-2",
    "lullaby-2",
    "memory-lane-2",
    "old-pal-2",
@@ -14955,6 +14915,7 @@
    "quilt-2",
    "scrapbook-1",
    "silver-spoon-1",
+   "soulmate-2",
    "stethoscope-1",
    "true-love-1",
    "wind-down-1"
@@ -14963,7 +14924,6 @@
   "verified": true,
   "bonusTroves": [
    "Emerald",
-   "Soulmate",
    "Spell Book"
   ]
  },
@@ -14992,21 +14952,27 @@
   "recipes": [
    "applause-3",
    "bouquet-1",
-   "confetti-toss-1",
-   "confetti-toss-3",
+   "cloud-nine-2",
+   "confetti-toss-2",
+   "confetti-toss-4",
    "crowd-pleaser-1",
+   "crown-2",
    "encore-2",
+   "harmony-1",
+   "invisible-cloak-1",
    "megaphone-1",
    "mic-drop-1",
    "packed-house-1",
+   "parade-1",
    "punchline-1",
    "royal-orb-1",
+   "royal-robe-2",
+   "scepter-1",
    "snappy-comeback-2",
    "snow-globe-1",
    "special-guest-1",
    "stadium-wave-2",
-   "standing-ovation-1",
-   "tiara-1"
+   "standing-ovation-1"
   ],
   "source": "catalog",
   "verified": false,
@@ -15014,16 +14980,7 @@
    "Action Figure",
    "Birthday Wish",
    "Blue Ribbon",
-   "Cloud Nine",
-   "Crown",
-   "Fireworks",
    "Golden Record",
-   "Harmony",
-   "Invisible Cloak",
-   "Opening Night",
-   "Parade",
-   "Royal Robe",
-   "Scepter",
    "Violin"
   ]
  },
@@ -15055,7 +15012,8 @@
    "necklace-1",
    "pendant-1",
    "rawhide-1",
-   "sheepskin-2"
+   "sheepskin-2",
+   "tiara-2"
   ],
   "source": "catalog",
   "verified": false,
@@ -15063,20 +15021,68 @@
    "Horn",
    "Knitting Circle",
    "Lanolin",
-   "Tiara",
    "Tool Chest"
   ]
  },
  {
   "name": "The Tipsy Pilgrim Tavern",
-  "group": null,
+  "group": "G028",
   "modelId": 20870,
   "nature": "service",
-  "troves": [],
-  "recipes": [],
-  "source": "game",
+  "troves": [
+   "Barley",
+   "Cheers",
+   "Crossed Fingers",
+   "Dollar Bill",
+   "Glass Bead",
+   "Glee",
+   "Handkerchief",
+   "Hooray",
+   "Oak Log",
+   "Pennant",
+   "Raffle Ticket",
+   "Silver Coin",
+   "Warm Hug",
+   "Wheat",
+   "Wine Bottle"
+  ],
+  "recipes": [
+   "aged-whiskey-2",
+   "back-slap-1",
+   "burger-1",
+   "casino-chip-2",
+   "chalice-1",
+   "champagne-1",
+   "cheers-1",
+   "circuit-breaker-2",
+   "dance-move-2",
+   "electric-guitar-3",
+   "encore-1",
+   "grape-2",
+   "mic-drop-2",
+   "moonshine-2",
+   "punchline-2",
+   "radio-1",
+   "roast-3",
+   "running-gag-1",
+   "secret-handshake-2",
+   "talent-show-2"
+  ],
+  "source": "catalog",
   "verified": false,
-  "status": "pending"
+  "bonusTroves": [
+   "Cheers",
+   "Confetti Toss",
+   "Dice",
+   "Hooray",
+   "Huddle",
+   "Microphone",
+   "Packed House",
+   "Snappy Comeback",
+   "Soldering Iron",
+   "Standing Ovation",
+   "Wink"
+  ]
  },
  {
   "name": "The Tipsy Teapot Cafe",
@@ -15103,6 +15109,7 @@
   "recipes": [
    "baguette-loaf-1",
    "belly-laugh-1",
+   "best-friend-2",
    "cacao-pod-2",
    "check-in-2",
    "cheers-3",
@@ -15111,24 +15118,23 @@
    "day-off-2",
    "favorite-person-1",
    "game-night-1",
-   "get-well-2",
+   "get-well-1",
    "ginger-1",
    "headphones-2",
    "hello-again-2",
    "herbal-tea-1",
    "inside-joke-2",
-   "jam-jar-3",
-   "locket-2",
+   "jam-jar-2",
    "old-pal-1",
-   "open-invitation-2",
+   "open-arms-1",
    "snuggle-1",
+   "soulmate-1",
    "tea-leaf-2",
    "wind-down-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Best Friend",
    "Birthday Wish",
    "Block Party",
    "Chicken Soup",
@@ -15140,11 +15146,9 @@
    "Lullaby",
    "Maple Syrup",
    "Moral Support",
-   "Open Arms",
    "Pinky Promise",
    "Secret Handshake",
    "Snappy Comeback",
-   "Soulmate",
    "Vacation"
   ]
  },
@@ -15171,40 +15175,37 @@
    "Wine Bottle"
   ],
   "recipes": [
-   "aged-whiskey-1",
+   "aged-whiskey-2",
    "back-slap-1",
    "burger-1",
    "casino-chip-2",
    "chalice-1",
+   "champagne-1",
    "cheers-1",
    "circuit-breaker-2",
-   "confetti-toss-4",
    "dance-move-2",
+   "electric-guitar-3",
    "encore-1",
    "grape-2",
    "mic-drop-2",
    "moonshine-2",
+   "punchline-2",
    "radio-1",
    "roast-3",
    "running-gag-1",
    "secret-handshake-2",
-   "standing-ovation-4",
    "talent-show-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Champagne",
    "Dice",
-   "Electric Guitar",
    "Hooray",
    "Huddle",
    "Microphone",
    "Packed House",
-   "Punchline",
    "Snappy Comeback",
    "Soldering Iron",
-   "Wine Bottle",
    "Wink"
   ]
  },
@@ -15312,6 +15313,7 @@
    "Warm Hug"
   ],
   "recipes": [
+   "cloud-nine-2",
    "good-times-1",
    "group-selfie-2",
    "snow-globe-1",
@@ -15322,9 +15324,7 @@
   "verified": false,
   "bonusTroves": [
    "Action Figure",
-   "Birthday Wish",
-   "Cloud Nine",
-   "World Map"
+   "Birthday Wish"
   ]
  },
  {
@@ -15348,6 +15348,7 @@
   ],
   "recipes": [
    "applause-3",
+   "cloud-nine-2",
    "crowd-pleaser-1",
    "good-times-1",
    "packed-house-1",
@@ -15361,8 +15362,7 @@
   "bonusTroves": [
    "Action Figure",
    "Birthday Wish",
-   "Blue Ribbon",
-   "Cloud Nine"
+   "Blue Ribbon"
   ]
  },
  {
@@ -15399,12 +15399,13 @@
    "healing-kit-1",
    "huddle-2",
    "jubilee-1",
+   "laurel-wreath-2",
    "medal-2",
    "medallion-1",
    "megaphone-2",
    "moral-support-2",
    "packed-house-2",
-   "parade-1",
+   "parade-2",
    "pep-talk-2",
    "secret-handshake-1",
    "signed-jersey-1",
@@ -15422,7 +15423,6 @@
    "Come Anytime",
    "High Five",
    "Hooray",
-   "Laurel Wreath",
    "Microphone",
    "Photograph",
    "Tennis Racket"
@@ -15457,6 +15457,7 @@
    "healing-kit-1",
    "huddle-2",
    "jubilee-1",
+   "laurel-wreath-2",
    "medal-2",
    "medallion-1",
    "moral-support-2",
@@ -15480,7 +15481,6 @@
    "Come Anytime",
    "High Five",
    "Hooray",
-   "Laurel Wreath",
    "Stadium Wave",
    "Tennis Racket"
   ]
@@ -15510,21 +15510,27 @@
   "recipes": [
    "applause-3",
    "bouquet-1",
-   "confetti-toss-1",
-   "confetti-toss-3",
+   "cloud-nine-2",
+   "confetti-toss-2",
+   "confetti-toss-4",
    "crowd-pleaser-1",
+   "crown-2",
    "encore-2",
+   "harmony-1",
+   "invisible-cloak-1",
    "megaphone-1",
    "mic-drop-1",
    "packed-house-1",
+   "parade-1",
    "punchline-1",
    "royal-orb-1",
+   "royal-robe-2",
+   "scepter-1",
    "snappy-comeback-2",
    "snow-globe-1",
    "special-guest-1",
    "stadium-wave-2",
-   "standing-ovation-1",
-   "tiara-1"
+   "standing-ovation-1"
   ],
   "source": "catalog",
   "verified": false,
@@ -15532,16 +15538,7 @@
    "Action Figure",
    "Birthday Wish",
    "Blue Ribbon",
-   "Cloud Nine",
-   "Crown",
-   "Fireworks",
    "Golden Record",
-   "Harmony",
-   "Invisible Cloak",
-   "Opening Night",
-   "Parade",
-   "Royal Robe",
-   "Scepter",
    "Violin"
   ]
  },
@@ -15625,6 +15622,7 @@
    "jumper-cables-1",
    "pliers-2",
    "sawn-plank-1",
+   "steel-wire-1",
    "tire-gauge-1",
    "tool-belt-2",
    "tool-chest-1",
@@ -15636,7 +15634,6 @@
    "Gyroscope",
    "Ingot",
    "Multitool",
-   "Steel Wire",
    "Wristwatch"
   ]
  },
@@ -15768,12 +15765,13 @@
    "healing-kit-1",
    "huddle-2",
    "jubilee-1",
+   "laurel-wreath-2",
    "medal-2",
    "medallion-1",
    "megaphone-2",
    "moral-support-2",
    "packed-house-2",
-   "parade-1",
+   "parade-2",
    "pep-talk-2",
    "secret-handshake-1",
    "signed-jersey-1",
@@ -15791,7 +15789,6 @@
    "Come Anytime",
    "High Five",
    "Hooray",
-   "Laurel Wreath",
    "Microphone",
    "Photograph",
    "Tennis Racket"
@@ -15826,6 +15823,7 @@
    "healing-kit-1",
    "huddle-2",
    "jubilee-1",
+   "laurel-wreath-2",
    "medal-2",
    "medallion-1",
    "moral-support-2",
@@ -15849,7 +15847,6 @@
    "Come Anytime",
    "High Five",
    "Hooray",
-   "Laurel Wreath",
    "Stadium Wave",
    "Tennis Racket"
   ]
@@ -15878,7 +15875,7 @@
   "recipes": [
    "bathrobe-2",
    "bubble-bath-2",
-   "hearing-aid-2",
+   "good-hands-2",
    "inner-peace-2",
    "lotus-1",
    "mud-mask-2",
@@ -15896,7 +15893,7 @@
    "Bedtime Story",
    "Come Anytime",
    "Cotton Boll",
-   "Good Hands",
+   "Hearing Aid",
    "Knitting Circle",
    "Lanolin",
    "Lullaby",
@@ -15932,9 +15929,10 @@
    "battery-pack-2",
    "carpenter-square-1",
    "chickpea-2",
-   "coat-drive-1",
+   "coat-drive-2",
    "cranberry-2",
    "cucumber-2",
+   "dynamite-1",
    "family-crest-1",
    "football-1",
    "frisbee-1",
@@ -15954,6 +15952,7 @@
    "pinky-promise-2",
    "potluck-1",
    "pumpkin-2",
+   "pure-joy-1",
    "rocket-fuel-1",
    "space-suit-1",
    "squad-1",
@@ -15970,7 +15969,6 @@
   "bonusTroves": [
    "Birthday Wish",
    "Boxing Gloves",
-   "Dynamite",
    "Electromagnet",
    "Fruit Basket",
    "Ginger",
@@ -15981,7 +15979,6 @@
    "Ingot",
    "Multitool",
    "Photograph",
-   "Pure Joy",
    "Radar Gun",
    "Ramen Bowl",
    "Skateboard",
@@ -16065,12 +16062,13 @@
    "healing-kit-1",
    "huddle-2",
    "jubilee-1",
+   "laurel-wreath-2",
    "medal-2",
    "medallion-1",
    "megaphone-2",
    "moral-support-2",
    "packed-house-2",
-   "parade-1",
+   "parade-2",
    "pep-talk-2",
    "secret-handshake-1",
    "signed-jersey-1",
@@ -16088,7 +16086,6 @@
    "Come Anytime",
    "High Five",
    "Hooray",
-   "Laurel Wreath",
    "Microphone",
    "Photograph",
    "Tennis Racket"
@@ -16131,14 +16128,14 @@
    "action-figure-1",
    "ancient-scroll-1",
    "asparagus-2",
+   "babysitting-2",
    "basketball-1",
    "battery-pack-2",
-   "bedtime-story-1",
-   "belly-laugh-3",
-   "birthday-wish-1",
+   "bedtime-story-2",
+   "birthday-wish-2",
    "carpenter-square-1",
    "chickpea-2",
-   "coat-drive-1",
+   "coat-drive-2",
    "cranberry-2",
    "cucumber-2",
    "family-crest-1",
@@ -16160,6 +16157,7 @@
    "pinky-promise-2",
    "potluck-1",
    "pumpkin-2",
+   "pure-joy-1",
    "sleepover-2",
    "snuggle-2",
    "squad-1",
@@ -16172,7 +16170,6 @@
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Babysitting",
    "Boxing Gloves",
    "Compass",
    "Fruit Basket",
@@ -16183,7 +16180,6 @@
    "Ingot",
    "Multitool",
    "Photograph",
-   "Pure Joy",
    "Ramen Bowl",
    "Shy Giggle",
    "Skateboard",
@@ -16239,20 +16235,24 @@
    "Wool"
   ],
   "recipes": [
+   "bed-rest-1",
+   "blood-donation-2",
    "cold-compress-1",
-   "cookie-2",
    "crutches-1",
    "family-doctor-2",
    "fruit-basket-2",
-   "get-well-1",
-   "get-well-3",
+   "full-recovery-2",
+   "get-well-2",
+   "ginseng-root-1",
+   "good-hands-1",
+   "guardian-angel-1",
    "healing-kit-2",
+   "hearing-aid-1",
    "herbal-tea-2",
    "house-call-1",
    "lanolin-2",
    "lollipop-1",
    "microscope-1",
-   "mushroom-1",
    "pill-bottle-1",
    "scalpel-1",
    "steady-nerves-2",
@@ -16264,15 +16264,7 @@
   "verified": false,
   "bonusTroves": [
    "Amethyst",
-   "Bed Rest",
-   "Blood Donation",
-   "Full Recovery",
-   "Ginseng Root",
-   "Good Hands",
-   "Guardian Angel",
-   "Hearing Aid",
-   "Moral Support",
-   "Thermometer"
+   "Moral Support"
   ]
  },
  {
@@ -16306,7 +16298,9 @@
   ],
   "recipes": [
    "cold-compress-1",
-   "get-well-3",
+   "full-recovery-2",
+   "get-well-2",
+   "good-hands-1",
    "healing-kit-2",
    "microscope-1",
    "pill-bottle-1",
@@ -16318,10 +16312,7 @@
   "verified": false,
   "bonusTroves": [
    "Amethyst",
-   "Full Recovery",
-   "Good Hands",
-   "Moral Support",
-   "Thermometer"
+   "Moral Support"
   ]
  },
  {
@@ -16401,6 +16392,7 @@
    "compass-1",
    "hello-again-1",
    "open-door-1",
+   "open-invitation-2",
    "welcome-home-1",
    "welcome-mat-2",
    "world-map-1"
@@ -16410,7 +16402,6 @@
   "bonusTroves": [
    "Casserole",
    "Lucky Penny",
-   "Open Invitation",
    "Special Guest"
   ]
  },
@@ -16437,6 +16428,7 @@
    "calipers-2",
    "gyroscope-2",
    "pliers-2",
+   "steel-wire-1",
    "tire-gauge-1",
    "tool-belt-2",
    "tool-chest-1",
@@ -16447,7 +16439,6 @@
   "bonusTroves": [
    "Ingot",
    "Multitool",
-   "Steel Wire",
    "Wristwatch"
   ]
  },
@@ -16471,6 +16462,7 @@
    "Thumbs Up"
   ],
   "recipes": [
+   "cradle-1",
    "electric-blanket-1",
    "sawn-plank-2",
    "welcome-mat-1"
@@ -16479,7 +16471,6 @@
   "verified": false,
   "bonusTroves": [
    "Charcoal",
-   "Cradle",
    "Knitting Circle",
    "Lanolin",
    "Lullaby",
