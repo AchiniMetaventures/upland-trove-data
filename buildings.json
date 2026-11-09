@@ -2,7 +2,7 @@
  {
   "name": "African Crafts Market",
   "group": "G001",
-  "modelId": null,
+  "modelId": 17286,
   "nature": "service",
   "troves": [
    "Brooch",
@@ -44,6 +44,17 @@
    "Lanolin",
    "Tool Chest"
   ]
+ },
+ {
+  "name": "Amsterdam Townhouse",
+  "group": null,
+  "modelId": 19184,
+  "nature": "housing",
+  "troves": [],
+  "recipes": [],
+  "source": "game",
+  "verified": false,
+  "status": "no-troves"
  },
  {
   "name": "Animal Shelter",
@@ -361,7 +372,7 @@
  {
   "name": "Asian Modular Apartments: Hawker Centre Edition",
   "group": "G008",
-  "modelId": null,
+  "modelId": 17758,
   "nature": "service",
   "troves": [
    "Chili Powder",
@@ -405,7 +416,7 @@
  {
   "name": "Asian Modular Apartments: Rattan Shop Edition",
   "group": "G009",
-  "modelId": null,
+  "modelId": 19268,
   "nature": "service",
   "troves": [
    "Birch Bark",
@@ -439,7 +450,7 @@
  {
   "name": "Assisted Living Center",
   "group": "G010",
-  "modelId": null,
+  "modelId": 16377,
   "nature": "service",
   "troves": [
    "Baseball Card",
@@ -579,7 +590,7 @@
  {
   "name": "Auto Repair",
   "group": "G011",
-  "modelId": null,
+  "modelId": 16424,
   "nature": "service",
   "troves": [
    "Coal Lump",
@@ -821,7 +832,7 @@
  {
   "name": "Barn & Nobles",
   "group": "G016",
-  "modelId": null,
+  "modelId": 16927,
   "nature": "service",
   "troves": [
    "Birch Bark",
@@ -1306,7 +1317,7 @@
  {
   "name": "Blockade Arcade",
   "group": "G005",
-  "modelId": null,
+  "modelId": 19205,
   "nature": "service",
   "troves": [
    "Brass Token",
@@ -1752,7 +1763,7 @@
  {
   "name": "Camp World",
   "group": "G032",
-  "modelId": null,
+  "modelId": 17059,
   "nature": "service",
   "troves": [
    "Birch Bark",
@@ -1833,7 +1844,7 @@
  {
   "name": "Cape Town Modular: Padstal Edition",
   "group": "G034",
-  "modelId": null,
+  "modelId": 18182,
   "nature": "service",
   "troves": [
    "Apple",
@@ -2748,7 +2759,7 @@
  {
   "name": "Cornerstone Barbershop",
   "group": "G015",
-  "modelId": null,
+  "modelId": 17015,
   "nature": "service",
   "troves": [
    "Charm Bracelet",
@@ -2838,9 +2849,20 @@
   ]
  },
  {
+  "name": "Craftsman Family House",
+  "group": null,
+  "modelId": 20258,
+  "nature": "housing",
+  "troves": [],
+  "recipes": [],
+  "source": "game",
+  "verified": false,
+  "status": "no-troves"
+ },
+ {
   "name": "Creepy Old Hollow Schoolhouse",
   "group": "G049",
-  "modelId": null,
+  "modelId": 20865,
   "nature": "service",
   "troves": [
    "Ancient Scroll",
@@ -4028,7 +4050,7 @@
  {
   "name": "El Plate-o Grande",
   "group": "G067",
-  "modelId": null,
+  "modelId": 17827,
   "nature": "service",
   "troves": [
    "Corn Cob",
@@ -4264,8 +4286,8 @@
  {
   "name": "European Modular Apartments: Antiquaire Edition",
   "group": "G003",
-  "modelId": null,
-  "nature": "service",
+  "modelId": 17284,
+  "nature": "mixed",
   "troves": [
    "Baseball Card",
    "Brass Token",
@@ -4336,7 +4358,7 @@
  {
   "name": "European Modular Apartments: Big Ben’s Gift Shoppe",
   "group": "G069",
-  "modelId": null,
+  "modelId": 18604,
   "nature": "service",
   "troves": [
    "Brass Token",
@@ -4375,8 +4397,8 @@
  {
   "name": "European Modular Apartments: Butcher Edition",
   "group": "G031",
-  "modelId": null,
-  "nature": "service",
+  "modelId": 16889,
+  "nature": "mixed",
   "troves": [
    "Friendly Wave",
    "Fruit Basket",
@@ -4411,8 +4433,8 @@
  {
   "name": "European Modular Apartments: Galerie d'Art Edition",
   "group": "G006",
-  "modelId": null,
-  "nature": "service",
+  "modelId": 18519,
+  "nature": "mixed",
   "troves": [
    "Clay",
    "Deep Breath",
@@ -4468,8 +4490,8 @@
  {
   "name": "European Modular Apartments: Ice Cream Shop",
   "group": "G050",
-  "modelId": null,
-  "nature": "service",
+  "modelId": 16590,
+  "nature": "mixed",
   "troves": [
    "Baguette Loaf",
    "Banana",
@@ -4508,8 +4530,8 @@
  {
   "name": "European Modular Apartments: Mantequeria Edition",
   "group": "G070",
-  "modelId": null,
-  "nature": "service",
+  "modelId": 19183,
+  "nature": "mixed",
   "troves": [
    "Fresh Egg",
    "Friendly Wave",
@@ -4539,8 +4561,8 @@
  {
   "name": "European Modular Apartments: Restaurant Edition",
   "group": "G036",
-  "modelId": null,
-  "nature": "service",
+  "modelId": 16576,
+  "nature": "mixed",
   "troves": [
    "Barley",
    "Carrot",
@@ -4621,8 +4643,8 @@
  {
   "name": "European Modular Apartments: Sports Bar",
   "group": "G071",
-  "modelId": null,
-  "nature": "service",
+  "modelId": 17045,
+  "nature": "mixed",
   "troves": [
    "Barley",
    "Baseball Card",
@@ -4655,7 +4677,7 @@
  {
   "name": "Exclusive Hockey Store Service Structure",
   "group": "G072",
-  "modelId": null,
+  "modelId": 16922,
   "nature": "service",
   "troves": [
    "Baseball Card",
@@ -4932,7 +4954,7 @@
  {
   "name": "Fire Station Headquarters",
   "group": "G075",
-  "modelId": null,
+  "modelId": 16197,
   "nature": "service",
   "troves": [
    "Bandage",
@@ -5103,7 +5125,7 @@
  {
   "name": "Florence Retro Googie Farmers Market",
   "group": "G073",
-  "modelId": null,
+  "modelId": 17945,
   "nature": "service",
   "troves": [
    "Apple",
@@ -5158,6 +5180,17 @@
    "Taco",
    "Wine Bottle"
   ]
+ },
+ {
+  "name": "Florence Retro Googie Ranch House",
+  "group": null,
+  "modelId": 17948,
+  "nature": "housing",
+  "troves": [],
+  "recipes": [],
+  "source": "game",
+  "verified": false,
+  "status": "no-troves"
  },
  {
   "name": "French Cafe",
@@ -5996,6 +6029,28 @@
   ]
  },
  {
+  "name": "Ivory Rising Emporium Showroom",
+  "group": null,
+  "modelId": 10687,
+  "nature": "metaventure",
+  "troves": [],
+  "recipes": [],
+  "source": "game",
+  "verified": false,
+  "status": "no-troves"
+ },
+ {
+  "name": "Ivory Rising Tower",
+  "group": null,
+  "modelId": 10683,
+  "nature": "housing",
+  "troves": [],
+  "recipes": [],
+  "source": "game",
+  "verified": false,
+  "status": "no-troves"
+ },
+ {
   "name": "Jewelry",
   "group": "G088",
   "modelId": 16139,
@@ -6049,7 +6104,7 @@
  {
   "name": "Junior College",
   "group": "G089",
-  "modelId": null,
+  "modelId": 16136,
   "nature": "service",
   "troves": [
    "Ancient Scroll",
@@ -6526,7 +6581,7 @@
  {
   "name": "Large Assisted Living Center",
   "group": "G010",
-  "modelId": null,
+  "modelId": 16908,
   "nature": "service",
   "troves": [
    "Baseball Card",
@@ -6577,7 +6632,7 @@
  {
   "name": "Large Court house",
   "group": "G048",
-  "modelId": null,
+  "modelId": 16907,
   "nature": "service",
   "troves": [
    "Brass Token",
@@ -6661,7 +6716,7 @@
  {
   "name": "Large Electronic store",
   "group": "G068",
-  "modelId": null,
+  "modelId": 17019,
   "nature": "service",
   "troves": [
    "Brooch",
@@ -6721,7 +6776,7 @@
  {
   "name": "Large Library",
   "group": "G027",
-  "modelId": null,
+  "modelId": 17027,
   "nature": "service",
   "troves": [
    "Birch Bark",
@@ -7161,7 +7216,7 @@
  {
   "name": "Logistics center: Zenith Terminal",
   "group": "G098",
-  "modelId": null,
+  "modelId": 17402,
   "nature": "service",
   "troves": [
    "Brass Token",
@@ -8710,6 +8765,17 @@
   "status": "no-troves"
  },
  {
+  "name": "Micro Factory I",
+  "group": null,
+  "modelId": 13374,
+  "nature": "metaventure",
+  "troves": [],
+  "recipes": [],
+  "source": "game",
+  "verified": false,
+  "status": "no-troves"
+ },
+ {
   "name": "Micro House",
   "group": null,
   "modelId": 216,
@@ -8932,7 +8998,7 @@
  {
   "name": "Moonbeam Diner",
   "group": "G109",
-  "modelId": null,
+  "modelId": 17944,
   "nature": "service",
   "troves": [
    "Coffee Bean",
@@ -9358,7 +9424,7 @@
  {
   "name": "Natural History Museum",
   "group": "G111",
-  "modelId": null,
+  "modelId": 16130,
   "nature": "service",
   "troves": [
    "Amethyst",
@@ -9587,7 +9653,7 @@
  {
   "name": "Newspaper Headquarters",
   "group": "G114",
-  "modelId": null,
+  "modelId": 17020,
   "nature": "service",
   "troves": [
    "Birch Bark",
@@ -9810,7 +9876,7 @@
  {
   "name": "Office Complex",
   "group": "G096",
-  "modelId": null,
+  "modelId": 17026,
   "nature": "service",
   "troves": [
    "Best Friend",
@@ -9916,7 +9982,7 @@
  {
   "name": "Oil Change center",
   "group": "G118",
-  "modelId": null,
+  "modelId": 16773,
   "nature": "service",
   "troves": [
    "Ball Bearing",
@@ -10153,7 +10219,7 @@
  {
   "name": "Omaha Retro Googie Farmers Market",
   "group": "G073",
-  "modelId": null,
+  "modelId": 17946,
   "nature": "service",
   "troves": [
    "Apple",
@@ -10208,6 +10274,17 @@
    "Taco",
    "Wine Bottle"
   ]
+ },
+ {
+  "name": "Omaha Retro Googie Ranch House",
+  "group": null,
+  "modelId": 17949,
+  "nature": "housing",
+  "troves": [],
+  "recipes": [],
+  "source": "game",
+  "verified": false,
+  "status": "no-troves"
  },
  {
   "name": "Optometrist",
@@ -10650,7 +10727,7 @@
  {
   "name": "Pickle Ball Courts",
   "group": "G124",
-  "modelId": null,
+  "modelId": 19049,
   "nature": "service",
   "troves": [
    "Blue Ribbon",
@@ -10833,7 +10910,7 @@
  {
   "name": "Police Detention center",
   "group": "G112",
-  "modelId": null,
+  "modelId": 16900,
   "nature": "service",
   "troves": [
    "Bandage",
@@ -11040,7 +11117,7 @@
  {
   "name": "Private Swim Club",
   "group": "G127",
-  "modelId": null,
+  "modelId": 19483,
   "nature": "service",
   "troves": [
    "Bandage",
@@ -11255,7 +11332,7 @@
  {
   "name": "QuickRinse Self-Serve Carwash",
   "group": "G012",
-  "modelId": null,
+  "modelId": 17016,
   "nature": "service",
   "troves": [
    "Brass Token",
@@ -11565,7 +11642,7 @@
  {
   "name": "Regional Police Station",
   "group": "G112",
-  "modelId": null,
+  "modelId": 17292,
   "nature": "service",
   "troves": [
    "Bandage",
@@ -11768,7 +11845,7 @@
  {
   "name": "Science Museum",
   "group": "G136",
-  "modelId": null,
+  "modelId": 16263,
   "nature": "service",
   "troves": [
    "Coil Spring",
@@ -11812,7 +11889,7 @@
  {
   "name": "Seattle Music Venue Service Structure",
   "group": "G137",
-  "modelId": null,
+  "modelId": 16923,
   "nature": "service",
   "troves": [
    "Cookie",
@@ -11959,7 +12036,7 @@
  {
   "name": "Singapore Kopitiam",
   "group": "G139",
-  "modelId": null,
+  "modelId": 16691,
   "nature": "service",
   "troves": [
    "Chili Powder",
@@ -12002,7 +12079,7 @@
  {
   "name": "Skyline Medical Center",
   "group": "G042",
-  "modelId": null,
+  "modelId": 17941,
   "nature": "service",
   "troves": [
    "Bandage",
@@ -12308,7 +12385,7 @@
  {
   "name": "South America Modular Apartments: Almacén Edition",
   "group": "G026",
-  "modelId": null,
+  "modelId": 16426,
   "nature": "service",
   "troves": [
    "Apple",
@@ -12405,7 +12482,7 @@
  {
   "name": "South America Modular Apartments: Rodizio Edition",
   "group": "G141",
-  "modelId": null,
+  "modelId": 17049,
   "nature": "service",
   "troves": [
    "Deep Breath",
@@ -12464,7 +12541,7 @@
  {
   "name": "South America Modular Apartments: Two Can Tango Bar Edition",
   "group": "G028",
-  "modelId": null,
+  "modelId": 20074,
   "nature": "service",
   "troves": [
    "Barley",
@@ -12596,7 +12673,7 @@
  {
   "name": "Sports Courts",
   "group": "G143",
-  "modelId": null,
+  "modelId": 15542,
   "nature": "service",
   "troves": [
    "Blue Ribbon",
@@ -12651,7 +12728,7 @@
  {
   "name": "Starlite Precinct",
   "group": "G112",
-  "modelId": null,
+  "modelId": 17942,
   "nature": "service",
   "troves": [
    "Bandage",
@@ -12764,7 +12841,7 @@
  {
   "name": "Stitch & Spell Tailors",
   "group": "G024",
-  "modelId": null,
+  "modelId": 20871,
   "nature": "service",
   "troves": [
    "Brass Token",
@@ -12832,7 +12909,7 @@
  {
   "name": "Sugar & Spell Candy Shop",
   "group": "G013",
-  "modelId": null,
+  "modelId": 20872,
   "nature": "service",
   "troves": [
    "Baguette Loaf",
@@ -12915,7 +12992,7 @@
  {
   "name": "SuperKarts Mini Raceway",
   "group": "G019",
-  "modelId": null,
+  "modelId": 19181,
   "nature": "service",
   "troves": [
    "Ball Bearing",
@@ -13210,7 +13287,7 @@
  {
   "name": "SynthTag Laser Tag",
   "group": "G146",
-  "modelId": null,
+  "modelId": 16697,
   "nature": "service",
   "troves": [
    "Brass Token",
@@ -13294,7 +13371,7 @@
  {
   "name": "Takasaki Retro Googie Farmers Market",
   "group": "G073",
-  "modelId": null,
+  "modelId": 17947,
   "nature": "service",
   "troves": [
    "Apple",
@@ -13408,7 +13485,7 @@
  {
   "name": "Tapas Bar",
   "group": "G148",
-  "modelId": null,
+  "modelId": 16195,
   "nature": "service",
   "troves": [
    "Clam",
@@ -13516,7 +13593,7 @@
  {
   "name": "Taxi Depot",
   "group": "G149",
-  "modelId": null,
+  "modelId": 16884,
   "nature": "service",
   "troves": [
    "Brass Token",
@@ -13588,7 +13665,7 @@
  {
   "name": "The Amsterdam Cheese House",
   "group": "G151",
-  "modelId": null,
+  "modelId": 19201,
   "nature": "service",
   "troves": [
    "Friendly Wave",
@@ -14263,7 +14340,7 @@
  {
   "name": "The Grimwood Hotel",
   "group": "G041",
-  "modelId": null,
+  "modelId": 20362,
   "nature": "service",
   "troves": [
    "Bathrobe",
@@ -14327,7 +14404,7 @@
  {
   "name": "The Happy Harvest Cider House",
   "group": "G028",
-  "modelId": null,
+  "modelId": 20840,
   "nature": "service",
   "troves": [
    "Barley",
@@ -14384,7 +14461,7 @@
  {
   "name": "The Harvest Oven",
   "group": "G013",
-  "modelId": null,
+  "modelId": 20093,
   "nature": "service",
   "troves": [
    "Baguette Loaf",
@@ -14435,7 +14512,7 @@
  {
   "name": "The Hollow Grave Funeral Home",
   "group": "G078",
-  "modelId": null,
+  "modelId": 20869,
   "nature": "service",
   "troves": [
    "Friendly Wave",
@@ -14584,7 +14661,7 @@
  {
   "name": "The Moonbeam Bookstore",
   "group": "G027",
-  "modelId": null,
+  "modelId": 18539,
   "nature": "service",
   "troves": [
    "Birch Bark",
@@ -14796,7 +14873,7 @@
  {
   "name": "The Skyline Courthouse",
   "group": "G048",
-  "modelId": null,
+  "modelId": 18450,
   "nature": "service",
   "troves": [
    "Brass Token",
@@ -14983,6 +15060,17 @@
    "Golden Record",
    "Violin"
   ]
+ },
+ {
+  "name": "The Sugar Ring Donut Kiosk",
+  "group": null,
+  "modelId": 21273,
+  "nature": "service",
+  "troves": [],
+  "recipes": [],
+  "source": "game",
+  "verified": false,
+  "status": "pending"
  },
  {
   "name": "The Thrift Gap",
@@ -15431,7 +15519,7 @@
  {
   "name": "The Victory Gym",
   "group": "G082",
-  "modelId": null,
+  "modelId": 18573,
   "nature": "service",
   "troves": [
    "Bandage",
@@ -15488,7 +15576,7 @@
  {
   "name": "Theater",
   "group": "G097",
-  "modelId": null,
+  "modelId": 8919,
   "nature": "service",
   "troves": [
    "Brass Token",
@@ -16105,7 +16193,7 @@
  {
   "name": "Upland Junior High",
   "group": "G049",
-  "modelId": null,
+  "modelId": 17953,
   "nature": "service",
   "troves": [
    "Ancient Scroll",
@@ -16216,7 +16304,7 @@
  {
   "name": "Urgent care center",
   "group": "G042",
-  "modelId": null,
+  "modelId": 16882,
   "nature": "service",
   "troves": [
    "Bandage",
@@ -16281,7 +16369,7 @@
  {
   "name": "Veterinary Clinic",
   "group": "G163",
-  "modelId": null,
+  "modelId": 16181,
   "nature": "service",
   "troves": [
    "Bandage",
