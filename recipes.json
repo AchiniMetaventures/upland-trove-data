@@ -214,7 +214,8 @@
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
    "Supermarket Super Store",
-   "The Amsterdam Cheese House"
+   "The Amsterdam Cheese House",
+   "The Grand Bazaar Spice Shop"
   ],
   "id": "almond-2"
  },
@@ -288,10 +289,13 @@
    "Antique Store",
    "Black Cat Curiosities Shop",
    "Cobweb & Co Antiques",
+   "Crooked Coffin Workshop",
+   "East Coast Modular Apartments: Sandlot Sporting Goods",
    "East Coast Modular: Liquor Store Edition",
    "European Modular Apartments: Antiquaire Edition",
    "European Modular Apartments: Big Ben’s Gift Shoppe",
    "Going Under Dive Shop",
+   "Grim Hollow Tombstone Makers",
    "Jewelry",
    "Madame Moon's Fortune Telling",
    "Main Street Modular Apartments: Texas Mercantile General Store",
@@ -303,8 +307,11 @@
    "Olde Wonder Toys",
    "Pawn shop",
    "Stitch & Spell Tailors",
+   "The Black Iron Forge",
    "The Curious Cauldron",
-   "The Flickering Wick"
+   "The Flickering Wick",
+   "The Patchwork Hearth Quilt Shop",
+   "The Witching Wardrobe"
   ],
   "id": "amulet-1"
  },
@@ -379,6 +386,7 @@
    "Library",
    "Mainstreet Modular Apartments: Bookstore Edition",
    "Natural History Museum",
+   "The Dusty Tome Bookshop",
    "The Moonbeam Bookstore"
   ],
   "id": "ancient-scroll-2"
@@ -428,9 +436,12 @@
    "Antique Store",
    "Black Cat Curiosities Shop",
    "Cobweb & Co Antiques",
+   "Crooked Coffin Workshop",
+   "East Coast Modular Apartments: Sandlot Sporting Goods",
    "East Coast Modular: Liquor Store Edition",
    "European Modular Apartments: Antiquaire Edition",
    "Going Under Dive Shop",
+   "Grim Hollow Tombstone Makers",
    "Main Street Modular Apartments: Texas Mercantile General Store",
    "Main Street Modular Apartments: Uppany & Co. Edition",
    "Mainstreet Modular Apartments: Pawn Shop Edition",
@@ -440,8 +451,11 @@
    "Olde Wonder Toys",
    "Pawn shop",
    "Stitch & Spell Tailors",
+   "The Black Iron Forge",
    "The Curious Cauldron",
-   "The Flickering Wick"
+   "The Flickering Wick",
+   "The Patchwork Hearth Quilt Shop",
+   "The Witching Wardrobe"
   ],
   "id": "antique-vase-2"
  },
@@ -547,23 +561,6 @@
   "product": "Applause",
   "ingredients": [
    {
-    "name": "Headphones",
-    "qty": 2
-   },
-   {
-    "name": "Wristwatch",
-    "qty": 1
-   }
-  ],
-  "craftedAt": [
-   "Radio Station"
-  ],
-  "id": "applause-1"
- },
- {
-  "product": "Applause",
-  "ingredients": [
-   {
     "name": "High Five",
     "qty": 2
    },
@@ -599,7 +596,7 @@
    "Try Harder Gym",
    "Upland Axes"
   ],
-  "id": "applause-2"
+  "id": "applause-1"
  },
  {
   "product": "Applause",
@@ -617,9 +614,9 @@
    "CineSpark Theatre",
    "Circus",
    "Comedy Club",
+   "Haunted Ghost Tour House",
    "Live Jams Stage",
    "Live Theater",
-   "Madame Moon's Fortune Telling",
    "Movie Theatre",
    "Neon Glide Roller Rink",
    "Performing Arts Center",
@@ -629,7 +626,7 @@
    "The Upland Rodeo",
    "Theater"
   ],
-  "id": "applause-3"
+  "id": "applause-2"
  },
  {
   "product": "Asparagus",
@@ -655,7 +652,8 @@
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
    "Supermarket Super Store",
-   "Takasaki Retro Googie Farmers Market"
+   "Takasaki Retro Googie Farmers Market",
+   "The Grand Bazaar Spice Shop"
   ],
   "id": "asparagus-1"
  },
@@ -707,7 +705,8 @@
    "Old Crow Farm Market",
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
-   "Supermarket Super Store"
+   "Supermarket Super Store",
+   "The Grand Bazaar Spice Shop"
   ],
   "id": "avocado-1"
  },
@@ -774,9 +773,12 @@
   "craftedAt": [
    "Black Cat Curiosities Shop",
    "Cobweb & Co Antiques",
+   "Crooked Coffin Workshop",
+   "East Coast Modular Apartments: Sandlot Sporting Goods",
    "East Coast Modular: Liquor Store Edition",
    "Electronic Store",
    "Going Under Dive Shop",
+   "Grim Hollow Tombstone Makers",
    "Large Electronic store",
    "Main Street Modular Apartments: Texas Mercantile General Store",
    "Main Street Modular Apartments: Uppany & Co. Edition",
@@ -785,8 +787,11 @@
    "Mall of Upland",
    "Olde Wonder Toys",
    "Stitch & Spell Tailors",
+   "The Black Iron Forge",
    "The Curious Cauldron",
-   "The Flickering Wick"
+   "The Flickering Wick",
+   "The Patchwork Hearth Quilt Shop",
+   "The Witching Wardrobe"
   ],
   "id": "baby-monitor-2"
  },
@@ -1189,6 +1194,7 @@
    "Large Library",
    "Library",
    "Mainstreet Modular Apartments: Bookstore Edition",
+   "The Dusty Tome Bookshop",
    "The Moonbeam Bookstore"
   ],
   "id": "bedtime-story-1"
@@ -1280,7 +1286,8 @@
    "Old Crow Farm Market",
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
-   "Supermarket Super Store"
+   "Supermarket Super Store",
+   "The Grand Bazaar Spice Shop"
   ],
   "id": "beef-2"
  },
@@ -1315,6 +1322,7 @@
    "Supermarket",
    "Supermarket Super Store",
    "The Burger Stop",
+   "The Grand Bazaar Spice Shop",
    "The Patty Shack",
    "Thee Olde Spaghetti Factory",
    "Waffle Home Diner"
@@ -1407,18 +1415,21 @@
    "Kiosk - Taco",
    "Main Squeeze Lemonade",
    "Mile’s Popcorn",
+   "More Than Three Bottles Condiment Kiosk",
    "Nathan’s Infamous Hot Dog Stand",
    "Salem Shawarma Kiosk",
    "Sausage Stand",
    "Shawarma Street Co.",
    "Singapore Kopitiam",
    "Taco Stand",
+   "The Cinnamon Swirl Kiosk",
    "The Crepe Escape",
    "The Crispy Crust Pizza",
    "The Crispy Empanada Kiosk",
    "The Crooked Cod",
    "The Salty Twist Pretzel Stand",
    "The Slice Station",
+   "The Sugar Ring Donut Kiosk",
    "The Twisted Pretzel"
   ],
   "id": "belly-laugh-2"
@@ -1622,6 +1633,72 @@
    "Upland Junior High"
   ],
   "id": "birthday-wish-2"
+ },
+ {
+  "product": "Black Opal",
+  "ingredients": [
+   {
+    "name": "Blue Diamond",
+    "qty": 4
+   },
+   {
+    "name": "Pharaoh Mask",
+    "qty": 2
+   },
+   {
+    "name": "Amber",
+    "qty": 4
+   },
+   {
+    "name": "Crystal Ball",
+    "qty": 2
+   },
+   {
+    "name": "Diamond",
+    "qty": 5
+   }
+  ],
+  "craftedAt": [
+   "Antique Store",
+   "European Modular Apartments: Antiquaire Edition",
+   "Jewelry",
+   "Mainstreet Modular Apartments: Pawn Shop Edition",
+   "Pawn shop"
+  ],
+  "id": "black-opal-1"
+ },
+ {
+  "product": "Black Opal",
+  "ingredients": [
+   {
+    "name": "Doubloon",
+    "qty": 4
+   },
+   {
+    "name": "Grail",
+    "qty": 3
+   },
+   {
+    "name": "Laurel Wreath",
+    "qty": 2
+   },
+   {
+    "name": "Hourglass",
+    "qty": 2
+   },
+   {
+    "name": "Truffle",
+    "qty": 2
+   },
+   {
+    "name": "Emerald",
+    "qty": 4
+   }
+  ],
+  "craftedAt": [
+   "Natural History Museum"
+  ],
+  "id": "black-opal-2"
  },
  {
   "product": "Block Party",
@@ -1828,33 +1905,6 @@
   "product": "Bouquet",
   "ingredients": [
    {
-    "name": "Applause",
-    "qty": 1
-   },
-   {
-    "name": "Confetti Toss",
-    "qty": 1
-   },
-   {
-    "name": "Playbill",
-    "qty": 1
-   }
-  ],
-  "craftedAt": [
-   "CineSpark Theatre",
-   "Live Jams Stage",
-   "Live Theater",
-   "Movie Theatre",
-   "Performing Arts Center",
-   "The Starline Theater",
-   "Theater"
-  ],
-  "id": "bouquet-1"
- },
- {
-  "product": "Bouquet",
-  "ingredients": [
-   {
     "name": "Rosemary",
     "qty": 1
    },
@@ -1873,9 +1923,10 @@
    "Old Crow Farm Market",
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
-   "Supermarket Super Store"
+   "Supermarket Super Store",
+   "The Grand Bazaar Spice Shop"
   ],
-  "id": "bouquet-2"
+  "id": "bouquet-1"
  },
  {
   "product": "Bouquet",
@@ -1917,7 +1968,7 @@
    "Thee Olde Spaghetti Factory",
    "Waffle Home Diner"
   ],
-  "id": "bouquet-3"
+  "id": "bouquet-2"
  },
  {
   "product": "Bouquet",
@@ -1936,7 +1987,7 @@
    "Large Court house",
    "The Skyline Courthouse"
   ],
-  "id": "bouquet-4"
+  "id": "bouquet-3"
  },
  {
   "product": "Boxing Gloves",
@@ -2056,9 +2107,12 @@
    "African Crafts Market",
    "Black Cat Curiosities Shop",
    "Cobweb & Co Antiques",
+   "Crooked Coffin Workshop",
+   "East Coast Modular Apartments: Sandlot Sporting Goods",
    "East Coast Modular: Liquor Store Edition",
    "European Modular Apartments: Big Ben’s Gift Shoppe",
    "Going Under Dive Shop",
+   "Grim Hollow Tombstone Makers",
    "Hallow Spirit Costumes",
    "Jewelry",
    "Luxury Fashion Boutique",
@@ -2071,9 +2125,12 @@
    "Mall of Upland",
    "Olde Wonder Toys",
    "Stitch & Spell Tailors",
+   "The Black Iron Forge",
    "The Curious Cauldron",
    "The Flickering Wick",
-   "The Thrift Gap"
+   "The Patchwork Hearth Quilt Shop",
+   "The Thrift Gap",
+   "The Witching Wardrobe"
   ],
   "id": "brooch-1"
  },
@@ -2121,8 +2178,11 @@
    "Beyond the Bath",
    "Black Cat Curiosities Shop",
    "Cobweb & Co Antiques",
+   "Crooked Coffin Workshop",
+   "East Coast Modular Apartments: Sandlot Sporting Goods",
    "East Coast Modular: Liquor Store Edition",
    "Going Under Dive Shop",
+   "Grim Hollow Tombstone Makers",
    "Main Street Modular Apartments: Texas Mercantile General Store",
    "Main Street Modular Apartments: Uppany & Co. Edition",
    "Mainstreet Modular Apartments: Uppie Outfitters Edition",
@@ -2130,8 +2190,11 @@
    "Mall of Upland",
    "Olde Wonder Toys",
    "Stitch & Spell Tailors",
+   "The Black Iron Forge",
    "The Curious Cauldron",
-   "The Flickering Wick"
+   "The Flickering Wick",
+   "The Patchwork Hearth Quilt Shop",
+   "The Witching Wardrobe"
   ],
   "id": "bubble-bath-1"
  },
@@ -2216,6 +2279,7 @@
    "Kiosk - Taco",
    "Main Squeeze Lemonade",
    "Mile’s Popcorn",
+   "More Than Three Bottles Condiment Kiosk",
    "Nathan’s Infamous Hot Dog Stand",
    "Neighborhood Market",
    "Old Crow Farm Market",
@@ -2227,12 +2291,15 @@
    "Supermarket",
    "Supermarket Super Store",
    "Taco Stand",
+   "The Cinnamon Swirl Kiosk",
    "The Crepe Escape",
    "The Crispy Crust Pizza",
    "The Crispy Empanada Kiosk",
    "The Crooked Cod",
+   "The Grand Bazaar Spice Shop",
    "The Salty Twist Pretzel Stand",
    "The Slice Station",
+   "The Sugar Ring Donut Kiosk",
    "The Twisted Pretzel"
   ],
   "id": "bucket-2"
@@ -2312,7 +2379,8 @@
    "Old Crow Farm Market",
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
-   "Supermarket Super Store"
+   "Supermarket Super Store",
+   "The Grand Bazaar Spice Shop"
   ],
   "id": "cacao-pod-1"
  },
@@ -2463,7 +2531,8 @@
    "Old Crow Farm Market",
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
-   "Supermarket Super Store"
+   "Supermarket Super Store",
+   "The Grand Bazaar Spice Shop"
   ],
   "id": "care-package-1"
  },
@@ -2696,7 +2765,8 @@
    "Old Crow Farm Market",
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
-   "Supermarket Super Store"
+   "Supermarket Super Store",
+   "The Grand Bazaar Spice Shop"
   ],
   "id": "catfish-2"
  },
@@ -2780,6 +2850,30 @@
    "The Tipsy Tiki Bar"
   ],
   "id": "chalice-1"
+ },
+ {
+  "product": "Chalice",
+  "ingredients": [
+   {
+    "name": "Ruby",
+    "qty": 1
+   },
+   {
+    "name": "Gold Ring",
+    "qty": 1
+   },
+   {
+    "name": "Hammer",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Antique Store",
+   "European Modular Apartments: Antiquaire Edition",
+   "Mainstreet Modular Apartments: Pawn Shop Edition",
+   "Pawn shop"
+  ],
+  "id": "chalice-2"
  },
  {
   "product": "Champagne",
@@ -2929,9 +3023,12 @@
    "African Crafts Market",
    "Black Cat Curiosities Shop",
    "Cobweb & Co Antiques",
+   "Crooked Coffin Workshop",
+   "East Coast Modular Apartments: Sandlot Sporting Goods",
    "East Coast Modular: Liquor Store Edition",
    "European Modular Apartments: Big Ben’s Gift Shoppe",
    "Going Under Dive Shop",
+   "Grim Hollow Tombstone Makers",
    "Jewelry",
    "Luxury Fashion Boutique",
    "Main Street Modular Apartments: Fashion Boutique Store Edition",
@@ -2943,9 +3040,12 @@
    "Mall of Upland",
    "Olde Wonder Toys",
    "Stitch & Spell Tailors",
+   "The Black Iron Forge",
    "The Curious Cauldron",
    "The Flickering Wick",
-   "The Thrift Gap"
+   "The Patchwork Hearth Quilt Shop",
+   "The Thrift Gap",
+   "The Witching Wardrobe"
   ],
   "id": "charm-bracelet-2"
  },
@@ -2997,30 +3097,6 @@
   "product": "Cheers",
   "ingredients": [
    {
-    "name": "Grape",
-    "qty": 2
-   },
-   {
-    "name": "Dollar Bill",
-    "qty": 1
-   }
-  ],
-  "craftedAt": [
-   "Brewery",
-   "Local Brewery",
-   "Mainstreet Modular Apartments: Pub Edition building",
-   "Pub",
-   "South America Modular Apartments: Two Can Tango Bar Edition",
-   "The Happy Harvest Cider House",
-   "The Tipsy Pilgrim Tavern",
-   "The Tipsy Tiki Bar"
-  ],
-  "id": "cheers-1"
- },
- {
-  "product": "Cheers",
-  "ingredients": [
-   {
     "name": "Grin",
     "qty": 2
    },
@@ -3043,7 +3119,7 @@
    "The Atomic Oven Bakery",
    "The Harvest Oven"
   ],
-  "id": "cheers-2"
+  "id": "cheers-1"
  },
  {
   "product": "Cheers",
@@ -3070,31 +3146,7 @@
    "The Rocket Cup Cafe",
    "The Tipsy Teapot Cafe"
   ],
-  "id": "cheers-3"
- },
- {
-  "product": "Cheers",
-  "ingredients": [
-   {
-    "name": "Ruby",
-    "qty": 1
-   },
-   {
-    "name": "Gold Ring",
-    "qty": 1
-   },
-   {
-    "name": "Hammer",
-    "qty": 1
-   }
-  ],
-  "craftedAt": [
-   "Antique Store",
-   "European Modular Apartments: Antiquaire Edition",
-   "Mainstreet Modular Apartments: Pawn Shop Edition",
-   "Pawn shop"
-  ],
-  "id": "cheers-4"
+  "id": "cheers-2"
  },
  {
   "product": "Cheese Wheel",
@@ -3139,7 +3191,8 @@
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
    "Supermarket Super Store",
-   "The Amsterdam Cheese House"
+   "The Amsterdam Cheese House",
+   "The Grand Bazaar Spice Shop"
   ],
   "id": "cheese-wheel-2"
  },
@@ -3167,7 +3220,8 @@
    "Old Crow Farm Market",
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
-   "Supermarket Super Store"
+   "Supermarket Super Store",
+   "The Grand Bazaar Spice Shop"
   ],
   "id": "chicken-soup-1"
  },
@@ -3245,7 +3299,8 @@
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
    "Supermarket Super Store",
-   "Takasaki Retro Googie Farmers Market"
+   "Takasaki Retro Googie Farmers Market",
+   "The Grand Bazaar Spice Shop"
   ],
   "id": "chickpea-1"
  },
@@ -3332,7 +3387,8 @@
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
    "Supermarket Super Store",
-   "Takasaki Retro Googie Farmers Market"
+   "Takasaki Retro Googie Farmers Market",
+   "The Grand Bazaar Spice Shop"
   ],
   "id": "chili-powder-2"
  },
@@ -3732,40 +3788,10 @@
    "Old Crow Farm Market",
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
-   "Supermarket Super Store"
+   "Supermarket Super Store",
+   "The Grand Bazaar Spice Shop"
   ],
   "id": "cod-2"
- },
- {
-  "product": "Cold Compress",
-  "ingredients": [
-   {
-    "name": "Tape Measure",
-    "qty": 2
-   },
-   {
-    "name": "Glass Bead",
-    "qty": 5
-   },
-   {
-    "name": "Healing Kit",
-    "qty": 1
-   }
-  ],
-  "craftedAt": [
-   "Clinic",
-   "Dentistry",
-   "East Coast Modular Apartments: Pharmacy",
-   "Grimwood Apothecary",
-   "Hospital",
-   "Pharmacy",
-   "Regional Hospital",
-   "Skyline Medical Center",
-   "The Corner Drugstore",
-   "Urgent care center",
-   "Veterinary Clinic"
-  ],
-  "id": "cold-compress-1"
  },
  {
   "product": "Come Anytime",
@@ -3853,6 +3879,7 @@
    "Large Library",
    "Library",
    "Mainstreet Modular Apartments: Bookstore Edition",
+   "The Dusty Tome Bookshop",
    "The Moonbeam Bookstore",
    "Toy Store"
   ],
@@ -4041,9 +4068,9 @@
   ],
   "craftedAt": [
    "Circus",
+   "Haunted Ghost Tour House",
    "Live Jams Stage",
    "Live Theater",
-   "Madame Moon's Fortune Telling",
    "Performing Arts Center",
    "The Starline Theater",
    "Theater"
@@ -4077,48 +4104,6 @@
    "Pizzeria"
   ],
   "id": "confetti-toss-3"
- },
- {
-  "product": "Confetti Toss",
-  "ingredients": [
-   {
-    "name": "Stadium Wave",
-    "qty": 1
-   },
-   {
-    "name": "Opening Night",
-    "qty": 1
-   },
-   {
-    "name": "Circuit Breaker",
-    "qty": 1
-   }
-  ],
-  "craftedAt": [
-   "Live Jams Stage",
-   "Live Theater",
-   "Performing Arts Center",
-   "The Starline Theater",
-   "Theater"
-  ],
-  "id": "confetti-toss-4"
- },
- {
-  "product": "Cookie",
-  "ingredients": [
-   {
-    "name": "Home Cooking",
-    "qty": 2
-   },
-   {
-    "name": "Gather Round",
-    "qty": 1
-   }
-  ],
-  "craftedAt": [
-   "Community Center"
-  ],
-  "id": "cookie-1"
  },
  {
   "product": "Copper Wire",
@@ -4197,10 +4182,13 @@
    "African Crafts Market",
    "Black Cat Curiosities Shop",
    "Cobweb & Co Antiques",
+   "Crooked Coffin Workshop",
    "East Coast Modular Apartments: Intimate Apparel Boutique",
+   "East Coast Modular Apartments: Sandlot Sporting Goods",
    "East Coast Modular Apartments: Yeehaw Outfitters Edition",
    "East Coast Modular: Liquor Store Edition",
    "Going Under Dive Shop",
+   "Grim Hollow Tombstone Makers",
    "Luxury Fashion Boutique",
    "Main Street Modular Apartments: Fashion Boutique Store Edition",
    "Main Street Modular Apartments: Texas Mercantile General Store",
@@ -4213,32 +4201,14 @@
    "Mall of Upland",
    "Olde Wonder Toys",
    "Stitch & Spell Tailors",
+   "The Black Iron Forge",
    "The Curious Cauldron",
    "The Flickering Wick",
-   "The Thrift Gap"
+   "The Patchwork Hearth Quilt Shop",
+   "The Thrift Gap",
+   "The Witching Wardrobe"
   ],
   "id": "cotton-boll-2"
- },
- {
-  "product": "Cozy Blanket",
-  "ingredients": [
-   {
-    "name": "Healing Kit",
-    "qty": 1
-   },
-   {
-    "name": "Potluck",
-    "qty": 1
-   },
-   {
-    "name": "Umbrella",
-    "qty": 1
-   }
-  ],
-  "craftedAt": [
-   "Community Center"
-  ],
-  "id": "cozy-blanket-1"
  },
  {
   "product": "Crab",
@@ -4261,7 +4231,8 @@
    "Old Crow Farm Market",
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
-   "Supermarket Super Store"
+   "Supermarket Super Store",
+   "The Grand Bazaar Spice Shop"
   ],
   "id": "crab-1"
  },
@@ -4311,8 +4282,11 @@
    "Asian Modular Apartments: Rattan Shop Edition",
    "Black Cat Curiosities Shop",
    "Cobweb & Co Antiques",
+   "Crooked Coffin Workshop",
+   "East Coast Modular Apartments: Sandlot Sporting Goods",
    "East Coast Modular: Liquor Store Edition",
    "Going Under Dive Shop",
+   "Grim Hollow Tombstone Makers",
    "Main Street Modular Apartments: Texas Mercantile General Store",
    "Main Street Modular Apartments: Uppany & Co. Edition",
    "Mainstreet Modular Apartments: Uppie Outfitters Edition",
@@ -4320,8 +4294,11 @@
    "Mall of Upland",
    "Olde Wonder Toys",
    "Stitch & Spell Tailors",
+   "The Black Iron Forge",
    "The Curious Cauldron",
    "The Flickering Wick",
+   "The Patchwork Hearth Quilt Shop",
+   "The Witching Wardrobe",
    "ÜPKEA"
   ],
   "id": "cradle-1"
@@ -4349,32 +4326,6 @@
   "id": "cradle-2"
  },
  {
-  "product": "Cradle",
-  "ingredients": [
-   {
-    "name": "Whole Gang",
-    "qty": 6
-   },
-   {
-    "name": "Home Cooking",
-    "qty": 20
-   },
-   {
-    "name": "Photograph",
-    "qty": 30
-   },
-   {
-    "name": "Potluck",
-    "qty": 3
-   }
-  ],
-  "craftedAt": [
-   "Animal Shelter",
-   "Community Center"
-  ],
-  "id": "cradle-3"
- },
- {
   "product": "Cranberry",
   "ingredients": [
    {
@@ -4399,7 +4350,8 @@
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
    "Supermarket Super Store",
-   "Takasaki Retro Googie Farmers Market"
+   "Takasaki Retro Googie Farmers Market",
+   "The Grand Bazaar Spice Shop"
   ],
   "id": "cranberry-1"
  },
@@ -4445,6 +4397,7 @@
    "CineSpark Theatre",
    "Circus",
    "Comedy Club",
+   "Haunted Ghost Tour House",
    "Live Jams Stage",
    "Live Theater",
    "Madame Moon's Fortune Telling",
@@ -4727,7 +4680,8 @@
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
    "Supermarket Super Store",
-   "Takasaki Retro Googie Farmers Market"
+   "Takasaki Retro Googie Farmers Market",
+   "The Grand Bazaar Spice Shop"
   ],
   "id": "cucumber-1"
  },
@@ -5216,9 +5170,12 @@
    "African Crafts Market",
    "Black Cat Curiosities Shop",
    "Cobweb & Co Antiques",
+   "Crooked Coffin Workshop",
+   "East Coast Modular Apartments: Sandlot Sporting Goods",
    "East Coast Modular: Liquor Store Edition",
    "European Modular Apartments: Big Ben’s Gift Shoppe",
    "Going Under Dive Shop",
+   "Grim Hollow Tombstone Makers",
    "Jewelry",
    "Luxury Fashion Boutique",
    "Main Street Modular Apartments: Fashion Boutique Store Edition",
@@ -5230,9 +5187,12 @@
    "Mall of Upland",
    "Olde Wonder Toys",
    "Stitch & Spell Tailors",
+   "The Black Iron Forge",
    "The Curious Cauldron",
    "The Flickering Wick",
-   "The Thrift Gap"
+   "The Patchwork Hearth Quilt Shop",
+   "The Thrift Gap",
+   "The Witching Wardrobe"
   ],
   "id": "earring-2"
  },
@@ -5260,8 +5220,11 @@
    "African Crafts Market",
    "Black Cat Curiosities Shop",
    "Cobweb & Co Antiques",
+   "Crooked Coffin Workshop",
+   "East Coast Modular Apartments: Sandlot Sporting Goods",
    "East Coast Modular: Liquor Store Edition",
    "Going Under Dive Shop",
+   "Grim Hollow Tombstone Makers",
    "Main Street Modular Apartments: Texas Mercantile General Store",
    "Main Street Modular Apartments: Uppany & Co. Edition",
    "Main Street Modular: Pacific Northwest Trading Post Edition",
@@ -5271,8 +5234,11 @@
    "Musical Instrument Store",
    "Olde Wonder Toys",
    "Stitch & Spell Tailors",
+   "The Black Iron Forge",
    "The Curious Cauldron",
-   "The Flickering Wick"
+   "The Flickering Wick",
+   "The Patchwork Hearth Quilt Shop",
+   "The Witching Wardrobe"
   ],
   "id": "ebony-log-1"
  },
@@ -5312,9 +5278,12 @@
    "Beyond the Bath",
    "Black Cat Curiosities Shop",
    "Cobweb & Co Antiques",
+   "Crooked Coffin Workshop",
+   "East Coast Modular Apartments: Sandlot Sporting Goods",
    "East Coast Modular: Liquor Store Edition",
    "Electronic Store",
    "Going Under Dive Shop",
+   "Grim Hollow Tombstone Makers",
    "Large Electronic store",
    "Main Street Modular Apartments: Texas Mercantile General Store",
    "Main Street Modular Apartments: Uppany & Co. Edition",
@@ -5323,8 +5292,11 @@
    "Mall of Upland",
    "Olde Wonder Toys",
    "Stitch & Spell Tailors",
+   "The Black Iron Forge",
    "The Curious Cauldron",
    "The Flickering Wick",
+   "The Patchwork Hearth Quilt Shop",
+   "The Witching Wardrobe",
    "ÜPKEA"
   ],
   "id": "electric-blanket-1"
@@ -5605,6 +5577,7 @@
   "craftedAt": [
    "Circus",
    "Comedy Club",
+   "Haunted Ghost Tour House",
    "Live Jams Stage",
    "Live Theater",
    "Performing Arts Center",
@@ -5892,6 +5865,32 @@
   "id": "fireworks-1"
  },
  {
+  "product": "Fireworks",
+  "ingredients": [
+   {
+    "name": "Stadium Wave",
+    "qty": 1
+   },
+   {
+    "name": "Opening Night",
+    "qty": 1
+   },
+   {
+    "name": "Circuit Breaker",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Haunted Ghost Tour House",
+   "Live Jams Stage",
+   "Live Theater",
+   "Performing Arts Center",
+   "The Starline Theater",
+   "Theater"
+  ],
+  "id": "fireworks-2"
+ },
+ {
   "product": "Flashlight",
   "ingredients": [
    {
@@ -5931,9 +5930,12 @@
    "Black Cat Curiosities Shop",
    "Camp World",
    "Cobweb & Co Antiques",
+   "Crooked Coffin Workshop",
+   "East Coast Modular Apartments: Sandlot Sporting Goods",
    "East Coast Modular: Liquor Store Edition",
    "Electronic Store",
    "Going Under Dive Shop",
+   "Grim Hollow Tombstone Makers",
    "Hardware Store",
    "Large Electronic store",
    "Main Street Modular Apartments: Texas Mercantile General Store",
@@ -5946,8 +5948,11 @@
    "Olde Wonder Toys",
    "Rick's Sporting Goods",
    "Stitch & Spell Tailors",
+   "The Black Iron Forge",
    "The Curious Cauldron",
-   "The Flickering Wick"
+   "The Flickering Wick",
+   "The Patchwork Hearth Quilt Shop",
+   "The Witching Wardrobe"
   ],
   "id": "flashlight-2"
  },
@@ -6009,9 +6014,12 @@
    "African Crafts Market",
    "Black Cat Curiosities Shop",
    "Cobweb & Co Antiques",
+   "Crooked Coffin Workshop",
    "East Coast Modular Apartments: Intimate Apparel Boutique",
+   "East Coast Modular Apartments: Sandlot Sporting Goods",
    "East Coast Modular: Liquor Store Edition",
    "Going Under Dive Shop",
+   "Grim Hollow Tombstone Makers",
    "Luxury Fashion Boutique",
    "Main Street Modular Apartments: Fashion Boutique Store Edition",
    "Main Street Modular Apartments: Texas Mercantile General Store",
@@ -6024,9 +6032,12 @@
    "Mall of Upland",
    "Olde Wonder Toys",
    "Stitch & Spell Tailors",
+   "The Black Iron Forge",
    "The Curious Cauldron",
    "The Flickering Wick",
-   "The Thrift Gap"
+   "The Patchwork Hearth Quilt Shop",
+   "The Thrift Gap",
+   "The Witching Wardrobe"
   ],
   "id": "flax-2"
  },
@@ -6056,17 +6067,20 @@
    "Kiosk - Pizza",
    "Main Squeeze Lemonade",
    "Mile’s Popcorn",
+   "More Than Three Bottles Condiment Kiosk",
    "Nathan’s Infamous Hot Dog Stand",
    "Salem Shawarma Kiosk",
    "Sausage Stand",
    "Shawarma Street Co.",
    "Singapore Kopitiam",
+   "The Cinnamon Swirl Kiosk",
    "The Crepe Escape",
    "The Crispy Crust Pizza",
    "The Crispy Empanada Kiosk",
    "The Crooked Cod",
    "The Salty Twist Pretzel Stand",
    "The Slice Station",
+   "The Sugar Ring Donut Kiosk",
    "The Twisted Pretzel"
   ],
   "id": "flour-1"
@@ -6121,7 +6135,8 @@
    "Old Crow Farm Market",
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
-   "Supermarket Super Store"
+   "Supermarket Super Store",
+   "The Grand Bazaar Spice Shop"
   ],
   "id": "food-drive-1"
  },
@@ -6187,29 +6202,6 @@
    "Sports Courts"
   ],
   "id": "football-2"
- },
- {
-  "product": "Fossil",
-  "ingredients": [
-   {
-    "name": "Metal Detector",
-    "qty": 2
-   },
-   {
-    "name": "World Map",
-    "qty": 1
-   },
-   {
-    "name": "Ancient Scroll",
-    "qty": 1
-   }
-  ],
-  "craftedAt": [
-   "Natural History Museum",
-   "Planetarium",
-   "Science Museum"
-  ],
-  "id": "fossil-1"
  },
  {
   "product": "Fresh Air",
@@ -6300,6 +6292,7 @@
    }
   ],
   "craftedAt": [
+   "Auto Carwash",
    "Bank",
    "Bank Headquarters",
    "Court House",
@@ -6307,6 +6300,7 @@
    "East Coast Modular Apartments: Bank Edition",
    "East Coast Modular Apartments: Money Exchange Edition",
    "Large Court house",
+   "QuickRinse Self-Serve Carwash",
    "The Golden Vault Bank",
    "The Skyline Courthouse"
   ],
@@ -6426,7 +6420,8 @@
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
    "Supermarket Super Store",
-   "The Amsterdam Cheese House"
+   "The Amsterdam Cheese House",
+   "The Grand Bazaar Spice Shop"
   ],
   "id": "fruit-basket-1"
  },
@@ -6742,7 +6737,6 @@
    "Clinic",
    "Dentistry",
    "East Coast Modular Apartments: Pharmacy",
-   "Grimwood Apothecary",
    "Hospital",
    "Optometrist",
    "Pharmacy",
@@ -6781,6 +6775,7 @@
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
    "Supermarket Super Store",
+   "The Grand Bazaar Spice Shop",
    "The Rocket Cup Cafe",
    "The Tipsy Teapot Cafe"
   ],
@@ -6986,6 +6981,23 @@
   "id": "gold-nugget-1"
  },
  {
+  "product": "Gold Nugget",
+  "ingredients": [
+   {
+    "name": "Dynamite",
+    "qty": 3
+   },
+   {
+    "name": "Electromagnet",
+    "qty": 3
+   }
+  ],
+  "craftedAt": [
+   "Natural History Museum"
+  ],
+  "id": "gold-nugget-2"
+ },
+ {
   "product": "Gold Ring",
   "ingredients": [
    {
@@ -7030,6 +7042,44 @@
    "The Golden Vault Bank"
   ],
   "id": "gold-ring-2"
+ },
+ {
+  "product": "Golden Record",
+  "ingredients": [
+   {
+    "name": "Doubloon",
+    "qty": 4
+   },
+   {
+    "name": "Laurel Wreath",
+    "qty": 2
+   },
+   {
+    "name": "Grail",
+    "qty": 2
+   },
+   {
+    "name": "Tesla Coil",
+    "qty": 2
+   },
+   {
+    "name": "Pure Joy",
+    "qty": 2
+   },
+   {
+    "name": "Amber",
+    "qty": 2
+   }
+  ],
+  "craftedAt": [
+   "Live Jams Stage",
+   "Live Theater",
+   "Performing Arts Center",
+   "Seattle Music Venue Service Structure",
+   "The Starline Theater",
+   "Theater"
+  ],
+  "id": "golden-record-1"
  },
  {
   "product": "Good Hands",
@@ -7140,6 +7190,7 @@
    "Mainstreet Modular Apartments: Arcade Edition",
    "Mainstreet Modular Apartments: Zoomies Skate Shop Edition",
    "Mile’s Popcorn",
+   "More Than Three Bottles Condiment Kiosk",
    "Movie Theatre",
    "Nathan’s Infamous Hot Dog Stand",
    "Neon Glide Roller Rink",
@@ -7152,12 +7203,14 @@
    "SynthTag Laser Tag",
    "Taco Stand",
    "The Atomic Arcade",
+   "The Cinnamon Swirl Kiosk",
    "The Crepe Escape",
    "The Crispy Crust Pizza",
    "The Crispy Empanada Kiosk",
    "The Crooked Cod",
    "The Salty Twist Pretzel Stand",
    "The Slice Station",
+   "The Sugar Ring Donut Kiosk",
    "The Twisted Pretzel",
    "The Upland Needle",
    "The Upland Rodeo"
@@ -7271,6 +7324,7 @@
    "Kiosk - Taco",
    "Main Squeeze Lemonade",
    "Mile’s Popcorn",
+   "More Than Three Bottles Condiment Kiosk",
    "Nathan’s Infamous Hot Dog Stand",
    "Neighborhood Market",
    "Old Crow Farm Market",
@@ -7282,12 +7336,15 @@
    "Supermarket",
    "Supermarket Super Store",
    "Taco Stand",
+   "The Cinnamon Swirl Kiosk",
    "The Crepe Escape",
    "The Crispy Crust Pizza",
    "The Crispy Empanada Kiosk",
    "The Crooked Cod",
+   "The Grand Bazaar Spice Shop",
    "The Salty Twist Pretzel Stand",
    "The Slice Station",
+   "The Sugar Ring Donut Kiosk",
    "The Twisted Pretzel"
   ],
   "id": "goofy-face-2"
@@ -7469,7 +7526,8 @@
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
    "Supermarket Super Store",
-   "Takasaki Retro Googie Farmers Market"
+   "Takasaki Retro Googie Farmers Market",
+   "The Grand Bazaar Spice Shop"
   ],
   "id": "grape-1"
  },
@@ -7811,8 +7869,11 @@
   "craftedAt": [
    "Black Cat Curiosities Shop",
    "Cobweb & Co Antiques",
+   "Crooked Coffin Workshop",
+   "East Coast Modular Apartments: Sandlot Sporting Goods",
    "East Coast Modular: Liquor Store Edition",
    "Going Under Dive Shop",
+   "Grim Hollow Tombstone Makers",
    "Main Street Modular Apartments: Texas Mercantile General Store",
    "Main Street Modular Apartments: Uppany & Co. Edition",
    "Mainstreet Modular Apartments: Uppie Outfitters Edition",
@@ -7821,8 +7882,11 @@
    "Musical Instrument Store",
    "Olde Wonder Toys",
    "Stitch & Spell Tailors",
+   "The Black Iron Forge",
    "The Curious Cauldron",
-   "The Flickering Wick"
+   "The Flickering Wick",
+   "The Patchwork Hearth Quilt Shop",
+   "The Witching Wardrobe"
   ],
   "id": "harmonica-2"
  },
@@ -8250,7 +8314,6 @@
   "craftedAt": [
    "Clinic",
    "East Coast Modular Apartments: Pharmacy",
-   "Grimwood Apothecary",
    "Hospital",
    "Pharmacy",
    "Regional Hospital",
@@ -8259,27 +8322,6 @@
    "Urgent care center"
   ],
   "id": "herbal-tea-2"
- },
- {
-  "product": "High Five",
-  "ingredients": [
-   {
-    "name": "Sawn Plank",
-    "qty": 1
-   },
-   {
-    "name": "Pulley",
-    "qty": 1
-   },
-   {
-    "name": "Sandpaper",
-    "qty": 1
-   }
-  ],
-  "craftedAt": [
-   "Off the Wall Skate Park"
-  ],
-  "id": "high-five-1"
  },
  {
   "product": "High Spirits",
@@ -8350,42 +8392,6 @@
   "id": "high-spirits-2"
  },
  {
-  "product": "High Spirits",
-  "ingredients": [
-   {
-    "name": "Happy Tears",
-    "qty": 20
-   },
-   {
-    "name": "Birthday Wish",
-    "qty": 10
-   },
-   {
-    "name": "Champagne",
-    "qty": 3
-   },
-   {
-    "name": "Cookie",
-    "qty": 30
-   }
-  ],
-  "craftedAt": [
-   "Bakery",
-   "Candy shop",
-   "Cinnaboom",
-   "Dairy King Ice Cream",
-   "East Coast Modular Apartments: Bakery Edition",
-   "European Modular Apartments: Ice Cream Shop",
-   "Glazed & Confused Donuts",
-   "Ice cream Parlor",
-   "Sugar & Spell Candy Shop",
-   "Swiggly Soda Shop",
-   "The Atomic Oven Bakery",
-   "The Harvest Oven"
-  ],
-  "id": "high-spirits-3"
- },
- {
   "product": "Holiday Ham",
   "ingredients": [
    {
@@ -8450,7 +8456,8 @@
    "Old Crow Farm Market",
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
-   "Supermarket Super Store"
+   "Supermarket Super Store",
+   "The Grand Bazaar Spice Shop"
   ],
   "id": "home-cooking-1"
  },
@@ -8668,7 +8675,6 @@
   ],
   "craftedAt": [
    "Clinic",
-   "Grimwood Apothecary",
    "Hospital",
    "Regional Hospital",
    "Skyline Medical Center",
@@ -8906,6 +8912,7 @@
    "Large Library",
    "Library",
    "Mainstreet Modular Apartments: Bookstore Edition",
+   "The Dusty Tome Bookshop",
    "The Moonbeam Bookstore"
   ],
   "id": "inner-peace-1"
@@ -9020,6 +9027,41 @@
   "id": "invisible-cloak-1"
  },
  {
+  "product": "Invisible Cloak",
+  "ingredients": [
+   {
+    "name": "Plasma Cutter",
+    "qty": 3
+   },
+   {
+    "name": "Pure Joy",
+    "qty": 2
+   },
+   {
+    "name": "Grail",
+    "qty": 2
+   },
+   {
+    "name": "Amber",
+    "qty": 2
+   },
+   {
+    "name": "Parade",
+    "qty": 2
+   },
+   {
+    "name": "Ebony Log",
+    "qty": 8
+   }
+  ],
+  "craftedAt": [
+   "Art Gallery",
+   "Art Museum",
+   "European Modular Apartments: Galerie d'Art Edition"
+  ],
+  "id": "invisible-cloak-2"
+ },
+ {
   "product": "Jade Dragon",
   "ingredients": [
    {
@@ -9095,7 +9137,8 @@
    "Supermarket",
    "Supermarket Super Store",
    "Takasaki Retro Googie Farmers Market",
-   "The Amsterdam Cheese House"
+   "The Amsterdam Cheese House",
+   "The Grand Bazaar Spice Shop"
   ],
   "id": "jam-jar-1"
  },
@@ -9486,7 +9529,8 @@
    "Old Crow Farm Market",
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
-   "Supermarket Super Store"
+   "Supermarket Super Store",
+   "The Grand Bazaar Spice Shop"
   ],
   "id": "lamb-1"
  },
@@ -9662,7 +9706,8 @@
    "Old Crow Farm Market",
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
-   "Supermarket Super Store"
+   "Supermarket Super Store",
+   "The Grand Bazaar Spice Shop"
   ],
   "id": "lemon-1"
  },
@@ -9707,7 +9752,8 @@
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
    "Supermarket Super Store",
-   "Takasaki Retro Googie Farmers Market"
+   "Takasaki Retro Googie Farmers Market",
+   "The Grand Bazaar Spice Shop"
   ],
   "id": "lentil-1"
  },
@@ -9942,10 +9988,13 @@
    "Antique Store",
    "Black Cat Curiosities Shop",
    "Cobweb & Co Antiques",
+   "Crooked Coffin Workshop",
+   "East Coast Modular Apartments: Sandlot Sporting Goods",
    "East Coast Modular: Liquor Store Edition",
    "European Modular Apartments: Antiquaire Edition",
    "European Modular Apartments: Big Ben’s Gift Shoppe",
    "Going Under Dive Shop",
+   "Grim Hollow Tombstone Makers",
    "Jewelry",
    "Main Street Modular Apartments: Texas Mercantile General Store",
    "Main Street Modular Apartments: Uppany & Co. Edition",
@@ -9956,8 +10005,11 @@
    "Olde Wonder Toys",
    "Pawn shop",
    "Stitch & Spell Tailors",
+   "The Black Iron Forge",
    "The Curious Cauldron",
-   "The Flickering Wick"
+   "The Flickering Wick",
+   "The Patchwork Hearth Quilt Shop",
+   "The Witching Wardrobe"
   ],
   "id": "locket-1"
  },
@@ -10065,8 +10117,11 @@
    "Beyond the Bath",
    "Black Cat Curiosities Shop",
    "Cobweb & Co Antiques",
+   "Crooked Coffin Workshop",
+   "East Coast Modular Apartments: Sandlot Sporting Goods",
    "East Coast Modular: Liquor Store Edition",
    "Going Under Dive Shop",
+   "Grim Hollow Tombstone Makers",
    "Main Street Modular Apartments: Texas Mercantile General Store",
    "Main Street Modular Apartments: Uppany & Co. Edition",
    "Mainstreet Modular Apartments: Uppie Outfitters Edition",
@@ -10074,8 +10129,11 @@
    "Mall of Upland",
    "Olde Wonder Toys",
    "Stitch & Spell Tailors",
+   "The Black Iron Forge",
    "The Curious Cauldron",
-   "The Flickering Wick"
+   "The Flickering Wick",
+   "The Patchwork Hearth Quilt Shop",
+   "The Witching Wardrobe"
   ],
   "id": "lotus-2"
  },
@@ -10128,6 +10186,33 @@
   "product": "Magic Lamp",
   "ingredients": [
    {
+    "name": "Crystal Ball",
+    "qty": 1
+   },
+   {
+    "name": "Hourglass",
+    "qty": 1
+   },
+   {
+    "name": "Grail",
+    "qty": 1
+   },
+   {
+    "name": "Spell Book",
+    "qty": 2
+   }
+  ],
+  "craftedAt": [
+   "Art Gallery",
+   "Art Museum",
+   "European Modular Apartments: Galerie d'Art Edition"
+  ],
+  "id": "magic-lamp-1"
+ },
+ {
+  "product": "Magic Lamp",
+  "ingredients": [
+   {
     "name": "Gold Bar",
     "qty": 15
    },
@@ -10154,7 +10239,24 @@
    "Mainstreet Modular Apartments: Pawn Shop Edition",
    "Pawn shop"
   ],
-  "id": "magic-lamp-1"
+  "id": "magic-lamp-2"
+ },
+ {
+  "product": "Mammoth Tusk",
+  "ingredients": [
+   {
+    "name": "Amber",
+    "qty": 3
+   },
+   {
+    "name": "Hourglass",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Natural History Museum"
+  ],
+  "id": "mammoth-tusk-1"
  },
  {
   "product": "Mammoth Tusk",
@@ -10186,7 +10288,7 @@
    "Mainstreet Modular Apartments: Pawn Shop Edition",
    "Pawn shop"
   ],
-  "id": "mammoth-tusk-1"
+  "id": "mammoth-tusk-2"
  },
  {
   "product": "Mango",
@@ -10283,7 +10385,8 @@
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
    "Supermarket Super Store",
-   "Takasaki Retro Googie Farmers Market"
+   "Takasaki Retro Googie Farmers Market",
+   "The Grand Bazaar Spice Shop"
   ],
   "id": "maple-syrup-2"
  },
@@ -10581,9 +10684,9 @@
    }
   ],
   "craftedAt": [
+   "Haunted Ghost Tour House",
    "Live Jams Stage",
    "Live Theater",
-   "Madame Moon's Fortune Telling",
    "Performing Arts Center",
    "Seattle Music Venue Service Structure",
    "The Starline Theater",
@@ -10643,6 +10746,7 @@
    "Mainstreet Modular Apartments: Bookstore Edition",
    "Natural History Museum",
    "Old Asylum",
+   "The Dusty Tome Bookshop",
    "The Moonbeam Bookstore"
   ],
   "id": "memory-lane-1"
@@ -10757,6 +10861,42 @@
   "id": "meteorite-1"
  },
  {
+  "product": "Meteorite",
+  "ingredients": [
+   {
+    "name": "Crystal Ball",
+    "qty": 2
+   },
+   {
+    "name": "Hourglass",
+    "qty": 2
+   },
+   {
+    "name": "Drone",
+    "qty": 5
+   },
+   {
+    "name": "Pharaoh Mask",
+    "qty": 2
+   },
+   {
+    "name": "Truffle",
+    "qty": 2
+   },
+   {
+    "name": "Ebony Log",
+    "qty": 2
+   }
+  ],
+  "craftedAt": [
+   "Antique Store",
+   "European Modular Apartments: Antiquaire Edition",
+   "Mainstreet Modular Apartments: Pawn Shop Edition",
+   "Pawn shop"
+  ],
+  "id": "meteorite-2"
+ },
+ {
   "product": "Mic Drop",
   "ingredients": [
    {
@@ -10774,9 +10914,9 @@
   ],
   "craftedAt": [
    "Comedy Club",
+   "Haunted Ghost Tour House",
    "Live Jams Stage",
    "Live Theater",
-   "Madame Moon's Fortune Telling",
    "Performing Arts Center",
    "Seattle Music Venue Service Structure",
    "The Starline Theater",
@@ -10945,6 +11085,29 @@
   "id": "moon-rock-1"
  },
  {
+  "product": "Moon Rock",
+  "ingredients": [
+   {
+    "name": "Metal Detector",
+    "qty": 2
+   },
+   {
+    "name": "World Map",
+    "qty": 1
+   },
+   {
+    "name": "Ancient Scroll",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Natural History Museum",
+   "Planetarium",
+   "Science Museum"
+  ],
+  "id": "moon-rock-2"
+ },
+ {
   "product": "Moonshine",
   "ingredients": [
    {
@@ -11093,8 +11256,11 @@
    "Beyond the Bath",
    "Black Cat Curiosities Shop",
    "Cobweb & Co Antiques",
+   "Crooked Coffin Workshop",
+   "East Coast Modular Apartments: Sandlot Sporting Goods",
    "East Coast Modular: Liquor Store Edition",
    "Going Under Dive Shop",
+   "Grim Hollow Tombstone Makers",
    "Main Street Modular Apartments: Texas Mercantile General Store",
    "Main Street Modular Apartments: Uppany & Co. Edition",
    "Mainstreet Modular Apartments: Uppie Outfitters Edition",
@@ -11102,8 +11268,11 @@
    "Mall of Upland",
    "Olde Wonder Toys",
    "Stitch & Spell Tailors",
+   "The Black Iron Forge",
    "The Curious Cauldron",
-   "The Flickering Wick"
+   "The Flickering Wick",
+   "The Patchwork Hearth Quilt Shop",
+   "The Witching Wardrobe"
   ],
   "id": "mud-mask-1"
  },
@@ -11196,10 +11365,13 @@
    "Antique Store",
    "Black Cat Curiosities Shop",
    "Cobweb & Co Antiques",
+   "Crooked Coffin Workshop",
+   "East Coast Modular Apartments: Sandlot Sporting Goods",
    "East Coast Modular: Liquor Store Edition",
    "European Modular Apartments: Antiquaire Edition",
    "European Modular Apartments: Big Ben’s Gift Shoppe",
    "Going Under Dive Shop",
+   "Grim Hollow Tombstone Makers",
    "Jewelry",
    "Luxury Fashion Boutique",
    "Main Street Modular Apartments: Fashion Boutique Store Edition",
@@ -11213,9 +11385,12 @@
    "Olde Wonder Toys",
    "Pawn shop",
    "Stitch & Spell Tailors",
+   "The Black Iron Forge",
    "The Curious Cauldron",
    "The Flickering Wick",
-   "The Thrift Gap"
+   "The Patchwork Hearth Quilt Shop",
+   "The Thrift Gap",
+   "The Witching Wardrobe"
   ],
   "id": "necklace-1"
  },
@@ -11500,6 +11675,7 @@
    "Supermarket Super Store",
    "Tapas Bar",
    "The Amsterdam Cheese House",
+   "The Grand Bazaar Spice Shop",
    "Thee Olde Spaghetti Factory"
   ],
   "id": "olive-1"
@@ -11551,7 +11727,8 @@
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
    "Supermarket Super Store",
-   "The Amsterdam Cheese House"
+   "The Amsterdam Cheese House",
+   "The Grand Bazaar Spice Shop"
   ],
   "id": "olive-oil-1"
  },
@@ -11740,6 +11917,34 @@
   "product": "Opening Night",
   "ingredients": [
    {
+    "name": "Applause",
+    "qty": 1
+   },
+   {
+    "name": "Confetti Toss",
+    "qty": 1
+   },
+   {
+    "name": "Playbill",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "CineSpark Theatre",
+   "Haunted Ghost Tour House",
+   "Live Jams Stage",
+   "Live Theater",
+   "Movie Theatre",
+   "Performing Arts Center",
+   "The Starline Theater",
+   "Theater"
+  ],
+  "id": "opening-night-1"
+ },
+ {
+  "product": "Opening Night",
+  "ingredients": [
+   {
     "name": "Hooray",
     "qty": 3
    },
@@ -11757,7 +11962,7 @@
    "Art Museum",
    "European Modular Apartments: Galerie d'Art Edition"
   ],
-  "id": "opening-night-1"
+  "id": "opening-night-2"
  },
  {
   "product": "Oyster",
@@ -11805,7 +12010,8 @@
    "Old Crow Farm Market",
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
-   "Supermarket Super Store"
+   "Supermarket Super Store",
+   "The Grand Bazaar Spice Shop"
   ],
   "id": "oyster-2"
  },
@@ -11829,6 +12035,7 @@
    "CineSpark Theatre",
    "Circus",
    "Comedy Club",
+   "Haunted Ghost Tour House",
    "Live Jams Stage",
    "Live Theater",
    "Movie Theatre",
@@ -11896,6 +12103,7 @@
    }
   ],
   "craftedAt": [
+   "Haunted Ghost Tour House",
    "Live Jams Stage",
    "Live Theater",
    "Performing Arts Center",
@@ -11994,9 +12202,12 @@
    "African Crafts Market",
    "Black Cat Curiosities Shop",
    "Cobweb & Co Antiques",
+   "Crooked Coffin Workshop",
+   "East Coast Modular Apartments: Sandlot Sporting Goods",
    "East Coast Modular: Liquor Store Edition",
    "European Modular Apartments: Big Ben’s Gift Shoppe",
    "Going Under Dive Shop",
+   "Grim Hollow Tombstone Makers",
    "Jewelry",
    "Luxury Fashion Boutique",
    "Main Street Modular Apartments: Fashion Boutique Store Edition",
@@ -12008,9 +12219,12 @@
    "Mall of Upland",
    "Olde Wonder Toys",
    "Stitch & Spell Tailors",
+   "The Black Iron Forge",
    "The Curious Cauldron",
    "The Flickering Wick",
-   "The Thrift Gap"
+   "The Patchwork Hearth Quilt Shop",
+   "The Thrift Gap",
+   "The Witching Wardrobe"
   ],
   "id": "pendant-1"
  },
@@ -12229,7 +12443,8 @@
    "Old Crow Farm Market",
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
-   "Supermarket Super Store"
+   "Supermarket Super Store",
+   "The Grand Bazaar Spice Shop"
   ],
   "id": "picnic-1"
  },
@@ -12270,18 +12485,21 @@
    "Kiosk - Taco",
    "Main Squeeze Lemonade",
    "Mile’s Popcorn",
+   "More Than Three Bottles Condiment Kiosk",
    "Nathan’s Infamous Hot Dog Stand",
    "Salem Shawarma Kiosk",
    "Sausage Stand",
    "Shawarma Street Co.",
    "Singapore Kopitiam",
    "Taco Stand",
+   "The Cinnamon Swirl Kiosk",
    "The Crepe Escape",
    "The Crispy Crust Pizza",
    "The Crispy Empanada Kiosk",
    "The Crooked Cod",
    "The Salty Twist Pretzel Stand",
    "The Slice Station",
+   "The Sugar Ring Donut Kiosk",
    "The Twisted Pretzel"
   ],
   "id": "picnic-2"
@@ -12302,7 +12520,6 @@
    "Clinic",
    "Dentistry",
    "East Coast Modular Apartments: Pharmacy",
-   "Grimwood Apothecary",
    "Hospital",
    "Pharmacy",
    "Regional Hospital",
@@ -12605,18 +12822,21 @@
    "Kiosk - Taco",
    "Main Squeeze Lemonade",
    "Mile’s Popcorn",
+   "More Than Three Bottles Condiment Kiosk",
    "Nathan’s Infamous Hot Dog Stand",
    "Salem Shawarma Kiosk",
    "Sausage Stand",
    "Shawarma Street Co.",
    "Singapore Kopitiam",
    "Taco Stand",
+   "The Cinnamon Swirl Kiosk",
    "The Crepe Escape",
    "The Crispy Crust Pizza",
    "The Crispy Empanada Kiosk",
    "The Crooked Cod",
    "The Salty Twist Pretzel Stand",
    "The Slice Station",
+   "The Sugar Ring Donut Kiosk",
    "The Twisted Pretzel"
   ],
   "id": "pocket-knife-1"
@@ -12641,9 +12861,12 @@
    "Black Cat Curiosities Shop",
    "Camp World",
    "Cobweb & Co Antiques",
+   "Crooked Coffin Workshop",
+   "East Coast Modular Apartments: Sandlot Sporting Goods",
    "East Coast Modular Apartments: Yeehaw Outfitters Edition",
    "East Coast Modular: Liquor Store Edition",
    "Going Under Dive Shop",
+   "Grim Hollow Tombstone Makers",
    "Hook & Tackle Bait Shop",
    "Main Street Modular Apartments: Texas Mercantile General Store",
    "Main Street Modular Apartments: Uppany & Co. Edition",
@@ -12654,8 +12877,11 @@
    "Olde Wonder Toys",
    "Rick's Sporting Goods",
    "Stitch & Spell Tailors",
+   "The Black Iron Forge",
    "The Curious Cauldron",
-   "The Flickering Wick"
+   "The Flickering Wick",
+   "The Patchwork Hearth Quilt Shop",
+   "The Witching Wardrobe"
   ],
   "id": "pocket-knife-2"
  },
@@ -12711,6 +12937,23 @@
   "product": "Potluck",
   "ingredients": [
    {
+    "name": "Home Cooking",
+    "qty": 2
+   },
+   {
+    "name": "Gather Round",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Community Center"
+  ],
+  "id": "potluck-1"
+ },
+ {
+  "product": "Potluck",
+  "ingredients": [
+   {
     "name": "Potato",
     "qty": 2
    },
@@ -12733,7 +12976,7 @@
    "University",
    "Upland Junior High"
   ],
-  "id": "potluck-1"
+  "id": "potluck-2"
  },
  {
   "product": "Power Drill",
@@ -12845,7 +13088,8 @@
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
    "Supermarket Super Store",
-   "Takasaki Retro Googie Farmers Market"
+   "Takasaki Retro Googie Farmers Market",
+   "The Grand Bazaar Spice Shop"
   ],
   "id": "pumpkin-1"
  },
@@ -12893,6 +13137,7 @@
   ],
   "craftedAt": [
    "Comedy Club",
+   "Haunted Ghost Tour House",
    "Live Jams Stage",
    "Live Theater",
    "Madame Moon's Fortune Telling",
@@ -12934,6 +13179,42 @@
   "product": "Pure Joy",
   "ingredients": [
    {
+    "name": "Happy Tears",
+    "qty": 20
+   },
+   {
+    "name": "Birthday Wish",
+    "qty": 10
+   },
+   {
+    "name": "Champagne",
+    "qty": 3
+   },
+   {
+    "name": "Cookie",
+    "qty": 30
+   }
+  ],
+  "craftedAt": [
+   "Bakery",
+   "Candy shop",
+   "Cinnaboom",
+   "Dairy King Ice Cream",
+   "East Coast Modular Apartments: Bakery Edition",
+   "European Modular Apartments: Ice Cream Shop",
+   "Glazed & Confused Donuts",
+   "Ice cream Parlor",
+   "Sugar & Spell Candy Shop",
+   "Swiggly Soda Shop",
+   "The Atomic Oven Bakery",
+   "The Harvest Oven"
+  ],
+  "id": "pure-joy-1"
+ },
+ {
+  "product": "Pure Joy",
+  "ingredients": [
+   {
     "name": "High Spirits",
     "qty": 2
    },
@@ -12956,7 +13237,7 @@
    "University",
    "Upland Junior High"
   ],
-  "id": "pure-joy-1"
+  "id": "pure-joy-2"
  },
  {
   "product": "Quiet Hour",
@@ -12982,6 +13263,7 @@
    "Library",
    "Mainstreet Modular Apartments: Bookstore Edition",
    "Old Asylum",
+   "The Dusty Tome Bookshop",
    "The Moonbeam Bookstore"
   ],
   "id": "quiet-hour-1"
@@ -13118,6 +13400,23 @@
   "id": "radio-1"
  },
  {
+  "product": "Radio",
+  "ingredients": [
+   {
+    "name": "Headphones",
+    "qty": 2
+   },
+   {
+    "name": "Wristwatch",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Radio Station"
+  ],
+  "id": "radio-2"
+ },
+ {
   "product": "Rake",
   "ingredients": [
    {
@@ -13249,6 +13548,7 @@
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
    "Supermarket Super Store",
+   "The Grand Bazaar Spice Shop",
    "The Skyline Courthouse"
   ],
   "id": "rare-coin-2"
@@ -13274,9 +13574,12 @@
    "Beach Feet Sandals",
    "Black Cat Curiosities Shop",
    "Cobweb & Co Antiques",
+   "Crooked Coffin Workshop",
+   "East Coast Modular Apartments: Sandlot Sporting Goods",
    "East Coast Modular Apartments: Yeehaw Outfitters Edition",
    "East Coast Modular: Liquor Store Edition",
    "Going Under Dive Shop",
+   "Grim Hollow Tombstone Makers",
    "Luxury Fashion Boutique",
    "Main Street Modular Apartments: Fashion Boutique Store Edition",
    "Main Street Modular Apartments: Shoe Store Edition",
@@ -13292,9 +13595,12 @@
    "Pet Shop",
    "Sneaker Store",
    "Stitch & Spell Tailors",
+   "The Black Iron Forge",
    "The Curious Cauldron",
    "The Flickering Wick",
-   "The Thrift Gap"
+   "The Patchwork Hearth Quilt Shop",
+   "The Thrift Gap",
+   "The Witching Wardrobe"
   ],
   "id": "rawhide-1"
  },
@@ -13392,36 +13698,6 @@
   "product": "Roast",
   "ingredients": [
    {
-    "name": "Holiday Ham",
-    "qty": 4
-   },
-   {
-    "name": "Potluck",
-    "qty": 8
-   },
-   {
-    "name": "Home Cooking",
-    "qty": 20
-   },
-   {
-    "name": "Cheers",
-    "qty": 10
-   }
-  ],
-  "craftedAt": [
-   "Bodega",
-   "Neighborhood Market",
-   "Old Crow Farm Market",
-   "South America Modular Apartments: Almacén Edition",
-   "Supermarket",
-   "Supermarket Super Store"
-  ],
-  "id": "roast-2"
- },
- {
-  "product": "Roast",
-  "ingredients": [
-   {
     "name": "Snappy Comeback",
     "qty": 4
    },
@@ -13444,7 +13720,7 @@
    "The Tipsy Pilgrim Tavern",
    "The Tipsy Tiki Bar"
   ],
-  "id": "roast-3"
+  "id": "roast-2"
  },
  {
   "product": "Rocket Fuel",
@@ -13490,6 +13766,33 @@
   "product": "Royal Orb",
   "ingredients": [
    {
+    "name": "Blue Diamond",
+    "qty": 1
+   },
+   {
+    "name": "Doubloon",
+    "qty": 1
+   },
+   {
+    "name": "Grail",
+    "qty": 1
+   },
+   {
+    "name": "Crystal Ball",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Art Gallery",
+   "Art Museum",
+   "European Modular Apartments: Galerie d'Art Edition"
+  ],
+  "id": "royal-orb-1"
+ },
+ {
+  "product": "Royal Orb",
+  "ingredients": [
+   {
     "name": "Gold Bar",
     "qty": 20
    },
@@ -13511,13 +13814,14 @@
    }
   ],
   "craftedAt": [
+   "Haunted Ghost Tour House",
    "Live Jams Stage",
    "Live Theater",
    "Performing Arts Center",
    "The Starline Theater",
    "Theater"
   ],
-  "id": "royal-orb-1"
+  "id": "royal-orb-2"
  },
  {
   "product": "Royal Robe",
@@ -13539,9 +13843,12 @@
    "Antique Store",
    "Black Cat Curiosities Shop",
    "Cobweb & Co Antiques",
+   "Crooked Coffin Workshop",
+   "East Coast Modular Apartments: Sandlot Sporting Goods",
    "East Coast Modular: Liquor Store Edition",
    "European Modular Apartments: Antiquaire Edition",
    "Going Under Dive Shop",
+   "Grim Hollow Tombstone Makers",
    "Hallow Spirit Costumes",
    "Main Street Modular Apartments: Texas Mercantile General Store",
    "Main Street Modular Apartments: Uppany & Co. Edition",
@@ -13552,8 +13859,11 @@
    "Olde Wonder Toys",
    "Pawn shop",
    "Stitch & Spell Tailors",
+   "The Black Iron Forge",
    "The Curious Cauldron",
-   "The Flickering Wick"
+   "The Flickering Wick",
+   "The Patchwork Hearth Quilt Shop",
+   "The Witching Wardrobe"
   ],
   "id": "royal-robe-1"
  },
@@ -13570,6 +13880,7 @@
    }
   ],
   "craftedAt": [
+   "Haunted Ghost Tour House",
    "Live Jams Stage",
    "Live Theater",
    "Performing Arts Center",
@@ -13759,6 +14070,35 @@
   "id": "safe-haven-1"
  },
  {
+  "product": "Safe Haven",
+  "ingredients": [
+   {
+    "name": "Oasis",
+    "qty": 4
+   },
+   {
+    "name": "Open Arms",
+    "qty": 4
+   },
+   {
+    "name": "Second Family",
+    "qty": 3
+   },
+   {
+    "name": "Doubloon",
+    "qty": 2
+   }
+  ],
+  "craftedAt": [
+   "Classic Hotel",
+   "Modern Hotel",
+   "Motel",
+   "The Grimwood Hotel",
+   "The Lucky Star Hotel"
+  ],
+  "id": "safe-haven-2"
+ },
+ {
   "product": "Saffron",
   "ingredients": [
    {
@@ -13776,7 +14116,8 @@
    "Old Crow Farm Market",
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
-   "Supermarket Super Store"
+   "Supermarket Super Store",
+   "The Grand Bazaar Spice Shop"
   ],
   "id": "saffron-1"
  },
@@ -13867,6 +14208,7 @@
    "Supermarket",
    "Supermarket Super Store",
    "Tapas Bar",
+   "The Grand Bazaar Spice Shop",
    "Thee Olde Spaghetti Factory"
   ],
   "id": "salami-2"
@@ -13921,7 +14263,8 @@
    "Old Crow Farm Market",
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
-   "Supermarket Super Store"
+   "Supermarket Super Store",
+   "The Grand Bazaar Spice Shop"
   ],
   "id": "salmon-2"
  },
@@ -13964,8 +14307,11 @@
    "African Crafts Market",
    "Black Cat Curiosities Shop",
    "Cobweb & Co Antiques",
+   "Crooked Coffin Workshop",
+   "East Coast Modular Apartments: Sandlot Sporting Goods",
    "East Coast Modular: Liquor Store Edition",
    "Going Under Dive Shop",
+   "Grim Hollow Tombstone Makers",
    "Main Street Modular Apartments: Texas Mercantile General Store",
    "Main Street Modular Apartments: Uppany & Co. Edition",
    "Main Street Modular: Pacific Northwest Trading Post Edition",
@@ -13975,8 +14321,11 @@
    "Musical Instrument Store",
    "Olde Wonder Toys",
    "Stitch & Spell Tailors",
+   "The Black Iron Forge",
    "The Curious Cauldron",
-   "The Flickering Wick"
+   "The Flickering Wick",
+   "The Patchwork Hearth Quilt Shop",
+   "The Witching Wardrobe"
   ],
   "id": "sandalwood-2"
  },
@@ -14114,7 +14463,6 @@
   "craftedAt": [
    "Clinic",
    "Dentistry",
-   "Grimwood Apothecary",
    "Hospital",
    "Regional Hospital",
    "Skyline Medical Center",
@@ -14179,6 +14527,33 @@
   "id": "scepter-1"
  },
  {
+  "product": "Scepter",
+  "ingredients": [
+   {
+    "name": "Laurel Wreath",
+    "qty": 1
+   },
+   {
+    "name": "Pharaoh Mask",
+    "qty": 1
+   },
+   {
+    "name": "Amber",
+    "qty": 1
+   },
+   {
+    "name": "Ebony Log",
+    "qty": 3
+   }
+  ],
+  "craftedAt": [
+   "Art Gallery",
+   "Art Museum",
+   "European Modular Apartments: Galerie d'Art Edition"
+  ],
+  "id": "scepter-2"
+ },
+ {
   "product": "Scissors",
   "ingredients": [
    {
@@ -14205,6 +14580,7 @@
    "Supermarket",
    "Supermarket Super Store",
    "The Atomic Oven Bakery",
+   "The Grand Bazaar Spice Shop",
    "The Harvest Oven"
   ],
   "id": "scissors-1"
@@ -14274,6 +14650,7 @@
    "Library",
    "Mainstreet Modular Apartments: Bookstore Edition",
    "Old Asylum",
+   "The Dusty Tome Bookshop",
    "The Moonbeam Bookstore"
   ],
   "id": "scrapbook-2"
@@ -14313,25 +14690,6 @@
    "The Atomic Firehouse"
   ],
   "id": "screwdriver-2"
- },
- {
-  "product": "Sea Shell",
-  "ingredients": [
-   {
-    "name": "World Map",
-    "qty": 3
-   },
-   {
-    "name": "Ingot",
-    "qty": 2
-   }
-  ],
-  "craftedAt": [
-   "Aquarium",
-   "Planetarium",
-   "Science Museum"
-  ],
-  "id": "sea-shell-1"
  },
  {
   "product": "Second Family",
@@ -14378,6 +14736,32 @@
    "Waffle Home Diner"
   ],
   "id": "second-family-1"
+ },
+ {
+  "product": "Second Family",
+  "ingredients": [
+   {
+    "name": "Whole Gang",
+    "qty": 6
+   },
+   {
+    "name": "Home Cooking",
+    "qty": 20
+   },
+   {
+    "name": "Photograph",
+    "qty": 30
+   },
+   {
+    "name": "Potluck",
+    "qty": 3
+   }
+  ],
+  "craftedAt": [
+   "Animal Shelter",
+   "Community Center"
+  ],
+  "id": "second-family-2"
  },
  {
   "product": "Secret Handshake",
@@ -14523,6 +14907,25 @@
   "id": "sextant-1"
  },
  {
+  "product": "Sextant",
+  "ingredients": [
+   {
+    "name": "World Map",
+    "qty": 3
+   },
+   {
+    "name": "Ingot",
+    "qty": 2
+   }
+  ],
+  "craftedAt": [
+   "Aquarium",
+   "Planetarium",
+   "Science Museum"
+  ],
+  "id": "sextant-2"
+ },
+ {
   "product": "Sheepskin",
   "ingredients": [
    {
@@ -14562,9 +14965,12 @@
    "African Crafts Market",
    "Black Cat Curiosities Shop",
    "Cobweb & Co Antiques",
+   "Crooked Coffin Workshop",
+   "East Coast Modular Apartments: Sandlot Sporting Goods",
    "East Coast Modular Apartments: Yeehaw Outfitters Edition",
    "East Coast Modular: Liquor Store Edition",
    "Going Under Dive Shop",
+   "Grim Hollow Tombstone Makers",
    "Luxury Fashion Boutique",
    "Main Street Modular Apartments: Fashion Boutique Store Edition",
    "Main Street Modular Apartments: Texas Mercantile General Store",
@@ -14577,9 +14983,12 @@
    "Mall of Upland",
    "Olde Wonder Toys",
    "Stitch & Spell Tailors",
+   "The Black Iron Forge",
    "The Curious Cauldron",
    "The Flickering Wick",
-   "The Thrift Gap"
+   "The Patchwork Hearth Quilt Shop",
+   "The Thrift Gap",
+   "The Witching Wardrobe"
   ],
   "id": "sheepskin-2"
  },
@@ -14786,6 +15195,96 @@
   "id": "skateboard-1"
  },
  {
+  "product": "Skateboard",
+  "ingredients": [
+   {
+    "name": "Sawn Plank",
+    "qty": 1
+   },
+   {
+    "name": "Pulley",
+    "qty": 1
+   },
+   {
+    "name": "Sandpaper",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Off the Wall Skate Park"
+  ],
+  "id": "skateboard-2"
+ },
+ {
+  "product": "Skeleton Key",
+  "ingredients": [
+   {
+    "name": "Drone",
+    "qty": 3
+   },
+   {
+    "name": "Grail",
+    "qty": 2
+   },
+   {
+    "name": "Second Family",
+    "qty": 2
+   },
+   {
+    "name": "Open Arms",
+    "qty": 2
+   },
+   {
+    "name": "Master Chisel",
+    "qty": 8
+   },
+   {
+    "name": "Plasma Cutter",
+    "qty": 2
+   }
+  ],
+  "craftedAt": [
+   "Classic Hotel",
+   "Modern Hotel",
+   "Motel",
+   "The Grimwood Hotel",
+   "The Lucky Star Hotel"
+  ],
+  "id": "skeleton-key-1"
+ },
+ {
+  "product": "Skeleton Key",
+  "ingredients": [
+   {
+    "name": "Hourglass",
+    "qty": 3
+   },
+   {
+    "name": "Crystal Ball",
+    "qty": 3
+   },
+   {
+    "name": "Tesla Coil",
+    "qty": 2
+   },
+   {
+    "name": "Doubloon",
+    "qty": 4
+   },
+   {
+    "name": "Pure Joy",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Antique Store",
+   "European Modular Apartments: Antiquaire Edition",
+   "Mainstreet Modular Apartments: Pawn Shop Edition",
+   "Pawn shop"
+  ],
+  "id": "skeleton-key-2"
+ },
+ {
   "product": "Sleepover",
   "ingredients": [
    {
@@ -14939,6 +15438,7 @@
    "Blockade Arcade",
    "Comedy Club",
    "Dreamspace VR",
+   "Haunted Ghost Tour House",
    "Live Jams Stage",
    "Live Theater",
    "Madame Moon's Fortune Telling",
@@ -14971,9 +15471,9 @@
    "CineSpark Theatre",
    "Circus",
    "Dreamspace VR",
+   "Haunted Ghost Tour House",
    "Live Jams Stage",
    "Live Theater",
-   "Madame Moon's Fortune Telling",
    "Mainstreet Modular Apartments: Arcade Edition",
    "Movie Theatre",
    "Neon Glide Roller Rink",
@@ -15227,7 +15727,8 @@
    "Ramen Restaurant",
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
-   "Supermarket Super Store"
+   "Supermarket Super Store",
+   "The Grand Bazaar Spice Shop"
   ],
   "id": "soybean-1"
  },
@@ -15329,6 +15830,7 @@
    "CineSpark Theatre",
    "Circus",
    "Comedy Club",
+   "Haunted Ghost Tour House",
    "Live Jams Stage",
    "Live Theater",
    "Madame Moon's Fortune Telling",
@@ -15383,6 +15885,7 @@
    "Large Library",
    "Library",
    "Mainstreet Modular Apartments: Bookstore Edition",
+   "The Dusty Tome Bookshop",
    "The Moonbeam Bookstore"
   ],
   "id": "spell-book-1"
@@ -15530,7 +16033,8 @@
    "Old Crow Farm Market",
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
-   "Supermarket Super Store"
+   "Supermarket Super Store",
+   "The Grand Bazaar Spice Shop"
   ],
   "id": "squid-2"
  },
@@ -15574,6 +16078,7 @@
    }
   ],
   "craftedAt": [
+   "Haunted Ghost Tour House",
    "Live Jams Stage",
    "Live Theater",
    "Performing Arts Center",
@@ -15621,6 +16126,7 @@
    "Mainstreet Modular Apartments: Bookstore Edition",
    "Post Office",
    "Post Office Distribution Center",
+   "The Dusty Tome Bookshop",
    "The Moonbeam Bookstore"
   ],
   "id": "stamp-collection-2"
@@ -15644,6 +16150,7 @@
   "craftedAt": [
    "Circus",
    "Comedy Club",
+   "Haunted Ghost Tour House",
    "Live Jams Stage",
    "Live Theater",
    "Performing Arts Center",
@@ -15692,27 +16199,6 @@
    "Upland Axes"
   ],
   "id": "standing-ovation-2"
- },
- {
-  "product": "Standing Ovation",
-  "ingredients": [
-   {
-    "name": "Sandalwood",
-    "qty": 3
-   },
-   {
-    "name": "Opening Night",
-    "qty": 1
-   }
-  ],
-  "craftedAt": [
-   "Antique Store",
-   "European Modular Apartments: Antiquaire Edition",
-   "Mainstreet Modular Apartments: Pawn Shop Edition",
-   "Musical Instrument Store",
-   "Pawn shop"
-  ],
-  "id": "standing-ovation-3"
  },
  {
   "product": "Steady Nerves",
@@ -15764,7 +16250,6 @@
    "Clinic",
    "Dentistry",
    "East Coast Modular Apartments: Pharmacy",
-   "Grimwood Apothecary",
    "Hospital",
    "Optometrist",
    "Pharmacy",
@@ -15972,6 +16457,27 @@
   "id": "storm-relief-1"
  },
  {
+  "product": "Storm Relief",
+  "ingredients": [
+   {
+    "name": "Healing Kit",
+    "qty": 1
+   },
+   {
+    "name": "Potluck",
+    "qty": 1
+   },
+   {
+    "name": "Umbrella",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Community Center"
+  ],
+  "id": "storm-relief-2"
+ },
+ {
   "product": "Straight Razor",
   "ingredients": [
    {
@@ -16012,8 +16518,11 @@
   "craftedAt": [
    "Black Cat Curiosities Shop",
    "Cobweb & Co Antiques",
+   "Crooked Coffin Workshop",
+   "East Coast Modular Apartments: Sandlot Sporting Goods",
    "East Coast Modular: Liquor Store Edition",
    "Going Under Dive Shop",
+   "Grim Hollow Tombstone Makers",
    "Main Street Modular Apartments: Texas Mercantile General Store",
    "Main Street Modular Apartments: Uppany & Co. Edition",
    "Mainstreet Modular Apartments: Uppie Outfitters Edition",
@@ -16021,8 +16530,11 @@
    "Mall of Upland",
    "Olde Wonder Toys",
    "Stitch & Spell Tailors",
+   "The Black Iron Forge",
    "The Curious Cauldron",
-   "The Flickering Wick"
+   "The Flickering Wick",
+   "The Patchwork Hearth Quilt Shop",
+   "The Witching Wardrobe"
   ],
   "id": "straight-razor-2"
  },
@@ -16215,7 +16727,8 @@
    "Old Crow Farm Market",
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
-   "Supermarket Super Store"
+   "Supermarket Super Store",
+   "The Grand Bazaar Spice Shop"
   ],
   "id": "sugar-cane-2"
  },
@@ -16264,6 +16777,37 @@
    "Waffle Home Diner"
   ],
   "id": "sunday-dinner-1"
+ },
+ {
+  "product": "Sunday Dinner",
+  "ingredients": [
+   {
+    "name": "Holiday Ham",
+    "qty": 4
+   },
+   {
+    "name": "Potluck",
+    "qty": 8
+   },
+   {
+    "name": "Home Cooking",
+    "qty": 20
+   },
+   {
+    "name": "Cheers",
+    "qty": 10
+   }
+  ],
+  "craftedAt": [
+   "Bodega",
+   "Neighborhood Market",
+   "Old Crow Farm Market",
+   "South America Modular Apartments: Almacén Edition",
+   "Supermarket",
+   "Supermarket Super Store",
+   "The Grand Bazaar Spice Shop"
+  ],
+  "id": "sunday-dinner-2"
  },
  {
   "product": "Support Group",
@@ -16586,7 +17130,8 @@
    "Old Crow Farm Market",
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
-   "Supermarket Super Store"
+   "Supermarket Super Store",
+   "The Grand Bazaar Spice Shop"
   ],
   "id": "tea-leaf-1"
  },
@@ -16793,6 +17338,37 @@
   "id": "thermometer-1"
  },
  {
+  "product": "Thermometer",
+  "ingredients": [
+   {
+    "name": "Tape Measure",
+    "qty": 2
+   },
+   {
+    "name": "Glass Bead",
+    "qty": 5
+   },
+   {
+    "name": "Healing Kit",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Clinic",
+   "Dentistry",
+   "East Coast Modular Apartments: Pharmacy",
+   "Grimwood Apothecary",
+   "Hospital",
+   "Pharmacy",
+   "Regional Hospital",
+   "Skyline Medical Center",
+   "The Corner Drugstore",
+   "Urgent care center",
+   "Veterinary Clinic"
+  ],
+  "id": "thermometer-2"
+ },
+ {
   "product": "Tiara",
   "ingredients": [
    {
@@ -16839,8 +17415,11 @@
   "craftedAt": [
    "Black Cat Curiosities Shop",
    "Cobweb & Co Antiques",
+   "Crooked Coffin Workshop",
+   "East Coast Modular Apartments: Sandlot Sporting Goods",
    "East Coast Modular: Liquor Store Edition",
    "Going Under Dive Shop",
+   "Grim Hollow Tombstone Makers",
    "Hallow Spirit Costumes",
    "Jewelry",
    "Luxury Fashion Boutique",
@@ -16853,9 +17432,12 @@
    "Mall of Upland",
    "Olde Wonder Toys",
    "Stitch & Spell Tailors",
+   "The Black Iron Forge",
    "The Curious Cauldron",
    "The Flickering Wick",
-   "The Thrift Gap"
+   "The Patchwork Hearth Quilt Shop",
+   "The Thrift Gap",
+   "The Witching Wardrobe"
   ],
   "id": "tiara-2"
  },
@@ -17023,7 +17605,8 @@
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
    "Supermarket Super Store",
-   "Takasaki Retro Googie Farmers Market"
+   "Takasaki Retro Googie Farmers Market",
+   "The Grand Bazaar Spice Shop"
   ],
   "id": "tomato-1"
  },
@@ -17207,33 +17790,6 @@
   "product": "Treasure Map",
   "ingredients": [
    {
-    "name": "Compass",
-    "qty": 2
-   },
-   {
-    "name": "Scrapbook",
-    "qty": 1
-   }
-  ],
-  "craftedAt": [
-   "Aquarium",
-   "Barn & Nobles",
-   "Bookstore",
-   "Large Library",
-   "Library",
-   "Mainstreet Modular Apartments: Bookstore Edition",
-   "Natural History Museum",
-   "Planetarium",
-   "Science Museum",
-   "The Moonbeam Bookstore",
-   "The Upland Needle"
-  ],
-  "id": "treasure-map-2"
- },
- {
-  "product": "Treasure Map",
-  "ingredients": [
-   {
     "name": "Postcard",
     "qty": 1
    },
@@ -17249,7 +17805,7 @@
   "craftedAt": [
    "Bus Stop"
   ],
-  "id": "treasure-map-3"
+  "id": "treasure-map-2"
  },
  {
   "product": "Trophy Cup",
@@ -17421,7 +17977,8 @@
    "Old Crow Farm Market",
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
-   "Supermarket Super Store"
+   "Supermarket Super Store",
+   "The Grand Bazaar Spice Shop"
   ],
   "id": "truffle-2"
  },
@@ -17502,7 +18059,6 @@
   "craftedAt": [
    "Clinic",
    "Dentistry",
-   "Grimwood Apothecary",
    "Hospital",
    "Optometrist",
    "Regional Hospital",
@@ -17545,18 +18101,21 @@
    "Kiosk - Taco",
    "Main Squeeze Lemonade",
    "Mile’s Popcorn",
+   "More Than Three Bottles Condiment Kiosk",
    "Nathan’s Infamous Hot Dog Stand",
    "Salem Shawarma Kiosk",
    "Sausage Stand",
    "Shawarma Street Co.",
    "Singapore Kopitiam",
    "Taco Stand",
+   "The Cinnamon Swirl Kiosk",
    "The Crepe Escape",
    "The Crispy Crust Pizza",
    "The Crispy Empanada Kiosk",
    "The Crooked Cod",
    "The Salty Twist Pretzel Stand",
    "The Slice Station",
+   "The Sugar Ring Donut Kiosk",
    "The Twisted Pretzel"
   ],
   "id": "umbrella-1"
@@ -17603,6 +18162,25 @@
    "University"
   ],
   "id": "uranium-ore-1"
+ },
+ {
+  "product": "Uranium Ore",
+  "ingredients": [
+   {
+    "name": "Dynamite",
+    "qty": 3
+   },
+   {
+    "name": "Infrared Goggles",
+    "qty": 3
+   }
+  ],
+  "craftedAt": [
+   "Natural History Museum",
+   "Planetarium",
+   "Science Museum"
+  ],
+  "id": "uranium-ore-2"
  },
  {
   "product": "Vacation",
@@ -17721,6 +18299,27 @@
   "product": "Violin",
   "ingredients": [
    {
+    "name": "Sandalwood",
+    "qty": 3
+   },
+   {
+    "name": "Opening Night",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Antique Store",
+   "European Modular Apartments: Antiquaire Edition",
+   "Mainstreet Modular Apartments: Pawn Shop Edition",
+   "Musical Instrument Store",
+   "Pawn shop"
+  ],
+  "id": "violin-1"
+ },
+ {
+  "product": "Violin",
+  "ingredients": [
+   {
     "name": "Sawn Plank",
     "qty": 8
    },
@@ -17742,7 +18341,7 @@
    "Art Museum",
    "European Modular Apartments: Galerie d'Art Edition"
   ],
-  "id": "violin-1"
+  "id": "violin-2"
  },
  {
   "product": "Walnut",
@@ -17964,9 +18563,12 @@
    "Asian Modular Apartments: Rattan Shop Edition",
    "Black Cat Curiosities Shop",
    "Cobweb & Co Antiques",
+   "Crooked Coffin Workshop",
    "Dunder Office Supplies",
+   "East Coast Modular Apartments: Sandlot Sporting Goods",
    "East Coast Modular: Liquor Store Edition",
    "Going Under Dive Shop",
+   "Grim Hollow Tombstone Makers",
    "Main Street Modular Apartments: Texas Mercantile General Store",
    "Main Street Modular Apartments: Uppany & Co. Edition",
    "Mainstreet Modular Apartments: Uppie Outfitters Edition",
@@ -17975,8 +18577,11 @@
    "Olde Wonder Toys",
    "Pet Shop",
    "Stitch & Spell Tailors",
+   "The Black Iron Forge",
    "The Curious Cauldron",
    "The Flickering Wick",
+   "The Patchwork Hearth Quilt Shop",
+   "The Witching Wardrobe",
    "ÜPKEA"
   ],
   "id": "welcome-mat-1"
@@ -18129,9 +18734,34 @@
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
    "Supermarket Super Store",
-   "The Amsterdam Cheese House"
+   "The Amsterdam Cheese House",
+   "The Grand Bazaar Spice Shop"
   ],
   "id": "wine-bottle-1"
+ },
+ {
+  "product": "Wine Bottle",
+  "ingredients": [
+   {
+    "name": "Grape",
+    "qty": 2
+   },
+   {
+    "name": "Dollar Bill",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Brewery",
+   "Local Brewery",
+   "Mainstreet Modular Apartments: Pub Edition building",
+   "Pub",
+   "South America Modular Apartments: Two Can Tango Bar Edition",
+   "The Happy Harvest Cider House",
+   "The Tipsy Pilgrim Tavern",
+   "The Tipsy Tiki Bar"
+  ],
+  "id": "wine-bottle-2"
  },
  {
   "product": "World Map",
@@ -18157,6 +18787,34 @@
    "Welcome Point Travel Center"
   ],
   "id": "world-map-1"
+ },
+ {
+  "product": "World Map",
+  "ingredients": [
+   {
+    "name": "Compass",
+    "qty": 2
+   },
+   {
+    "name": "Scrapbook",
+    "qty": 1
+   }
+  ],
+  "craftedAt": [
+   "Aquarium",
+   "Barn & Nobles",
+   "Bookstore",
+   "Large Library",
+   "Library",
+   "Mainstreet Modular Apartments: Bookstore Edition",
+   "Natural History Museum",
+   "Planetarium",
+   "Science Museum",
+   "The Dusty Tome Bookshop",
+   "The Moonbeam Bookstore",
+   "The Upland Needle"
+  ],
+  "id": "world-map-2"
  },
  {
   "product": "Wrench",
@@ -18248,13 +18906,16 @@
    "Antique Store",
    "Black Cat Curiosities Shop",
    "Cobweb & Co Antiques",
+   "Crooked Coffin Workshop",
    "Dunder Office Supplies",
    "East Coast Modular Apartments: Mobile Phone Store",
+   "East Coast Modular Apartments: Sandlot Sporting Goods",
    "East Coast Modular: Liquor Store Edition",
    "Electronic Store",
    "European Modular Apartments: Antiquaire Edition",
    "European Modular Apartments: Big Ben’s Gift Shoppe",
    "Going Under Dive Shop",
+   "Grim Hollow Tombstone Makers",
    "Jewelry",
    "Large Electronic store",
    "Main Street Modular Apartments: Texas Mercantile General Store",
@@ -18267,8 +18928,11 @@
    "Pawn shop",
    "Stitch & Spell Tailors",
    "Sunglass Shack",
+   "The Black Iron Forge",
    "The Curious Cauldron",
    "The Flickering Wick",
+   "The Patchwork Hearth Quilt Shop",
+   "The Witching Wardrobe",
    "UPhone Store"
   ],
   "id": "wristwatch-2"

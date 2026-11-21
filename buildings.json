@@ -76,17 +76,18 @@
    "Wool"
   ],
   "recipes": [
-   "cradle-3",
    "dog-collar-1",
    "fresh-start-2",
    "open-arms-2",
    "open-door-1",
    "safe-haven-1",
+   "second-family-2",
    "welcome-home-1"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
+   "Cradle",
    "Homecoming",
    "Special Guest",
    "Warm Hug",
@@ -119,9 +120,10 @@
    "amber-2",
    "amulet-1",
    "antique-vase-2",
+   "black-opal-1",
    "blue-diamond-1",
    "camera-2",
-   "cheers-4",
+   "chalice-2",
    "crown-1",
    "crystal-ball-2",
    "doubloon-1",
@@ -132,36 +134,36 @@
    "hourglass-1",
    "jade-dragon-1",
    "locket-1",
-   "magic-lamp-1",
-   "mammoth-tusk-1",
+   "magic-lamp-2",
+   "mammoth-tusk-2",
    "marble-bust-2",
+   "meteorite-2",
    "necklace-1",
    "pharaoh-mask-1",
    "royal-robe-1",
+   "skeleton-key-2",
    "spell-book-2",
-   "standing-ovation-3",
    "strongbox-2",
    "treasure-chest-2",
+   "violin-1",
    "wristwatch-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
    "Aged Whiskey",
-   "Black Opal",
    "Caviar",
-   "Chalice",
    "Charm Bracelet",
+   "Cheers",
    "Crown Jewel",
    "Diamond",
    "Ebony Log",
    "Heart",
    "Jubilee",
    "Master Chisel",
-   "Meteorite",
    "Moon Rock",
    "Photograph",
-   "Skeleton Key",
+   "Standing Ovation",
    "Wedding"
   ]
  },
@@ -200,13 +202,14 @@
   "recipes": [
    "group-selfie-2",
    "memory-lane-1",
-   "sea-shell-1",
-   "treasure-map-2"
+   "sextant-2",
+   "world-map-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Sextant"
+   "Sea Shell",
+   "Treasure Map"
   ]
  },
  {
@@ -285,17 +288,21 @@
    "emerald-2",
    "grail-2",
    "group-selfie-2",
+   "invisible-cloak-2",
    "jade-dragon-2",
    "jigsaw-1",
+   "magic-lamp-1",
    "marble-bust-1",
    "masquerade-2",
    "master-chisel-2",
    "oil-painting-2",
-   "opening-night-1",
+   "opening-night-2",
+   "royal-orb-1",
    "ruby-1",
    "sandalwood-1",
    "sapphire-1",
-   "violin-1",
+   "scepter-2",
+   "violin-2",
    "wedding-1"
   ],
   "source": "catalog+game",
@@ -304,12 +311,8 @@
    "Amethyst",
    "Applause",
    "Blue Diamond",
-   "Invisible Cloak",
    "Jubilee",
-   "Magic Lamp",
-   "Photograph",
-   "Royal Orb",
-   "Scepter"
+   "Photograph"
   ]
  },
  {
@@ -342,17 +345,21 @@
    "emerald-2",
    "grail-2",
    "group-selfie-2",
+   "invisible-cloak-2",
    "jade-dragon-2",
    "jigsaw-1",
+   "magic-lamp-1",
    "marble-bust-1",
    "masquerade-2",
    "master-chisel-2",
    "oil-painting-2",
-   "opening-night-1",
+   "opening-night-2",
+   "royal-orb-1",
    "ruby-1",
    "sandalwood-1",
    "sapphire-1",
-   "violin-1",
+   "scepter-2",
+   "violin-2",
    "wedding-1"
   ],
   "source": "catalog+game",
@@ -361,12 +368,8 @@
    "Amethyst",
    "Applause",
    "Blue Diamond",
-   "Invisible Cloak",
    "Jubilee",
-   "Magic Lamp",
-   "Photograph",
-   "Royal Orb",
-   "Scepter"
+   "Photograph"
   ]
  },
  {
@@ -577,13 +580,13 @@
    "bucket-1",
    "clean-water-2",
    "day-off-2",
+   "fresh-start-1",
    "hello-again-1"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
    "Come Anytime",
-   "Fresh Start",
    "Ice Cream"
   ]
  },
@@ -673,24 +676,27 @@
    "baguette-loaf-2",
    "birthday-wish-1",
    "bread-mother-2",
-   "cheers-2",
+   "cheers-1",
    "chocolate-bar-2",
    "cloud-nine-1",
    "flour-2",
    "happy-tears-2",
-   "high-spirits-3",
    "ice-cream-1",
    "lollipop-2",
    "maple-syrup-1",
    "new-friend-2",
    "open-invitation-1",
+   "pure-joy-1",
    "scissors-1",
    "sugar-cane-1"
   ],
   "source": "catalog+game",
   "verified": true,
   "bonusTroves": [
+   "Cookie",
    "Fist Bump",
+   "High Spirits",
+   "Jam Jar",
    "Pinky Promise",
    "Secret Handshake"
   ]
@@ -857,7 +863,7 @@
    "scrapbook-2",
    "spell-book-2",
    "stamp-collection-2",
-   "treasure-map-2"
+   "world-map-2"
   ],
   "source": "catalog",
   "verified": false,
@@ -889,7 +895,7 @@
    "Thread"
   ],
   "recipes": [
-   "applause-2",
+   "applause-1",
    "back-slap-2",
    "basketball-2",
    "best-friend-1",
@@ -980,7 +986,7 @@
    "Wool"
   ],
   "recipes": [
-   "applause-2",
+   "applause-1",
    "back-slap-2",
    "best-friend-1",
    "block-party-1",
@@ -1274,7 +1280,7 @@
    "best-friend-2",
    "cacao-pod-2",
    "check-in-2",
-   "cheers-3",
+   "cheers-2",
    "cheese-wheel-1",
    "chocolate-bar-1",
    "day-off-2",
@@ -1305,9 +1311,11 @@
    "Food Drive",
    "Game Console",
    "Ice Cream",
+   "Locket",
    "Lullaby",
    "Maple Syrup",
    "Moral Support",
+   "Open Invitation",
    "Pinky Promise",
    "Secret Handshake",
    "Snappy Comeback",
@@ -1390,7 +1398,7 @@
    "avocado-1",
    "beef-2",
    "bell-pepper-1",
-   "bouquet-2",
+   "bouquet-1",
    "bucket-2",
    "cacao-pod-1",
    "care-package-1",
@@ -1420,7 +1428,6 @@
    "picnic-1",
    "pumpkin-1",
    "rare-coin-2",
-   "roast-2",
    "saffron-1",
    "salami-2",
    "salmon-2",
@@ -1428,6 +1435,7 @@
    "soybean-1",
    "squid-2",
    "sugar-cane-2",
+   "sunday-dinner-2",
    "tea-leaf-1",
    "tomato-1",
    "truffle-2",
@@ -1447,6 +1455,7 @@
    "Pizza Slice",
    "Potluck",
    "Ramen Bowl",
+   "Roast",
    "Snappy Comeback",
    "Strawberry",
    "Sturgeon",
@@ -1489,7 +1498,7 @@
    "scrapbook-2",
    "spell-book-1",
    "stamp-collection-2",
-   "treasure-map-2"
+   "world-map-2"
   ],
   "source": "catalog+game",
   "verified": true,
@@ -1526,7 +1535,7 @@
    "Wool"
   ],
   "recipes": [
-   "applause-2",
+   "applause-1",
    "back-slap-2",
    "best-friend-1",
    "block-party-1",
@@ -1595,7 +1604,6 @@
    "casino-chip-2",
    "chalice-1",
    "champagne-1",
-   "cheers-1",
    "circuit-breaker-2",
    "dance-move-2",
    "electric-guitar-3",
@@ -1605,14 +1613,17 @@
    "moonshine-2",
    "punchline-2",
    "radio-1",
-   "roast-3",
+   "roast-2",
    "running-gag-1",
    "secret-handshake-2",
-   "talent-show-2"
+   "talent-show-2",
+   "wine-bottle-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
+   "Cheers",
+   "Confetti Toss",
    "Dice",
    "Hooray",
    "Huddle",
@@ -1620,6 +1631,7 @@
    "Packed House",
    "Snappy Comeback",
    "Soldering Iron",
+   "Standing Ovation",
    "Wink"
   ]
  },
@@ -1702,7 +1714,7 @@
    "side-eye-2",
    "snappy-comeback-1",
    "sugar-beet-2",
-   "treasure-map-3",
+   "treasure-map-2",
    "umbrella-2",
    "vacation-2",
    "walnut-1",
@@ -1822,21 +1834,23 @@
   "recipes": [
    "almond-1",
    "birthday-wish-1",
-   "cheers-2",
+   "cheers-1",
    "chocolate-bar-2",
    "cloud-nine-1",
    "happy-tears-2",
-   "high-spirits-3",
    "lollipop-2",
    "maple-syrup-1",
    "new-friend-2",
    "open-invitation-1",
+   "pure-joy-1",
    "sugar-cane-1"
   ],
   "source": "catalog+game",
   "verified": true,
   "bonusTroves": [
+   "Cookie",
    "Fist Bump",
+   "High Spirits",
    "Pinky Promise",
    "Secret Handshake"
   ]
@@ -1958,7 +1972,7 @@
    "avocado-1",
    "beef-1",
    "bell-pepper-1",
-   "bouquet-3",
+   "bouquet-2",
    "bread-mother-1",
    "casserole-1",
    "caviar-1",
@@ -2043,12 +2057,12 @@
    "Warm Hug"
   ],
   "recipes": [
-   "applause-3",
-   "bouquet-1",
+   "applause-2",
    "cloud-nine-2",
    "crowd-pleaser-1",
    "good-times-1",
    "group-selfie-2",
+   "opening-night-1",
    "packed-house-1",
    "snow-globe-1",
    "special-guest-1"
@@ -2057,7 +2071,8 @@
   "verified": false,
   "bonusTroves": [
    "Action Figure",
-   "Birthday Wish"
+   "Birthday Wish",
+   "Bouquet"
   ]
  },
  {
@@ -2082,15 +2097,15 @@
    "almond-1",
    "birthday-wish-1",
    "bread-mother-2",
-   "cheers-2",
+   "cheers-1",
    "chocolate-bar-2",
    "cloud-nine-1",
    "flour-2",
    "happy-tears-2",
-   "high-spirits-3",
    "maple-syrup-1",
    "new-friend-2",
    "open-invitation-1",
+   "pure-joy-1",
    "scissors-1",
    "sugar-cane-1"
   ],
@@ -2098,7 +2113,9 @@
   "verified": false,
   "bonusTroves": [
    "Baguette Loaf",
+   "Cookie",
    "Fist Bump",
+   "High Spirits",
    "Lollipop",
    "Pinky Promise",
    "Secret Handshake"
@@ -2169,7 +2186,7 @@
    "Warm Hug"
   ],
   "recipes": [
-   "applause-3",
+   "applause-2",
    "cloud-nine-2",
    "confetti-toss-2",
    "crowd-pleaser-1",
@@ -2226,7 +2243,9 @@
    "oasis-2",
    "open-door-2",
    "plush-pillow-1",
+   "safe-haven-2",
    "sewing-kit-1",
+   "skeleton-key-1",
    "sleepover-1",
    "smoke-alarm-2",
    "snow-globe-2",
@@ -2242,9 +2261,7 @@
    "Happy Tears",
    "Lucky Penny",
    "Rare Coin",
-   "Safe Haven",
    "Sea Shell",
-   "Skeleton Key",
    "Strongbox",
    "Support Group",
    "Teddy Bear",
@@ -2276,7 +2293,6 @@
   "recipes": [
    "bed-rest-1",
    "blood-donation-2",
-   "cold-compress-1",
    "crutches-1",
    "family-doctor-2",
    "fruit-basket-2",
@@ -2297,13 +2313,17 @@
    "steady-nerves-2",
    "stethoscope-2",
    "support-group-1",
+   "thermometer-2",
    "tweezers-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
    "Amethyst",
-   "Moral Support"
+   "Cold Compress",
+   "Cookie",
+   "Moral Support",
+   "Mushroom"
   ]
  },
  {
@@ -2458,7 +2478,7 @@
    "best-friend-2",
    "cacao-pod-2",
    "check-in-2",
-   "cheers-3",
+   "cheers-2",
    "cheese-wheel-1",
    "chocolate-bar-1",
    "day-off-2",
@@ -2489,9 +2509,11 @@
    "Food Drive",
    "Game Console",
    "Ice Cream",
+   "Locket",
    "Lullaby",
    "Maple Syrup",
    "Moral Support",
+   "Open Invitation",
    "Pinky Promise",
    "Secret Handshake",
    "Snappy Comeback",
@@ -2518,7 +2540,7 @@
   "recipes": [
    "belly-laugh-2",
    "bucket-2",
-   "cheers-3",
+   "cheers-2",
    "day-off-2",
    "good-times-1",
    "goofy-face-2",
@@ -2566,7 +2588,7 @@
    "Warm Hug"
   ],
   "recipes": [
-   "applause-3",
+   "applause-2",
    "cloud-nine-2",
    "crowd-pleaser-1",
    "encore-2",
@@ -2662,9 +2684,6 @@
    "come-anytime-1",
    "common-ground-1",
    "condolence-1",
-   "cookie-1",
-   "cozy-blanket-1",
-   "cradle-3",
    "dog-collar-1",
    "embrace-2",
    "family-crest-2",
@@ -2682,13 +2701,16 @@
    "open-arms-2",
    "open-door-1",
    "open-invitation-2",
+   "potluck-1",
    "quilt-1",
    "rake-2",
    "safe-haven-1",
    "saw-1",
+   "second-family-2",
    "sewing-kit-2",
    "sheepskin-1",
    "solemn-vow-2",
+   "storm-relief-2",
    "support-group-2",
    "tape-measure-2",
    "tennis-racket-1",
@@ -2701,6 +2723,9 @@
   "verified": false,
   "bonusTroves": [
    "Casserole",
+   "Cookie",
+   "Cozy Blanket",
+   "Cradle",
    "Fruit Basket",
    "Hay Bale",
    "Healing Kit",
@@ -2708,7 +2733,8 @@
    "Huddle",
    "Moral Support",
    "Special Guest",
-   "Stadium Wave"
+   "Stadium Wave",
+   "Warm Hug"
   ]
  },
  {
@@ -2831,7 +2857,7 @@
    "Silver Coin"
   ],
   "recipes": [
-   "bouquet-4",
+   "bouquet-3",
    "city-key-2",
    "fresh-start-1",
    "gavel-2",
@@ -2912,9 +2938,9 @@
    "oil-painting-1",
    "passion-fruit-2",
    "pinky-promise-2",
-   "potluck-1",
+   "potluck-2",
    "pumpkin-2",
-   "pure-joy-1",
+   "pure-joy-2",
    "sleepover-2",
    "snuggle-2",
    "squad-1",
@@ -2927,6 +2953,7 @@
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
+   "Belly Laugh",
    "Boxing Gloves",
    "Compass",
    "Fruit Basket",
@@ -2945,6 +2972,74 @@
    "Sunlight",
    "Tennis Racket",
    "Title Belt",
+   "Tool Chest"
+  ]
+ },
+ {
+  "name": "Crooked Coffin Workshop",
+  "group": "G024",
+  "modelId": null,
+  "nature": "service",
+  "troves": [
+   "Brass Token",
+   "Brooch",
+   "Charm Bracelet",
+   "Coil Spring",
+   "Dollar Bill",
+   "Glass Bead",
+   "Grin",
+   "Incense Stick",
+   "Silver Coin",
+   "Sunlight",
+   "Thread",
+   "Thumbs Up",
+   "Twine",
+   "Wink",
+   "Wool"
+  ],
+  "recipes": [
+   "amulet-1",
+   "antique-vase-2",
+   "baby-monitor-2",
+   "brooch-1",
+   "bubble-bath-1",
+   "charm-bracelet-2",
+   "cotton-boll-2",
+   "cradle-1",
+   "earring-2",
+   "ebony-log-1",
+   "electric-blanket-1",
+   "flashlight-2",
+   "flax-2",
+   "harmonica-2",
+   "locket-1",
+   "lotus-2",
+   "mud-mask-1",
+   "necklace-1",
+   "pendant-1",
+   "pocket-knife-2",
+   "rawhide-1",
+   "royal-robe-1",
+   "sandalwood-2",
+   "sheepskin-2",
+   "straight-razor-2",
+   "tiara-2",
+   "welcome-mat-1",
+   "wristwatch-2"
+  ],
+  "source": "catalog",
+  "verified": false,
+  "bonusTroves": [
+   "Compass",
+   "Crown Jewel",
+   "Gold Ring",
+   "Heart",
+   "Horn",
+   "Knitting Circle",
+   "Lanolin",
+   "Lucky Penny",
+   "Lullaby",
+   "Multitool",
    "Tool Chest"
   ]
  },
@@ -3015,20 +3110,22 @@
   "recipes": [
    "almond-1",
    "birthday-wish-1",
-   "cheers-2",
+   "cheers-1",
    "chocolate-bar-2",
    "cloud-nine-1",
    "happy-tears-2",
-   "high-spirits-3",
    "ice-cream-1",
    "maple-syrup-1",
    "new-friend-2",
-   "open-invitation-1"
+   "open-invitation-1",
+   "pure-joy-1"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
+   "Cookie",
    "Fist Bump",
+   "High Spirits",
    "Pinky Promise",
    "Secret Handshake"
   ]
@@ -3065,13 +3162,14 @@
    "new-friend-1",
    "oil-painting-1",
    "pinky-promise-2",
-   "potluck-1",
-   "pure-joy-1",
+   "potluck-2",
+   "pure-joy-2",
    "snuggle-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
+   "Belly Laugh",
    "Shy Giggle",
    "Sleepover",
    "Standing Ovation"
@@ -3175,7 +3273,6 @@
    "Wool"
   ],
   "recipes": [
-   "cold-compress-1",
    "full-recovery-2",
    "get-well-2",
    "good-hands-1",
@@ -3183,12 +3280,14 @@
    "pill-bottle-1",
    "scalpel-1",
    "steady-nerves-2",
+   "thermometer-2",
    "tweezers-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
    "Amethyst",
+   "Cold Compress",
    "Healing Kit",
    "Moral Support"
   ]
@@ -3445,24 +3544,27 @@
    "baguette-loaf-2",
    "birthday-wish-1",
    "bread-mother-2",
-   "cheers-2",
+   "cheers-1",
    "chocolate-bar-2",
    "cloud-nine-1",
    "flour-2",
    "happy-tears-2",
-   "high-spirits-3",
    "ice-cream-1",
    "lollipop-2",
    "maple-syrup-1",
    "new-friend-2",
    "open-invitation-1",
+   "pure-joy-1",
    "scissors-1",
    "sugar-cane-1"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
+   "Cookie",
    "Fist Bump",
+   "High Spirits",
+   "Jam Jar",
    "Pinky Promise",
    "Secret Handshake"
   ]
@@ -3585,7 +3687,7 @@
    "apology-accepted-2",
    "beef-1",
    "bell-pepper-1",
-   "bouquet-3",
+   "bouquet-2",
    "burger-2",
    "casserole-1",
    "chicken-soup-2",
@@ -3671,7 +3773,7 @@
    "avocado-1",
    "beef-1",
    "bell-pepper-1",
-   "bouquet-3",
+   "bouquet-2",
    "bread-mother-1",
    "casserole-1",
    "caviar-1",
@@ -3877,7 +3979,6 @@
    "Wool"
   ],
   "recipes": [
-   "cold-compress-1",
    "crutches-1",
    "fruit-basket-2",
    "get-well-2",
@@ -3888,12 +3989,83 @@
    "lanolin-2",
    "lollipop-1",
    "pill-bottle-1",
-   "steady-nerves-2"
+   "steady-nerves-2",
+   "thermometer-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Moral Support"
+   "Cold Compress",
+   "Moral Support",
+   "Mushroom"
+  ]
+ },
+ {
+  "name": "East Coast Modular Apartments: Sandlot Sporting Goods",
+  "group": "G024",
+  "modelId": null,
+  "nature": "service",
+  "troves": [
+   "Brass Token",
+   "Brooch",
+   "Charm Bracelet",
+   "Coil Spring",
+   "Dollar Bill",
+   "Glass Bead",
+   "Grin",
+   "Incense Stick",
+   "Silver Coin",
+   "Sunlight",
+   "Thread",
+   "Thumbs Up",
+   "Twine",
+   "Wink",
+   "Wool"
+  ],
+  "recipes": [
+   "amulet-1",
+   "antique-vase-2",
+   "baby-monitor-2",
+   "brooch-1",
+   "bubble-bath-1",
+   "charm-bracelet-2",
+   "cotton-boll-2",
+   "cradle-1",
+   "earring-2",
+   "ebony-log-1",
+   "electric-blanket-1",
+   "flashlight-2",
+   "flax-2",
+   "harmonica-2",
+   "locket-1",
+   "lotus-2",
+   "mud-mask-1",
+   "necklace-1",
+   "pendant-1",
+   "pocket-knife-2",
+   "rawhide-1",
+   "royal-robe-1",
+   "sandalwood-2",
+   "sheepskin-2",
+   "straight-razor-2",
+   "tiara-2",
+   "welcome-mat-1",
+   "wristwatch-2"
+  ],
+  "source": "catalog",
+  "verified": false,
+  "bonusTroves": [
+   "Compass",
+   "Crown Jewel",
+   "Gold Ring",
+   "Heart",
+   "Horn",
+   "Knitting Circle",
+   "Lanolin",
+   "Lucky Penny",
+   "Lullaby",
+   "Multitool",
+   "Tool Chest"
   ]
  },
  {
@@ -4072,7 +4244,7 @@
    "avocado-1",
    "beef-1",
    "bell-pepper-1",
-   "bouquet-3",
+   "bouquet-2",
    "casserole-1",
    "chicken-soup-2",
    "chili-powder-1",
@@ -4202,9 +4374,9 @@
    "oil-painting-1",
    "passion-fruit-2",
    "pinky-promise-2",
-   "potluck-1",
+   "potluck-2",
    "pumpkin-2",
-   "pure-joy-1",
+   "pure-joy-2",
    "sleepover-2",
    "snuggle-2",
    "squad-1",
@@ -4217,6 +4389,7 @@
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
+   "Belly Laugh",
    "Boxing Gloves",
    "Compass",
    "Fruit Basket",
@@ -4309,9 +4482,10 @@
    "amber-2",
    "amulet-1",
    "antique-vase-2",
+   "black-opal-1",
    "blue-diamond-1",
    "camera-2",
-   "cheers-4",
+   "chalice-2",
    "crown-1",
    "crystal-ball-2",
    "doubloon-1",
@@ -4322,36 +4496,36 @@
    "hourglass-1",
    "jade-dragon-1",
    "locket-1",
-   "magic-lamp-1",
-   "mammoth-tusk-1",
+   "magic-lamp-2",
+   "mammoth-tusk-2",
    "marble-bust-2",
+   "meteorite-2",
    "necklace-1",
    "pharaoh-mask-1",
    "royal-robe-1",
+   "skeleton-key-2",
    "spell-book-2",
-   "standing-ovation-3",
    "strongbox-2",
    "treasure-chest-2",
+   "violin-1",
    "wristwatch-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
    "Aged Whiskey",
-   "Black Opal",
    "Caviar",
-   "Chalice",
    "Charm Bracelet",
+   "Cheers",
    "Crown Jewel",
    "Diamond",
    "Ebony Log",
    "Heart",
    "Jubilee",
    "Master Chisel",
-   "Meteorite",
    "Moon Rock",
    "Photograph",
-   "Skeleton Key",
+   "Standing Ovation",
    "Wedding"
   ]
  },
@@ -4460,17 +4634,21 @@
    "emerald-2",
    "grail-2",
    "group-selfie-2",
+   "invisible-cloak-2",
    "jade-dragon-2",
    "jigsaw-1",
+   "magic-lamp-1",
    "marble-bust-1",
    "masquerade-2",
    "master-chisel-2",
    "oil-painting-2",
-   "opening-night-1",
+   "opening-night-2",
+   "royal-orb-1",
    "ruby-1",
    "sandalwood-1",
    "sapphire-1",
-   "violin-1",
+   "scepter-2",
+   "violin-2",
    "wedding-1"
   ],
   "source": "catalog",
@@ -4479,12 +4657,8 @@
    "Amethyst",
    "Applause",
    "Blue Diamond",
-   "Invisible Cloak",
    "Jubilee",
-   "Magic Lamp",
-   "Photograph",
-   "Royal Orb",
-   "Scepter"
+   "Photograph"
   ]
  },
  {
@@ -4509,20 +4683,22 @@
   "recipes": [
    "almond-1",
    "birthday-wish-1",
-   "cheers-2",
+   "cheers-1",
    "chocolate-bar-2",
    "cloud-nine-1",
    "happy-tears-2",
-   "high-spirits-3",
    "ice-cream-1",
    "maple-syrup-1",
    "new-friend-2",
-   "open-invitation-1"
+   "open-invitation-1",
+   "pure-joy-1"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
+   "Cookie",
    "Fist Bump",
+   "High Spirits",
    "Pinky Promise",
    "Secret Handshake"
   ]
@@ -4586,7 +4762,7 @@
    "avocado-1",
    "beef-1",
    "bell-pepper-1",
-   "bouquet-3",
+   "bouquet-2",
    "bread-mother-1",
    "casserole-1",
    "caviar-1",
@@ -4804,7 +4980,7 @@
    "apology-accepted-2",
    "beef-1",
    "bell-pepper-1",
-   "bouquet-3",
+   "bouquet-2",
    "burger-2",
    "casserole-1",
    "chicken-soup-2",
@@ -4856,7 +5032,7 @@
    "all-here-2",
    "apology-accepted-2",
    "beef-1",
-   "bouquet-3",
+   "bouquet-2",
    "casserole-1",
    "caviar-1",
    "chicken-soup-2",
@@ -5220,7 +5396,7 @@
    "best-friend-2",
    "cacao-pod-2",
    "check-in-2",
-   "cheers-3",
+   "cheers-2",
    "cheese-wheel-1",
    "chocolate-bar-1",
    "day-off-2",
@@ -5251,9 +5427,11 @@
    "Food Drive",
    "Game Console",
    "Ice Cream",
+   "Locket",
    "Lullaby",
    "Maple Syrup",
    "Moral Support",
+   "Open Invitation",
    "Pinky Promise",
    "Secret Handshake",
    "Snappy Comeback",
@@ -5413,15 +5591,15 @@
    "almond-1",
    "birthday-wish-1",
    "bread-mother-2",
-   "cheers-2",
+   "cheers-1",
    "chocolate-bar-2",
    "cloud-nine-1",
    "flour-2",
    "happy-tears-2",
-   "high-spirits-3",
    "maple-syrup-1",
    "new-friend-2",
    "open-invitation-1",
+   "pure-joy-1",
    "scissors-1",
    "sugar-cane-1"
   ],
@@ -5429,7 +5607,9 @@
   "verified": false,
   "bonusTroves": [
    "Baguette Loaf",
+   "Cookie",
    "Fist Bump",
+   "High Spirits",
    "Lollipop",
    "Pinky Promise",
    "Secret Handshake"
@@ -5439,6 +5619,74 @@
   "name": "Going Under Dive Shop",
   "group": "G024",
   "modelId": 19726,
+  "nature": "service",
+  "troves": [
+   "Brass Token",
+   "Brooch",
+   "Charm Bracelet",
+   "Coil Spring",
+   "Dollar Bill",
+   "Glass Bead",
+   "Grin",
+   "Incense Stick",
+   "Silver Coin",
+   "Sunlight",
+   "Thread",
+   "Thumbs Up",
+   "Twine",
+   "Wink",
+   "Wool"
+  ],
+  "recipes": [
+   "amulet-1",
+   "antique-vase-2",
+   "baby-monitor-2",
+   "brooch-1",
+   "bubble-bath-1",
+   "charm-bracelet-2",
+   "cotton-boll-2",
+   "cradle-1",
+   "earring-2",
+   "ebony-log-1",
+   "electric-blanket-1",
+   "flashlight-2",
+   "flax-2",
+   "harmonica-2",
+   "locket-1",
+   "lotus-2",
+   "mud-mask-1",
+   "necklace-1",
+   "pendant-1",
+   "pocket-knife-2",
+   "rawhide-1",
+   "royal-robe-1",
+   "sandalwood-2",
+   "sheepskin-2",
+   "straight-razor-2",
+   "tiara-2",
+   "welcome-mat-1",
+   "wristwatch-2"
+  ],
+  "source": "catalog",
+  "verified": false,
+  "bonusTroves": [
+   "Compass",
+   "Crown Jewel",
+   "Gold Ring",
+   "Heart",
+   "Horn",
+   "Knitting Circle",
+   "Lanolin",
+   "Lucky Penny",
+   "Lullaby",
+   "Multitool",
+   "Tool Chest"
+  ]
+ },
+ {
+  "name": "Grim Hollow Tombstone Makers",
+  "group": "G024",
+  "modelId": null,
   "nature": "service",
   "troves": [
    "Brass Token",
@@ -5526,31 +5774,25 @@
   ],
   "recipes": [
    "bed-rest-1",
-   "cold-compress-1",
    "crutches-1",
    "fruit-basket-2",
    "full-recovery-2",
-   "get-well-2",
    "ginseng-root-1",
    "good-hands-1",
    "healing-kit-2",
    "hearing-aid-1",
-   "herbal-tea-2",
-   "house-call-1",
    "lanolin-2",
    "lollipop-1",
-   "pill-bottle-1",
-   "scalpel-1",
-   "steady-nerves-2",
    "stethoscope-2",
    "support-group-1",
-   "tweezers-2"
+   "thermometer-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Microscope",
-   "Moral Support"
+   "Cold Compress",
+   "Get Well",
+   "Mushroom"
   ]
  },
  {
@@ -5573,7 +5815,7 @@
    "Wool"
   ],
   "recipes": [
-   "applause-2",
+   "applause-1",
    "back-slap-2",
    "best-friend-1",
    "crutches-2",
@@ -5696,6 +5938,65 @@
   ]
  },
  {
+  "name": "Haunted Ghost Tour House",
+  "group": "G085",
+  "modelId": null,
+  "nature": "service",
+  "troves": [
+   "Brass Token",
+   "Cookie",
+   "Game Night",
+   "Glass Bead",
+   "Glee",
+   "Handshake",
+   "Hooray",
+   "Invite Card",
+   "Light Bulb",
+   "Microphone",
+   "Photograph",
+   "Playbill",
+   "Raffle Ticket",
+   "Scented Candle",
+   "Thread"
+  ],
+  "recipes": [
+   "applause-2",
+   "confetti-toss-2",
+   "crowd-pleaser-1",
+   "encore-2",
+   "fireworks-2",
+   "megaphone-1",
+   "mic-drop-1",
+   "opening-night-1",
+   "packed-house-1",
+   "parade-1",
+   "punchline-1",
+   "royal-orb-2",
+   "royal-robe-2",
+   "snappy-comeback-2",
+   "snow-globe-1",
+   "special-guest-1",
+   "stadium-wave-2",
+   "standing-ovation-1"
+  ],
+  "source": "catalog",
+  "verified": false,
+  "bonusTroves": [
+   "Action Figure",
+   "Birthday Wish",
+   "Blue Ribbon",
+   "Bouquet",
+   "Cloud Nine",
+   "Crown",
+   "Golden Record",
+   "Harmony",
+   "Invisible Cloak",
+   "Scepter",
+   "Tiara",
+   "Violin"
+  ]
+ },
+ {
   "name": "High School",
   "group": "G049",
   "modelId": 15686,
@@ -5748,9 +6049,9 @@
    "oil-painting-1",
    "passion-fruit-2",
    "pinky-promise-2",
-   "potluck-1",
+   "potluck-2",
    "pumpkin-2",
-   "pure-joy-1",
+   "pure-joy-2",
    "sleepover-2",
    "snuggle-2",
    "squad-1",
@@ -5763,6 +6064,7 @@
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
+   "Belly Laugh",
    "Boxing Gloves",
    "Compass",
    "Fruit Basket",
@@ -5797,7 +6099,7 @@
  },
  {
   "name": "Hook & Tackle Bait Shop",
-  "group": "G085",
+  "group": "G086",
   "modelId": 19237,
   "nature": "service",
   "troves": [
@@ -5858,7 +6160,6 @@
   "recipes": [
    "bed-rest-1",
    "blood-donation-2",
-   "cold-compress-1",
    "crutches-1",
    "family-doctor-2",
    "fruit-basket-2",
@@ -5879,18 +6180,22 @@
    "steady-nerves-2",
    "stethoscope-2",
    "support-group-1",
+   "thermometer-2",
    "tweezers-2"
   ],
   "source": "catalog+game",
   "verified": true,
   "bonusTroves": [
    "Amethyst",
-   "Moral Support"
+   "Cold Compress",
+   "Cookie",
+   "Moral Support",
+   "Mushroom"
   ]
  },
  {
   "name": "Ice cream Parlor",
-  "group": "G086",
+  "group": "G087",
   "modelId": 16127,
   "nature": "service",
   "troves": [
@@ -5909,20 +6214,22 @@
   "recipes": [
    "almond-1",
    "birthday-wish-1",
-   "cheers-2",
+   "cheers-1",
    "chocolate-bar-2",
    "cloud-nine-1",
    "happy-tears-2",
-   "high-spirits-3",
    "ice-cream-1",
    "maple-syrup-1",
    "new-friend-2",
-   "open-invitation-1"
+   "open-invitation-1",
+   "pure-joy-1"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
+   "Cookie",
    "Fist Bump",
+   "High Spirits",
    "Pinky Promise",
    "Secret Handshake"
   ]
@@ -5950,7 +6257,7 @@
    "Wool"
   ],
   "recipes": [
-   "applause-2",
+   "applause-1",
    "back-slap-2",
    "best-friend-1",
    "block-party-1",
@@ -5992,7 +6299,7 @@
  },
  {
   "name": "Information Kiosk",
-  "group": "G087",
+  "group": "G088",
   "modelId": 16142,
   "nature": "service",
   "troves": [
@@ -6052,7 +6359,7 @@
  },
  {
   "name": "Jewelry",
-  "group": "G088",
+  "group": "G089",
   "modelId": 16139,
   "nature": "service",
   "troves": [
@@ -6071,6 +6378,7 @@
   ],
   "recipes": [
    "amulet-1",
+   "black-opal-1",
    "blue-diamond-1",
    "brooch-1",
    "charm-bracelet-2",
@@ -6093,7 +6401,6 @@
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Black Opal",
    "Happy Tears",
    "Heart",
    "Jubilee",
@@ -6103,7 +6410,7 @@
  },
  {
   "name": "Junior College",
-  "group": "G089",
+  "group": "G090",
   "modelId": 16136,
   "nature": "service",
   "troves": [
@@ -6150,9 +6457,9 @@
    "oil-painting-1",
    "passion-fruit-2",
    "pinky-promise-2",
-   "potluck-1",
+   "potluck-2",
    "pumpkin-2",
-   "pure-joy-1",
+   "pure-joy-2",
    "rocket-fuel-1",
    "space-suit-1",
    "squad-1",
@@ -6191,7 +6498,7 @@
  },
  {
   "name": "Kentucky Fried Kiosk",
-  "group": "G090",
+  "group": "G091",
   "modelId": 18770,
   "nature": "service",
   "troves": [
@@ -6281,7 +6588,7 @@
  },
  {
   "name": "Kiosk - Fried Chicken",
-  "group": "G090",
+  "group": "G091",
   "modelId": 16138,
   "nature": "service",
   "troves": [
@@ -6326,7 +6633,7 @@
  },
  {
   "name": "Kiosk - Gelato",
-  "group": "G091",
+  "group": "G092",
   "modelId": 15912,
   "nature": "service",
   "troves": [
@@ -6366,7 +6673,7 @@
  },
  {
   "name": "Kiosk - Hamburger",
-  "group": "G092",
+  "group": "G093",
   "modelId": 16016,
   "nature": "service",
   "troves": [
@@ -6452,7 +6759,7 @@
  },
  {
   "name": "Kiosk - Pizza",
-  "group": "G093",
+  "group": "G094",
   "modelId": 15911,
   "nature": "service",
   "troves": [
@@ -6495,7 +6802,7 @@
  },
  {
   "name": "Kiosk - Sushi",
-  "group": "G094",
+  "group": "G095",
   "modelId": 16048,
   "nature": "service",
   "troves": [
@@ -6538,7 +6845,7 @@
  },
  {
   "name": "Kiosk - Taco",
-  "group": "G095",
+  "group": "G096",
   "modelId": 16042,
   "nature": "service",
   "troves": [
@@ -6652,7 +6959,7 @@
    "Silver Coin"
   ],
   "recipes": [
-   "bouquet-4",
+   "bouquet-3",
    "city-key-2",
    "fresh-start-1",
    "gavel-2",
@@ -6701,13 +7008,14 @@
    "new-friend-1",
    "oil-painting-1",
    "pinky-promise-2",
-   "potluck-1",
-   "pure-joy-1",
+   "potluck-2",
+   "pure-joy-2",
    "snuggle-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
+   "Belly Laugh",
    "Shy Giggle",
    "Sleepover",
    "Standing Ovation"
@@ -6805,7 +7113,7 @@
    "scrapbook-2",
    "spell-book-1",
    "stamp-collection-2",
-   "treasure-map-2"
+   "world-map-2"
   ],
   "source": "catalog",
   "verified": false,
@@ -6821,7 +7129,7 @@
  },
  {
   "name": "Large Office",
-  "group": "G096",
+  "group": "G097",
   "modelId": 17024,
   "nature": "service",
   "troves": [
@@ -6985,7 +7293,7 @@
    "scrapbook-2",
    "spell-book-1",
    "stamp-collection-2",
-   "treasure-map-2"
+   "world-map-2"
   ],
   "source": "catalog+game",
   "verified": true,
@@ -7001,7 +7309,7 @@
  },
  {
   "name": "Live Jams Stage",
-  "group": "G097",
+  "group": "G098",
   "modelId": 19725,
   "nature": "service",
   "troves": [
@@ -7022,22 +7330,23 @@
    "Thread"
   ],
   "recipes": [
-   "applause-3",
-   "bouquet-1",
+   "applause-2",
    "cloud-nine-2",
    "confetti-toss-2",
-   "confetti-toss-4",
    "crowd-pleaser-1",
    "crown-2",
    "encore-2",
+   "fireworks-2",
+   "golden-record-1",
    "harmony-1",
    "invisible-cloak-1",
    "megaphone-1",
    "mic-drop-1",
+   "opening-night-1",
    "packed-house-1",
    "parade-1",
    "punchline-1",
-   "royal-orb-1",
+   "royal-orb-2",
    "royal-robe-2",
    "scepter-1",
    "snappy-comeback-2",
@@ -7052,13 +7361,14 @@
    "Action Figure",
    "Birthday Wish",
    "Blue Ribbon",
-   "Golden Record",
+   "Bouquet",
+   "Tiara",
    "Violin"
   ]
  },
  {
   "name": "Live Theater",
-  "group": "G097",
+  "group": "G098",
   "modelId": 16140,
   "nature": "service",
   "troves": [
@@ -7079,22 +7389,23 @@
    "Thread"
   ],
   "recipes": [
-   "applause-3",
-   "bouquet-1",
+   "applause-2",
    "cloud-nine-2",
    "confetti-toss-2",
-   "confetti-toss-4",
    "crowd-pleaser-1",
    "crown-2",
    "encore-2",
+   "fireworks-2",
+   "golden-record-1",
    "harmony-1",
    "invisible-cloak-1",
    "megaphone-1",
    "mic-drop-1",
+   "opening-night-1",
    "packed-house-1",
    "parade-1",
    "punchline-1",
-   "royal-orb-1",
+   "royal-orb-2",
    "royal-robe-2",
    "scepter-1",
    "snappy-comeback-2",
@@ -7109,7 +7420,8 @@
    "Action Figure",
    "Birthday Wish",
    "Blue Ribbon",
-   "Golden Record",
+   "Bouquet",
+   "Tiara",
    "Violin"
   ]
  },
@@ -7142,7 +7454,6 @@
    "casino-chip-2",
    "chalice-1",
    "champagne-1",
-   "cheers-1",
    "circuit-breaker-2",
    "dance-move-2",
    "electric-guitar-3",
@@ -7152,14 +7463,17 @@
    "moonshine-2",
    "punchline-2",
    "radio-1",
-   "roast-3",
+   "roast-2",
    "running-gag-1",
    "secret-handshake-2",
-   "talent-show-2"
+   "talent-show-2",
+   "wine-bottle-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
+   "Cheers",
+   "Confetti Toss",
    "Dice",
    "Hooray",
    "Huddle",
@@ -7167,12 +7481,13 @@
    "Packed House",
    "Snappy Comeback",
    "Soldering Iron",
+   "Standing Ovation",
    "Wink"
   ]
  },
  {
   "name": "Logistics center: Nexus Point",
-  "group": "G098",
+  "group": "G099",
   "modelId": 17403,
   "nature": "service",
   "troves": [
@@ -7215,7 +7530,7 @@
  },
  {
   "name": "Logistics center: Zenith Terminal",
-  "group": "G098",
+  "group": "G099",
   "modelId": 17402,
   "nature": "service",
   "troves": [
@@ -7291,7 +7606,7 @@
  },
  {
   "name": "Lotus of Upland Thai House",
-  "group": "G099",
+  "group": "G100",
   "modelId": 17903,
   "nature": "service",
   "troves": [
@@ -7311,7 +7626,7 @@
    "all-here-2",
    "apology-accepted-2",
    "beef-1",
-   "bouquet-3",
+   "bouquet-2",
    "casserole-1",
    "chicken-soup-2",
    "chili-powder-1",
@@ -7345,7 +7660,7 @@
  },
  {
   "name": "Luxury Fashion Boutique",
-  "group": "G100",
+  "group": "G101",
   "modelId": 16587,
   "nature": "service",
   "troves": [
@@ -7428,7 +7743,7 @@
    "all-here-2",
    "apology-accepted-2",
    "beef-1",
-   "bouquet-3",
+   "bouquet-2",
    "casserole-1",
    "caviar-1",
    "chicken-soup-2",
@@ -7472,7 +7787,7 @@
  },
  {
   "name": "Madame Moon's Fortune Telling",
-  "group": "G101",
+  "group": "G102",
   "modelId": 20841,
   "nature": "service",
   "troves": [
@@ -7494,25 +7809,18 @@
   ],
   "recipes": [
    "amulet-1",
-   "applause-3",
    "cloud-nine-2",
-   "confetti-toss-2",
    "crowd-pleaser-1",
    "crystal-ball-1",
    "invisible-cloak-1",
-   "megaphone-1",
-   "mic-drop-1",
    "punchline-1",
    "snappy-comeback-2",
-   "snow-globe-1",
    "special-guest-1"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Action Figure",
-   "Amethyst",
-   "Birthday Wish"
+   "Amethyst"
   ]
  },
  {
@@ -7562,7 +7870,7 @@
  },
  {
   "name": "Main Street Modular Apartments: Fashion Boutique Store Edition",
-  "group": "G100",
+  "group": "G101",
   "modelId": 17035,
   "nature": "mixed",
   "troves": [
@@ -7638,7 +7946,7 @@
  },
  {
   "name": "Main Street Modular Apartments: Pizzeria Edition",
-  "group": "G102",
+  "group": "G103",
   "modelId": 16919,
   "nature": "mixed",
   "troves": [
@@ -7659,7 +7967,7 @@
    "all-here-2",
    "apology-accepted-2",
    "bell-pepper-1",
-   "bouquet-3",
+   "bouquet-2",
    "casserole-1",
    "charcoal-2",
    "chicken-soup-2",
@@ -7693,7 +8001,7 @@
  },
  {
   "name": "Main Street Modular Apartments: Shoe Store Edition",
-  "group": "G103",
+  "group": "G104",
   "modelId": 17022,
   "nature": "mixed",
   "troves": [
@@ -7864,7 +8172,7 @@
  },
  {
   "name": "Main Street Modular: Pacific Northwest Trading Post Edition",
-  "group": "G104",
+  "group": "G105",
   "modelId": 17854,
   "nature": "mixed",
   "troves": [
@@ -7996,7 +8304,7 @@
    "scrapbook-2",
    "spell-book-1",
    "stamp-collection-2",
-   "treasure-map-2"
+   "world-map-2"
   ],
   "source": "catalog",
   "verified": false,
@@ -8038,7 +8346,7 @@
    "best-friend-2",
    "cacao-pod-2",
    "check-in-2",
-   "cheers-3",
+   "cheers-2",
    "cheese-wheel-1",
    "chocolate-bar-1",
    "day-off-2",
@@ -8069,9 +8377,11 @@
    "Food Drive",
    "Game Console",
    "Ice Cream",
+   "Locket",
    "Lullaby",
    "Maple Syrup",
    "Moral Support",
+   "Open Invitation",
    "Pinky Promise",
    "Secret Handshake",
    "Snappy Comeback",
@@ -8080,7 +8390,7 @@
  },
  {
   "name": "Mainstreet Modular Apartments: Clothing Boutique",
-  "group": "G100",
+  "group": "G101",
   "modelId": 16422,
   "nature": "mixed",
   "troves": [
@@ -8119,7 +8429,7 @@
  },
  {
   "name": "Mainstreet Modular Apartments: Farmer Supply Editions",
-  "group": "G105",
+  "group": "G106",
   "modelId": 19047,
   "nature": "mixed",
   "troves": [
@@ -8223,9 +8533,10 @@
    "amber-2",
    "amulet-1",
    "antique-vase-2",
+   "black-opal-1",
    "blue-diamond-1",
    "camera-2",
-   "cheers-4",
+   "chalice-2",
    "crown-1",
    "crystal-ball-2",
    "doubloon-1",
@@ -8236,36 +8547,36 @@
    "hourglass-1",
    "jade-dragon-1",
    "locket-1",
-   "magic-lamp-1",
-   "mammoth-tusk-1",
+   "magic-lamp-2",
+   "mammoth-tusk-2",
    "marble-bust-2",
+   "meteorite-2",
    "necklace-1",
    "pharaoh-mask-1",
    "royal-robe-1",
+   "skeleton-key-2",
    "spell-book-2",
-   "standing-ovation-3",
    "strongbox-2",
    "treasure-chest-2",
+   "violin-1",
    "wristwatch-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
    "Aged Whiskey",
-   "Black Opal",
    "Caviar",
-   "Chalice",
    "Charm Bracelet",
+   "Cheers",
    "Crown Jewel",
    "Diamond",
    "Ebony Log",
    "Heart",
    "Jubilee",
    "Master Chisel",
-   "Meteorite",
    "Moon Rock",
    "Photograph",
-   "Skeleton Key",
+   "Standing Ovation",
    "Wedding"
   ]
  },
@@ -8298,7 +8609,6 @@
    "casino-chip-2",
    "chalice-1",
    "champagne-1",
-   "cheers-1",
    "circuit-breaker-2",
    "dance-move-2",
    "electric-guitar-3",
@@ -8308,14 +8618,17 @@
    "moonshine-2",
    "punchline-2",
    "radio-1",
-   "roast-3",
+   "roast-2",
    "running-gag-1",
    "secret-handshake-2",
-   "talent-show-2"
+   "talent-show-2",
+   "wine-bottle-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
+   "Cheers",
+   "Confetti Toss",
    "Dice",
    "Hooray",
    "Huddle",
@@ -8323,6 +8636,7 @@
    "Packed House",
    "Snappy Comeback",
    "Soldering Iron",
+   "Standing Ovation",
    "Wink"
   ]
  },
@@ -8396,7 +8710,7 @@
  },
  {
   "name": "Mainstreet Modular Apartments: Zoomies Skate Shop Edition",
-  "group": "G106",
+  "group": "G107",
   "modelId": 19146,
   "nature": "mixed",
   "troves": [
@@ -8559,7 +8873,7 @@
  },
  {
   "name": "Martial Arts Dojo",
-  "group": "G107",
+  "group": "G108",
   "modelId": 16789,
   "nature": "service",
   "troves": [
@@ -8576,7 +8890,7 @@
    "Wool"
   ],
   "recipes": [
-   "applause-2",
+   "applause-1",
    "back-slap-2",
    "best-friend-1",
    "boxing-gloves-1",
@@ -8611,7 +8925,7 @@
  },
  {
   "name": "Massage Parlor",
-  "group": "G108",
+  "group": "G109",
   "modelId": 15910,
   "nature": "service",
   "troves": [
@@ -8725,7 +9039,7 @@
    "avocado-1",
    "beef-1",
    "bell-pepper-1",
-   "bouquet-3",
+   "bouquet-2",
    "casserole-1",
    "chicken-soup-2",
    "chili-powder-1",
@@ -8891,7 +9205,7 @@
    "Wool"
   ],
   "recipes": [
-   "applause-2",
+   "applause-1",
    "back-slap-2",
    "best-friend-1",
    "block-party-1",
@@ -8969,7 +9283,9 @@
    "oasis-2",
    "open-door-2",
    "plush-pillow-1",
+   "safe-haven-2",
    "sewing-kit-1",
+   "skeleton-key-1",
    "sleepover-1",
    "smoke-alarm-2",
    "snow-globe-2",
@@ -8985,9 +9301,7 @@
    "Happy Tears",
    "Lucky Penny",
    "Rare Coin",
-   "Safe Haven",
    "Sea Shell",
-   "Skeleton Key",
    "Strongbox",
    "Support Group",
    "Teddy Bear",
@@ -8997,7 +9311,7 @@
  },
  {
   "name": "Moonbeam Diner",
-  "group": "G109",
+  "group": "G110",
   "modelId": 17944,
   "nature": "service",
   "troves": [
@@ -9019,7 +9333,7 @@
    "apology-accepted-2",
    "beef-1",
    "bell-pepper-1",
-   "bouquet-3",
+   "bouquet-2",
    "bread-mother-1",
    "burger-2",
    "casserole-1",
@@ -9044,6 +9358,51 @@
    "Potluck",
    "Swoon",
    "Wristwatch"
+  ]
+ },
+ {
+  "name": "More Than Three Bottles Condiment Kiosk",
+  "group": "G039",
+  "modelId": null,
+  "nature": "service",
+  "troves": [
+   "Banana",
+   "Chili Powder",
+   "Corn Cob",
+   "Fresh Egg",
+   "Fruit Basket",
+   "Grin",
+   "Hearty Broth",
+   "Milk Pail",
+   "Pork",
+   "Salt",
+   "Shy Giggle",
+   "Strawberry",
+   "Sunlight",
+   "Wheat",
+   "Wink"
+  ],
+  "recipes": [
+   "belly-laugh-2",
+   "bucket-2",
+   "flour-1",
+   "good-times-1",
+   "goofy-face-2",
+   "picnic-2",
+   "pocket-knife-1",
+   "umbrella-1"
+  ],
+  "source": "catalog",
+  "verified": false,
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Come Anytime",
+   "Multitool",
+   "Pizza Slice",
+   "Potluck",
+   "Snappy Comeback",
+   "Talent Show",
+   "Welcome Mat"
   ]
  },
  {
@@ -9084,7 +9443,9 @@
    "oasis-2",
    "open-door-2",
    "plush-pillow-1",
+   "safe-haven-2",
    "sewing-kit-1",
+   "skeleton-key-1",
    "sleepover-1",
    "smoke-alarm-2",
    "snow-globe-2",
@@ -9100,9 +9461,7 @@
    "Happy Tears",
    "Lucky Penny",
    "Rare Coin",
-   "Safe Haven",
    "Sea Shell",
-   "Skeleton Key",
    "Strongbox",
    "Support Group",
    "Teddy Bear",
@@ -9138,7 +9497,7 @@
    "avocado-1",
    "beef-1",
    "bell-pepper-1",
-   "bouquet-3",
+   "bouquet-2",
    "bread-mother-1",
    "casserole-1",
    "caviar-1",
@@ -9215,7 +9574,7 @@
    "Wool"
   ],
   "recipes": [
-   "applause-2",
+   "applause-1",
    "back-slap-2",
    "best-friend-1",
    "block-party-1",
@@ -9275,12 +9634,12 @@
    "Warm Hug"
   ],
   "recipes": [
-   "applause-3",
-   "bouquet-1",
+   "applause-2",
    "cloud-nine-2",
    "crowd-pleaser-1",
    "good-times-1",
    "group-selfie-2",
+   "opening-night-1",
    "packed-house-1",
    "snow-globe-1",
    "special-guest-1"
@@ -9289,12 +9648,13 @@
   "verified": false,
   "bonusTroves": [
    "Action Figure",
-   "Birthday Wish"
+   "Birthday Wish",
+   "Bouquet"
   ]
  },
  {
   "name": "Musical Instrument Store",
-  "group": "G110",
+  "group": "G111",
   "modelId": 16888,
   "nature": "service",
   "troves": [
@@ -9316,7 +9676,7 @@
    "horn-1",
    "microphone-2",
    "sandalwood-2",
-   "standing-ovation-3"
+   "violin-1"
   ],
   "source": "catalog",
   "verified": false,
@@ -9423,7 +9783,7 @@
  },
  {
   "name": "Natural History Museum",
-  "group": "G111",
+  "group": "G112",
   "modelId": 16130,
   "nature": "service",
   "troves": [
@@ -9446,26 +9806,28 @@
   "recipes": [
    "amber-1",
    "ancient-scroll-2",
+   "black-opal-2",
    "calipers-1",
    "dynamite-2",
-   "fossil-1",
    "geode-1",
+   "gold-nugget-2",
+   "mammoth-tusk-1",
    "memory-lane-1",
    "meteorite-1",
+   "moon-rock-2",
    "pharaoh-mask-2",
    "telescope-1",
    "time-capsule-1",
-   "treasure-map-2"
+   "uranium-ore-2",
+   "world-map-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Black Opal",
+   "Fossil",
    "Ginseng Root",
-   "Gold Nugget",
-   "Mammoth Tusk",
    "Rough Gem",
-   "Uranium Ore"
+   "Treasure Map"
   ]
  },
  {
@@ -9498,7 +9860,7 @@
    "avocado-1",
    "beef-2",
    "bell-pepper-1",
-   "bouquet-2",
+   "bouquet-1",
    "bucket-2",
    "cacao-pod-1",
    "care-package-1",
@@ -9528,7 +9890,6 @@
    "picnic-1",
    "pumpkin-1",
    "rare-coin-2",
-   "roast-2",
    "saffron-1",
    "salami-2",
    "salmon-2",
@@ -9536,6 +9897,7 @@
    "soybean-1",
    "squid-2",
    "sugar-cane-2",
+   "sunday-dinner-2",
    "tea-leaf-1",
    "tomato-1",
    "truffle-2",
@@ -9555,6 +9917,7 @@
    "Pizza Slice",
    "Potluck",
    "Ramen Bowl",
+   "Roast",
    "Snappy Comeback",
    "Strawberry",
    "Sturgeon",
@@ -9567,7 +9930,7 @@
  },
  {
   "name": "Neighborhood Police Station",
-  "group": "G112",
+  "group": "G113",
   "modelId": 16182,
   "nature": "service",
   "troves": [
@@ -9610,7 +9973,7 @@
  },
  {
   "name": "Neon Glide Roller Rink",
-  "group": "G113",
+  "group": "G114",
   "modelId": 16699,
   "nature": "service",
   "troves": [
@@ -9627,7 +9990,7 @@
    "Warm Hug"
   ],
   "recipes": [
-   "applause-3",
+   "applause-2",
    "cloud-nine-2",
    "crowd-pleaser-1",
    "dance-move-1",
@@ -9652,7 +10015,7 @@
  },
  {
   "name": "Newspaper Headquarters",
-  "group": "G114",
+  "group": "G115",
   "modelId": 17020,
   "nature": "service",
   "troves": [
@@ -9686,7 +10049,7 @@
  },
  {
   "name": "Newspaper Stand",
-  "group": "G115",
+  "group": "G116",
   "modelId": 16265,
   "nature": "service",
   "troves": [
@@ -9755,7 +10118,7 @@
  },
  {
   "name": "Nomi Sushi Bar",
-  "group": "G116",
+  "group": "G117",
   "modelId": 17291,
   "nature": "service",
   "troves": [
@@ -9775,7 +10138,7 @@
    "all-here-2",
    "apology-accepted-2",
    "avocado-1",
-   "bouquet-3",
+   "bouquet-2",
    "casserole-1",
    "chicken-soup-2",
    "cod-1",
@@ -9824,7 +10187,7 @@
  },
  {
   "name": "Off the Wall Skate Park",
-  "group": "G117",
+  "group": "G118",
   "modelId": 18772,
   "nature": "service",
   "troves": [
@@ -9840,14 +10203,13 @@
    "Stopwatch"
   ],
   "recipes": [
-   "applause-2",
+   "applause-1",
    "back-slap-2",
    "best-friend-1",
    "crutches-2",
    "fresh-air-1",
    "good-times-2",
    "healing-kit-1",
-   "high-five-1",
    "huddle-2",
    "jubilee-1",
    "laurel-wreath-2",
@@ -9857,6 +10219,7 @@
    "packed-house-2",
    "pep-talk-2",
    "secret-handshake-1",
+   "skateboard-2",
    "squad-2",
    "standing-ovation-2",
    "trophy-cup-1",
@@ -9868,6 +10231,7 @@
   "bonusTroves": [
    "Block Party",
    "Come Anytime",
+   "High Five",
    "Hooray",
    "Stadium Wave",
    "Tennis Racket"
@@ -9875,7 +10239,7 @@
  },
  {
   "name": "Office Complex",
-  "group": "G096",
+  "group": "G097",
   "modelId": 17026,
   "nature": "service",
   "troves": [
@@ -9928,7 +10292,7 @@
  },
  {
   "name": "Office Tower",
-  "group": "G096",
+  "group": "G097",
   "modelId": 17025,
   "nature": "service",
   "troves": [
@@ -9981,7 +10345,7 @@
  },
  {
   "name": "Oil Change center",
-  "group": "G118",
+  "group": "G119",
   "modelId": 16773,
   "nature": "service",
   "troves": [
@@ -10018,7 +10382,7 @@
  },
  {
   "name": "Old Asylum",
-  "group": "G119",
+  "group": "G120",
   "modelId": 16360,
   "nature": "service",
   "troves": [
@@ -10081,7 +10445,7 @@
    "avocado-1",
    "beef-2",
    "bell-pepper-1",
-   "bouquet-2",
+   "bouquet-1",
    "bucket-2",
    "cacao-pod-1",
    "care-package-1",
@@ -10111,7 +10475,6 @@
    "picnic-1",
    "pumpkin-1",
    "rare-coin-2",
-   "roast-2",
    "saffron-1",
    "salami-2",
    "salmon-2",
@@ -10119,6 +10482,7 @@
    "soybean-1",
    "squid-2",
    "sugar-cane-2",
+   "sunday-dinner-2",
    "tea-leaf-1",
    "tomato-1",
    "truffle-2",
@@ -10138,6 +10502,7 @@
    "Pizza Slice",
    "Potluck",
    "Ramen Bowl",
+   "Roast",
    "Snappy Comeback",
    "Strawberry",
    "Sturgeon",
@@ -10288,7 +10653,7 @@
  },
  {
   "name": "Optometrist",
-  "group": "G120",
+  "group": "G121",
   "modelId": 16589,
   "nature": "service",
   "troves": [
@@ -10339,7 +10704,7 @@
    "Wool"
   ],
   "recipes": [
-   "applause-2",
+   "applause-1",
    "back-slap-2",
    "best-friend-1",
    "block-party-1",
@@ -10460,9 +10825,10 @@
    "amber-2",
    "amulet-1",
    "antique-vase-2",
+   "black-opal-1",
    "blue-diamond-1",
    "camera-2",
-   "cheers-4",
+   "chalice-2",
    "crown-1",
    "crystal-ball-2",
    "doubloon-1",
@@ -10473,42 +10839,42 @@
    "hourglass-1",
    "jade-dragon-1",
    "locket-1",
-   "magic-lamp-1",
-   "mammoth-tusk-1",
+   "magic-lamp-2",
+   "mammoth-tusk-2",
    "marble-bust-2",
+   "meteorite-2",
    "necklace-1",
    "pharaoh-mask-1",
    "royal-robe-1",
+   "skeleton-key-2",
    "spell-book-2",
-   "standing-ovation-3",
    "strongbox-2",
    "treasure-chest-2",
+   "violin-1",
    "wristwatch-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
    "Aged Whiskey",
-   "Black Opal",
    "Caviar",
-   "Chalice",
    "Charm Bracelet",
+   "Cheers",
    "Crown Jewel",
    "Diamond",
    "Ebony Log",
    "Heart",
    "Jubilee",
    "Master Chisel",
-   "Meteorite",
    "Moon Rock",
    "Photograph",
-   "Skeleton Key",
+   "Standing Ovation",
    "Wedding"
   ]
  },
  {
   "name": "Performing Arts Center",
-  "group": "G097",
+  "group": "G098",
   "modelId": 15909,
   "nature": "service",
   "troves": [
@@ -10529,22 +10895,23 @@
    "Thread"
   ],
   "recipes": [
-   "applause-3",
-   "bouquet-1",
+   "applause-2",
    "cloud-nine-2",
    "confetti-toss-2",
-   "confetti-toss-4",
    "crowd-pleaser-1",
    "crown-2",
    "encore-2",
+   "fireworks-2",
+   "golden-record-1",
    "harmony-1",
    "invisible-cloak-1",
    "megaphone-1",
    "mic-drop-1",
+   "opening-night-1",
    "packed-house-1",
    "parade-1",
    "punchline-1",
-   "royal-orb-1",
+   "royal-orb-2",
    "royal-robe-2",
    "scepter-1",
    "snappy-comeback-2",
@@ -10559,13 +10926,14 @@
    "Action Figure",
    "Birthday Wish",
    "Blue Ribbon",
-   "Golden Record",
+   "Bouquet",
+   "Tiara",
    "Violin"
   ]
  },
  {
   "name": "Pet Shop",
-  "group": "G121",
+  "group": "G122",
   "modelId": 16529,
   "nature": "service",
   "troves": [
@@ -10623,7 +10991,6 @@
    "Wool"
   ],
   "recipes": [
-   "cold-compress-1",
    "crutches-1",
    "fruit-basket-2",
    "get-well-2",
@@ -10634,17 +11001,20 @@
    "lanolin-2",
    "lollipop-1",
    "pill-bottle-1",
-   "steady-nerves-2"
+   "steady-nerves-2",
+   "thermometer-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Moral Support"
+   "Cold Compress",
+   "Moral Support",
+   "Mushroom"
   ]
  },
  {
   "name": "Pho Whoa",
-  "group": "G122",
+  "group": "G123",
   "modelId": 17865,
   "nature": "service",
   "troves": [
@@ -10665,7 +11035,7 @@
    "all-here-2",
    "apology-accepted-2",
    "beef-1",
-   "bouquet-3",
+   "bouquet-2",
    "casserole-1",
    "chicken-soup-2",
    "chili-powder-1",
@@ -10697,7 +11067,7 @@
  },
  {
   "name": "Physical Therapy Clinic",
-  "group": "G123",
+  "group": "G124",
   "modelId": 16198,
   "nature": "service",
   "troves": [
@@ -10726,7 +11096,7 @@
  },
  {
   "name": "Pickle Ball Courts",
-  "group": "G124",
+  "group": "G125",
   "modelId": 19049,
   "nature": "service",
   "troves": [
@@ -10742,7 +11112,7 @@
    "Thumbs Up"
   ],
   "recipes": [
-   "applause-2",
+   "applause-1",
    "best-friend-1",
    "good-times-2",
    "medal-2",
@@ -10810,7 +11180,7 @@
  },
  {
   "name": "Pizzeria",
-  "group": "G102",
+  "group": "G103",
   "modelId": 16893,
   "nature": "service",
   "troves": [
@@ -10831,7 +11201,7 @@
    "all-here-2",
    "apology-accepted-2",
    "bell-pepper-1",
-   "bouquet-3",
+   "bouquet-2",
    "casserole-1",
    "charcoal-2",
    "chicken-soup-2",
@@ -10865,7 +11235,7 @@
  },
  {
   "name": "Planetarium",
-  "group": "G125",
+  "group": "G126",
   "modelId": 16694,
   "nature": "service",
   "troves": [
@@ -10886,30 +11256,32 @@
    "binoculars-2",
    "compass-2",
    "electromagnet-2",
-   "fossil-1",
    "gyroscope-1",
    "hourglass-2",
    "meteorite-1",
-   "sea-shell-1",
+   "moon-rock-2",
+   "sextant-2",
    "space-suit-2",
    "telescope-1",
    "tesla-coil-2",
    "time-capsule-1",
-   "treasure-map-2"
+   "uranium-ore-2",
+   "world-map-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
    "Ancient Scroll",
+   "Fossil",
    "Geode",
    "Postcard",
-   "Sextant",
-   "Uranium Ore"
+   "Sea Shell",
+   "Treasure Map"
   ]
  },
  {
   "name": "Police Detention center",
-  "group": "G112",
+  "group": "G113",
   "modelId": 16900,
   "nature": "service",
   "troves": [
@@ -10952,7 +11324,7 @@
  },
  {
   "name": "Police Headquarters",
-  "group": "G112",
+  "group": "G113",
   "modelId": 15135,
   "nature": "service",
   "troves": [
@@ -11016,7 +11388,7 @@
    "Wool"
   ],
   "recipes": [
-   "applause-2",
+   "applause-1",
    "back-slap-2",
    "best-friend-1",
    "block-party-1",
@@ -11058,7 +11430,7 @@
  },
  {
   "name": "Post Office",
-  "group": "G126",
+  "group": "G127",
   "modelId": 16183,
   "nature": "service",
   "troves": [
@@ -11087,7 +11459,7 @@
  },
  {
   "name": "Post Office Distribution Center",
-  "group": "G126",
+  "group": "G127",
   "modelId": 16695,
   "nature": "service",
   "troves": [
@@ -11116,7 +11488,7 @@
  },
  {
   "name": "Private Swim Club",
-  "group": "G127",
+  "group": "G128",
   "modelId": 19483,
   "nature": "service",
   "troves": [
@@ -11133,7 +11505,7 @@
    "Sunglasses Face"
   ],
   "recipes": [
-   "applause-2",
+   "applause-1",
    "back-slap-2",
    "best-friend-1",
    "fresh-air-1",
@@ -11207,7 +11579,6 @@
    "casino-chip-2",
    "chalice-1",
    "champagne-1",
-   "cheers-1",
    "circuit-breaker-2",
    "dance-move-2",
    "electric-guitar-3",
@@ -11217,14 +11588,17 @@
    "moonshine-2",
    "punchline-2",
    "radio-1",
-   "roast-3",
+   "roast-2",
    "running-gag-1",
    "secret-handshake-2",
-   "talent-show-2"
+   "talent-show-2",
+   "wine-bottle-2"
   ],
   "source": "catalog+game",
   "verified": true,
   "bonusTroves": [
+   "Cheers",
+   "Confetti Toss",
    "Dice",
    "Hooray",
    "Huddle",
@@ -11232,12 +11606,13 @@
    "Packed House",
    "Snappy Comeback",
    "Soldering Iron",
+   "Standing Ovation",
    "Wink"
   ]
  },
  {
   "name": "Public Pool",
-  "group": "G128",
+  "group": "G129",
   "modelId": 16685,
   "nature": "service",
   "troves": [
@@ -11254,7 +11629,7 @@
    "Sunglasses Face"
   ],
   "recipes": [
-   "applause-2",
+   "applause-1",
    "back-slap-2",
    "best-friend-1",
    "fresh-air-1",
@@ -11290,7 +11665,7 @@
  },
  {
   "name": "Pure Pose Yoga",
-  "group": "G129",
+  "group": "G130",
   "modelId": 17293,
   "nature": "service",
   "troves": [
@@ -11351,19 +11726,19 @@
    "bucket-1",
    "clean-water-2",
    "day-off-2",
+   "fresh-start-1",
    "hello-again-1"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
    "Come Anytime",
-   "Fresh Start",
    "Ice Cream"
   ]
  },
  {
   "name": "Quickserver Surf Co",
-  "group": "G130",
+  "group": "G131",
   "modelId": 18771,
   "nature": "service",
   "troves": [
@@ -11396,7 +11771,7 @@
  },
  {
   "name": "Radio Station",
-  "group": "G131",
+  "group": "G132",
   "modelId": 16883,
   "nature": "service",
   "troves": [
@@ -11415,25 +11790,26 @@
    "Switch"
   ],
   "recipes": [
-   "applause-1",
    "camera-1",
    "electric-guitar-1",
    "headphones-1",
    "hello-again-1",
    "microphone-1",
+   "radio-2",
    "soldering-iron-2",
    "swoon-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
+   "Applause",
    "Golden Record",
    "Royal Robe"
   ]
  },
  {
   "name": "Ramen Restaurant",
-  "group": "G132",
+  "group": "G133",
   "modelId": 16774,
   "nature": "service",
   "troves": [
@@ -11455,7 +11831,7 @@
    "all-here-2",
    "apology-accepted-2",
    "beef-1",
-   "bouquet-3",
+   "bouquet-2",
    "casserole-1",
    "chicken-soup-2",
    "chili-powder-1",
@@ -11498,7 +11874,7 @@
  },
  {
   "name": "Recycling Center",
-  "group": "G133",
+  "group": "G134",
   "modelId": 16264,
   "nature": "service",
   "troves": [
@@ -11609,7 +11985,6 @@
   "recipes": [
    "bed-rest-1",
    "blood-donation-2",
-   "cold-compress-1",
    "crutches-1",
    "family-doctor-2",
    "fruit-basket-2",
@@ -11630,18 +12005,22 @@
    "steady-nerves-2",
    "stethoscope-2",
    "support-group-1",
+   "thermometer-2",
    "tweezers-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
    "Amethyst",
-   "Moral Support"
+   "Cold Compress",
+   "Cookie",
+   "Moral Support",
+   "Mushroom"
   ]
  },
  {
   "name": "Regional Police Station",
-  "group": "G112",
+  "group": "G113",
   "modelId": 17292,
   "nature": "service",
   "troves": [
@@ -11684,7 +12063,7 @@
  },
  {
   "name": "Rick's Sporting Goods",
-  "group": "G134",
+  "group": "G135",
   "modelId": 17290,
   "nature": "service",
   "troves": [
@@ -11723,7 +12102,7 @@
  },
  {
   "name": "Rip Curl’d Swimwear",
-  "group": "G135",
+  "group": "G136",
   "modelId": 19178,
   "nature": "service",
   "troves": [
@@ -11844,7 +12223,7 @@
  },
  {
   "name": "Science Museum",
-  "group": "G136",
+  "group": "G137",
   "modelId": 16263,
   "nature": "service",
   "troves": [
@@ -11868,27 +12247,29 @@
    "calipers-1",
    "compass-2",
    "electromagnet-2",
-   "fossil-1",
    "gyroscope-1",
    "hourglass-2",
    "meteorite-1",
-   "sea-shell-1",
+   "moon-rock-2",
+   "sextant-2",
    "space-suit-2",
    "telescope-1",
    "tesla-coil-2",
-   "treasure-map-2"
+   "uranium-ore-2",
+   "world-map-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Sextant",
+   "Fossil",
+   "Sea Shell",
    "Soldering Iron",
-   "Uranium Ore"
+   "Treasure Map"
   ]
  },
  {
   "name": "Seattle Music Venue Service Structure",
-  "group": "G137",
+  "group": "G138",
   "modelId": 16923,
   "nature": "service",
   "troves": [
@@ -11905,10 +12286,11 @@
    "Warm Hug"
   ],
   "recipes": [
-   "applause-3",
+   "applause-2",
    "cloud-nine-2",
    "crowd-pleaser-1",
    "encore-2",
+   "golden-record-1",
    "harmony-1",
    "megaphone-1",
    "mic-drop-1",
@@ -11920,7 +12302,6 @@
   "verified": false,
   "bonusTroves": [
    "Blue Ribbon",
-   "Golden Record",
    "Violin"
   ]
  },
@@ -11937,7 +12318,7 @@
  },
  {
   "name": "Set Point Beach Club",
-  "group": "G138",
+  "group": "G139",
   "modelId": 19147,
   "nature": "service",
   "troves": [
@@ -11954,7 +12335,7 @@
    "Sunglasses Face"
   ],
   "recipes": [
-   "applause-2",
+   "applause-1",
    "back-slap-2",
    "best-friend-1",
    "fresh-air-1",
@@ -12035,7 +12416,7 @@
  },
  {
   "name": "Singapore Kopitiam",
-  "group": "G139",
+  "group": "G140",
   "modelId": 16691,
   "nature": "service",
   "troves": [
@@ -12100,7 +12481,6 @@
   "recipes": [
    "bed-rest-1",
    "blood-donation-2",
-   "cold-compress-1",
    "crutches-1",
    "family-doctor-2",
    "fruit-basket-2",
@@ -12121,13 +12501,17 @@
    "steady-nerves-2",
    "stethoscope-2",
    "support-group-1",
+   "thermometer-2",
    "tweezers-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
    "Amethyst",
-   "Moral Support"
+   "Cold Compress",
+   "Cookie",
+   "Moral Support",
+   "Mushroom"
   ]
  },
  {
@@ -12202,7 +12586,7 @@
  },
  {
   "name": "Small Office",
-  "group": "G096",
+  "group": "G097",
   "modelId": 17023,
   "nature": "service",
   "troves": [
@@ -12299,7 +12683,7 @@
  },
  {
   "name": "Sneaker Store",
-  "group": "G103",
+  "group": "G104",
   "modelId": 16702,
   "nature": "service",
   "troves": [
@@ -12334,7 +12718,7 @@
  },
  {
   "name": "Soccer Field",
-  "group": "G140",
+  "group": "G141",
   "modelId": 17044,
   "nature": "service",
   "troves": [
@@ -12350,7 +12734,7 @@
    "Thread"
   ],
   "recipes": [
-   "applause-2",
+   "applause-1",
    "back-slap-2",
    "best-friend-1",
    "football-2",
@@ -12412,7 +12796,7 @@
    "avocado-1",
    "beef-2",
    "bell-pepper-1",
-   "bouquet-2",
+   "bouquet-1",
    "bucket-2",
    "cacao-pod-1",
    "care-package-1",
@@ -12442,7 +12826,6 @@
    "picnic-1",
    "pumpkin-1",
    "rare-coin-2",
-   "roast-2",
    "saffron-1",
    "salami-2",
    "salmon-2",
@@ -12450,6 +12833,7 @@
    "soybean-1",
    "squid-2",
    "sugar-cane-2",
+   "sunday-dinner-2",
    "tea-leaf-1",
    "tomato-1",
    "truffle-2",
@@ -12469,6 +12853,7 @@
    "Pizza Slice",
    "Potluck",
    "Ramen Bowl",
+   "Roast",
    "Snappy Comeback",
    "Strawberry",
    "Sturgeon",
@@ -12481,7 +12866,7 @@
  },
  {
   "name": "South America Modular Apartments: Rodizio Edition",
-  "group": "G141",
+  "group": "G142",
   "modelId": 17049,
   "nature": "service",
   "troves": [
@@ -12503,7 +12888,7 @@
    "all-here-2",
    "apology-accepted-2",
    "beef-1",
-   "bouquet-3",
+   "bouquet-2",
    "casserole-1",
    "charcoal-2",
    "chicken-soup-2",
@@ -12567,7 +12952,6 @@
    "casino-chip-2",
    "chalice-1",
    "champagne-1",
-   "cheers-1",
    "circuit-breaker-2",
    "dance-move-2",
    "electric-guitar-3",
@@ -12577,14 +12961,17 @@
    "moonshine-2",
    "punchline-2",
    "radio-1",
-   "roast-3",
+   "roast-2",
    "running-gag-1",
    "secret-handshake-2",
-   "talent-show-2"
+   "talent-show-2",
+   "wine-bottle-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
+   "Cheers",
+   "Confetti Toss",
    "Dice",
    "Hooray",
    "Huddle",
@@ -12592,12 +12979,13 @@
    "Packed House",
    "Snappy Comeback",
    "Soldering Iron",
+   "Standing Ovation",
    "Wink"
   ]
  },
  {
   "name": "Southside Boxing Club",
-  "group": "G142",
+  "group": "G143",
   "modelId": 17060,
   "nature": "service",
   "troves": [
@@ -12615,7 +13003,7 @@
    "Wool"
   ],
   "recipes": [
-   "applause-2",
+   "applause-1",
    "back-slap-2",
    "best-friend-1",
    "boxing-gloves-1",
@@ -12672,7 +13060,7 @@
  },
  {
   "name": "Sports Courts",
-  "group": "G143",
+  "group": "G144",
   "modelId": 15542,
   "nature": "service",
   "troves": [
@@ -12688,7 +13076,7 @@
    "Thread"
   ],
   "recipes": [
-   "applause-2",
+   "applause-1",
    "back-slap-2",
    "baseball-bat-2",
    "basketball-2",
@@ -12727,7 +13115,7 @@
  },
  {
   "name": "Starlite Precinct",
-  "group": "G112",
+  "group": "G113",
   "modelId": 17942,
   "nature": "service",
   "troves": [
@@ -12770,7 +13158,7 @@
  },
  {
   "name": "Steakhouse",
-  "group": "G141",
+  "group": "G142",
   "modelId": 17021,
   "nature": "service",
   "troves": [
@@ -12792,7 +13180,7 @@
    "all-here-2",
    "apology-accepted-2",
    "beef-1",
-   "bouquet-3",
+   "bouquet-2",
    "casserole-1",
    "charcoal-2",
    "chicken-soup-2",
@@ -12935,17 +13323,17 @@
    "baguette-loaf-2",
    "birthday-wish-1",
    "bread-mother-2",
-   "cheers-2",
+   "cheers-1",
    "chocolate-bar-2",
    "cloud-nine-1",
    "flour-2",
    "happy-tears-2",
-   "high-spirits-3",
    "ice-cream-1",
    "lollipop-2",
    "maple-syrup-1",
    "new-friend-2",
    "open-invitation-1",
+   "pure-joy-1",
    "scissors-1",
    "sugar-cane-1"
   ],
@@ -12962,7 +13350,7 @@
  },
  {
   "name": "Sunglass Shack",
-  "group": "G144",
+  "group": "G145",
   "modelId": 19484,
   "nature": "service",
   "troves": [
@@ -13012,7 +13400,7 @@
    "Wool"
   ],
   "recipes": [
-   "applause-2",
+   "applause-1",
    "back-slap-2",
    "best-friend-1",
    "block-party-1",
@@ -13082,7 +13470,7 @@
    "avocado-1",
    "beef-2",
    "bell-pepper-1",
-   "bouquet-2",
+   "bouquet-1",
    "bucket-2",
    "cacao-pod-1",
    "care-package-1",
@@ -13112,7 +13500,6 @@
    "picnic-1",
    "pumpkin-1",
    "rare-coin-2",
-   "roast-2",
    "saffron-1",
    "salami-2",
    "salmon-2",
@@ -13120,6 +13507,7 @@
    "soybean-1",
    "squid-2",
    "sugar-cane-2",
+   "sunday-dinner-2",
    "tea-leaf-1",
    "tomato-1",
    "truffle-2",
@@ -13139,6 +13527,7 @@
    "Pizza Slice",
    "Potluck",
    "Ramen Bowl",
+   "Roast",
    "Snappy Comeback",
    "Strawberry",
    "Sturgeon",
@@ -13179,7 +13568,7 @@
    "avocado-1",
    "beef-2",
    "bell-pepper-1",
-   "bouquet-2",
+   "bouquet-1",
    "bucket-2",
    "cacao-pod-1",
    "care-package-1",
@@ -13209,7 +13598,6 @@
    "picnic-1",
    "pumpkin-1",
    "rare-coin-2",
-   "roast-2",
    "saffron-1",
    "salami-2",
    "salmon-2",
@@ -13217,6 +13605,7 @@
    "soybean-1",
    "squid-2",
    "sugar-cane-2",
+   "sunday-dinner-2",
    "tea-leaf-1",
    "tomato-1",
    "truffle-2",
@@ -13236,6 +13625,7 @@
    "Pizza Slice",
    "Potluck",
    "Ramen Bowl",
+   "Roast",
    "Snappy Comeback",
    "Strawberry",
    "Sturgeon",
@@ -13248,7 +13638,7 @@
  },
  {
   "name": "Swiggly Soda Shop",
-  "group": "G145",
+  "group": "G146",
   "modelId": 17900,
   "nature": "service",
   "troves": [
@@ -13267,26 +13657,28 @@
   ],
   "recipes": [
    "birthday-wish-1",
-   "cheers-2",
+   "cheers-1",
    "chocolate-bar-2",
    "cloud-nine-1",
    "happy-tears-2",
-   "high-spirits-3",
    "ice-cream-1",
    "new-friend-2",
-   "open-invitation-1"
+   "open-invitation-1",
+   "pure-joy-1"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
+   "Cookie",
    "Fist Bump",
+   "High Spirits",
    "Pinky Promise",
    "Secret Handshake"
   ]
  },
  {
   "name": "SynthTag Laser Tag",
-  "group": "G146",
+  "group": "G147",
   "modelId": 16697,
   "nature": "service",
   "troves": [
@@ -13303,7 +13695,7 @@
    "Warm Hug"
   ],
   "recipes": [
-   "applause-3",
+   "applause-2",
    "cloud-nine-2",
    "crowd-pleaser-1",
    "dance-move-1",
@@ -13328,7 +13720,7 @@
  },
  {
   "name": "Taco Stand",
-  "group": "G095",
+  "group": "G096",
   "modelId": 19050,
   "nature": "service",
   "troves": [
@@ -13429,7 +13821,7 @@
  },
  {
   "name": "Tandoor House",
-  "group": "G147",
+  "group": "G148",
   "modelId": 17058,
   "nature": "service",
   "troves": [
@@ -13449,7 +13841,7 @@
   "recipes": [
    "all-here-2",
    "apology-accepted-2",
-   "bouquet-3",
+   "bouquet-2",
    "bread-mother-1",
    "casserole-1",
    "charcoal-2",
@@ -13484,7 +13876,7 @@
  },
  {
   "name": "Tapas Bar",
-  "group": "G148",
+  "group": "G149",
   "modelId": 16195,
   "nature": "service",
   "troves": [
@@ -13505,7 +13897,7 @@
    "all-here-2",
    "apology-accepted-2",
    "beef-1",
-   "bouquet-3",
+   "bouquet-2",
    "casserole-1",
    "chicken-soup-2",
    "chili-powder-1",
@@ -13592,7 +13984,7 @@
  },
  {
   "name": "Taxi Depot",
-  "group": "G149",
+  "group": "G150",
   "modelId": 16884,
   "nature": "service",
   "troves": [
@@ -13624,7 +14016,7 @@
  },
  {
   "name": "Tennis court",
-  "group": "G150",
+  "group": "G151",
   "modelId": 17056,
   "nature": "service",
   "troves": [
@@ -13640,7 +14032,7 @@
    "Thumbs Up"
   ],
   "recipes": [
-   "applause-2",
+   "applause-1",
    "best-friend-1",
    "good-times-2",
    "medal-2",
@@ -13664,7 +14056,7 @@
  },
  {
   "name": "The Amsterdam Cheese House",
-  "group": "G151",
+  "group": "G152",
   "modelId": 19201,
   "nature": "service",
   "troves": [
@@ -13821,26 +14213,97 @@
    "baguette-loaf-2",
    "birthday-wish-1",
    "bread-mother-2",
-   "cheers-2",
+   "cheers-1",
    "chocolate-bar-2",
    "cloud-nine-1",
    "flour-2",
    "happy-tears-2",
-   "high-spirits-3",
    "ice-cream-1",
    "lollipop-2",
    "maple-syrup-1",
    "new-friend-2",
    "open-invitation-1",
+   "pure-joy-1",
    "scissors-1",
    "sugar-cane-1"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
+   "Cookie",
    "Fist Bump",
+   "High Spirits",
+   "Jam Jar",
    "Pinky Promise",
    "Secret Handshake"
+  ]
+ },
+ {
+  "name": "The Black Iron Forge",
+  "group": "G024",
+  "modelId": null,
+  "nature": "service",
+  "troves": [
+   "Brass Token",
+   "Brooch",
+   "Charm Bracelet",
+   "Coil Spring",
+   "Dollar Bill",
+   "Glass Bead",
+   "Grin",
+   "Incense Stick",
+   "Silver Coin",
+   "Sunlight",
+   "Thread",
+   "Thumbs Up",
+   "Twine",
+   "Wink",
+   "Wool"
+  ],
+  "recipes": [
+   "amulet-1",
+   "antique-vase-2",
+   "baby-monitor-2",
+   "brooch-1",
+   "bubble-bath-1",
+   "charm-bracelet-2",
+   "cotton-boll-2",
+   "cradle-1",
+   "earring-2",
+   "ebony-log-1",
+   "electric-blanket-1",
+   "flashlight-2",
+   "flax-2",
+   "harmonica-2",
+   "locket-1",
+   "lotus-2",
+   "mud-mask-1",
+   "necklace-1",
+   "pendant-1",
+   "pocket-knife-2",
+   "rawhide-1",
+   "royal-robe-1",
+   "sandalwood-2",
+   "sheepskin-2",
+   "straight-razor-2",
+   "tiara-2",
+   "welcome-mat-1",
+   "wristwatch-2"
+  ],
+  "source": "catalog",
+  "verified": false,
+  "bonusTroves": [
+   "Compass",
+   "Crown Jewel",
+   "Gold Ring",
+   "Heart",
+   "Horn",
+   "Knitting Circle",
+   "Lanolin",
+   "Lucky Penny",
+   "Lullaby",
+   "Multitool",
+   "Tool Chest"
   ]
  },
  {
@@ -13868,7 +14331,7 @@
    "apology-accepted-2",
    "beef-1",
    "bell-pepper-1",
-   "bouquet-3",
+   "bouquet-2",
    "burger-2",
    "casserole-1",
    "chicken-soup-2",
@@ -13897,8 +14360,53 @@
   ]
  },
  {
+  "name": "The Cinnamon Swirl Kiosk",
+  "group": "G039",
+  "modelId": null,
+  "nature": "service",
+  "troves": [
+   "Banana",
+   "Chili Powder",
+   "Corn Cob",
+   "Fresh Egg",
+   "Fruit Basket",
+   "Grin",
+   "Hearty Broth",
+   "Milk Pail",
+   "Pork",
+   "Salt",
+   "Shy Giggle",
+   "Strawberry",
+   "Sunlight",
+   "Wheat",
+   "Wink"
+  ],
+  "recipes": [
+   "belly-laugh-2",
+   "bucket-2",
+   "flour-1",
+   "good-times-1",
+   "goofy-face-2",
+   "picnic-2",
+   "pocket-knife-1",
+   "umbrella-1"
+  ],
+  "source": "catalog",
+  "verified": false,
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Come Anytime",
+   "Multitool",
+   "Pizza Slice",
+   "Potluck",
+   "Snappy Comeback",
+   "Talent Show",
+   "Welcome Mat"
+  ]
+ },
+ {
   "name": "The Climbing Collective",
-  "group": "G152",
+  "group": "G153",
   "modelId": 19002,
   "nature": "service",
   "troves": [
@@ -13960,7 +14468,6 @@
    "Wool"
   ],
   "recipes": [
-   "cold-compress-1",
    "crutches-1",
    "fruit-basket-2",
    "get-well-2",
@@ -13971,12 +14478,15 @@
    "lanolin-2",
    "lollipop-1",
    "pill-bottle-1",
-   "steady-nerves-2"
+   "steady-nerves-2",
+   "thermometer-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
-   "Moral Support"
+   "Cold Compress",
+   "Moral Support",
+   "Mushroom"
   ]
  },
  {
@@ -14228,6 +14738,52 @@
   ]
  },
  {
+  "name": "The Dusty Tome Bookshop",
+  "group": "G027",
+  "modelId": null,
+  "nature": "service",
+  "troves": [
+   "Birch Bark",
+   "Deep Breath",
+   "Knowing Nod",
+   "Lens",
+   "Listening Ear",
+   "Love Letter",
+   "Marble Bust",
+   "Oil Painting",
+   "Peace Sign",
+   "Photograph",
+   "Playbill",
+   "Postcard",
+   "Shy Giggle",
+   "Thread",
+   "Twine"
+  ],
+  "recipes": [
+   "ancient-scroll-2",
+   "bedtime-story-1",
+   "comic-book-2",
+   "inner-peace-1",
+   "memory-lane-1",
+   "quiet-hour-1",
+   "scrapbook-2",
+   "spell-book-1",
+   "stamp-collection-2",
+   "world-map-2"
+  ],
+  "source": "catalog",
+  "verified": false,
+  "bonusTroves": [
+   "Action Figure",
+   "Family Crest",
+   "Game Console",
+   "Lullaby",
+   "Teddy Bear",
+   "Treasure Map",
+   "Zen Stone"
+  ]
+ },
+ {
   "name": "The Flickering Wick",
   "group": "G024",
   "modelId": 20092,
@@ -14297,7 +14853,7 @@
  },
  {
   "name": "The Golden Vault Bank",
-  "group": "G153",
+  "group": "G154",
   "modelId": 18571,
   "nature": "service",
   "troves": [
@@ -14338,6 +14894,104 @@
   ]
  },
  {
+  "name": "The Grand Bazaar Spice Shop",
+  "group": "G026",
+  "modelId": null,
+  "nature": "service",
+  "troves": [
+   "Apple",
+   "Cabbage",
+   "Carrot",
+   "Dollar Bill",
+   "Friendly Wave",
+   "Fruit Basket",
+   "Handshake",
+   "Helping Hand",
+   "Jam Jar",
+   "Kind Word",
+   "Lettuce",
+   "Milk Pail",
+   "Orange",
+   "Potato",
+   "Salt",
+   "Silver Coin",
+   "Thumbs Up"
+  ],
+  "recipes": [
+   "almond-2",
+   "asparagus-1",
+   "avocado-1",
+   "beef-2",
+   "bell-pepper-1",
+   "bouquet-1",
+   "bucket-2",
+   "cacao-pod-1",
+   "care-package-1",
+   "catfish-2",
+   "cheese-wheel-2",
+   "chicken-soup-1",
+   "chickpea-1",
+   "chili-powder-2",
+   "cod-2",
+   "crab-1",
+   "cranberry-1",
+   "cucumber-1",
+   "food-drive-1",
+   "fruit-basket-1",
+   "ginger-1",
+   "goofy-face-2",
+   "grape-1",
+   "home-cooking-1",
+   "jam-jar-1",
+   "lamb-1",
+   "lemon-1",
+   "lentil-1",
+   "maple-syrup-2",
+   "olive-1",
+   "olive-oil-1",
+   "oyster-2",
+   "picnic-1",
+   "pumpkin-1",
+   "rare-coin-2",
+   "saffron-1",
+   "salami-2",
+   "salmon-2",
+   "scissors-1",
+   "soybean-1",
+   "squid-2",
+   "sugar-cane-2",
+   "sunday-dinner-2",
+   "tea-leaf-1",
+   "tomato-1",
+   "truffle-2",
+   "wine-bottle-1"
+  ],
+  "source": "catalog",
+  "verified": false,
+  "bonusTroves": [
+   "Air Kiss",
+   "Baguette Loaf",
+   "Burger",
+   "Chocolate Bar",
+   "Healing Kit",
+   "Lobster",
+   "Lollipop",
+   "Milk Pail",
+   "Pizza Slice",
+   "Potluck",
+   "Ramen Bowl",
+   "Roast",
+   "Snappy Comeback",
+   "Strawberry",
+   "Sturgeon",
+   "Taco",
+   "Talent Show",
+   "Tuna",
+   "Walnut",
+   "Welcome Mat"
+  ]
+ },
+ {
   "name": "The Grimwood Hotel",
   "group": "G041",
   "modelId": 20362,
@@ -14375,7 +15029,9 @@
    "oasis-2",
    "open-door-2",
    "plush-pillow-1",
+   "safe-haven-2",
    "sewing-kit-1",
+   "skeleton-key-1",
    "sleepover-1",
    "smoke-alarm-2",
    "snow-globe-2",
@@ -14391,9 +15047,7 @@
    "Happy Tears",
    "Lucky Penny",
    "Rare Coin",
-   "Safe Haven",
    "Sea Shell",
-   "Skeleton Key",
    "Strongbox",
    "Support Group",
    "Teddy Bear",
@@ -14430,7 +15084,6 @@
    "casino-chip-2",
    "chalice-1",
    "champagne-1",
-   "cheers-1",
    "circuit-breaker-2",
    "dance-move-2",
    "electric-guitar-3",
@@ -14440,14 +15093,17 @@
    "moonshine-2",
    "punchline-2",
    "radio-1",
-   "roast-3",
+   "roast-2",
    "running-gag-1",
    "secret-handshake-2",
-   "talent-show-2"
+   "talent-show-2",
+   "wine-bottle-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
+   "Cheers",
+   "Confetti Toss",
    "Dice",
    "Hooray",
    "Huddle",
@@ -14455,6 +15111,7 @@
    "Packed House",
    "Snappy Comeback",
    "Soldering Iron",
+   "Standing Ovation",
    "Wink"
   ]
  },
@@ -14487,24 +15144,27 @@
    "baguette-loaf-2",
    "birthday-wish-1",
    "bread-mother-2",
-   "cheers-2",
+   "cheers-1",
    "chocolate-bar-2",
    "cloud-nine-1",
    "flour-2",
    "happy-tears-2",
-   "high-spirits-3",
    "ice-cream-1",
    "lollipop-2",
    "maple-syrup-1",
    "new-friend-2",
    "open-invitation-1",
+   "pure-joy-1",
    "scissors-1",
    "sugar-cane-1"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
+   "Cookie",
    "Fist Bump",
+   "High Spirits",
+   "Jam Jar",
    "Pinky Promise",
    "Secret Handshake"
   ]
@@ -14543,7 +15203,7 @@
  },
  {
   "name": "The Lobster Shack",
-  "group": "G154",
+  "group": "G155",
   "modelId": 17047,
   "nature": "service",
   "troves": [
@@ -14563,7 +15223,7 @@
   "recipes": [
    "all-here-2",
    "apology-accepted-2",
-   "bouquet-3",
+   "bouquet-2",
    "casserole-1",
    "chicken-soup-2",
    "cod-1",
@@ -14632,7 +15292,9 @@
    "oasis-2",
    "open-door-2",
    "plush-pillow-1",
+   "safe-haven-2",
    "sewing-kit-1",
+   "skeleton-key-1",
    "sleepover-1",
    "smoke-alarm-2",
    "snow-globe-2",
@@ -14648,9 +15310,7 @@
    "Happy Tears",
    "Lucky Penny",
    "Rare Coin",
-   "Safe Haven",
    "Sea Shell",
-   "Skeleton Key",
    "Strongbox",
    "Support Group",
    "Teddy Bear",
@@ -14690,7 +15350,7 @@
    "scrapbook-2",
    "spell-book-1",
    "stamp-collection-2",
-   "treasure-map-2"
+   "world-map-2"
   ],
   "source": "catalog",
   "verified": false,
@@ -14702,6 +15362,74 @@
    "Teddy Bear",
    "Treasure Map",
    "Zen Stone"
+  ]
+ },
+ {
+  "name": "The Patchwork Hearth Quilt Shop",
+  "group": "G024",
+  "modelId": null,
+  "nature": "service",
+  "troves": [
+   "Brass Token",
+   "Brooch",
+   "Charm Bracelet",
+   "Coil Spring",
+   "Dollar Bill",
+   "Glass Bead",
+   "Grin",
+   "Incense Stick",
+   "Silver Coin",
+   "Sunlight",
+   "Thread",
+   "Thumbs Up",
+   "Twine",
+   "Wink",
+   "Wool"
+  ],
+  "recipes": [
+   "amulet-1",
+   "antique-vase-2",
+   "baby-monitor-2",
+   "brooch-1",
+   "bubble-bath-1",
+   "charm-bracelet-2",
+   "cotton-boll-2",
+   "cradle-1",
+   "earring-2",
+   "ebony-log-1",
+   "electric-blanket-1",
+   "flashlight-2",
+   "flax-2",
+   "harmonica-2",
+   "locket-1",
+   "lotus-2",
+   "mud-mask-1",
+   "necklace-1",
+   "pendant-1",
+   "pocket-knife-2",
+   "rawhide-1",
+   "royal-robe-1",
+   "sandalwood-2",
+   "sheepskin-2",
+   "straight-razor-2",
+   "tiara-2",
+   "welcome-mat-1",
+   "wristwatch-2"
+  ],
+  "source": "catalog",
+  "verified": false,
+  "bonusTroves": [
+   "Compass",
+   "Crown Jewel",
+   "Gold Ring",
+   "Heart",
+   "Horn",
+   "Knitting Circle",
+   "Lanolin",
+   "Lucky Penny",
+   "Lullaby",
+   "Multitool",
+   "Tool Chest"
   ]
  },
  {
@@ -14729,7 +15457,7 @@
    "apology-accepted-2",
    "beef-1",
    "bell-pepper-1",
-   "bouquet-3",
+   "bouquet-2",
    "burger-2",
    "casserole-1",
    "chicken-soup-2",
@@ -14785,7 +15513,7 @@
    "best-friend-2",
    "cacao-pod-2",
    "check-in-2",
-   "cheers-3",
+   "cheers-2",
    "cheese-wheel-1",
    "chocolate-bar-1",
    "day-off-2",
@@ -14816,9 +15544,11 @@
    "Food Drive",
    "Game Console",
    "Ice Cream",
+   "Locket",
    "Lullaby",
    "Maple Syrup",
    "Moral Support",
+   "Open Invitation",
    "Pinky Promise",
    "Secret Handshake",
    "Snappy Comeback",
@@ -14893,7 +15623,7 @@
    "Silver Coin"
   ],
   "recipes": [
-   "bouquet-4",
+   "bouquet-3",
    "city-key-2",
    "fresh-start-1",
    "gavel-2",
@@ -14912,7 +15642,7 @@
  },
  {
   "name": "The Slice Station",
-  "group": "G093",
+  "group": "G094",
   "modelId": 17867,
   "nature": "service",
   "troves": [
@@ -15006,7 +15736,7 @@
  },
  {
   "name": "The Starline Theater",
-  "group": "G097",
+  "group": "G098",
   "modelId": 18541,
   "nature": "service",
   "troves": [
@@ -15027,22 +15757,23 @@
    "Thread"
   ],
   "recipes": [
-   "applause-3",
-   "bouquet-1",
+   "applause-2",
    "cloud-nine-2",
    "confetti-toss-2",
-   "confetti-toss-4",
    "crowd-pleaser-1",
    "crown-2",
    "encore-2",
+   "fireworks-2",
+   "golden-record-1",
    "harmony-1",
    "invisible-cloak-1",
    "megaphone-1",
    "mic-drop-1",
+   "opening-night-1",
    "packed-house-1",
    "parade-1",
    "punchline-1",
-   "royal-orb-1",
+   "royal-orb-2",
    "royal-robe-2",
    "scepter-1",
    "snappy-comeback-2",
@@ -15057,24 +15788,59 @@
    "Action Figure",
    "Birthday Wish",
    "Blue Ribbon",
-   "Golden Record",
+   "Bouquet",
+   "Tiara",
    "Violin"
   ]
  },
  {
   "name": "The Sugar Ring Donut Kiosk",
-  "group": null,
+  "group": "G039",
   "modelId": 21273,
   "nature": "service",
-  "troves": [],
-  "recipes": [],
-  "source": "game",
+  "troves": [
+   "Banana",
+   "Chili Powder",
+   "Corn Cob",
+   "Fresh Egg",
+   "Fruit Basket",
+   "Grin",
+   "Hearty Broth",
+   "Milk Pail",
+   "Pork",
+   "Salt",
+   "Shy Giggle",
+   "Strawberry",
+   "Sunlight",
+   "Wheat",
+   "Wink"
+  ],
+  "recipes": [
+   "belly-laugh-2",
+   "bucket-2",
+   "flour-1",
+   "good-times-1",
+   "goofy-face-2",
+   "picnic-2",
+   "pocket-knife-1",
+   "umbrella-1"
+  ],
+  "source": "catalog",
   "verified": false,
-  "status": "pending"
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Come Anytime",
+   "Multitool",
+   "Pizza Slice",
+   "Potluck",
+   "Snappy Comeback",
+   "Talent Show",
+   "Welcome Mat"
+  ]
  },
  {
   "name": "The Thrift Gap",
-  "group": "G155",
+  "group": "G156",
   "modelId": 17828,
   "nature": "service",
   "troves": [
@@ -15141,7 +15907,6 @@
    "casino-chip-2",
    "chalice-1",
    "champagne-1",
-   "cheers-1",
    "circuit-breaker-2",
    "dance-move-2",
    "electric-guitar-3",
@@ -15151,10 +15916,11 @@
    "moonshine-2",
    "punchline-2",
    "radio-1",
-   "roast-3",
+   "roast-2",
    "running-gag-1",
    "secret-handshake-2",
-   "talent-show-2"
+   "talent-show-2",
+   "wine-bottle-2"
   ],
   "source": "catalog",
   "verified": false,
@@ -15200,7 +15966,7 @@
    "best-friend-2",
    "cacao-pod-2",
    "check-in-2",
-   "cheers-3",
+   "cheers-2",
    "cheese-wheel-1",
    "chocolate-bar-1",
    "day-off-2",
@@ -15231,9 +15997,11 @@
    "Food Drive",
    "Game Console",
    "Ice Cream",
+   "Locket",
    "Lullaby",
    "Maple Syrup",
    "Moral Support",
+   "Open Invitation",
    "Pinky Promise",
    "Secret Handshake",
    "Snappy Comeback",
@@ -15269,7 +16037,6 @@
    "casino-chip-2",
    "chalice-1",
    "champagne-1",
-   "cheers-1",
    "circuit-breaker-2",
    "dance-move-2",
    "electric-guitar-3",
@@ -15279,14 +16046,17 @@
    "moonshine-2",
    "punchline-2",
    "radio-1",
-   "roast-3",
+   "roast-2",
    "running-gag-1",
    "secret-handshake-2",
-   "talent-show-2"
+   "talent-show-2",
+   "wine-bottle-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
+   "Cheers",
+   "Confetti Toss",
    "Dice",
    "Hooray",
    "Huddle",
@@ -15294,12 +16064,13 @@
    "Packed House",
    "Snappy Comeback",
    "Soldering Iron",
+   "Standing Ovation",
    "Wink"
   ]
  },
  {
   "name": "The Totally Official Cup Flag Stand",
-  "group": "G156",
+  "group": "G157",
   "modelId": 18181,
   "nature": "service",
   "troves": [
@@ -15384,7 +16155,7 @@
  },
  {
   "name": "The Upland Needle",
-  "group": "G157",
+  "group": "G158",
   "modelId": 19004,
   "nature": "service",
   "troves": [
@@ -15405,19 +16176,20 @@
    "good-times-1",
    "group-selfie-2",
    "snow-globe-1",
-   "treasure-map-2",
-   "vacation-1"
+   "vacation-1",
+   "world-map-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
    "Action Figure",
-   "Birthday Wish"
+   "Birthday Wish",
+   "Treasure Map"
   ]
  },
  {
   "name": "The Upland Rodeo",
-  "group": "G158",
+  "group": "G159",
   "modelId": 19236,
   "nature": "service",
   "troves": [
@@ -15435,7 +16207,7 @@
    "Warm Hug"
   ],
   "recipes": [
-   "applause-3",
+   "applause-2",
    "cloud-nine-2",
    "crowd-pleaser-1",
    "good-times-1",
@@ -15476,7 +16248,7 @@
    "Wool"
   ],
   "recipes": [
-   "applause-2",
+   "applause-1",
    "back-slap-2",
    "best-friend-1",
    "block-party-1",
@@ -15536,7 +16308,7 @@
    "Wool"
   ],
   "recipes": [
-   "applause-2",
+   "applause-1",
    "back-slap-2",
    "best-friend-1",
    "crutches-2",
@@ -15574,8 +16346,76 @@
   ]
  },
  {
+  "name": "The Witching Wardrobe",
+  "group": "G024",
+  "modelId": null,
+  "nature": "service",
+  "troves": [
+   "Brass Token",
+   "Brooch",
+   "Charm Bracelet",
+   "Coil Spring",
+   "Dollar Bill",
+   "Glass Bead",
+   "Grin",
+   "Incense Stick",
+   "Silver Coin",
+   "Sunlight",
+   "Thread",
+   "Thumbs Up",
+   "Twine",
+   "Wink",
+   "Wool"
+  ],
+  "recipes": [
+   "amulet-1",
+   "antique-vase-2",
+   "baby-monitor-2",
+   "brooch-1",
+   "bubble-bath-1",
+   "charm-bracelet-2",
+   "cotton-boll-2",
+   "cradle-1",
+   "earring-2",
+   "ebony-log-1",
+   "electric-blanket-1",
+   "flashlight-2",
+   "flax-2",
+   "harmonica-2",
+   "locket-1",
+   "lotus-2",
+   "mud-mask-1",
+   "necklace-1",
+   "pendant-1",
+   "pocket-knife-2",
+   "rawhide-1",
+   "royal-robe-1",
+   "sandalwood-2",
+   "sheepskin-2",
+   "straight-razor-2",
+   "tiara-2",
+   "welcome-mat-1",
+   "wristwatch-2"
+  ],
+  "source": "catalog",
+  "verified": false,
+  "bonusTroves": [
+   "Compass",
+   "Crown Jewel",
+   "Gold Ring",
+   "Heart",
+   "Horn",
+   "Knitting Circle",
+   "Lanolin",
+   "Lucky Penny",
+   "Lullaby",
+   "Multitool",
+   "Tool Chest"
+  ]
+ },
+ {
   "name": "Theater",
-  "group": "G097",
+  "group": "G098",
   "modelId": 8919,
   "nature": "service",
   "troves": [
@@ -15596,22 +16436,23 @@
    "Thread"
   ],
   "recipes": [
-   "applause-3",
-   "bouquet-1",
+   "applause-2",
    "cloud-nine-2",
    "confetti-toss-2",
-   "confetti-toss-4",
    "crowd-pleaser-1",
    "crown-2",
    "encore-2",
+   "fireworks-2",
+   "golden-record-1",
    "harmony-1",
    "invisible-cloak-1",
    "megaphone-1",
    "mic-drop-1",
+   "opening-night-1",
    "packed-house-1",
    "parade-1",
    "punchline-1",
-   "royal-orb-1",
+   "royal-orb-2",
    "royal-robe-2",
    "scepter-1",
    "snappy-comeback-2",
@@ -15626,13 +16467,14 @@
    "Action Figure",
    "Birthday Wish",
    "Blue Ribbon",
-   "Golden Record",
+   "Bouquet",
+   "Tiara",
    "Violin"
   ]
  },
  {
   "name": "Thee Olde Spaghetti Factory",
-  "group": "G159",
+  "group": "G160",
   "modelId": 17681,
   "nature": "service",
   "troves": [
@@ -15654,7 +16496,7 @@
    "apology-accepted-2",
    "beef-1",
    "bell-pepper-1",
-   "bouquet-3",
+   "bouquet-2",
    "bread-mother-1",
    "casserole-1",
    "chicken-soup-2",
@@ -15687,7 +16529,7 @@
  },
  {
   "name": "Tire shop",
-  "group": "G160",
+  "group": "G161",
   "modelId": 16682,
   "nature": "service",
   "troves": [
@@ -15727,7 +16569,7 @@
  },
  {
   "name": "Totally Official Cup Merch Kiosk",
-  "group": "G156",
+  "group": "G157",
   "modelId": 17952,
   "nature": "service",
   "troves": [
@@ -15778,7 +16620,7 @@
  },
  {
   "name": "Toy Store",
-  "group": "G161",
+  "group": "G162",
   "modelId": 16686,
   "nature": "service",
   "troves": [
@@ -15842,7 +16684,7 @@
    "Wool"
   ],
   "recipes": [
-   "applause-2",
+   "applause-1",
    "back-slap-2",
    "best-friend-1",
    "block-party-1",
@@ -15902,7 +16744,7 @@
    "Wool"
   ],
   "recipes": [
-   "applause-2",
+   "applause-1",
    "back-slap-2",
    "best-friend-1",
    "crutches-2",
@@ -15941,7 +16783,7 @@
  },
  {
   "name": "Ultra Beauty Co",
-  "group": "G162",
+  "group": "G163",
   "modelId": 17037,
   "nature": "service",
   "troves": [
@@ -15991,7 +16833,7 @@
  },
  {
   "name": "University",
-  "group": "G089",
+  "group": "G090",
   "modelId": 15908,
   "nature": "service",
   "troves": [
@@ -16038,9 +16880,9 @@
    "oil-painting-1",
    "passion-fruit-2",
    "pinky-promise-2",
-   "potluck-1",
+   "potluck-2",
    "pumpkin-2",
-   "pure-joy-1",
+   "pure-joy-2",
    "rocket-fuel-1",
    "space-suit-1",
    "squad-1",
@@ -16139,7 +16981,7 @@
    "Wool"
   ],
   "recipes": [
-   "applause-2",
+   "applause-1",
    "back-slap-2",
    "best-friend-1",
    "block-party-1",
@@ -16243,9 +17085,9 @@
    "oil-painting-1",
    "passion-fruit-2",
    "pinky-promise-2",
-   "potluck-1",
+   "potluck-2",
    "pumpkin-2",
-   "pure-joy-1",
+   "pure-joy-2",
    "sleepover-2",
    "snuggle-2",
    "squad-1",
@@ -16258,6 +17100,7 @@
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
+   "Belly Laugh",
    "Boxing Gloves",
    "Compass",
    "Fruit Basket",
@@ -16325,7 +17168,6 @@
   "recipes": [
    "bed-rest-1",
    "blood-donation-2",
-   "cold-compress-1",
    "crutches-1",
    "family-doctor-2",
    "fruit-basket-2",
@@ -16346,13 +17188,17 @@
    "steady-nerves-2",
    "stethoscope-2",
    "support-group-1",
+   "thermometer-2",
    "tweezers-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
    "Amethyst",
-   "Moral Support"
+   "Cold Compress",
+   "Cookie",
+   "Moral Support",
+   "Mushroom"
   ]
  },
  {
@@ -16368,7 +17214,7 @@
  },
  {
   "name": "Veterinary Clinic",
-  "group": "G163",
+  "group": "G164",
   "modelId": 16181,
   "nature": "service",
   "troves": [
@@ -16385,7 +17231,6 @@
    "Wool"
   ],
   "recipes": [
-   "cold-compress-1",
    "full-recovery-2",
    "get-well-2",
    "good-hands-1",
@@ -16394,18 +17239,20 @@
    "pill-bottle-1",
    "scalpel-1",
    "steady-nerves-2",
-   "stethoscope-2"
+   "stethoscope-2",
+   "thermometer-2"
   ],
   "source": "catalog",
   "verified": false,
   "bonusTroves": [
    "Amethyst",
+   "Cold Compress",
    "Moral Support"
   ]
  },
  {
   "name": "Waffle Home Diner",
-  "group": "G164",
+  "group": "G165",
   "modelId": 19048,
   "nature": "service",
   "troves": [
@@ -16428,7 +17275,7 @@
    "apology-accepted-2",
    "beef-1",
    "bell-pepper-1",
-   "bouquet-3",
+   "bouquet-2",
    "bread-mother-1",
    "burger-2",
    "casserole-1",
@@ -16457,7 +17304,7 @@
  },
  {
   "name": "Welcome Point Travel Center",
-  "group": "G087",
+  "group": "G088",
   "modelId": 19150,
   "nature": "service",
   "troves": [
@@ -16495,7 +17342,7 @@
  },
  {
   "name": "Wheel Alignment center",
-  "group": "G165",
+  "group": "G166",
   "modelId": 16894,
   "nature": "service",
   "troves": [
@@ -16532,7 +17379,7 @@
  },
  {
   "name": "ÜPKEA",
-  "group": "G166",
+  "group": "G167",
   "modelId": 17866,
   "nature": "service",
   "troves": [

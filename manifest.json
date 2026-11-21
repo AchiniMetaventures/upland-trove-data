@@ -1,33 +1,33 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "2026.11.09-3",
-  "generatedAt": "2026-11-09T13:45:27Z",
+  "dataVersion": "2026.11.21-1",
+  "generatedAt": "2026-11-21T15:21:25Z",
   "counts": {
     "troves": 501,
-    "buildings": 372,
-    "recipes": 696,
-    "plants": 41
+    "buildings": 383,
+    "recipes": 710,
+    "plants": 43
   },
   "files": {
     "troves.json": {
-      "bytes": 281288,
-      "sha256": "d4062df6cef964a7d945ef42a7a720bcbf18296c1b8e669539b5217cf4c25da5"
+      "bytes": 294964,
+      "sha256": "e12fb21dcdd9b7333960847abf2739aad73f30ddd2eba199682bf8b3b4a1f5bd"
     },
     "buildings.json": {
-      "bytes": 274269,
-      "sha256": "e0708fd51cc6205942f2e794d4ccc75fb2bdb1ff368b8669cca90839350b552f"
+      "bytes": 288239,
+      "sha256": "58756f907779caed6e90fb0996338e0dd6f374f6be749c5bae7b65e0f3164480"
     },
     "recipes.json": {
-      "bytes": 307760,
-      "sha256": "c65f5d1c0cbbd49f93328a9d2a27907b9620b6f36b924ff0e88c78c91b0c242d"
+      "bytes": 322707,
+      "sha256": "cd4dbf64cce09b908465539072f6abd05f969f6e47b532ea5b9f3dbc0350bfd3"
     },
     "plants.json": {
-      "bytes": 10700,
-      "sha256": "47615da73c17514e64506b3b75c6429203a67024b9b16a1efb8a213e63c3de86"
+      "bytes": 11236,
+      "sha256": "9ff3eefe6ed474a09d9e06ab62e38f62a18ece6d51633557344d06651d093c08"
     },
     "catalog.json": {
-      "bytes": 70691,
-      "sha256": "5433c547b83593002b24ad95191d319bfc049c03ace386c293380a050dc13f76"
+      "bytes": 73959,
+      "sha256": "174074dddc2c240c5b7183e92da3aeff9f846c4a53e3a8464c62390844a69540"
     }
   },
   "notice": "Community data for the Smart Address Clipboard extension.",
