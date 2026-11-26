@@ -88,7 +88,8 @@
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
    "Supermarket Super Store",
-   "The Grand Bazaar Spice Shop"
+   "The Grand Bazaar Spice Shop",
+   "The Willowbrook Grist Mill"
   ]
  },
  {
@@ -193,7 +194,8 @@
    "Junior College",
    "Large Day care",
    "University",
-   "Upland Junior High"
+   "Upland Junior High",
+   "Uppie Research Lab"
   ],
   "foundInPlants": [],
   "recipeIds": [
@@ -283,7 +285,8 @@
    "Supermarket",
    "Supermarket Super Store",
    "Takasaki Retro Googie Farmers Market",
-   "The Grand Bazaar Spice Shop"
+   "The Grand Bazaar Spice Shop",
+   "The Willowbrook Grist Mill"
   ],
   "foundInPlants": [
    "Apple Tree"
@@ -409,6 +412,7 @@
    "Supermarket Super Store",
    "Taco Stand",
    "The Cinnamon Swirl Kiosk",
+   "The Crepe Corner",
    "The Crepe Escape",
    "The Crispy Crust Pizza",
    "The Crispy Empanada Kiosk",
@@ -417,7 +421,8 @@
    "The Salty Twist Pretzel Stand",
    "The Slice Station",
    "The Sugar Ring Donut Kiosk",
-   "The Twisted Pretzel"
+   "The Twisted Pretzel",
+   "The Willowbrook Grist Mill"
   ]
  },
  {
@@ -473,6 +478,7 @@
    "Sausage Stand",
    "Shawarma Street Co.",
    "The Cinnamon Swirl Kiosk",
+   "The Crepe Corner",
    "The Crepe Escape",
    "The Crispy Crust Pizza",
    "The Crispy Empanada Kiosk",
@@ -724,7 +730,8 @@
    "Mainstreet Modular Apartments: Arcade Edition",
    "Pixel Pulse Arcade",
    "The Atomic Arcade",
-   "Upland Junior High"
+   "Upland Junior High",
+   "Uppie Research Lab"
   ]
  },
  {
@@ -1110,6 +1117,7 @@
    "Live Theater",
    "Movie Theatre",
    "Performing Arts Center",
+   "QuickCash ATM",
    "The Starline Theater",
    "Theater"
   ]
@@ -1134,7 +1142,8 @@
    "The Victory Gym",
    "Try Harder Gym",
    "University",
-   "Upland Junior High"
+   "Upland Junior High",
+   "Uppie Research Lab"
   ]
  },
  {
@@ -1192,6 +1201,7 @@
    "Pixel Pulse Arcade",
    "Police Detention center",
    "Police Headquarters",
+   "QuickCash ATM",
    "QuickRinse Self-Serve Carwash",
    "Regional Police Station",
    "Small Office",
@@ -1205,10 +1215,12 @@
    "The Flickering Wick",
    "The Golden Vault Bank",
    "The Grimwood Hotel",
+   "The Lantern & Wick Shoppe",
    "The Lucky Star Hotel",
    "The Patchwork Hearth Quilt Shop",
    "The Skyline Courthouse",
    "The Starline Theater",
+   "The Tick & Tock Clockworks",
    "The Upland Needle",
    "The Witching Wardrobe",
    "Theater",
@@ -1290,8 +1302,10 @@
    "The Black Iron Forge",
    "The Curious Cauldron",
    "The Flickering Wick",
+   "The Lantern & Wick Shoppe",
    "The Patchwork Hearth Quilt Shop",
    "The Thrift Gap",
+   "The Tick & Tock Clockworks",
    "The Totally Official Cup Flag Stand",
    "The Witching Wardrobe",
    "Totally Official Cup Merch Kiosk",
@@ -1348,7 +1362,8 @@
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
    "Supermarket Super Store",
-   "The Grand Bazaar Spice Shop"
+   "The Grand Bazaar Spice Shop",
+   "The Willowbrook Grist Mill"
   ]
  },
  {
@@ -1368,7 +1383,8 @@
    "Supermarket",
    "Supermarket Super Store",
    "Takasaki Retro Googie Farmers Market",
-   "The Grand Bazaar Spice Shop"
+   "The Grand Bazaar Spice Shop",
+   "The Willowbrook Grist Mill"
   ],
   "foundInPlants": [],
   "recipeIds": []
@@ -1479,7 +1495,8 @@
    "Supermarket",
    "Supermarket Super Store",
    "Takasaki Retro Googie Farmers Market",
-   "The Grand Bazaar Spice Shop"
+   "The Grand Bazaar Spice Shop",
+   "The Willowbrook Grist Mill"
   ],
   "foundInPlants": [],
   "recipeIds": []
@@ -1652,8 +1669,10 @@
    "The Black Iron Forge",
    "The Curious Cauldron",
    "The Flickering Wick",
+   "The Lantern & Wick Shoppe",
    "The Patchwork Hearth Quilt Shop",
    "The Thrift Gap",
+   "The Tick & Tock Clockworks",
    "The Totally Official Cup Flag Stand",
    "The Witching Wardrobe",
    "Totally Official Cup Merch Kiosk",
@@ -1814,6 +1833,7 @@
    "Singapore Kopitiam",
    "Taco Stand",
    "The Cinnamon Swirl Kiosk",
+   "The Crepe Corner",
    "The Crepe Escape",
    "The Crispy Crust Pizza",
    "The Crispy Empanada Kiosk",
@@ -1862,7 +1882,8 @@
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
    "Supermarket Super Store",
-   "The Grand Bazaar Spice Shop"
+   "The Grand Bazaar Spice Shop",
+   "The Willowbrook Grist Mill"
   ]
  },
  {
@@ -1920,7 +1941,8 @@
    "High School",
    "Large Day care",
    "Ultra Beauty Co",
-   "Upland Junior High"
+   "Upland Junior High",
+   "Uppie Research Lab"
   ],
   "foundInPlants": [],
   "recipeIds": []
@@ -2061,7 +2083,9 @@
    "The Black Iron Forge",
    "The Curious Cauldron",
    "The Flickering Wick",
+   "The Lantern & Wick Shoppe",
    "The Patchwork Hearth Quilt Shop",
+   "The Tick & Tock Clockworks",
    "The Witching Wardrobe",
    "UPhone Store",
    "Wheel Alignment center"
@@ -2195,6 +2219,7 @@
    "Taco Stand",
    "The Cinnamon Swirl Kiosk",
    "The Climbing Collective",
+   "The Crepe Corner",
    "The Crepe Escape",
    "The Crispy Crust Pizza",
    "The Crispy Empanada Kiosk",
@@ -2283,11 +2308,14 @@
    "The Curious Cauldron",
    "The Flickering Wick",
    "The Grimwood Hotel",
+   "The Lantern & Wick Shoppe",
    "The Lucky Star Hotel",
    "The Patchwork Hearth Quilt Shop",
+   "The Tick & Tock Clockworks",
    "The Witching Wardrobe",
    "Toy Store",
-   "Upland Junior High"
+   "Upland Junior High",
+   "Uppie Research Lab"
   ]
  },
  {
@@ -2367,7 +2395,8 @@
    "The Upland Needle",
    "The Upland Rodeo",
    "Theater",
-   "Upland Junior High"
+   "Upland Junior High",
+   "Uppie Research Lab"
   ],
   "foundInPlants": [],
   "recipeIds": [],
@@ -2474,6 +2503,7 @@
    "Shawarma Street Co.",
    "Taco Stand",
    "The Cinnamon Swirl Kiosk",
+   "The Crepe Corner",
    "The Crepe Escape",
    "The Crispy Crust Pizza",
    "The Crispy Empanada Kiosk",
@@ -2653,7 +2683,9 @@
    "The Black Iron Forge",
    "The Curious Cauldron",
    "The Flickering Wick",
+   "The Lantern & Wick Shoppe",
    "The Patchwork Hearth Quilt Shop",
+   "The Tick & Tock Clockworks",
    "The Witching Wardrobe"
   ]
  },
@@ -2905,6 +2937,7 @@
    "Old Crow Farm Market",
    "Olde Wonder Toys",
    "Pub",
+   "QuickCash ATM",
    "QuickRinse Self-Serve Carwash",
    "South America Modular Apartments: Almacén Edition",
    "South America Modular Apartments: Two Can Tango Bar Edition",
@@ -2918,10 +2951,13 @@
    "The Golden Vault Bank",
    "The Grand Bazaar Spice Shop",
    "The Happy Harvest Cider House",
+   "The Lantern & Wick Shoppe",
    "The Patchwork Hearth Quilt Shop",
    "The Skyline Courthouse",
+   "The Tick & Tock Clockworks",
    "The Tipsy Pilgrim Tavern",
    "The Tipsy Tiki Bar",
+   "The Willowbrook Grist Mill",
    "The Witching Wardrobe",
    "Welcome Point Travel Center"
   ],
@@ -3133,6 +3169,7 @@
    "Office Tower",
    "Post Office",
    "Post Office Distribution Center",
+   "QuickCash ATM",
    "Small Office",
    "The Golden Vault Bank",
    "The Skyline Courthouse"
@@ -3165,6 +3202,7 @@
    "Large Court house",
    "Post Office",
    "Post Office Distribution Center",
+   "QuickCash ATM",
    "The Golden Vault Bank",
    "The Skyline Courthouse"
   ],
@@ -3314,6 +3352,7 @@
    "University",
    "Upland Axes",
    "Upland Junior High",
+   "Uppie Research Lab",
    "Wheel Alignment center"
   ],
   "foundInPlants": [
@@ -3481,7 +3520,8 @@
    "Pawn shop",
    "Science Museum",
    "University",
-   "Upland Junior High"
+   "Upland Junior High",
+   "Uppie Research Lab"
   ],
   "foundInPlants": [],
   "recipeIds": [],
@@ -3539,6 +3579,7 @@
    "Sugar & Spell Candy Shop",
    "The Atomic Oven Bakery",
    "The Cinnamon Swirl Kiosk",
+   "The Crepe Corner",
    "The Crepe Escape",
    "The Crispy Crust Pizza",
    "The Crispy Empanada Kiosk",
@@ -3625,6 +3666,7 @@
    "The Lucky Star Hotel",
    "The Rocket Cup Cafe",
    "The Tipsy Teapot Cafe",
+   "The Willowbrook Grist Mill",
    "Welcome Point Travel Center"
   ],
   "foundInPlants": [
@@ -3775,6 +3817,7 @@
    "The Amsterdam Cheese House",
    "The Burger Stop",
    "The Cinnamon Swirl Kiosk",
+   "The Crepe Corner",
    "The Crepe Escape",
    "The Crispy Crust Pizza",
    "The Crispy Empanada Kiosk",
@@ -3786,6 +3829,7 @@
    "The Slice Station",
    "The Sugar Ring Donut Kiosk",
    "The Twisted Pretzel",
+   "The Willowbrook Grist Mill",
    "Thee Olde Spaghetti Factory",
    "Waffle Home Diner"
   ],
@@ -3809,7 +3853,8 @@
    "Small Farmers Market",
    "Takasaki Retro Googie Farmers Market",
    "University",
-   "Upland Junior High"
+   "Upland Junior High",
+   "Uppie Research Lab"
   ]
  },
  {
@@ -3987,6 +4032,7 @@
    "Thee Olde Spaghetti Factory",
    "University",
    "Upland Junior High",
+   "Uppie Research Lab",
    "Waffle Home Diner"
   ],
   "foundInPlants": [
@@ -4020,6 +4066,7 @@
    "Large Court house",
    "Post Office",
    "Post Office Distribution Center",
+   "QuickCash ATM",
    "The Golden Vault Bank",
    "The Skyline Courthouse"
   ],
@@ -4169,7 +4216,8 @@
    "High School",
    "Junior College",
    "University",
-   "Upland Junior High"
+   "Upland Junior High",
+   "Uppie Research Lab"
   ]
  },
  {
@@ -4273,8 +4321,10 @@
    "The Curious Cauldron",
    "The Flickering Wick",
    "The Happy Harvest Cider House",
+   "The Lantern & Wick Shoppe",
    "The Patchwork Hearth Quilt Shop",
    "The Starline Theater",
+   "The Tick & Tock Clockworks",
    "The Tipsy Pilgrim Tavern",
    "The Tipsy Tiki Bar",
    "The Upland Y Rec Center",
@@ -4453,7 +4503,9 @@
    "The Black Iron Forge",
    "The Curious Cauldron",
    "The Flickering Wick",
+   "The Lantern & Wick Shoppe",
    "The Patchwork Hearth Quilt Shop",
+   "The Tick & Tock Clockworks",
    "The Witching Wardrobe"
   ]
  },
@@ -4652,6 +4704,7 @@
    "The Black Iron Forge",
    "The Burger Stop",
    "The Cinnamon Swirl Kiosk",
+   "The Crepe Corner",
    "The Crepe Escape",
    "The Crispy Crust Pizza",
    "The Crispy Empanada Kiosk",
@@ -4659,12 +4712,14 @@
    "The Curious Cauldron",
    "The Flickering Wick",
    "The Harvest Oven",
+   "The Lantern & Wick Shoppe",
    "The Lobster Shack",
    "The Patchwork Hearth Quilt Shop",
    "The Patty Shack",
    "The Salty Twist Pretzel Stand",
    "The Sugar Ring Donut Kiosk",
    "The Thrift Gap",
+   "The Tick & Tock Clockworks",
    "The Totally Official Cup Flag Stand",
    "The Twisted Pretzel",
    "The Upland Needle",
@@ -4772,7 +4827,8 @@
    "Tire shop",
    "Toy Store",
    "University",
-   "Upland Junior High"
+   "Upland Junior High",
+   "Uppie Research Lab"
   ]
  },
  {
@@ -4948,6 +5004,7 @@
    "Pizzeria",
    "Post Office",
    "Post Office Distribution Center",
+   "QuickCash ATM",
    "Ramen Restaurant",
    "Regal Roots Salon",
    "Rick's Sporting Goods",
@@ -4980,6 +5037,7 @@
    "The Thrift Gap",
    "The Totally Official Cup Flag Stand",
    "The Upland Rodeo",
+   "The Willowbrook Grist Mill",
    "Theater",
    "Thee Olde Spaghetti Factory",
    "Totally Official Cup Merch Kiosk",
@@ -5159,6 +5217,7 @@
    "The Grand Bazaar Spice Shop",
    "The Lobster Shack",
    "The Patty Shack",
+   "The Willowbrook Grist Mill",
    "Thee Olde Spaghetti Factory",
    "Waffle Home Diner"
   ]
@@ -5248,7 +5307,9 @@
    "The Black Iron Forge",
    "The Curious Cauldron",
    "The Flickering Wick",
+   "The Lantern & Wick Shoppe",
    "The Patchwork Hearth Quilt Shop",
+   "The Tick & Tock Clockworks",
    "The Witching Wardrobe"
   ]
  },
@@ -5306,6 +5367,7 @@
    "Tapas Bar",
    "The Burger Stop",
    "The Cinnamon Swirl Kiosk",
+   "The Crepe Corner",
    "The Crepe Escape",
    "The Crispy Crust Pizza",
    "The Crispy Empanada Kiosk",
@@ -5421,6 +5483,7 @@
    "The Grand Bazaar Spice Shop",
    "The Thrift Gap",
    "The Totally Official Cup Flag Stand",
+   "The Willowbrook Grist Mill",
    "Tire shop",
    "Totally Official Cup Merch Kiosk",
    "UPhone Store",
@@ -5487,7 +5550,8 @@
    "Try Harder Gym",
    "University",
    "Upland Axes",
-   "Upland Junior High"
+   "Upland Junior High",
+   "Uppie Research Lab"
   ],
   "foundInPlants": [
    "Birch Tree",
@@ -5913,8 +5977,10 @@
    "The Black Iron Forge",
    "The Curious Cauldron",
    "The Flickering Wick",
+   "The Lantern & Wick Shoppe",
    "The Patchwork Hearth Quilt Shop",
    "The Thrift Gap",
+   "The Tick & Tock Clockworks",
    "The Witching Wardrobe"
   ]
  },
@@ -6029,7 +6095,8 @@
    "The Totally Official Cup Flag Stand",
    "Totally Official Cup Merch Kiosk",
    "University",
-   "Upland Junior High"
+   "Upland Junior High",
+   "Uppie Research Lab"
   ]
  },
  {
@@ -6065,7 +6132,8 @@
    "The Rocket Cup Cafe",
    "The Tipsy Teapot Cafe",
    "University",
-   "Upland Junior High"
+   "Upland Junior High",
+   "Uppie Research Lab"
   ]
  },
  {
@@ -6095,8 +6163,10 @@
    "The Curious Cauldron",
    "The Flickering Wick",
    "The Grimwood Hotel",
+   "The Lantern & Wick Shoppe",
    "The Lucky Star Hotel",
    "The Patchwork Hearth Quilt Shop",
+   "The Tick & Tock Clockworks",
    "The Witching Wardrobe"
   ],
   "foundInPlants": [],
@@ -6142,6 +6212,7 @@
    "Tire shop",
    "University",
    "Upland Junior High",
+   "Uppie Research Lab",
    "Wheel Alignment center"
   ]
  },
@@ -6269,7 +6340,8 @@
    "Supermarket Super Store",
    "Takasaki Retro Googie Farmers Market",
    "The Amsterdam Cheese House",
-   "The Grand Bazaar Spice Shop"
+   "The Grand Bazaar Spice Shop",
+   "The Willowbrook Grist Mill"
   ],
   "foundInPlants": [],
   "recipeIds": [
@@ -6356,6 +6428,7 @@
    "Old Asylum",
    "Police Detention center",
    "Police Headquarters",
+   "QuickCash ATM",
    "Regional Police Station",
    "Starlite Precinct",
    "Taxi Depot",
@@ -6451,6 +6524,7 @@
    "Pickle Ball Courts",
    "Post Office",
    "Post Office Distribution Center",
+   "QuickCash ATM",
    "Quickserver Surf Co",
    "Recycling Center",
    "Regional Hospital",
@@ -6474,6 +6548,7 @@
    "The Skyline Courthouse",
    "The Thrift Gap",
    "The Totally Official Cup Flag Stand",
+   "The Willowbrook Grist Mill",
    "Thee Olde Spaghetti Factory",
    "Totally Official Cup Merch Kiosk",
    "UPhone Store",
@@ -6575,8 +6650,10 @@
    "The Black Iron Forge",
    "The Curious Cauldron",
    "The Flickering Wick",
+   "The Lantern & Wick Shoppe",
    "The Patchwork Hearth Quilt Shop",
    "The Thrift Gap",
+   "The Tick & Tock Clockworks",
    "The Witching Wardrobe",
    "Ultra Beauty Co",
    "ÜPKEA"
@@ -6718,8 +6795,10 @@
    "The Black Iron Forge",
    "The Curious Cauldron",
    "The Flickering Wick",
+   "The Lantern & Wick Shoppe",
    "The Patchwork Hearth Quilt Shop",
    "The Thrift Gap",
+   "The Tick & Tock Clockworks",
    "The Witching Wardrobe",
    "Ultra Beauty Co",
    "ÜPKEA"
@@ -6783,6 +6862,7 @@
    "The Upland Needle",
    "University",
    "Upland Junior High",
+   "Uppie Research Lab",
    "Urgent care center"
   ],
   "foundInPlants": [],
@@ -6815,7 +6895,8 @@
    "Supermarket Super Store",
    "The Burger Stop",
    "The Grand Bazaar Spice Shop",
-   "The Patty Shack"
+   "The Patty Shack",
+   "The Willowbrook Grist Mill"
   ],
   "foundInPlants": [],
   "recipeIds": []
@@ -6942,6 +7023,7 @@
    "Planetarium",
    "Post Office",
    "Post Office Distribution Center",
+   "QuickCash ATM",
    "Science Museum",
    "Small Office",
    "The Dusty Tome Bookshop",
@@ -6974,7 +7056,8 @@
    "Supermarket",
    "Supermarket Super Store",
    "Tapas Bar",
-   "The Grand Bazaar Spice Shop"
+   "The Grand Bazaar Spice Shop",
+   "The Willowbrook Grist Mill"
   ]
  },
  {
@@ -7019,7 +7102,8 @@
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
    "Supermarket Super Store",
-   "The Grand Bazaar Spice Shop"
+   "The Grand Bazaar Spice Shop",
+   "The Willowbrook Grist Mill"
   ]
  },
  {
@@ -7048,6 +7132,7 @@
    "Mainstreet Modular Apartments: Bookstore Edition",
    "Post Office",
    "Post Office Distribution Center",
+   "QuickCash ATM",
    "The Dusty Tome Bookshop",
    "The Hollow Grave Funeral Home",
    "The Moonbeam Bookstore",
@@ -7132,8 +7217,10 @@
    "The Flickering Wick",
    "The Golden Vault Bank",
    "The Grimwood Hotel",
+   "The Lantern & Wick Shoppe",
    "The Lucky Star Hotel",
    "The Patchwork Hearth Quilt Shop",
+   "The Tick & Tock Clockworks",
    "The Witching Wardrobe",
    "Welcome Point Travel Center"
   ]
@@ -7180,9 +7267,11 @@
    "The Curious Cauldron",
    "The Dusty Tome Bookshop",
    "The Flickering Wick",
+   "The Lantern & Wick Shoppe",
    "The Moonbeam Bookstore",
    "The Patchwork Hearth Quilt Shop",
    "The Rocket Cup Cafe",
+   "The Tick & Tock Clockworks",
    "The Tipsy Teapot Cafe",
    "The Witching Wardrobe",
    "Ultra Beauty Co",
@@ -7600,6 +7689,7 @@
    "The Amsterdam Cheese House",
    "The Atomic Oven Bakery",
    "The Cinnamon Swirl Kiosk",
+   "The Crepe Corner",
    "The Crepe Escape",
    "The Crispy Crust Pizza",
    "The Crispy Empanada Kiosk",
@@ -7612,6 +7702,7 @@
    "The Sugar Ring Donut Kiosk",
    "The Tipsy Teapot Cafe",
    "The Twisted Pretzel",
+   "The Willowbrook Grist Mill",
    "Waffle Home Diner"
   ],
   "foundInPlants": [],
@@ -7625,7 +7716,8 @@
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
    "Supermarket Super Store",
-   "The Grand Bazaar Spice Shop"
+   "The Grand Bazaar Spice Shop",
+   "The Willowbrook Grist Mill"
   ]
  },
  {
@@ -7654,7 +7746,8 @@
    "Track & Field Complex",
    "University",
    "Upland Axes",
-   "Upland Junior High"
+   "Upland Junior High",
+   "Uppie Research Lab"
   ],
   "foundInPlants": [],
   "recipeIds": []
@@ -7878,21 +7971,25 @@
    "The Atomic Firehouse",
    "The Black Iron Forge",
    "The Cinnamon Swirl Kiosk",
+   "The Crepe Corner",
    "The Crepe Escape",
    "The Crispy Crust Pizza",
    "The Crispy Empanada Kiosk",
    "The Crooked Cod",
    "The Curious Cauldron",
    "The Flickering Wick",
+   "The Lantern & Wick Shoppe",
    "The Patchwork Hearth Quilt Shop",
    "The Salty Twist Pretzel Stand",
    "The Slice Station",
    "The Sugar Ring Donut Kiosk",
+   "The Tick & Tock Clockworks",
    "The Twisted Pretzel",
    "The Witching Wardrobe",
    "Tire shop",
    "University",
    "Upland Junior High",
+   "Uppie Research Lab",
    "Wheel Alignment center"
   ]
  },
@@ -8271,7 +8368,8 @@
    "Swiggly Soda Shop",
    "The Grand Bazaar Spice Shop",
    "The Rocket Cup Cafe",
-   "The Tipsy Teapot Cafe"
+   "The Tipsy Teapot Cafe",
+   "The Willowbrook Grist Mill"
   ],
   "foundInPlants": [],
   "recipeIds": []
@@ -8625,6 +8723,7 @@
    "Performing Arts Center",
    "Police Detention center",
    "Police Headquarters",
+   "QuickCash ATM",
    "Regional Police Station",
    "Seattle Music Venue Service Structure",
    "Small Office",
@@ -8640,7 +8739,8 @@
    "The Upland Needle",
    "Theater",
    "University",
-   "Upland Junior High"
+   "Upland Junior High",
+   "Uppie Research Lab"
   ],
   "foundInPlants": [],
   "recipeIds": [],
@@ -8678,7 +8778,8 @@
    "Track & Field Complex",
    "University",
    "Upland Axes",
-   "Upland Junior High"
+   "Upland Junior High",
+   "Uppie Research Lab"
   ]
  },
  {
@@ -8799,6 +8900,7 @@
    "Supermarket Super Store",
    "Takasaki Retro Googie Farmers Market",
    "The Cinnamon Swirl Kiosk",
+   "The Crepe Corner",
    "The Crepe Escape",
    "The Crispy Crust Pizza",
    "The Crispy Empanada Kiosk",
@@ -8806,7 +8908,8 @@
    "The Grand Bazaar Spice Shop",
    "The Salty Twist Pretzel Stand",
    "The Sugar Ring Donut Kiosk",
-   "The Twisted Pretzel"
+   "The Twisted Pretzel",
+   "The Willowbrook Grist Mill"
   ]
  },
  {
@@ -8932,6 +9035,7 @@
    "Physical Therapy Clinic",
    "Post Office",
    "Post Office Distribution Center",
+   "QuickCash ATM",
    "Regal Roots Salon",
    "Regional Hospital",
    "Skyline Medical Center",
@@ -8990,6 +9094,7 @@
    "Tapas Bar",
    "The Burger Stop",
    "The Cinnamon Swirl Kiosk",
+   "The Crepe Corner",
    "The Crepe Escape",
    "The Crispy Crust Pizza",
    "The Crispy Empanada Kiosk",
@@ -9017,6 +9122,7 @@
    "Newspaper Stand",
    "Post Office",
    "Post Office Distribution Center",
+   "QuickCash ATM",
    "The Skyline Courthouse",
    "Welcome Point Travel Center"
   ],
@@ -9067,6 +9173,7 @@
    "Pawn shop",
    "Post Office",
    "Post Office Distribution Center",
+   "QuickCash ATM",
    "Small Office",
    "The Dusty Tome Bookshop",
    "The Grimwood Hotel",
@@ -9080,6 +9187,7 @@
    "The Tipsy Teapot Cafe",
    "The Upland Needle",
    "Upland Junior High",
+   "Uppie Research Lab",
    "Welcome Point Travel Center"
   ],
   "foundInPlants": [],
@@ -9116,7 +9224,8 @@
    "The Burger Stop",
    "The Grand Bazaar Spice Shop",
    "The Patty Shack",
-   "The Starlight Senior Home"
+   "The Starlight Senior Home",
+   "The Willowbrook Grist Mill"
   ],
   "foundInPlants": [],
   "recipeIds": []
@@ -9192,6 +9301,7 @@
    "Tapas Bar",
    "The Burger Stop",
    "The Cinnamon Swirl Kiosk",
+   "The Crepe Corner",
    "The Crepe Escape",
    "The Crispy Crust Pizza",
    "The Crispy Empanada Kiosk",
@@ -9203,6 +9313,7 @@
    "The Slice Station",
    "The Sugar Ring Donut Kiosk",
    "The Twisted Pretzel",
+   "The Willowbrook Grist Mill",
    "Thee Olde Spaghetti Factory",
    "Waffle Home Diner"
   ]
@@ -9277,6 +9388,9 @@
   "recipeIds": [
    "pure-joy-1",
    "pure-joy-2"
+  ],
+  "craftBonusAt": [
+   "Uppie Research Lab"
   ]
  },
  {
@@ -9298,7 +9412,8 @@
    "Science Museum",
    "UPhone Store",
    "University",
-   "Upland Junior High"
+   "Upland Junior High",
+   "Uppie Research Lab"
   ],
   "foundInPlants": [],
   "recipeIds": []
@@ -9476,8 +9591,10 @@
    "The Burger Stop",
    "The Grand Bazaar Spice Shop",
    "The Patty Shack",
+   "The Willowbrook Grist Mill",
    "University",
-   "Upland Junior High"
+   "Upland Junior High",
+   "Uppie Research Lab"
   ]
  },
  {
@@ -9582,7 +9699,8 @@
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
    "Supermarket Super Store",
-   "The Grand Bazaar Spice Shop"
+   "The Grand Bazaar Spice Shop",
+   "The Willowbrook Grist Mill"
   ]
  },
  {
@@ -9877,6 +9995,7 @@
    "The Burger Stop",
    "The Cinnamon Swirl Kiosk",
    "The Corner Drugstore",
+   "The Crepe Corner",
    "The Crepe Escape",
    "The Crispy Crust Pizza",
    "The Crispy Empanada Kiosk",
@@ -9888,6 +10007,7 @@
    "The Salty Twist Pretzel Stand",
    "The Sugar Ring Donut Kiosk",
    "The Twisted Pretzel",
+   "The Willowbrook Grist Mill",
    "Ultra Beauty Co",
    "Urgent care center"
   ],
@@ -9950,7 +10070,8 @@
    "Rip Curl’d Swimwear",
    "Set Point Beach Club",
    "The Atomic Firehouse",
-   "Upland Junior High"
+   "Upland Junior High",
+   "Uppie Research Lab"
   ],
   "foundInPlants": [],
   "recipeIds": []
@@ -10118,7 +10239,8 @@
    "Police Headquarters",
    "Regional Police Station",
    "Starlite Precinct",
-   "Upland Junior High"
+   "Upland Junior High",
+   "Uppie Research Lab"
   ],
   "foundInPlants": [],
   "recipeIds": []
@@ -10135,7 +10257,8 @@
    "Junior College",
    "Large Day care",
    "University",
-   "Upland Junior High"
+   "Upland Junior High",
+   "Uppie Research Lab"
   ],
   "foundInPlants": [],
   "recipeIds": [
@@ -10379,6 +10502,7 @@
    "Singapore Kopitiam",
    "Taco Stand",
    "The Cinnamon Swirl Kiosk",
+   "The Crepe Corner",
    "The Crepe Escape",
    "The Crispy Crust Pizza",
    "The Crispy Empanada Kiosk",
@@ -10428,7 +10552,8 @@
    "Elementary School",
    "High School",
    "Large Day care",
-   "Upland Junior High"
+   "Upland Junior High",
+   "Uppie Research Lab"
   ]
  },
  {
@@ -10504,6 +10629,7 @@
    "Olde Wonder Toys",
    "Pawn shop",
    "Pub",
+   "QuickCash ATM",
    "QuickRinse Self-Serve Carwash",
    "South America Modular Apartments: Almacén Edition",
    "South America Modular Apartments: Two Can Tango Bar Edition",
@@ -10516,12 +10642,15 @@
    "The Golden Vault Bank",
    "The Grand Bazaar Spice Shop",
    "The Happy Harvest Cider House",
+   "The Lantern & Wick Shoppe",
    "The Patchwork Hearth Quilt Shop",
    "The Skyline Courthouse",
    "The Starlight Senior Home",
    "The Thrift Gap",
+   "The Tick & Tock Clockworks",
    "The Tipsy Pilgrim Tavern",
    "The Tipsy Tiki Bar",
+   "The Willowbrook Grist Mill",
    "The Witching Wardrobe"
   ],
   "foundInPlants": [],
@@ -10557,7 +10686,8 @@
    "Junior College",
    "Toy Store",
    "University",
-   "Upland Junior High"
+   "Upland Junior High",
+   "Uppie Research Lab"
   ]
  },
  {
@@ -10669,6 +10799,7 @@
    "Supermarket Super Store",
    "Taco Stand",
    "The Cinnamon Swirl Kiosk",
+   "The Crepe Corner",
    "The Crepe Escape",
    "The Crispy Crust Pizza",
    "The Crispy Empanada Kiosk",
@@ -10682,7 +10813,8 @@
    "The Tipsy Pilgrim Tavern",
    "The Tipsy Teapot Cafe",
    "The Tipsy Tiki Bar",
-   "The Twisted Pretzel"
+   "The Twisted Pretzel",
+   "The Willowbrook Grist Mill"
   ]
  },
  {
@@ -10774,7 +10906,8 @@
    "The Tipsy Tiki Bar",
    "UPhone Store",
    "University",
-   "Upland Junior High"
+   "Upland Junior High",
+   "Uppie Research Lab"
   ]
  },
  {
@@ -10971,7 +11104,8 @@
    "The Totally Official Cup Flag Stand",
    "Totally Official Cup Merch Kiosk",
    "University",
-   "Upland Junior High"
+   "Upland Junior High",
+   "Uppie Research Lab"
   ]
  },
  {
@@ -11100,6 +11234,7 @@
    "Shawarma Street Co.",
    "Swiggly Soda Shop",
    "The Cinnamon Swirl Kiosk",
+   "The Crepe Corner",
    "The Crepe Escape",
    "The Crispy Crust Pizza",
    "The Crispy Empanada Kiosk",
@@ -11122,7 +11257,8 @@
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
    "Supermarket Super Store",
-   "The Grand Bazaar Spice Shop"
+   "The Grand Bazaar Spice Shop",
+   "The Willowbrook Grist Mill"
   ]
  },
  {
@@ -11161,7 +11297,8 @@
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
    "Supermarket Super Store",
-   "The Grand Bazaar Spice Shop"
+   "The Grand Bazaar Spice Shop",
+   "The Willowbrook Grist Mill"
   ]
  },
  {
@@ -11263,16 +11400,19 @@
    "Taco Stand",
    "The Black Iron Forge",
    "The Cinnamon Swirl Kiosk",
+   "The Crepe Corner",
    "The Crepe Escape",
    "The Crispy Crust Pizza",
    "The Crispy Empanada Kiosk",
    "The Crooked Cod",
    "The Curious Cauldron",
    "The Flickering Wick",
+   "The Lantern & Wick Shoppe",
    "The Patchwork Hearth Quilt Shop",
    "The Salty Twist Pretzel Stand",
    "The Slice Station",
    "The Sugar Ring Donut Kiosk",
+   "The Tick & Tock Clockworks",
    "The Twisted Pretzel",
    "The Witching Wardrobe"
   ],
@@ -11328,7 +11468,8 @@
    "Game Exchange",
    "High School",
    "Toy Store",
-   "Upland Junior High"
+   "Upland Junior High",
+   "Uppie Research Lab"
   ]
  },
  {
@@ -11457,7 +11598,8 @@
    "Tapas Bar",
    "The Burger Stop",
    "The Grand Bazaar Spice Shop",
-   "The Patty Shack"
+   "The Patty Shack",
+   "The Willowbrook Grist Mill"
   ]
  },
  {
@@ -11510,6 +11652,7 @@
    "SynthTag Laser Tag",
    "Taco Stand",
    "The Cinnamon Swirl Kiosk",
+   "The Crepe Corner",
    "The Crepe Escape",
    "The Crispy Crust Pizza",
    "The Crispy Empanada Kiosk",
@@ -11518,7 +11661,8 @@
    "The Salty Twist Pretzel Stand",
    "The Slice Station",
    "The Sugar Ring Donut Kiosk",
-   "The Twisted Pretzel"
+   "The Twisted Pretzel",
+   "The Willowbrook Grist Mill"
   ]
  },
  {
@@ -11642,7 +11786,8 @@
    "Try Harder Gym",
    "University",
    "Upland Axes",
-   "Upland Junior High"
+   "Upland Junior High",
+   "Uppie Research Lab"
   ]
  },
  {
@@ -11739,11 +11884,13 @@
    "The Dusty Tome Bookshop",
    "The Flickering Wick",
    "The Grimwood Hotel",
+   "The Lantern & Wick Shoppe",
    "The Lucky Star Hotel",
    "The Moonbeam Bookstore",
    "The Patchwork Hearth Quilt Shop",
    "The Starline Theater",
    "The Thrift Gap",
+   "The Tick & Tock Clockworks",
    "The Witching Wardrobe",
    "Theater"
   ],
@@ -11870,10 +12017,13 @@
    "The Flickering Wick",
    "The Grand Bazaar Spice Shop",
    "The Grimwood Hotel",
+   "The Lantern & Wick Shoppe",
    "The Lucky Star Hotel",
    "The Patchwork Hearth Quilt Shop",
    "The Thrift Gap",
+   "The Tick & Tock Clockworks",
    "The Totally Official Cup Flag Stand",
+   "The Willowbrook Grist Mill",
    "The Witching Wardrobe",
    "Tire shop",
    "Totally Official Cup Merch Kiosk",
@@ -11959,7 +12109,8 @@
    "High School",
    "Junior College",
    "University",
-   "Upland Junior High"
+   "Upland Junior High",
+   "Uppie Research Lab"
   ]
  },
  {
@@ -12037,11 +12188,14 @@
    "The Black Iron Forge",
    "The Curious Cauldron",
    "The Flickering Wick",
+   "The Lantern & Wick Shoppe",
    "The Patchwork Hearth Quilt Shop",
    "The Thrift Gap",
+   "The Tick & Tock Clockworks",
    "The Witching Wardrobe",
    "University",
    "Upland Junior High",
+   "Uppie Research Lab",
    "ÜPKEA"
   ]
  },
@@ -12161,7 +12315,8 @@
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
    "Supermarket Super Store",
-   "The Grand Bazaar Spice Shop"
+   "The Grand Bazaar Spice Shop",
+   "The Willowbrook Grist Mill"
   ]
  },
  {
@@ -12228,8 +12383,10 @@
    "The Dusty Tome Bookshop",
    "The Flickering Wick",
    "The Harvest Oven",
+   "The Lantern & Wick Shoppe",
    "The Moonbeam Bookstore",
    "The Patchwork Hearth Quilt Shop",
+   "The Tick & Tock Clockworks",
    "The Witching Wardrobe"
   ],
   "foundInPlants": [],
@@ -12331,7 +12488,8 @@
    "South America Modular Apartments: Almacén Edition",
    "Supermarket",
    "Supermarket Super Store",
-   "The Grand Bazaar Spice Shop"
+   "The Grand Bazaar Spice Shop",
+   "The Willowbrook Grist Mill"
   ]
  },
  {
@@ -12453,6 +12611,7 @@
    "Large Court house",
    "Mainstreet Modular Apartments: Pawn Shop Edition",
    "Pawn shop",
+   "QuickCash ATM",
    "The Skyline Courthouse"
   ]
  },
@@ -12549,6 +12708,7 @@
    "Supermarket Super Store",
    "Taco Stand",
    "The Cinnamon Swirl Kiosk",
+   "The Crepe Corner",
    "The Crepe Escape",
    "The Crispy Crust Pizza",
    "The Crispy Empanada Kiosk",
@@ -12559,7 +12719,8 @@
    "The Salty Twist Pretzel Stand",
    "The Slice Station",
    "The Sugar Ring Donut Kiosk",
-   "The Twisted Pretzel"
+   "The Twisted Pretzel",
+   "The Willowbrook Grist Mill"
   ]
  },
  {
@@ -12610,6 +12771,7 @@
    "The Atomic Oven Bakery",
    "The Burger Stop",
    "The Cinnamon Swirl Kiosk",
+   "The Crepe Corner",
    "The Crepe Escape",
    "The Crispy Crust Pizza",
    "The Crispy Empanada Kiosk",
@@ -12748,17 +12910,20 @@
    "Taco Stand",
    "The Black Iron Forge",
    "The Cinnamon Swirl Kiosk",
+   "The Crepe Corner",
    "The Crepe Escape",
    "The Crispy Crust Pizza",
    "The Crispy Empanada Kiosk",
    "The Crooked Cod",
    "The Curious Cauldron",
    "The Flickering Wick",
+   "The Lantern & Wick Shoppe",
    "The Patchwork Hearth Quilt Shop",
    "The Rocket Cup Cafe",
    "The Salty Twist Pretzel Stand",
    "The Slice Station",
    "The Sugar Ring Donut Kiosk",
+   "The Tick & Tock Clockworks",
    "The Tipsy Teapot Cafe",
    "The Twisted Pretzel",
    "The Witching Wardrobe"
@@ -12853,9 +13018,11 @@
    "The Corner Drugstore",
    "The Curious Cauldron",
    "The Flickering Wick",
+   "The Lantern & Wick Shoppe",
    "The Patchwork Hearth Quilt Shop",
    "The Starlight Senior Home",
    "The Thrift Gap",
+   "The Tick & Tock Clockworks",
    "The Upland Y Rec Center",
    "The Victory Gym",
    "The Witching Wardrobe",

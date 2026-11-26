@@ -11705,6 +11705,46 @@
   ]
  },
  {
+  "name": "QuickCash ATM",
+  "group": "G131",
+  "modelId": null,
+  "nature": "service",
+  "troves": [
+   "Brass Token",
+   "Dollar Bill",
+   "Eye Roll",
+   "Family Crest",
+   "Gavel",
+   "Handshake",
+   "Key Ring",
+   "Kind Word",
+   "Listening Ear",
+   "Love Letter",
+   "Photograph",
+   "Polite Bow",
+   "Postage Stamp",
+   "Postcard",
+   "Silver Coin"
+  ],
+  "recipes": [
+   "city-key-2",
+   "fresh-start-1",
+   "gavel-2",
+   "pinky-promise-1",
+   "police-badge-1",
+   "rare-coin-2",
+   "side-eye-1",
+   "solemn-vow-1",
+   "wedding-ring-1"
+  ],
+  "source": "catalog",
+  "verified": false,
+  "bonusTroves": [
+   "Bouquet",
+   "Wedding"
+  ]
+ },
+ {
   "name": "QuickRinse Self-Serve Carwash",
   "group": "G012",
   "modelId": 17016,
@@ -11738,7 +11778,7 @@
  },
  {
   "name": "Quickserver Surf Co",
-  "group": "G131",
+  "group": "G132",
   "modelId": 18771,
   "nature": "service",
   "troves": [
@@ -11771,7 +11811,7 @@
  },
  {
   "name": "Radio Station",
-  "group": "G132",
+  "group": "G133",
   "modelId": 16883,
   "nature": "service",
   "troves": [
@@ -11809,7 +11849,7 @@
  },
  {
   "name": "Ramen Restaurant",
-  "group": "G133",
+  "group": "G134",
   "modelId": 16774,
   "nature": "service",
   "troves": [
@@ -11874,7 +11914,7 @@
  },
  {
   "name": "Recycling Center",
-  "group": "G134",
+  "group": "G135",
   "modelId": 16264,
   "nature": "service",
   "troves": [
@@ -12063,7 +12103,7 @@
  },
  {
   "name": "Rick's Sporting Goods",
-  "group": "G135",
+  "group": "G136",
   "modelId": 17290,
   "nature": "service",
   "troves": [
@@ -12102,7 +12142,7 @@
  },
  {
   "name": "Rip Curl’d Swimwear",
-  "group": "G136",
+  "group": "G137",
   "modelId": 19178,
   "nature": "service",
   "troves": [
@@ -12223,7 +12263,7 @@
  },
  {
   "name": "Science Museum",
-  "group": "G137",
+  "group": "G138",
   "modelId": 16263,
   "nature": "service",
   "troves": [
@@ -12269,7 +12309,7 @@
  },
  {
   "name": "Seattle Music Venue Service Structure",
-  "group": "G138",
+  "group": "G139",
   "modelId": 16923,
   "nature": "service",
   "troves": [
@@ -12318,7 +12358,7 @@
  },
  {
   "name": "Set Point Beach Club",
-  "group": "G139",
+  "group": "G140",
   "modelId": 19147,
   "nature": "service",
   "troves": [
@@ -12416,7 +12456,7 @@
  },
  {
   "name": "Singapore Kopitiam",
-  "group": "G140",
+  "group": "G141",
   "modelId": 16691,
   "nature": "service",
   "troves": [
@@ -12718,7 +12758,7 @@
  },
  {
   "name": "Soccer Field",
-  "group": "G141",
+  "group": "G142",
   "modelId": 17044,
   "nature": "service",
   "troves": [
@@ -12866,7 +12906,7 @@
  },
  {
   "name": "South America Modular Apartments: Rodizio Edition",
-  "group": "G142",
+  "group": "G143",
   "modelId": 17049,
   "nature": "service",
   "troves": [
@@ -12985,7 +13025,7 @@
  },
  {
   "name": "Southside Boxing Club",
-  "group": "G143",
+  "group": "G144",
   "modelId": 17060,
   "nature": "service",
   "troves": [
@@ -13060,7 +13100,7 @@
  },
  {
   "name": "Sports Courts",
-  "group": "G144",
+  "group": "G145",
   "modelId": 15542,
   "nature": "service",
   "troves": [
@@ -13158,7 +13198,7 @@
  },
  {
   "name": "Steakhouse",
-  "group": "G142",
+  "group": "G143",
   "modelId": 17021,
   "nature": "service",
   "troves": [
@@ -13350,7 +13390,7 @@
  },
  {
   "name": "Sunglass Shack",
-  "group": "G145",
+  "group": "G146",
   "modelId": 19484,
   "nature": "service",
   "troves": [
@@ -13638,7 +13678,7 @@
  },
  {
   "name": "Swiggly Soda Shop",
-  "group": "G146",
+  "group": "G147",
   "modelId": 17900,
   "nature": "service",
   "troves": [
@@ -13678,7 +13718,7 @@
  },
  {
   "name": "SynthTag Laser Tag",
-  "group": "G147",
+  "group": "G148",
   "modelId": 16697,
   "nature": "service",
   "troves": [
@@ -13821,7 +13861,7 @@
  },
  {
   "name": "Tandoor House",
-  "group": "G148",
+  "group": "G149",
   "modelId": 17058,
   "nature": "service",
   "troves": [
@@ -13876,7 +13916,7 @@
  },
  {
   "name": "Tapas Bar",
-  "group": "G149",
+  "group": "G150",
   "modelId": 16195,
   "nature": "service",
   "troves": [
@@ -13984,7 +14024,7 @@
  },
  {
   "name": "Taxi Depot",
-  "group": "G150",
+  "group": "G151",
   "modelId": 16884,
   "nature": "service",
   "troves": [
@@ -14016,7 +14056,7 @@
  },
  {
   "name": "Tennis court",
-  "group": "G151",
+  "group": "G152",
   "modelId": 17056,
   "nature": "service",
   "troves": [
@@ -14056,7 +14096,7 @@
  },
  {
   "name": "The Amsterdam Cheese House",
-  "group": "G152",
+  "group": "G153",
   "modelId": 19201,
   "nature": "service",
   "troves": [
@@ -14406,7 +14446,7 @@
  },
  {
   "name": "The Climbing Collective",
-  "group": "G153",
+  "group": "G154",
   "modelId": 19002,
   "nature": "service",
   "troves": [
@@ -14487,6 +14527,51 @@
    "Cold Compress",
    "Moral Support",
    "Mushroom"
+  ]
+ },
+ {
+  "name": "The Crepe Corner",
+  "group": "G039",
+  "modelId": null,
+  "nature": "service",
+  "troves": [
+   "Banana",
+   "Chili Powder",
+   "Corn Cob",
+   "Fresh Egg",
+   "Fruit Basket",
+   "Grin",
+   "Hearty Broth",
+   "Milk Pail",
+   "Pork",
+   "Salt",
+   "Shy Giggle",
+   "Strawberry",
+   "Sunlight",
+   "Wheat",
+   "Wink"
+  ],
+  "recipes": [
+   "belly-laugh-2",
+   "bucket-2",
+   "flour-1",
+   "good-times-1",
+   "goofy-face-2",
+   "picnic-2",
+   "pocket-knife-1",
+   "umbrella-1"
+  ],
+  "source": "catalog",
+  "verified": false,
+  "bonusTroves": [
+   "Baguette Loaf",
+   "Come Anytime",
+   "Multitool",
+   "Pizza Slice",
+   "Potluck",
+   "Snappy Comeback",
+   "Talent Show",
+   "Welcome Mat"
   ]
  },
  {
@@ -14853,7 +14938,7 @@
  },
  {
   "name": "The Golden Vault Bank",
-  "group": "G154",
+  "group": "G155",
   "modelId": 18571,
   "nature": "service",
   "troves": [
@@ -15202,8 +15287,76 @@
   ]
  },
  {
+  "name": "The Lantern & Wick Shoppe",
+  "group": "G024",
+  "modelId": null,
+  "nature": "service",
+  "troves": [
+   "Brass Token",
+   "Brooch",
+   "Charm Bracelet",
+   "Coil Spring",
+   "Dollar Bill",
+   "Glass Bead",
+   "Grin",
+   "Incense Stick",
+   "Silver Coin",
+   "Sunlight",
+   "Thread",
+   "Thumbs Up",
+   "Twine",
+   "Wink",
+   "Wool"
+  ],
+  "recipes": [
+   "amulet-1",
+   "antique-vase-2",
+   "baby-monitor-2",
+   "brooch-1",
+   "bubble-bath-1",
+   "charm-bracelet-2",
+   "cotton-boll-2",
+   "cradle-1",
+   "earring-2",
+   "ebony-log-1",
+   "electric-blanket-1",
+   "flashlight-2",
+   "flax-2",
+   "harmonica-2",
+   "locket-1",
+   "lotus-2",
+   "mud-mask-1",
+   "necklace-1",
+   "pendant-1",
+   "pocket-knife-2",
+   "rawhide-1",
+   "royal-robe-1",
+   "sandalwood-2",
+   "sheepskin-2",
+   "straight-razor-2",
+   "tiara-2",
+   "welcome-mat-1",
+   "wristwatch-2"
+  ],
+  "source": "catalog",
+  "verified": false,
+  "bonusTroves": [
+   "Compass",
+   "Crown Jewel",
+   "Gold Ring",
+   "Heart",
+   "Horn",
+   "Knitting Circle",
+   "Lanolin",
+   "Lucky Penny",
+   "Lullaby",
+   "Multitool",
+   "Tool Chest"
+  ]
+ },
+ {
   "name": "The Lobster Shack",
-  "group": "G155",
+  "group": "G156",
   "modelId": 17047,
   "nature": "service",
   "troves": [
@@ -15840,7 +15993,7 @@
  },
  {
   "name": "The Thrift Gap",
-  "group": "G156",
+  "group": "G157",
   "modelId": 17828,
   "nature": "service",
   "troves": [
@@ -15875,6 +16028,74 @@
    "Horn",
    "Knitting Circle",
    "Lanolin",
+   "Tool Chest"
+  ]
+ },
+ {
+  "name": "The Tick & Tock Clockworks",
+  "group": "G024",
+  "modelId": null,
+  "nature": "service",
+  "troves": [
+   "Brass Token",
+   "Brooch",
+   "Charm Bracelet",
+   "Coil Spring",
+   "Dollar Bill",
+   "Glass Bead",
+   "Grin",
+   "Incense Stick",
+   "Silver Coin",
+   "Sunlight",
+   "Thread",
+   "Thumbs Up",
+   "Twine",
+   "Wink",
+   "Wool"
+  ],
+  "recipes": [
+   "amulet-1",
+   "antique-vase-2",
+   "baby-monitor-2",
+   "brooch-1",
+   "bubble-bath-1",
+   "charm-bracelet-2",
+   "cotton-boll-2",
+   "cradle-1",
+   "earring-2",
+   "ebony-log-1",
+   "electric-blanket-1",
+   "flashlight-2",
+   "flax-2",
+   "harmonica-2",
+   "locket-1",
+   "lotus-2",
+   "mud-mask-1",
+   "necklace-1",
+   "pendant-1",
+   "pocket-knife-2",
+   "rawhide-1",
+   "royal-robe-1",
+   "sandalwood-2",
+   "sheepskin-2",
+   "straight-razor-2",
+   "tiara-2",
+   "welcome-mat-1",
+   "wristwatch-2"
+  ],
+  "source": "catalog",
+  "verified": false,
+  "bonusTroves": [
+   "Compass",
+   "Crown Jewel",
+   "Gold Ring",
+   "Heart",
+   "Horn",
+   "Knitting Circle",
+   "Lanolin",
+   "Lucky Penny",
+   "Lullaby",
+   "Multitool",
    "Tool Chest"
   ]
  },
@@ -16070,7 +16291,7 @@
  },
  {
   "name": "The Totally Official Cup Flag Stand",
-  "group": "G157",
+  "group": "G158",
   "modelId": 18181,
   "nature": "service",
   "troves": [
@@ -16155,7 +16376,7 @@
  },
  {
   "name": "The Upland Needle",
-  "group": "G158",
+  "group": "G159",
   "modelId": 19004,
   "nature": "service",
   "troves": [
@@ -16189,7 +16410,7 @@
  },
  {
   "name": "The Upland Rodeo",
-  "group": "G159",
+  "group": "G160",
   "modelId": 19236,
   "nature": "service",
   "troves": [
@@ -16346,6 +16567,104 @@
   ]
  },
  {
+  "name": "The Willowbrook Grist Mill",
+  "group": "G026",
+  "modelId": null,
+  "nature": "service",
+  "troves": [
+   "Apple",
+   "Cabbage",
+   "Carrot",
+   "Dollar Bill",
+   "Friendly Wave",
+   "Fruit Basket",
+   "Handshake",
+   "Helping Hand",
+   "Jam Jar",
+   "Kind Word",
+   "Lettuce",
+   "Milk Pail",
+   "Orange",
+   "Potato",
+   "Salt",
+   "Silver Coin",
+   "Thumbs Up"
+  ],
+  "recipes": [
+   "almond-2",
+   "asparagus-1",
+   "avocado-1",
+   "beef-2",
+   "bell-pepper-1",
+   "bouquet-1",
+   "bucket-2",
+   "cacao-pod-1",
+   "care-package-1",
+   "catfish-2",
+   "cheese-wheel-2",
+   "chicken-soup-1",
+   "chickpea-1",
+   "chili-powder-2",
+   "cod-2",
+   "crab-1",
+   "cranberry-1",
+   "cucumber-1",
+   "food-drive-1",
+   "fruit-basket-1",
+   "ginger-1",
+   "goofy-face-2",
+   "grape-1",
+   "home-cooking-1",
+   "jam-jar-1",
+   "lamb-1",
+   "lemon-1",
+   "lentil-1",
+   "maple-syrup-2",
+   "olive-1",
+   "olive-oil-1",
+   "oyster-2",
+   "picnic-1",
+   "pumpkin-1",
+   "rare-coin-2",
+   "saffron-1",
+   "salami-2",
+   "salmon-2",
+   "scissors-1",
+   "soybean-1",
+   "squid-2",
+   "sugar-cane-2",
+   "sunday-dinner-2",
+   "tea-leaf-1",
+   "tomato-1",
+   "truffle-2",
+   "wine-bottle-1"
+  ],
+  "source": "catalog",
+  "verified": false,
+  "bonusTroves": [
+   "Air Kiss",
+   "Baguette Loaf",
+   "Burger",
+   "Chocolate Bar",
+   "Healing Kit",
+   "Lobster",
+   "Lollipop",
+   "Milk Pail",
+   "Pizza Slice",
+   "Potluck",
+   "Ramen Bowl",
+   "Roast",
+   "Snappy Comeback",
+   "Strawberry",
+   "Sturgeon",
+   "Taco",
+   "Talent Show",
+   "Tuna",
+   "Walnut",
+   "Welcome Mat"
+  ]
+ },
+ {
   "name": "The Witching Wardrobe",
   "group": "G024",
   "modelId": null,
@@ -16474,7 +16793,7 @@
  },
  {
   "name": "Thee Olde Spaghetti Factory",
-  "group": "G160",
+  "group": "G161",
   "modelId": 17681,
   "nature": "service",
   "troves": [
@@ -16529,7 +16848,7 @@
  },
  {
   "name": "Tire shop",
-  "group": "G161",
+  "group": "G162",
   "modelId": 16682,
   "nature": "service",
   "troves": [
@@ -16569,7 +16888,7 @@
  },
  {
   "name": "Totally Official Cup Merch Kiosk",
-  "group": "G157",
+  "group": "G158",
   "modelId": 17952,
   "nature": "service",
   "troves": [
@@ -16620,7 +16939,7 @@
  },
  {
   "name": "Toy Store",
-  "group": "G162",
+  "group": "G163",
   "modelId": 16686,
   "nature": "service",
   "troves": [
@@ -16783,7 +17102,7 @@
  },
  {
   "name": "Ultra Beauty Co",
-  "group": "G163",
+  "group": "G164",
   "modelId": 17037,
   "nature": "service",
   "troves": [
@@ -17123,6 +17442,96 @@
   ]
  },
  {
+  "name": "Uppie Research Lab",
+  "group": "G165",
+  "modelId": null,
+  "nature": "service",
+  "troves": [
+   "Ancient Scroll",
+   "Clay",
+   "Cookie",
+   "Fist Bump",
+   "Fossil",
+   "Gather Round",
+   "High Five",
+   "Lens",
+   "Mittens",
+   "Photograph",
+   "Postcard",
+   "Quartz",
+   "Sand",
+   "Scout Patch",
+   "Scrapbook"
+  ],
+  "recipes": [
+   "action-figure-1",
+   "ancient-scroll-1",
+   "asparagus-2",
+   "babysitting-2",
+   "basketball-1",
+   "battery-pack-2",
+   "bedtime-story-2",
+   "birthday-wish-2",
+   "carpenter-square-1",
+   "chickpea-2",
+   "coat-drive-2",
+   "cranberry-2",
+   "cucumber-2",
+   "family-crest-1",
+   "football-1",
+   "frisbee-1",
+   "geode-2",
+   "graduation-2",
+   "hammer-1",
+   "happy-tears-1",
+   "kite-1",
+   "laurel-wreath-1",
+   "medal-1",
+   "medallion-2",
+   "microscope-2",
+   "moral-support-1",
+   "new-friend-1",
+   "oil-painting-1",
+   "passion-fruit-2",
+   "pinky-promise-2",
+   "potluck-2",
+   "pumpkin-2",
+   "sleepover-2",
+   "snuggle-2",
+   "squad-1",
+   "talent-show-1",
+   "time-capsule-1",
+   "time-capsule-2",
+   "tomato-2",
+   "varsity-jacket-2"
+  ],
+  "source": "catalog",
+  "verified": false,
+  "bonusTroves": [
+   "Belly Laugh",
+   "Boxing Gloves",
+   "Compass",
+   "Fruit Basket",
+   "Ginger",
+   "Gyroscope",
+   "Huddle",
+   "Ice Cream",
+   "Ingot",
+   "Multitool",
+   "Photograph",
+   "Pure Joy",
+   "Ramen Bowl",
+   "Shy Giggle",
+   "Skateboard",
+   "Soldering Iron",
+   "Standing Ovation",
+   "Sunlight",
+   "Tennis Racket",
+   "Title Belt",
+   "Tool Chest"
+  ]
+ },
+ {
   "name": "UPX Mint",
   "group": null,
   "modelId": 20847,
@@ -17214,7 +17623,7 @@
  },
  {
   "name": "Veterinary Clinic",
-  "group": "G164",
+  "group": "G166",
   "modelId": 16181,
   "nature": "service",
   "troves": [
@@ -17252,7 +17661,7 @@
  },
  {
   "name": "Waffle Home Diner",
-  "group": "G165",
+  "group": "G167",
   "modelId": 19048,
   "nature": "service",
   "troves": [
@@ -17342,7 +17751,7 @@
  },
  {
   "name": "Wheel Alignment center",
-  "group": "G166",
+  "group": "G168",
   "modelId": 16894,
   "nature": "service",
   "troves": [
@@ -17379,7 +17788,7 @@
  },
  {
   "name": "ÜPKEA",
-  "group": "G167",
+  "group": "G169",
   "modelId": 17866,
   "nature": "service",
   "troves": [

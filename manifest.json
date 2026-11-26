@@ -1,33 +1,33 @@
 {
  "schemaVersion": 1,
- "dataVersion": "2026.11.21-1",
- "generatedAt": "2026-11-21T15:21:25Z",
+ "dataVersion": "2026.11.26-1",
+ "generatedAt": "2026-11-26T13:33:28Z",
  "counts": {
   "troves": 501,
-  "buildings": 383,
+  "buildings": 389,
   "recipes": 710,
   "plants": 43
  },
  "files": {
   "troves.json": {
-   "bytes": 294964,
-   "sha256": "e12fb21dcdd9b7333960847abf2739aad73f30ddd2eba199682bf8b3b4a1f5bd"
+   "bytes": 299668,
+   "sha256": "a03f338271e19bf0075bf6261bb61754e9b0383838b9e9cfe3b6d6f63a795168"
   },
   "buildings.json": {
-   "bytes": 288239,
-   "sha256": "58756f907779caed6e90fb0996338e0dd6f374f6be749c5bae7b65e0f3164480"
+   "bytes": 294959,
+   "sha256": "b144015f9d91102023c9e527ec5175dcc30e9a1e63f19f5bb7b59cec0f9b4dc8"
   },
   "recipes.json": {
-   "bytes": 322707,
-   "sha256": "cd4dbf64cce09b908465539072f6abd05f969f6e47b532ea5b9f3dbc0350bfd3"
+   "bytes": 327442,
+   "sha256": "dcef071d657e4c14d587ca3fd3538c7a20bfc798d39eabb5f22b4e5e9616ecc8"
   },
   "plants.json": {
    "bytes": 11236,
    "sha256": "9ff3eefe6ed474a09d9e06ab62e38f62a18ece6d51633557344d06651d093c08"
   },
   "catalog.json": {
-   "bytes": 73959,
-   "sha256": "174074dddc2c240c5b7183e92da3aeff9f846c4a53e3a8464c62390844a69540"
+   "bytes": 75450,
+   "sha256": "8f57706918daa90cfb33304e52402a3fab23d0fe5c49d54e0484054c06cd88d6"
   }
  },
  "notice": "Community data for the Smart Address Clipboard extension.",
@@ -249,14 +249,6 @@
    "bytes": 27284,
    "sha256": "068fc3b4e37fd1fefccdf8bd6062aa5aee633b953ca71deffe5f205c20aaecb5"
   },
-  "miami-beach": {
-   "name": "Miami Beach",
-   "city": "MIAMI BEACH",
-   "file": "extended/miami-beach.json",
-   "count": 225,
-   "bytes": 28066,
-   "sha256": "986fd2206e46626b8dd3f3dec325728dceedc5308adb37bd1289f3d6eb150741"
-  },
   "miami": {
    "name": "Miami",
    "city": "MIAMI",
@@ -264,6 +256,14 @@
    "count": 225,
    "bytes": 27316,
    "sha256": "7c5757412604291a03c4345ccbcfaf1a0c5f5f3596f0454fc5ea42010921bac6"
+  },
+  "miami-beach": {
+   "name": "Miami Beach",
+   "city": "MIAMI BEACH",
+   "file": "extended/miami-beach.json",
+   "count": 225,
+   "bytes": 28066,
+   "sha256": "986fd2206e46626b8dd3f3dec325728dceedc5308adb37bd1289f3d6eb150741"
   },
   "nashville": {
    "name": "Nashville",
